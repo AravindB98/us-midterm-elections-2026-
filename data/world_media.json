@@ -1,0 +1,1473 @@
+{
+ "_about": "Media, social and research sources covering US politics from the 10 most populous countries and the 10 largest economies (16 countries combined). Ownership notes help readers weigh perspective. Inclusion is not endorsement.",
+ "rankings": {
+  "population_top10": [
+   "India",
+   "China",
+   "United States",
+   "Indonesia",
+   "Pakistan",
+   "Nigeria",
+   "Brazil",
+   "Bangladesh",
+   "Russia",
+   "Ethiopia"
+  ],
+  "population_source": "https://databoks.katadata.co.id/en/demographics/statistics/6d7538c66b378a7/10-most-populous-countries-in-the-world-october-2026",
+  "gdp_top10": [
+   "United States",
+   "China",
+   "Germany",
+   "Japan",
+   "United Kingdom",
+   "India",
+   "France",
+   "Italy",
+   "Brazil",
+   "Canada (or Russia, depending on IMF edition)"
+  ],
+  "gdp_source": "https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/",
+  "gdp_note": "IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here."
+ },
+ "global_wires": [
+  {
+   "name": "Reuters",
+   "url": "https://www.reuters.com/world/us/"
+  },
+  {
+   "name": "Associated Press",
+   "url": "https://apnews.com/politics"
+  },
+  {
+   "name": "AFP",
+   "url": "https://www.afp.com/en"
+  },
+  {
+   "name": "Bloomberg",
+   "url": "https://www.bloomberg.com/politics"
+  },
+  {
+   "name": "Al Jazeera English",
+   "url": "https://www.aljazeera.com/where/united-states/"
+  }
+ ],
+ "countries": [
+  {
+   "country": "United States",
+   "flag": "🇺🇸",
+   "why": "Pop. #3, GDP #1",
+   "language": "English",
+   "tv": [
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.go.com/Politics"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/politics/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/politics"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://www.foxnews.com/politics"
+    },
+    {
+     "name": "MS NOW (formerly MSNBC)",
+     "url": "https://www.ms.now/"
+    },
+    {
+     "name": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/politics"
+    },
+    {
+     "name": "C-SPAN",
+     "url": "https://www.c-span.org/"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://www.newsnationnow.com/politics/"
+    }
+   ],
+   "print": [
+    {
+     "name": "The New York Times",
+     "url": "https://www.nytimes.com/section/politics"
+    },
+    {
+     "name": "The Wall Street Journal",
+     "url": "https://www.wsj.com/politics"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://www.washingtonpost.com/politics/"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://www.usatoday.com/news/politics/"
+    },
+    {
+     "name": "Associated Press",
+     "url": "https://apnews.com/politics"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://www.reuters.com/world/us/"
+    },
+    {
+     "name": "Politico",
+     "url": "https://www.politico.com/"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://thehill.com/"
+    },
+    {
+     "name": "Axios",
+     "url": "https://www.axios.com/politics-policy"
+    },
+    {
+     "name": "National Review",
+     "url": "https://www.nationalreview.com/"
+    },
+    {
+     "name": "The Atlantic",
+     "url": "https://www.theatlantic.com/politics/"
+    }
+   ],
+   "social": [
+    {
+     "name": "AP on X (@AP)",
+     "url": "https://x.com/AP"
+    },
+    {
+     "name": "Reuters on X (@Reuters)",
+     "url": "https://x.com/Reuters"
+    },
+    {
+     "name": "C-SPAN on YouTube",
+     "url": "https://www.youtube.com/@cspan"
+    },
+    {
+     "name": "Decision Desk HQ on X (@DecisionDeskHQ)",
+     "url": "https://x.com/DecisionDeskHQ"
+    },
+    {
+     "name": "Cook Political Report on X (@CookPolitical)",
+     "url": "https://x.com/CookPolitical"
+    }
+   ],
+   "research": [
+    {
+     "name": "Pew Research Center",
+     "url": "https://www.pewresearch.org/politics/"
+    },
+    {
+     "name": "Brookings Institution",
+     "url": "https://www.brookings.edu/"
+    },
+    {
+     "name": "American Enterprise Institute",
+     "url": "https://www.aei.org/"
+    },
+    {
+     "name": "Heritage Foundation",
+     "url": "https://www.heritage.org/election-integrity"
+    },
+    {
+     "name": "Brennan Center",
+     "url": "https://www.brennancenter.org/"
+    },
+    {
+     "name": "Bipartisan Policy Center",
+     "url": "https://bipartisanpolicy.org/topics/elections/"
+    },
+    {
+     "name": "Cooperative Election Study (Harvard)",
+     "url": "https://cces.gov.harvard.edu/"
+    },
+    {
+     "name": "MIT Election Lab",
+     "url": "https://electionlab.mit.edu/"
+    }
+   ],
+   "coverage_2026": [
+    {
+     "name": "NPR: competitive Senate races ranked (Oct 30, 2026)",
+     "url": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map"
+    },
+    {
+     "name": "Fox News: what's at stake (Nov 1, 2026)",
+     "url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing"
+    },
+    {
+     "name": "Forbes: latest polls (Nov 1, 2026)",
+     "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/"
+    }
+   ],
+   "ownership_note": "Mix of commercial networks (left-, right- and center-leaning) and public broadcasting (PBS, NPR). See docs/05 for more.",
+   "news_feed": {
+    "hl": "en-US",
+    "gl": "US",
+    "ceid": "US:en",
+    "q": "US midterm elections 2026"
+   }
+  },
+  {
+   "country": "India",
+   "flag": "🇮🇳",
+   "why": "Pop. #1, GDP top 6",
+   "language": "English, Hindi and regional languages",
+   "tv": [
+    {
+     "name": "NDTV",
+     "url": "https://www.ndtv.com/world-news"
+    },
+    {
+     "name": "India Today / Aaj Tak",
+     "url": "https://www.indiatoday.in/world"
+    },
+    {
+     "name": "Times Now",
+     "url": "https://www.timesnownews.com/world"
+    },
+    {
+     "name": "Republic World",
+     "url": "https://www.republicworld.com/world-news"
+    },
+    {
+     "name": "DD News (public broadcaster)",
+     "url": "https://ddnews.gov.in/"
+    }
+   ],
+   "print": [
+    {
+     "name": "The Times of India",
+     "url": "https://timesofindia.indiatimes.com/world/us"
+    },
+    {
+     "name": "Hindustan Times",
+     "url": "https://www.hindustantimes.com/world-news/us-news"
+    },
+    {
+     "name": "The Hindu",
+     "url": "https://www.thehindu.com/news/international/"
+    },
+    {
+     "name": "The Indian Express",
+     "url": "https://indianexpress.com/section/world/"
+    },
+    {
+     "name": "ThePrint",
+     "url": "https://theprint.in/tag/us-midterm-elections/"
+    },
+    {
+     "name": "Mint",
+     "url": "https://www.livemint.com/news/world"
+    },
+    {
+     "name": "National Herald",
+     "url": "https://www.nationalheraldindia.com/"
+    }
+   ],
+   "social": [
+    {
+     "name": "NDTV on X (@ndtv)",
+     "url": "https://x.com/ndtv"
+    },
+    {
+     "name": "Hindustan Times on X (@htTweets)",
+     "url": "https://x.com/htTweets"
+    },
+    {
+     "name": "The Hindu on YouTube",
+     "url": "https://www.youtube.com/@thehindu"
+    }
+   ],
+   "research": [
+    {
+     "name": "Observer Research Foundation (ORF)",
+     "url": "https://www.orfonline.org/"
+    },
+    {
+     "name": "Carnegie India",
+     "url": "https://carnegieindia.org/"
+    },
+    {
+     "name": "Vivekananda International Foundation (VIF)",
+     "url": "https://www.vifindia.org/"
+    },
+    {
+     "name": "Gateway House",
+     "url": "https://www.gatewayhouse.in/"
+    },
+    {
+     "name": "Indian Council of World Affairs",
+     "url": "https://www.icwa.in/"
+    }
+   ],
+   "coverage_2026": [
+    {
+     "name": "VIF: Run up to the Halfway Verdict: America's 2026 Midterms (Jul 30, 2026)",
+     "url": "https://vifindia.org/category-articles/21732"
+    },
+    {
+     "name": "National Herald: Electoral storm gathering over Trump",
+     "url": "https://www.nationalheraldindia.com/opinion/electoral-storm-gathering-over-donald-trump-us-midterms"
+    },
+    {
+     "name": "ThePrint: US midterm elections topic page",
+     "url": "https://theprint.in/tag/us-midterm-elections/"
+    }
+   ],
+   "ownership_note": "Heavy focus on H-1B, OPT, green-card backlogs and Indian-American candidates. DD News is the public broadcaster.",
+   "news_feed": {
+    "hl": "en-IN",
+    "gl": "IN",
+    "ceid": "IN:en",
+    "q": "US midterm elections"
+   }
+  },
+  {
+   "country": "China",
+   "flag": "🇨🇳",
+   "why": "Pop. #2, GDP #2",
+   "language": "Mandarin, English editions",
+   "tv": [
+    {
+     "name": "CGTN (state broadcaster, English)",
+     "url": "https://www.cgtn.com/"
+    },
+    {
+     "name": "CCTV (state broadcaster)",
+     "url": "https://english.cctv.com/"
+    }
+   ],
+   "print": [
+    {
+     "name": "Xinhua (state news agency)",
+     "url": "https://english.news.cn/"
+    },
+    {
+     "name": "People's Daily (Party newspaper)",
+     "url": "http://en.people.cn/"
+    },
+    {
+     "name": "Global Times (state-owned tabloid)",
+     "url": "https://www.globaltimes.cn/"
+    },
+    {
+     "name": "China Daily (state-owned)",
+     "url": "https://www.chinadaily.com.cn/"
+    },
+    {
+     "name": "Caixin (business, privately run)",
+     "url": "https://www.caixinglobal.com/"
+    },
+    {
+     "name": "South China Morning Post (Hong Kong, Alibaba-owned)",
+     "url": "https://www.scmp.com/news/world/united-states-canada"
+    }
+   ],
+   "social": [
+    {
+     "name": "CGTN on X (@CGTNOfficial)",
+     "url": "https://x.com/CGTNOfficial"
+    },
+    {
+     "name": "Xinhua on X (@XHNews)",
+     "url": "https://x.com/XHNews"
+    },
+    {
+     "name": "Weibo (domestic platform)",
+     "url": "https://weibo.com/"
+    },
+    {
+     "name": "Note: X/YouTube are blocked inside mainland China; domestic discussion happens on Weibo, WeChat and Douyin",
+     "url": "https://weibo.com/"
+    }
+   ],
+   "research": [
+    {
+     "name": "China Institute of International Studies (MFA-affiliated)",
+     "url": "https://www.ciis.org.cn/english/"
+    },
+    {
+     "name": "Fudan University Center for American Studies",
+     "url": "https://cas.fudan.edu.cn/"
+    },
+    {
+     "name": "Tsinghua Center for International Security and Strategy",
+     "url": "https://ciss.tsinghua.edu.cn/"
+    },
+    {
+     "name": "China Institutes of Contemporary International Relations",
+     "url": "http://www.cicir.ac.cn/"
+    }
+   ],
+   "coverage_2026": [
+    {
+     "name": "CGTN: Voters focused on economy, U.S. global conflicts ahead of midterms (May 1, 2026)",
+     "url": "https://newsus.cgtn.com/news/2026-05-01/Voters-focused-on-economy-U-S-conflicts-ahead-of-Midterm-elections-1MMcEg8ZI2Y/share_amp.html"
+    }
+   ],
+   "ownership_note": "Most mainland outlets are state-owned or Party-controlled; read them as the official Chinese government perspective.",
+   "news_feed": {
+    "hl": "zh-CN",
+    "gl": "CN",
+    "ceid": "CN:zh-Hans",
+    "q": "美国中期选举"
+   }
+  },
+  {
+   "country": "Indonesia",
+   "flag": "🇮🇩",
+   "why": "Pop. #4",
+   "language": "Indonesian, English",
+   "tv": [
+    {
+     "name": "Metro TV",
+     "url": "https://www.metrotvnews.com/"
+    },
+    {
+     "name": "Kompas TV",
+     "url": "https://www.kompas.tv/"
+    },
+    {
+     "name": "TVRI (public broadcaster)",
+     "url": "https://www.tvri.go.id/"
+    }
+   ],
+   "print": [
+    {
+     "name": "Kompas",
+     "url": "https://www.kompas.com/global"
+    },
+    {
+     "name": "Tempo",
+     "url": "https://en.tempo.co/"
+    },
+    {
+     "name": "The Jakarta Post",
+     "url": "https://www.thejakartapost.com/world"
+    },
+    {
+     "name": "Antara (state news agency)",
+     "url": "https://en.antaranews.com/"
+    }
+   ],
+   "social": [
+    {
+     "name": "Tempo English on X (@tempo_english)",
+     "url": "https://x.com/tempo_english"
+    },
+    {
+     "name": "The Jakarta Post on X (@jakpost)",
+     "url": "https://x.com/jakpost"
+    }
+   ],
+   "research": [
+    {
+     "name": "CSIS Indonesia",
+     "url": "https://www.csis.or.id/"
+    },
+    {
+     "name": "Foreign Policy Community of Indonesia (FPCI)",
+     "url": "https://www.fpcindonesia.org/"
+    }
+   ],
+   "coverage_2026": [],
+   "ownership_note": "Coverage typically focuses on trade, tariffs and US policy toward Southeast Asia.",
+   "news_feed": {
+    "hl": "id",
+    "gl": "ID",
+    "ceid": "ID:id",
+    "q": "pemilu sela Amerika Serikat"
+   }
+  },
+  {
+   "country": "Pakistan",
+   "flag": "🇵🇰",
+   "why": "Pop. #5",
+   "language": "Urdu, English",
+   "tv": [
+    {
+     "name": "Geo News",
+     "url": "https://www.geo.tv/category/world"
+    },
+    {
+     "name": "ARY News",
+     "url": "https://arynews.tv/category/international-2/"
+    },
+    {
+     "name": "Dunya News",
+     "url": "https://dunyanews.tv/en/World"
+    },
+    {
+     "name": "PTV News (state broadcaster)",
+     "url": "https://ptv.com.pk/ptvNews"
+    }
+   ],
+   "print": [
+    {
+     "name": "Dawn",
+     "url": "https://www.dawn.com/world"
+    },
+    {
+     "name": "The Express Tribune",
+     "url": "https://tribune.com.pk/world"
+    },
+    {
+     "name": "The News International",
+     "url": "https://www.thenews.com.pk/latest/category/world"
+    },
+    {
+     "name": "Business Recorder",
+     "url": "https://www.brecorder.com/"
+    }
+   ],
+   "social": [
+    {
+     "name": "Dawn on X (@dawn_com)",
+     "url": "https://x.com/dawn_com"
+    },
+    {
+     "name": "Geo English on X (@GeoEnglish)",
+     "url": "https://x.com/GeoEnglish"
+    }
+   ],
+   "research": [
+    {
+     "name": "Institute of Strategic Studies Islamabad (ISSI)",
+     "url": "https://issi.org.pk/"
+    },
+    {
+     "name": "Islamabad Policy Research Institute (IPRI)",
+     "url": "https://ipripak.org/"
+    },
+    {
+     "name": "Jinnah Institute",
+     "url": "https://jinnah-institute.org/"
+    }
+   ],
+   "coverage_2026": [
+    {
+     "name": "Dawn: Democrats hold early lead ahead of mid-terms (Jun 8, 2026)",
+     "url": "https://www.dawn.com/news/2006017"
+    }
+   ],
+   "ownership_note": "Dawn's Washington correspondent provides regular midterm coverage.",
+   "news_feed": {
+    "hl": "en-PK",
+    "gl": "PK",
+    "ceid": "PK:en",
+    "q": "US midterm elections"
+   }
+  },
+  {
+   "country": "Nigeria",
+   "flag": "🇳🇬",
+   "why": "Pop. #6",
+   "language": "English",
+   "tv": [
+    {
+     "name": "Channels Television",
+     "url": "https://www.channelstv.com/category/world-news/"
+    },
+    {
+     "name": "Arise News",
+     "url": "https://www.arise.tv/"
+    },
+    {
+     "name": "NTA (state broadcaster)",
+     "url": "https://www.nta.ng/"
+    },
+    {
+     "name": "TVC News",
+     "url": "https://www.tvcnews.tv/"
+    }
+   ],
+   "print": [
+    {
+     "name": "Punch",
+     "url": "https://punchng.com/topics/international/"
+    },
+    {
+     "name": "Premium Times",
+     "url": "https://www.premiumtimesng.com/foreign"
+    },
+    {
+     "name": "The Guardian Nigeria",
+     "url": "https://guardian.ng/news/world/"
+    },
+    {
+     "name": "Vanguard",
+     "url": "https://www.vanguardngr.com/category/world/"
+    },
+    {
+     "name": "ThisDay",
+     "url": "https://www.thisdaylive.com/"
+    },
+    {
+     "name": "BusinessDay",
+     "url": "https://businessday.ng/"
+    }
+   ],
+   "social": [
+    {
+     "name": "Channels TV on X (@channelstv)",
+     "url": "https://x.com/channelstv"
+    },
+    {
+     "name": "Premium Times on X (@PremiumTimesng)",
+     "url": "https://x.com/PremiumTimesng"
+    }
+   ],
+   "research": [
+    {
+     "name": "Nigerian Institute of International Affairs (NIIA)",
+     "url": "https://niia.gov.ng/"
+    },
+    {
+     "name": "Centre for Democracy and Development (CDD West Africa)",
+     "url": "https://www.cddwestafrica.org/"
+    }
+   ],
+   "coverage_2026": [],
+   "ownership_note": "Interest centers on US visa policy, travel restrictions and Nigerian-American communities.",
+   "news_feed": {
+    "hl": "en-NG",
+    "gl": "NG",
+    "ceid": "NG:en",
+    "q": "US midterm elections"
+   }
+  },
+  {
+   "country": "Brazil",
+   "flag": "🇧🇷",
+   "why": "Pop. #7, GDP top 10",
+   "language": "Portuguese",
+   "tv": [
+    {
+     "name": "GloboNews / TV Globo (g1)",
+     "url": "https://g1.globo.com/mundo/"
+    },
+    {
+     "name": "Record (R7)",
+     "url": "https://noticias.r7.com/internacional"
+    },
+    {
+     "name": "Band",
+     "url": "https://www.band.uol.com.br/noticias/mundo"
+    },
+    {
+     "name": "TV Cultura (public)",
+     "url": "https://cultura.uol.com.br/noticias/"
+    }
+   ],
+   "print": [
+    {
+     "name": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/mundo/"
+    },
+    {
+     "name": "O Globo",
+     "url": "https://oglobo.globo.com/mundo/"
+    },
+    {
+     "name": "Estadão",
+     "url": "https://www.estadao.com.br/internacional/"
+    },
+    {
+     "name": "Valor Econômico",
+     "url": "https://valor.globo.com/mundo/"
+    }
+   ],
+   "social": [
+    {
+     "name": "g1 on X (@g1)",
+     "url": "https://x.com/g1"
+    },
+    {
+     "name": "Folha on X (@folha)",
+     "url": "https://x.com/folha"
+    }
+   ],
+   "research": [
+    {
+     "name": "CEBRI (Brazilian Center for International Relations)",
+     "url": "https://www.cebri.org/"
+    },
+    {
+     "name": "Fundação Getulio Vargas (FGV)",
+     "url": "https://portal.fgv.br/"
+    },
+    {
+     "name": "Insper",
+     "url": "https://www.insper.edu.br/"
+    }
+   ],
+   "coverage_2026": [],
+   "ownership_note": "Coverage often links US politics to tariffs on Brazil and Brazil-US relations.",
+   "news_feed": {
+    "hl": "pt-BR",
+    "gl": "BR",
+    "ceid": "BR:pt-419",
+    "q": "eleições de meio de mandato EUA"
+   }
+  },
+  {
+   "country": "Bangladesh",
+   "flag": "🇧🇩",
+   "why": "Pop. #8",
+   "language": "Bengali, English",
+   "tv": [
+    {
+     "name": "Somoy TV",
+     "url": "https://www.somoynews.tv/"
+    },
+    {
+     "name": "Channel 24",
+     "url": "https://www.channel24bd.tv/"
+    },
+    {
+     "name": "BTV (state broadcaster)",
+     "url": "https://www.btv.gov.bd/"
+    }
+   ],
+   "print": [
+    {
+     "name": "The Daily Star",
+     "url": "https://www.thedailystar.net/news/world"
+    },
+    {
+     "name": "Prothom Alo (English)",
+     "url": "https://en.prothomalo.com/international"
+    },
+    {
+     "name": "Dhaka Tribune",
+     "url": "https://www.dhakatribune.com/world"
+    },
+    {
+     "name": "The Business Standard",
+     "url": "https://www.tbsnews.net/world"
+    }
+   ],
+   "social": [
+    {
+     "name": "The Daily Star on X (@dailystarnews)",
+     "url": "https://x.com/dailystarnews"
+    }
+   ],
+   "research": [
+    {
+     "name": "Bangladesh Institute of International and Strategic Studies (BIISS)",
+     "url": "https://biiss.org/"
+    },
+    {
+     "name": "Centre for Policy Dialogue (CPD)",
+     "url": "https://cpd.org.bd/"
+    }
+   ],
+   "coverage_2026": [],
+   "ownership_note": "",
+   "news_feed": {
+    "hl": "en-BD",
+    "gl": "BD",
+    "ceid": "BD:en",
+    "q": "US midterm elections"
+   }
+  },
+  {
+   "country": "Russia",
+   "flag": "🇷🇺",
+   "why": "Pop. #9, GDP top 10-11",
+   "language": "Russian, English editions",
+   "tv": [
+    {
+     "name": "RT (state-funded; restricted in EU/UK)",
+     "url": "https://www.rt.com/"
+    },
+    {
+     "name": "Channel One (state-controlled)",
+     "url": "https://www.1tv.com/"
+    },
+    {
+     "name": "TV Rain / Dozhd (independent, in exile)",
+     "url": "https://tvrain.tv/"
+    }
+   ],
+   "print": [
+    {
+     "name": "TASS (state news agency)",
+     "url": "https://tass.com/"
+    },
+    {
+     "name": "RIA Novosti (state)",
+     "url": "https://ria.ru/"
+    },
+    {
+     "name": "Kommersant (business daily)",
+     "url": "https://www.kommersant.ru/"
+    },
+    {
+     "name": "Meduza (independent, in exile)",
+     "url": "https://meduza.io/en"
+    },
+    {
+     "name": "Novaya Gazeta Europe (independent, in exile)",
+     "url": "https://novayagazeta.eu/"
+    }
+   ],
+   "social": [
+    {
+     "name": "TASS on X (@tassagency_en)",
+     "url": "https://x.com/tassagency_en"
+    },
+    {
+     "name": "Meduza on X (@meduza_en)",
+     "url": "https://x.com/meduza_en"
+    },
+    {
+     "name": "Telegram (main news platform in Russia)",
+     "url": "https://telegram.org/"
+    }
+   ],
+   "research": [
+    {
+     "name": "Russian International Affairs Council (RIAC)",
+     "url": "https://russiancouncil.ru/en/"
+    },
+    {
+     "name": "Valdai Discussion Club",
+     "url": "https://valdaiclub.com/"
+    },
+    {
+     "name": "Carnegie Russia Eurasia Center (Berlin)",
+     "url": "https://carnegieendowment.org/russia-eurasia"
+    }
+   ],
+   "coverage_2026": [],
+   "ownership_note": "State media present the official Russian government view; independent outlets mostly operate from exile and are blocked inside Russia.",
+   "news_feed": {
+    "hl": "ru",
+    "gl": "RU",
+    "ceid": "RU:ru",
+    "q": "промежуточные выборы США"
+   }
+  },
+  {
+   "country": "Ethiopia",
+   "flag": "🇪🇹",
+   "why": "Pop. #10",
+   "language": "Amharic, English",
+   "tv": [
+    {
+     "name": "Ethiopian Broadcasting Corporation (state)",
+     "url": "https://www.ebc.et/"
+    },
+    {
+     "name": "Fana Broadcasting (state-affiliated)",
+     "url": "https://www.fanabc.com/english/"
+    },
+    {
+     "name": "BBC News Amharic",
+     "url": "https://www.bbc.com/amharic"
+    }
+   ],
+   "print": [
+    {
+     "name": "Addis Standard",
+     "url": "https://addisstandard.com/"
+    },
+    {
+     "name": "The Reporter Ethiopia",
+     "url": "https://www.thereporterethiopia.com/"
+    },
+    {
+     "name": "Addis Fortune",
+     "url": "https://addisfortune.news/"
+    }
+   ],
+   "social": [
+    {
+     "name": "Addis Standard on X (@addisstandard)",
+     "url": "https://x.com/addisstandard"
+    },
+    {
+     "name": "Facebook and Telegram are the most-used news platforms locally",
+     "url": "https://telegram.org/"
+    }
+   ],
+   "research": [
+    {
+     "name": "Institute for Security Studies (Addis Ababa office)",
+     "url": "https://issafrica.org/"
+    },
+    {
+     "name": "Policy Studies Institute (Ethiopia)",
+     "url": "https://psi.gov.et/"
+    }
+   ],
+   "coverage_2026": [],
+   "ownership_note": "US election coverage is limited; international wires (Reuters, AP, AFP, BBC) fill most of it.",
+   "news_feed": {
+    "hl": "en-ET",
+    "gl": "ET",
+    "ceid": "ET:en",
+    "q": "US midterm elections"
+   }
+  },
+  {
+   "country": "Germany",
+   "flag": "🇩🇪",
+   "why": "GDP #3",
+   "language": "German, English (DW)",
+   "tv": [
+    {
+     "name": "ARD Tagesschau",
+     "url": "https://www.tagesschau.de/ausland/amerika/"
+    },
+    {
+     "name": "ZDF heute",
+     "url": "https://www.zdf.de/nachrichten/politik/ausland"
+    },
+    {
+     "name": "Deutsche Welle (DW, international public broadcaster)",
+     "url": "https://www.dw.com/en/north-america/s-58267502"
+    },
+    {
+     "name": "n-tv",
+     "url": "https://www.n-tv.de/politik/"
+    }
+   ],
+   "print": [
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/ausland/"
+    },
+    {
+     "name": "Frankfurter Allgemeine Zeitung",
+     "url": "https://www.faz.net/aktuell/politik/ausland/"
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "url": "https://www.sueddeutsche.de/politik"
+    },
+    {
+     "name": "Die Zeit",
+     "url": "https://www.zeit.de/politik/ausland/"
+    },
+    {
+     "name": "Die Welt",
+     "url": "https://www.welt.de/politik/ausland/"
+    },
+    {
+     "name": "Handelsblatt",
+     "url": "https://www.handelsblatt.com/politik/international/"
+    }
+   ],
+   "social": [
+    {
+     "name": "DW News on X (@dwnews)",
+     "url": "https://x.com/dwnews"
+    },
+    {
+     "name": "Tagesschau on X (@tagesschau)",
+     "url": "https://x.com/tagesschau"
+    },
+    {
+     "name": "DW News on YouTube",
+     "url": "https://www.youtube.com/@dwnews"
+    }
+   ],
+   "research": [
+    {
+     "name": "Konrad-Adenauer-Stiftung (KAS)",
+     "url": "https://www.kas.de/"
+    },
+    {
+     "name": "German Institute for International and Security Affairs (SWP)",
+     "url": "https://www.swp-berlin.org/en/"
+    },
+    {
+     "name": "German Council on Foreign Relations (DGAP)",
+     "url": "https://dgap.org/en"
+    },
+    {
+     "name": "German Marshall Fund (Berlin)",
+     "url": "https://www.gmfus.org/"
+    }
+   ],
+   "coverage_2026": [
+    {
+     "name": "KAS briefing: The USA after the 2026 Midterm Elections",
+     "url": "https://www.kas.de/ru/veranstaltungen/detail/-/content/die-usa-nach-den-midterm-elections-2026-neue-mehrheiten-neuer-kurs"
+    },
+    {
+     "name": "Deutsch-Amerikanisches Zentrum Stuttgart: Midterms 2026 event series",
+     "url": "https://daz.org/specials/midterms-2026/"
+    }
+   ],
+   "ownership_note": "ARD, ZDF and DW are public broadcasters.",
+   "news_feed": {
+    "hl": "de",
+    "gl": "DE",
+    "ceid": "DE:de",
+    "q": "US-Zwischenwahlen"
+   }
+  },
+  {
+   "country": "Japan",
+   "flag": "🇯🇵",
+   "why": "GDP top 5",
+   "language": "Japanese, English",
+   "tv": [
+    {
+     "name": "NHK World (public broadcaster)",
+     "url": "https://www3.nhk.or.jp/nhkworld/en/news/"
+    },
+    {
+     "name": "TBS News",
+     "url": "https://newsdig.tbs.co.jp/"
+    },
+    {
+     "name": "Nippon TV News",
+     "url": "https://news.ntv.co.jp/"
+    },
+    {
+     "name": "TV Asahi",
+     "url": "https://news.tv-asahi.co.jp/"
+    }
+   ],
+   "print": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://asia.nikkei.com/Politics/U.S.-midterm-elections"
+    },
+    {
+     "name": "The Yomiuri Shimbun (Japan News)",
+     "url": "https://japannews.yomiuri.co.jp/world/"
+    },
+    {
+     "name": "The Asahi Shimbun",
+     "url": "https://www.asahi.com/ajw/"
+    },
+    {
+     "name": "Mainichi",
+     "url": "https://mainichi.jp/english/"
+    },
+    {
+     "name": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/news/world/"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://english.kyodonews.net/"
+    }
+   ],
+   "social": [
+    {
+     "name": "NHK World on X (@NHKWORLD_News)",
+     "url": "https://x.com/NHKWORLD_News"
+    },
+    {
+     "name": "Nikkei Asia on X (@NikkeiAsia)",
+     "url": "https://x.com/NikkeiAsia"
+    }
+   ],
+   "research": [
+    {
+     "name": "Japan Institute of International Affairs (JIIA)",
+     "url": "https://www.jiia.or.jp/en/"
+    },
+    {
+     "name": "Sasakawa Peace Foundation USA",
+     "url": "https://spfusa.org/"
+    },
+    {
+     "name": "Tokyo Foundation",
+     "url": "https://www.tokyofoundation.org/"
+    }
+   ],
+   "coverage_2026": [
+    {
+     "name": "Nikkei Asia: China issues fade in US as midterm voters focus on prices (Oct 29, 2026)",
+     "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/china-issues-fade-in-us-as-midterm-voters-focus-on-prices"
+    }
+   ],
+   "ownership_note": "Nikkei Asia frames midterms around tariffs, China policy and markets.",
+   "news_feed": {
+    "hl": "ja",
+    "gl": "JP",
+    "ceid": "JP:ja",
+    "q": "米中間選挙"
+   }
+  },
+  {
+   "country": "United Kingdom",
+   "flag": "🇬🇧",
+   "why": "GDP top 6",
+   "language": "English",
+   "tv": [
+    {
+     "name": "BBC News (public broadcaster)",
+     "url": "https://www.bbc.com/news/world/us_and_canada"
+    },
+    {
+     "name": "Sky News",
+     "url": "https://news.sky.com/us"
+    },
+    {
+     "name": "ITV News",
+     "url": "https://www.itv.com/news/world"
+    },
+    {
+     "name": "Channel 4 News",
+     "url": "https://www.channel4.com/news/"
+    },
+    {
+     "name": "GB News",
+     "url": "https://www.gbnews.com/news/world"
+    }
+   ],
+   "print": [
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/us-news"
+    },
+    {
+     "name": "The Times",
+     "url": "https://www.thetimes.com/world/us-world"
+    },
+    {
+     "name": "The Telegraph",
+     "url": "https://www.telegraph.co.uk/us/politics/"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://www.ft.com/us-politics-policy"
+    },
+    {
+     "name": "The Economist",
+     "url": "https://www.economist.com/united-states"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://www.independent.co.uk/news/world/americas/us-politics"
+    }
+   ],
+   "social": [
+    {
+     "name": "BBC World on X (@BBCWorld)",
+     "url": "https://x.com/BBCWorld"
+    },
+    {
+     "name": "The Guardian on X (@guardian)",
+     "url": "https://x.com/guardian"
+    },
+    {
+     "name": "Sky News on YouTube",
+     "url": "https://www.youtube.com/@SkyNews"
+    }
+   ],
+   "research": [
+    {
+     "name": "Chatham House",
+     "url": "https://www.chathamhouse.org/regions/americas/united-states-america"
+    },
+    {
+     "name": "RUSI",
+     "url": "https://rusi.org/"
+    },
+    {
+     "name": "IISS",
+     "url": "https://www.iiss.org/"
+    },
+    {
+     "name": "Rothermere American Institute (Oxford)",
+     "url": "https://www.rai.ox.ac.uk/"
+    }
+   ],
+   "coverage_2026": [
+    {
+     "name": "The Guardian US news (midterms coverage hub)",
+     "url": "https://www.theguardian.com/us-news"
+    }
+   ],
+   "ownership_note": "Mix of public (BBC, Channel 4) and private outlets across the spectrum (Guardian left-leaning, Telegraph right-leaning).",
+   "news_feed": {
+    "hl": "en-GB",
+    "gl": "GB",
+    "ceid": "GB:en",
+    "q": "US midterm elections"
+   }
+  },
+  {
+   "country": "France",
+   "flag": "🇫🇷",
+   "why": "GDP top 7",
+   "language": "French, English (France 24)",
+   "tv": [
+    {
+     "name": "France 24 (international public broadcaster)",
+     "url": "https://www.france24.com/en/americas/"
+    },
+    {
+     "name": "franceinfo / France Télévisions (public)",
+     "url": "https://www.francetvinfo.fr/monde/usa/"
+    },
+    {
+     "name": "TF1 Info",
+     "url": "https://www.tf1info.fr/international/"
+    },
+    {
+     "name": "BFMTV",
+     "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/"
+    }
+   ],
+   "print": [
+    {
+     "name": "Le Monde",
+     "url": "https://www.lemonde.fr/en/united-states/"
+    },
+    {
+     "name": "Le Figaro",
+     "url": "https://www.lefigaro.fr/international"
+    },
+    {
+     "name": "Libération",
+     "url": "https://www.liberation.fr/international/amerique/"
+    },
+    {
+     "name": "Les Echos",
+     "url": "https://www.lesechos.fr/monde/etats-unis"
+    },
+    {
+     "name": "AFP (news agency)",
+     "url": "https://www.afp.com/en"
+    }
+   ],
+   "social": [
+    {
+     "name": "France 24 on X (@France24_en)",
+     "url": "https://x.com/France24_en"
+    },
+    {
+     "name": "Le Monde on X (@lemondefr)",
+     "url": "https://x.com/lemondefr"
+    }
+   ],
+   "research": [
+    {
+     "name": "IFRI (French Institute of International Relations)",
+     "url": "https://www.ifri.org/en"
+    },
+    {
+     "name": "IRIS",
+     "url": "https://www.iris-france.org/"
+    },
+    {
+     "name": "Institut Montaigne",
+     "url": "https://www.institutmontaigne.org/en"
+    },
+    {
+     "name": "Sciences Po CERI",
+     "url": "https://www.sciencespo.fr/ceri/en"
+    }
+   ],
+   "coverage_2026": [],
+   "ownership_note": "",
+   "news_feed": {
+    "hl": "fr",
+    "gl": "FR",
+    "ceid": "FR:fr",
+    "q": "élections de mi-mandat États-Unis"
+   }
+  },
+  {
+   "country": "Italy",
+   "flag": "🇮🇹",
+   "why": "GDP top 9",
+   "language": "Italian",
+   "tv": [
+    {
+     "name": "RaiNews24 (public broadcaster)",
+     "url": "https://www.rainews.it/notizie/esteri"
+    },
+    {
+     "name": "Sky TG24",
+     "url": "https://tg24.sky.it/mondo"
+    },
+    {
+     "name": "TG5 / Mediaset",
+     "url": "https://www.tgcom24.mediaset.it/mondo/"
+    },
+    {
+     "name": "La7",
+     "url": "https://www.la7.it/"
+    }
+   ],
+   "print": [
+    {
+     "name": "Corriere della Sera",
+     "url": "https://www.corriere.it/esteri/"
+    },
+    {
+     "name": "la Repubblica",
+     "url": "https://www.repubblica.it/esteri/"
+    },
+    {
+     "name": "La Stampa",
+     "url": "https://www.lastampa.it/esteri/"
+    },
+    {
+     "name": "Il Sole 24 Ore",
+     "url": "https://www.ilsole24ore.com/sez/mondo"
+    },
+    {
+     "name": "ANSA (news agency)",
+     "url": "https://www.ansa.it/english/"
+    }
+   ],
+   "social": [
+    {
+     "name": "Corriere on X (@Corriere)",
+     "url": "https://x.com/Corriere"
+    },
+    {
+     "name": "ANSA on X (@Agenzia_Ansa)",
+     "url": "https://x.com/Agenzia_Ansa"
+    }
+   ],
+   "research": [
+    {
+     "name": "ISPI (Italian Institute for International Political Studies)",
+     "url": "https://www.ispionline.it/en/"
+    },
+    {
+     "name": "IAI (Istituto Affari Internazionali)",
+     "url": "https://www.iai.it/en"
+    }
+   ],
+   "coverage_2026": [],
+   "ownership_note": "",
+   "news_feed": {
+    "hl": "it",
+    "gl": "IT",
+    "ceid": "IT:it",
+    "q": "elezioni di metà mandato USA"
+   }
+  },
+  {
+   "country": "Canada",
+   "flag": "🇨🇦",
+   "why": "GDP top 10 (borderline, varies by IMF edition)",
+   "language": "English, French",
+   "tv": [
+    {
+     "name": "CBC News / Radio-Canada (public)",
+     "url": "https://www.cbc.ca/news/world"
+    },
+    {
+     "name": "CTV News",
+     "url": "https://www.ctvnews.ca/world/"
+    },
+    {
+     "name": "Global News",
+     "url": "https://globalnews.ca/world/"
+    }
+   ],
+   "print": [
+    {
+     "name": "The Globe and Mail",
+     "url": "https://www.theglobeandmail.com/world/us-politics/"
+    },
+    {
+     "name": "National Post",
+     "url": "https://nationalpost.com/category/news/world/"
+    },
+    {
+     "name": "Toronto Star",
+     "url": "https://www.thestar.com/news/world/"
+    },
+    {
+     "name": "La Presse",
+     "url": "https://www.lapresse.ca/international/"
+    },
+    {
+     "name": "The Canadian Press",
+     "url": "https://www.thecanadianpress.com/"
+    }
+   ],
+   "social": [
+    {
+     "name": "CBC News on X (@CBCNews)",
+     "url": "https://x.com/CBCNews"
+    },
+    {
+     "name": "CTV News on X (@CTVNews)",
+     "url": "https://x.com/CTVNews"
+    }
+   ],
+   "research": [
+    {
+     "name": "Centre for International Governance Innovation (CIGI)",
+     "url": "https://www.cigionline.org/"
+    },
+    {
+     "name": "Macdonald-Laurier Institute",
+     "url": "https://macdonaldlaurier.ca/"
+    },
+    {
+     "name": "Canadian Global Affairs Institute",
+     "url": "https://www.cgai.ca/"
+    }
+   ],
+   "coverage_2026": [],
+   "ownership_note": "Coverage focuses on trade, tariffs and cross-border issues.",
+   "news_feed": {
+    "hl": "en-CA",
+    "gl": "CA",
+    "ceid": "CA:en",
+    "q": "US midterm elections"
+   }
+  }
+ ],
+ "topic_feeds": {
+  "research": {
+   "label": "Research, studies and surveys",
+   "hl": "en-US",
+   "gl": "US",
+   "ceid": "US:en",
+   "q": "midterm elections (study OR research OR survey OR analysis) 2026"
+  },
+  "polls": {
+   "label": "Polls and forecasts",
+   "hl": "en-US",
+   "gl": "US",
+   "ceid": "US:en",
+   "q": "midterm poll OR forecast Senate House 2026"
+  },
+  "noncitizens": {
+   "label": "International students and visa workers",
+   "hl": "en-US",
+   "gl": "US",
+   "ceid": "US:en",
+   "q": "H-1B OR OPT OR \"international students\" midterms OR Congress 2026"
+  },
+  "census": {
+   "label": "Census and election data",
+   "hl": "en-US",
+   "gl": "US",
+   "ceid": "US:en",
+   "q": "Census Bureau OR \"election data\" OR turnout midterm 2026"
+  }
+ }
+}

@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>US Midterm Elections 2026: Live Forecast Dashboard</title>
+<meta name="description" content="A neutral, auto-updating dashboard of public forecasts for the November 3, 2026 US midterm elections, with sources.">
+<style>
+  :root{
+    --ink:#111827; --muted:#6b7280; --line:#e5e7eb; --bg:#f8fafc; --card:#ffffff;
+    --d:#1d4ed8; --r:#b91c1c; --toss:#d1d5db; --accent:#374151;
+    --sd:#1e3a8a; --ld:#1d4ed8; --nd:#93c5fd; --nr:#fca5a5; --lr:#dc2626; --sr:#7f1d1d;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --ink:#f3f4f6; --muted:#9ca3af; --line:#374151; --bg:#0b1220; --card:#111827;
+      --d:#60a5fa; --r:#f87171; --toss:#4b5563; --accent:#d1d5db;
+      --sd:#93c5fd; --ld:#60a5fa; --nd:#1e40af; --nr:#991b1b; --lr:#f87171; --sr:#fecaca; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5}
+  header{background:var(--card);border-bottom:1px solid var(--line);padding:20px 16px}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+  h1{margin:0;font-size:clamp(22px,4vw,32px)}
+  .sub{color:var(--muted);margin:4px 0 0}
+  .pill{display:inline-block;padding:3px 10px;border-radius:999px;font-size:13px;background:var(--bg);border:1px solid var(--line);color:var(--muted);margin:8px 6px 0 0}
+  .pill.live::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:#16a34a;margin-right:6px;vertical-align:middle}
+  nav{position:sticky;top:0;z-index:5;background:var(--card);border-bottom:1px solid var(--line);overflow-x:auto;white-space:nowrap}
+  nav button{font:inherit;background:none;border:0;padding:14px 14px;color:var(--muted);cursor:pointer;border-bottom:3px solid transparent}
+  nav button.on{color:var(--ink);border-bottom-color:var(--accent);font-weight:600}
+  main{padding:20px 0 40px}
+  section{display:none} section.on{display:block}
+  .grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px}
+  .card h3{margin:0 0 6px;font-size:16px}
+  .big{display:flex;justify-content:space-between;align-items:baseline;margin:6px 0}
+  .big .d{color:var(--d);font-size:36px;font-weight:800}
+  .big .r{color:var(--r);font-size:36px;font-weight:800}
+  .bar{display:flex;height:14px;border-radius:7px;overflow:hidden;background:var(--toss);gap:2px}
+  .bar span{display:block;height:100%}
+  .note{color:var(--muted);font-size:13px}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{text-align:left;padding:9px 8px;border-bottom:1px solid var(--line);vertical-align:middle}
+  th{color:var(--muted);font-weight:600;font-size:13px}
+  .chip{display:inline-block;padding:2px 8px;border-radius:6px;font-size:12px;font-weight:600;white-space:nowrap}
+  .rowbar{display:flex;height:12px;border-radius:6px;overflow:hidden;min-width:120px;gap:2px}
+  .stale{color:#b45309;font-weight:600}
+  .legend{display:flex;flex-wrap:wrap;gap:10px;font-size:13px;color:var(--muted);margin:8px 0}
+  .legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+  .seats{display:flex;flex-wrap:wrap;gap:4px;max-width:560px}
+  .seat{width:20px;height:20px;border-radius:50%}
+  .tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--card);padding:6px 9px;border-radius:6px;font-size:13px;display:none;z-index:9;max-width:260px}
+  a{color:var(--d)}
+  .disclaimer{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--muted);border-radius:8px;padding:14px;margin-top:24px;font-size:14px}
+  footer{border-top:1px solid var(--line);padding:20px 0;color:var(--muted);font-size:13px;background:var(--card)}
+  .search{width:100%;max-width:320px;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit;margin-bottom:10px}
+  ul.clean{padding-left:18px} ul.clean li{margin:4px 0}
+  .hl{margin:0;padding-left:18px} .hl li{margin:8px 0} .cat{margin:10px 0 4px;font-weight:600;font-size:14px}
+  .ok{color:#15803d;font-weight:700} .no{color:var(--r);font-weight:700}
+  svg text{fill:var(--muted);font-size:11px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>🗳️ US Midterm Elections 2026</h1>
+    <p class="sub">Live average of public forecasts for <b>Tuesday, November 3, 2026</b>. Updated automatically; every number links to its source.</p>
+    <span class="pill live" id="updated">Loading…</span>
+    <span class="pill" id="countdown"></span>
+    <span class="pill">Neutral collection of public sources</span>
+  </div>
+</header>
+<nav><div class="wrap" id="tabs">
+  <button data-t="overview" class="on">Overview</button>
+  <button data-t="senate">Senate</button>
+  <button data-t="governors">Governors</button>
+  <button data-t="trend">Trend</button>
+  <button data-t="world">World media &amp; live news</button>
+  <button data-t="sources">Sources</button>
+  <button data-t="howto">How elections work</button>
+  <button data-t="noncitizens">Students &amp; visa workers</button>
+</div></nav>
+
+<main class="wrap">
+  <!-- OVERVIEW -->
+  <section id="overview" class="on">
+    <div class="grid">
+      <div class="card"><h3>Chance of controlling the House</h3>
+        <div class="big"><span class="d" id="hD">–</span><span class="r" id="hR">–</span></div>
+        <div class="bar" id="hBar"></div>
+        <p class="note" id="hN"></p></div>
+      <div class="card"><h3>Chance of controlling the Senate</h3>
+        <div class="big"><span class="d" id="sD">–</span><span class="r" id="sR">–</span></div>
+        <div class="bar" id="sBar"></div>
+        <p class="note" id="sN"></p></div>
+      <div class="card"><h3>Expected Senate seats</h3>
+        <div class="big"><span class="d" id="seD">–</span><span class="r" id="seR">–</span></div>
+        <p class="note">51 seats for a majority. A 50-50 tie goes to Republicans through the Vice President's vote.</p>
+        <p class="note" id="tossN"></p></div>
+    </div>
+    <p class="note" style="margin-top:10px">Left / blue = Democrats. Right / red = Republicans. These are probabilities, not results: a 70% favorite still loses about 3 times in 10.</p>
+
+    <div class="card" style="margin-top:16px"><h3>What each forecaster says</h3>
+      <div style="overflow-x:auto"><table id="srcTable"><thead><tr><th>Source</th><th>Type</th><th>House (Dem chance)</th><th>Senate (Dem chance)</th><th>As of</th></tr></thead><tbody></tbody></table></div>
+      <p class="note">“Stale” means the latest automatic check could not read that site, so the last good number is shown.</p>
+    </div>
+
+    <div class="card" style="margin-top:16px"><h3>Senate seat map</h3>
+      <div class="legend" id="seatLegend"></div>
+      <div class="seats" id="seats"></div>
+      <p class="note">65 seats are not on the ballot this year. The other 35 are colored by their current forecast rating.</p>
+    </div>
+  </section>
+
+  <!-- SENATE -->
+  <section id="senate">
+    <div class="card"><h3>All 35 Senate races</h3>
+      <input class="search" id="senSearch" placeholder="Search a state or candidate…">
+      <div class="legend" id="ratingLegend1"></div>
+      <div style="overflow-x:auto"><table id="senTable"><thead><tr><th>State</th><th>Democrat</th><th>Republican / other</th><th>Rating</th><th>Win chance</th><th></th></tr></thead><tbody></tbody></table></div>
+      <p class="note">Win chance = probability for the favored side (Decision Desk HQ). For pure toss-ups the source does not name a leader, so the bar shows 50/50. Source: <a href="https://votes.decisiondeskhq.com/forecast/2026/senate" target="_blank" rel="noopener">DDHQ Senate forecast</a>, ratings context from <a href="https://www.cookpolitical.com/ratings/senate-race-ratings" target="_blank" rel="noopener">Cook Political Report</a>.</p>
+    </div>
+  </section>
+
+  <!-- GOVERNORS -->
+  <section id="governors">
+    <div class="card"><h3>All 36 governor races</h3>
+      <input class="search" id="govSearch" placeholder="Search a state…">
+      <div class="legend" id="ratingLegend2"></div>
+      <div style="overflow-x:auto"><table id="govTable"><thead><tr><th>State</th><th>Democrat</th><th>Republican</th><th>Rating</th><th>Win chance</th><th></th></tr></thead><tbody></tbody></table></div>
+      <p class="note">Source: <a href="https://votes.decisiondeskhq.com/forecast/2026/governor" target="_blank" rel="noopener">DDHQ governor forecast</a>; context from <a href="https://www.cookpolitical.com/ratings/governor-race-ratings" target="_blank" rel="noopener">Cook Political Report</a>. Blank candidate cells mean the name was not verified for this dashboard.</p>
+    </div>
+  </section>
+
+  <!-- TREND -->
+  <section id="trend">
+    <div class="card"><h3>How the forecast average has moved</h3>
+      <div id="trendChart"></div>
+      <div class="legend"><span><i style="background:var(--d)"></i>House: Democratic chance</span><span><i style="background:#7c3aed"></i>Senate: Democratic chance</span><span>Dashed line = 50% (below it, Republicans are favored)</span></div>
+      <p class="note">A new point is added each time the automatic update sees a change.</p>
+    </div>
+  </section>
+
+  <!-- WORLD -->
+  <section id="world">
+    <div class="card"><h3>Latest midterm headlines by country</h3>
+      <p class="note" id="hlUpdated"></p>
+      <select class="search" id="countrySel" aria-label="Choose a country"></select>
+      <div id="countryInfo"></div>
+    </div>
+    <div class="grid" style="margin-top:16px" id="topicFeeds"></div>
+    <p class="note">The 10 most populous countries and the 10 largest economies (16 combined). Headlines are pulled automatically from Google News country editions; state-controlled outlets are labeled. Inclusion is not endorsement.</p>
+  </section>
+
+  <!-- SOURCES -->
+  <section id="sources">
+    <div class="grid">
+      <div class="card"><h3>Forecasts tracked live</h3><ul class="clean" id="liveSrc"></ul></div>
+      <div class="card"><h3>Ratings and polls (context)</h3><ul class="clean" id="ctxSrc"></ul></div>
+      <div class="card"><h3>Official and census data</h3><ul class="clean">
+        <li><a href="https://www.census.gov/topics/public-sector/voting.html" target="_blank" rel="noopener">Census Bureau: Voting and Registration</a></li>
+        <li><a href="https://www.census.gov/data/tables/2020/dec/2020-apportionment-data.html" target="_blank" rel="noopener">2020 Census apportionment</a></li>
+        <li><a href="https://www.census.gov/programs-surveys/decennial-census/about/voting-rights/cvap.html" target="_blank" rel="noopener">Citizen Voting Age Population (CVAP)</a></li>
+        <li><a href="https://www.eac.gov/research-and-data/studies-and-reports" target="_blank" rel="noopener">Election Assistance Commission data</a></li>
+        <li><a href="https://www.fec.gov/data/" target="_blank" rel="noopener">FEC campaign finance data</a></li>
+        <li><a href="https://www.usa.gov/election-office" target="_blank" rel="noopener">Find your state election office</a></li>
+      </ul></div>
+      <div class="card"><h3>Research</h3><ul class="clean">
+        <li><a href="https://cces.gov.harvard.edu/" target="_blank" rel="noopener">Cooperative Election Study (Harvard)</a></li>
+        <li><a href="https://electionstudies.org/" target="_blank" rel="noopener">American National Election Studies</a></li>
+        <li><a href="https://electionlab.mit.edu/" target="_blank" rel="noopener">MIT Election Data + Science Lab</a></li>
+        <li><a href="https://www.pewresearch.org/politics/" target="_blank" rel="noopener">Pew Research Center: Politics</a></li>
+        <li><a href="https://bipartisanpolicy.org/topics/elections/" target="_blank" rel="noopener">Bipartisan Policy Center: Elections</a></li>
+        <li><a href="https://news.northeastern.edu/2026/10/12/november-midterms-political-analysis/" target="_blank" rel="noopener">Northeastern: what history says about midterms</a></li>
+      </ul></div>
+    </div>
+    <p class="note">Full annotated lists (with think tanks across the spectrum) are in the project's documents.</p>
+  </section>
+
+  <!-- HOW TO -->
+  <section id="howto">
+    <div class="grid">
+      <div class="card"><h3>1. Census</h3><p>Every 10 years the government counts everyone living in the US. That count decides how many of the 435 House seats each state gets.</p></div>
+      <div class="card"><h3>2. Districts</h3><p>Each state draws its own House districts. In 2025-26 several states redrew maps mid-decade (Texas, California, Missouri, North Carolina, Ohio, Utah).</p></div>
+      <div class="card"><h3>3. Primaries</h3><p>Parties pick their candidates between March and September. Rules differ by state.</p></div>
+      <div class="card"><h3>4. Voting</h3><p>Citizens 18+ vote early, by mail or on Election Day. States and counties run the elections, not the federal government.</p></div>
+      <div class="card"><h3>5. Counting</h3><p>TV networks “call” races from vote counts; official results come later, when each state certifies. Maine and Alaska use ranked-choice voting, so results can take longer.</p></div>
+      <div class="card"><h3>6. Power</h3><p>The House needs 218 seats for a majority, the Senate 51. The new Congress is sworn in on January 3, 2027.</p></div>
+    </div>
+  </section>
+
+  <!-- NON-CITIZENS -->
+  <section id="noncitizens">
+    <div class="grid">
+      <div class="card"><h3><span class="ok">✓</span> Non-citizens can</h3><ul class="clean">
+        <li>Follow and discuss the election, attend public events</li>
+        <li>Volunteer for a campaign <b>without pay</b></li>
+        <li>Comment on proposed immigration rules at <a href="https://www.regulations.gov/" target="_blank" rel="noopener">regulations.gov</a></li>
+        <li>Contact elected officials about policy</li></ul></div>
+      <div class="card"><h3><span class="no">✗</span> Non-citizens cannot</h3><ul class="clean">
+        <li><b>Vote or register to vote</b> in federal or state elections, even if registered by mistake at the DMV</li>
+        <li>Donate to any candidate, party or PAC (federal, state or local)</li>
+        <li>Claim US citizenship on any form</li>
+        <li>Make decisions for a campaign</li></ul>
+        <p class="note">Unlawful voting can lead to criminal charges, visa denial and deportation. Source: <a href="https://www.fec.gov/updates/foreign-nationals/" target="_blank" rel="noopener">FEC</a>.</p></div>
+      <div class="card"><h3>Does Nov 3 change my visa?</h3><p>No. F-1, OPT, CPT and H-1B rules do not change automatically. The election decides who controls Congress from January 2027.</p>
+        <p class="note">Faster-moving items: the $100,000 H-1B fee (blocked in court), proposed OPT fees, the end of “duration of status”, and the wage-weighted H-1B lottery.</p></div>
+    </div>
+    <p class="note">Talk to your school's international office or a licensed immigration attorney about your own case.</p>
+  </section>
+
+  <div class="disclaimer"><b>Disclaimer:</b> This is only a collection of publicly available resources, data and forecasts. The creator is neutral and does not support or oppose any political party, candidate or ideology. Figures come from the linked sources and may change or contain errors. Not legal, immigration or financial advice.</div>
+</main>
+
+<footer><div class="wrap">Data refreshes automatically every hour (every 15 minutes on Election Day); this page re-checks every 5 minutes. Forecasts are not results; after polls close, follow official state results. Built from open public sources.</div></footer>
+<div class="tip" id="tip"></div>
+
+<script>
+const RCOL={"Safe D":"var(--sd)","Likely D":"var(--ld)","Lean D":"var(--nd)","Toss Up":"var(--toss)","Lean R":"var(--nr)","Likely R":"var(--lr)","Safe R":"var(--sr)"};
+const ORDER=["Safe D","Likely D","Lean D","Toss Up","Lean R","Likely R","Safe R"];
+const NAMES={ddhq:"Decision Desk HQ",silver:"Silver Bulletin (FLIPR)",poliwave:"Poliwave",midtermforecast:"midtermforecast.com",kalshi:"Kalshi (prediction market)"};
+const tip=document.getElementById('tip');
+function showTip(e,t){tip.textContent=t;tip.style.display='block';tip.style.left=Math.min(e.clientX+12,innerWidth-270)+'px';tip.style.top=(e.clientY+12)+'px'}
+function hideTip(){tip.style.display='none'}
+function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+
+async function get(path,type){
+  for(const base of ['', '../']){
+    try{const r=await fetch(base+path+'?t='+Date.now(),{cache:'no-store'}); if(r.ok) return type==='json'?r.json():r.text();}catch(e){}
+  }
+  throw new Error('Could not load '+path);
+}
+function parseCSV(t){
+  const rows=[];let cur=[],f='',q=false;
+  for(let i=0;i<t.length;i++){const c=t[i];
+    if(q){ if(c==='"'){ if(t[i+1]==='"'){f+='"';i++} else q=false } else f+=c }
+    else if(c==='"') q=true; else if(c===','){cur.push(f);f=''} else if(c==='\n'){cur.push(f);rows.push(cur);cur=[];f=''} else if(c!=='\r') f+=c }
+  if(f||cur.length){cur.push(f);rows.push(cur)}
+  const h=rows.shift();return rows.filter(r=>r.length===h.length).map(r=>Object.fromEntries(h.map((k,i)=>[k,r[i]])));
+}
+function demProb(r){const p=+r.ddhq_prob/100;return r.ddhq_rating.endsWith(' D')?p:r.ddhq_rating.endsWith(' R')?1-p:0.5}
+function bar(el,d){el.innerHTML=d==null?'':`<span style="width:${d}%;background:var(--d)"></span><span style="width:${100-d}%;background:var(--r)"></span>`;
+  el.onmousemove=e=>showTip(e,d==null?'No data':`Democrats ${d.toFixed(1)}% · Republicans ${(100-d).toFixed(1)}%`);el.onmouseleave=hideTip}
+function chip(r){const dark=['Safe D','Likely D','Likely R','Safe R'].includes(r);return `<span class="chip" style="background:${RCOL[r]};color:${dark?'#fff':'#111'}">${r}</span>`}
+function legend(id){document.getElementById(id).innerHTML=ORDER.map(k=>`<span><i style="background:${RCOL[k]}"></i>${k}</span>`).join('')}
+
+function raceTable(id,rows,searchId,cols){
+  const tb=document.querySelector('#'+id+' tbody');
+  const draw=q=>{tb.innerHTML='';
+    rows.filter(r=>!q||JSON.stringify(r).toLowerCase().includes(q)).sort((a,b)=>Math.abs(demProb(a)-.5)-Math.abs(demProb(b)-.5)).forEach(r=>{
+      const d=demProb(r)*100,tr=document.createElement('tr');
+      tr.innerHTML=`<td><b>${esc(r.state)}</b>${r.seat_type&&r.seat_type!=='Regular'?' <span class="note">('+esc(r.seat_type)+')</span>':''}</td><td>${esc(r.dem_candidate)||'<span class="note">–</span>'}</td><td>${esc(r.rep_candidate)||'<span class="note">–</span>'}${r.other_candidate?'<br><span class="note">'+esc(r.other_candidate)+'</span>':''}</td><td>${chip(r.ddhq_rating)}</td><td>${esc(r.ddhq_prob)}%</td><td><div class="rowbar"><span style="width:${d}%;background:var(--d)"></span><span style="width:${100-d}%;background:var(--r)"></span></div></td>`;
+      tr.querySelector('.rowbar').onmousemove=e=>showTip(e,`${r.state}: ${r.ddhq_rating}${r.ddhq_rating==='Toss Up'?' (leader not named by source)':', '+r.ddhq_prob+'% for favored side'}`);
+      tr.querySelector('.rowbar').onmouseleave=hideTip; tb.appendChild(tr)})};
+  draw('');document.getElementById(searchId).oninput=e=>draw(e.target.value.toLowerCase().trim());
+}
+
+function trend(hist){
+  const el=document.getElementById('trendChart');
+  if(!hist.length){el.innerHTML='<p class="note">No history yet.</p>';return}
+  const W=900,H=300,P={l:40,r:50,t:14,b:30};
+  const xs=hist.map(h=>new Date(h.timestamp_utc).getTime()),x0=Math.min(...xs),x1=Math.max(...xs)||x0+1;
+  const X=t=>P.l+(x1===x0?0.5:(t-x0)/(x1-x0))*(W-P.l-P.r),Y=v=>P.t+(1-v/100)*(H-P.t-P.b);
+  let s=`<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Forecast trend">`;
+  [0,25,50,75,100].forEach(v=>{s+=`<line x1="${P.l}" x2="${W-P.r}" y1="${Y(v)}" y2="${Y(v)}" stroke="var(--line)" ${v===50?'stroke-dasharray="4 4" stroke="var(--muted)"':''}/><text x="${P.l-8}" y="${Y(v)+4}" text-anchor="end">${v}%</text>`});
+  [['house_avg','var(--d)'],['senate_avg','#7c3aed']].forEach(([k,c])=>{
+    const pts=hist.filter(h=>h[k]!=='').map(h=>[X(new Date(h.timestamp_utc).getTime()),Y(+h[k]),+h[k],h.timestamp_utc]);
+    s+=`<polyline fill="none" stroke="${c}" stroke-width="2" points="${pts.map(p=>p[0]+','+p[1]).join(' ')}"/>`;
+    pts.forEach(p=>{s+=`<circle cx="${p[0]}" cy="${p[1]}" r="5" fill="${c}" stroke="var(--card)" stroke-width="2" data-t="${k.startsWith('house')?'House':'Senate'}: ${p[2].toFixed(1)}% (${p[3].slice(0,16).replace('T',' ')} UTC)"/>`});
+    const L=pts[pts.length-1]; if(L) s+=`<text x="${L[0]+8}" y="${L[1]+4}" style="fill:var(--ink);font-weight:600">${L[2].toFixed(0)}%</text>`});
+  s+=`<text x="${P.l}" y="${H-8}">${new Date(x0).toLocaleDateString()}</text><text x="${W-P.r}" y="${H-8}" text-anchor="end">${new Date(x1).toLocaleDateString()}</text></svg>`;
+  el.innerHTML=s; el.querySelectorAll('circle').forEach(c=>{c.onmousemove=e=>showTip(e,c.dataset.t);c.onmouseleave=hideTip});
+}
+
+async function load(){
+  try{
+    const [latest,sources,senT,govT,histT]=await Promise.all([get('data/latest.json','json'),get('data/sources.json','json'),get('data/senate_2026.csv'),get('data/governors_2026.csv'),get('data/history.csv').catch(()=> 'timestamp_utc,house_avg,senate_avg\n')]);
+    const sen=parseCSV(senT),gov=parseCSV(govT),hist=parseCSV(histT);
+    const u=new Date(latest.updated_utc);document.getElementById('updated').textContent='Updated '+u.toLocaleString();
+    const nowNY=new Date(new Date().toLocaleString('en-US',{timeZone:'America/New_York'}));nowNY.setHours(0,0,0,0);const days=Math.round((new Date(2026,10,3)-nowNY)/864e5);
+    document.getElementById('countdown').textContent=days>0?`${days} day${days>1?'s':''} to Election Day`:days===0?'Election Day today':'Election held Nov 3: check official results';
+    const e=latest.ensemble||{};
+    const set=(id,v,suf='%')=>document.getElementById(id).textContent=v==null?'n/a':(typeof v==='number'?v.toFixed(suf?0:0):v)+suf;
+    document.getElementById('hD').textContent='D '+(e.house_dem==null?'–':Math.round(e.house_dem))+'%';
+    document.getElementById('hR').textContent='R '+(e.house_dem==null?'–':Math.round(100-e.house_dem))+'%';
+    document.getElementById('sD').textContent='D '+(e.senate_dem==null?'–':Math.round(e.senate_dem))+'%';
+    document.getElementById('sR').textContent='R '+(e.senate_dem==null?'–':Math.round(100-e.senate_dem))+'%';
+    bar(document.getElementById('hBar'),e.house_dem);bar(document.getElementById('sBar'),e.senate_dem);
+    document.getElementById('hN').textContent=`Average of ${e.house_n} public forecasts.`;
+    document.getElementById('sN').textContent=`Average of ${e.senate_n} public forecasts.`;
+    const pj=latest.senate_projection||{};document.getElementById('seD').textContent='D '+(pj.expected_d??'–');document.getElementById('seR').textContent='R '+(pj.expected_r??'–');
+    document.getElementById('tossN').textContent=`${pj.counts?.['Toss Up']??'?'} Senate races rated Toss Up.`;
+    const srcs=Object.fromEntries(sources.chamber_sources.map(s=>[s.id,s]));
+    const tb=document.querySelector('#srcTable tbody');tb.innerHTML='';
+    Object.entries(latest.chambers).forEach(([k,v])=>{const s=srcs[k]||{};const f=x=>x==null?'<span class="note">no public number</span>':x.toFixed(1)+'%';
+      tb.insertAdjacentHTML('beforeend',`<tr><td><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name||NAMES[k]||k)}</a></td><td>${esc(v.type||s.type)}</td><td>${f(v.house)}</td><td>${f(v.senate)}</td><td>${esc(v.as_of||'')} ${v.status==='stale'?'<span class="stale">stale</span>':''}</td></tr>`)});
+    // seat map
+    const seats=Array(34).fill('Not up: D');ORDER.forEach(k=>sen.filter(r=>r.ddhq_rating===k).forEach(r=>seats.push(k+'|'+r.state)));seats.push(...Array(31).fill('Not up: R'));
+    const sc={...RCOL,'Not up: D':'#3b5bdb','Not up: R':'#c92a2a'};const sm=document.getElementById('seats');sm.innerHTML='';
+    seats.forEach(s=>{const [k,st]=s.split('|');const d=document.createElement('div');d.className='seat';if(k.startsWith('Not up')){d.style.border='3px solid '+sc[k];d.style.background='transparent'}else d.style.background=sc[k];d.onmousemove=e=>showTip(e,st?`${st}: ${k}`:k+' (not on 2026 ballot)');d.onmouseleave=hideTip;sm.appendChild(d)});
+    document.getElementById('seatLegend').innerHTML=['Not up: D',...ORDER,'Not up: R'].map(k=>(k.startsWith('Not up')?`<span><i style="border:2px solid ${sc[k]};background:transparent"></i>${k}</span>`:`<span><i style="background:${sc[k]}"></i>${k}</span>`)).join('');
+    legend('ratingLegend1');legend('ratingLegend2');
+    raceTable('senTable',sen,'senSearch');raceTable('govTable',gov,'govSearch');
+    trend(hist);
+    document.getElementById('liveSrc').innerHTML=sources.chamber_sources.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a> <span class="note">(${esc(s.type)})</span></li>`).join('')+Object.values(sources.race_sources).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></li>`).join('');
+    document.getElementById('ctxSrc').innerHTML=sources.context_sources.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></li>`).join('');
+  }catch(err){document.getElementById('updated').textContent='Could not load data: '+err.message}
+}
+
+function fmtDate(s){const d=new Date(s);return isNaN(d)?'':d.toLocaleString([], {month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'})}
+function hlList(items){return items&&items.length?'<ul class="hl">'+items.map(h=>`<li><a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.title)}</a> <span class="note">· ${esc(h.source)} · ${fmtDate(h.published)}</span></li>`).join('')+'</ul>':'<p class="note">No headlines yet. They appear after the first automatic update.</p>'}
+function linkRow(arr){return (arr||[]).map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(' · ')}
+async function loadWorld(){
+  try{
+    const [media,hl]=await Promise.all([get('data/world_media.json','json'),get('data/headlines.json','json').catch(()=>({countries:{},topics:{}}))]);
+    document.getElementById('hlUpdated').textContent=hl.updated_utc?('Headlines refreshed '+new Date(hl.updated_utc).toLocaleString()):'Headlines appear after the first automatic update.';
+    const sel=document.getElementById('countrySel'); const keep=sel.value;
+    sel.innerHTML=media.countries.map(c=>`<option value="${esc(c.country)}">${c.flag} ${esc(c.country)} (${esc(c.why)})</option>`).join('');
+    if(keep) sel.value=keep;
+    const show=()=>{const c=media.countries.find(x=>x.country===sel.value)||media.countries[0];
+      let h=`<p class="note">Languages: ${esc(c.language)}${c.ownership_note?' · '+esc(c.ownership_note):''}</p>`;
+      h+='<div class="cat">Latest headlines</div>'+hlList((hl.countries||{})[c.country]);
+      [['tv','TV'],['print','Print & online'],['social','Social media'],['research','Research & think tanks'],['coverage_2026','Verified 2026 coverage']].forEach(([k,l])=>{if(c[k]&&c[k].length) h+=`<div class="cat">${l}</div><div>${linkRow(c[k])}</div>`});
+      document.getElementById('countryInfo').innerHTML=h};
+    sel.onchange=show; show();
+    document.getElementById('topicFeeds').innerHTML=Object.values(hl.topics||{}).map(t=>`<div class="card"><h3>${esc(t.label)}</h3>${hlList((t.items||[]).slice(0,6))}</div>`).join('')
+      +`<div class="card"><h3>Global wire services</h3><div>${linkRow(media.global_wires)}</div></div>`;
+  }catch(e){document.getElementById('countryInfo').textContent='Could not load world media: '+e.message}
+}
+
+document.getElementById('tabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;
+  document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x===b));
+  document.querySelectorAll('main section').forEach(s=>s.classList.toggle('on',s.id===b.dataset.t));};
+load();loadWorld();setInterval(()=>{load();loadWorld()},5*60*1000);
+</script>
+</body>
+</html>

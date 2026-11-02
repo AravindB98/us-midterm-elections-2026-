@@ -1,0 +1,67 @@
+name: Live update and dashboard
+
+on:
+  schedule:
+    - cron: "17 * * * *"        # hourly
+    - cron: "*/15 * 3-5 11 *"   # every 15 min, Nov 3-5 (UTC), Election Day and night
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: live-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml matplotlib
+      - name: Fetch sources and rebuild data, charts, README
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            python scripts/update_live.py --offline
+          else
+            python scripts/update_live.py
+          fi
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data assets docs README.md
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Live update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+      - name: Build site bundle
+        run: |
+          mkdir -p _site
+          cp site/index.html _site/
+          cp -r data assets _site/
+          touch _site/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

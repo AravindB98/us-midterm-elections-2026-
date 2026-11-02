@@ -1,1 +1,175 @@
-# us-midterm-elections-2026-
+<div align="center">
+
+# 🗳️ US Midterm Elections 2026 (Nov 3)
+
+### The US election system, explained, plus a **live, auto-updating** forecast tracker for the **2026 midterms**
+
+[![Live update](https://github.com/AravindB98/us-midterm-elections-2026-/actions/workflows/update-live.yml/badge.svg)](https://github.com/AravindB98/us-midterm-elections-2026-/actions/workflows/update-live.yml)
+[![Dashboard](https://img.shields.io/badge/Open-Live%20Dashboard-1d4ed8?style=for-the-badge)](https://aravindb98.github.io/us-midterm-elections-2026-/)
+![Election](https://img.shields.io/badge/Election%20Day-Nov%203%2C%202026-374151)
+![Neutral](https://img.shields.io/badge/Stance-Nonpartisan%20collection-6b7280)
+
+**👉 Not technical? Open the [Live Dashboard](https://aravindb98.github.io/us-midterm-elections-2026-/). No GitHub account needed.**
+
+</div>
+
+![Live forecast infographic](assets/infographic.svg)
+
+---
+
+## 📡 Live forecast (auto-updated)
+
+Every hour (every 15 minutes on Election Day) a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
+
+<!-- LIVE:START -->
+_Last automatic update: **2026-11-02 05:36 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
+
+| Forecast average | Democrats | Republicans | Sources averaged |
+|---|---|---|---|
+| **House control** | 90.3% | 9.7% | 5 |
+| **Senate control** | 70.5% | 29.5% | 4 |
+| **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race probabilities |
+
+| Source | Type | House (D) | Senate (D) | As of | Status |
+|---|---|---|---|---|---|
+| [Decision Desk HQ](https://votes.decisiondeskhq.com/forecast/2026) | model | 84.0% | 64.0% | 2026-11-02 | seed |
+| [Silver Bulletin (FLIPR)](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model) | model | 95.0% | n/a | 2026-11-01 | seed |
+| [Poliwave](https://www.poliwave.com/us/fed/projection) | model | 88.0% | 76.0% | 2026-11-01 | seed |
+| [midtermforecast.com](https://midtermforecast.com/) | model | 91.0% | 71.0% | 2026-10-31 | seed |
+| [Kalshi (market)](https://news.kalshi.com/p/2026-midterm-predictions) | market | 93.3% | 71.0% | 2026-11-01 | seed |
+
+**Closest Senate races right now**
+
+| State | Democrat | Republican / other | Rating | Win prob. (favored side) |
+|---|---|---|---|---|
+| Kansas | Adam Hamilton | Roger Marshall (inc.) | Toss Up | 50% |
+| Iowa | Josh Turek | Ashley Hinson | Toss Up | 53% |
+| Ohio | Sherrod Brown | Jon Husted (inc.) | Toss Up | 55% |
+| Alaska | Mary Peltola | Dan Sullivan (inc.) | Lean D | 61% |
+| Texas | James Talarico | Ken Paxton | Lean D | 61% |
+| South Carolina | Annie Andrews | Lindsey Graham (inc.) | Lean R | 62% |
+| Maine | Troy Jackson | Susan Collins (inc.) | Lean D | 63% |
+| Nebraska | - | Pete Ricketts (inc.); Dan Osborn (I) | Lean R | 73% |
+| Florida | Angie Nixon | Ashley Moody (inc.) | Likely R | 75% |
+| Michigan | Abdul El-Sayed | Mike Rogers | Likely D | 76% |
+
+**Closest governor races right now**
+
+| State | Rating | Win prob. (favored side) |
+|---|---|---|
+| Nevada | Toss Up | 57% |
+| Ohio | Toss Up | 60% |
+| Georgia | Lean D | 61% |
+| Florida | Lean R | 62% |
+| Kansas | Lean R | 65% |
+| Alaska | Lean D | 67% |
+| Iowa | Lean D | 69% |
+| Texas | Lean R | 70% |
+
+> Forecasts are probabilities, not results. On and after Nov 3, follow official state results and AP / DDHQ race calls.
+<!-- LIVE:END -->
+
+### Charts
+
+![Chamber control by forecaster](assets/chamber_probabilities.svg)
+
+![Senate battlegrounds](assets/senate_battlegrounds.svg)
+
+![Senate seat map](assets/senate_seat_map.svg)
+
+![Governor battlegrounds](assets/governor_battlegrounds.svg)
+
+![Forecast history](assets/history.svg)
+
+---
+
+## 🧭 How US elections work, at a glance
+
+```mermaid
+flowchart LR
+    A[Census<br/>every 10 years] --> B[Apportionment<br/>435 House seats by state]
+    B --> C[Redistricting<br/>states draw districts]
+    C --> D[Primaries<br/>parties pick nominees]
+    D --> E[General election<br/>first Tuesday after first Monday in Nov]
+    E --> F[Counting<br/>local election offices]
+    F --> G[Certification<br/>states make results official]
+    G --> H[New Congress sworn in<br/>Jan 3, 2027]
+```
+
+| What's on the 2026 ballot | Count | Majority needed | Current control |
+|---|---|---|---|
+| US House | 435 seats (all) | 218 | Republicans, about 218-214 |
+| US Senate | 35 of 100 seats | 51 (or 50 + VP) | Republicans, 53-47 |
+| Governors | 36 of 50 | n/a | GOP holds 26 of 50 governorships |
+| Ballot measures | dozens | n/a | voter ID, citizen-only voting, abortion, redistricting, taxes |
+
+Full explainer: **[docs/01 How US elections work](docs/01-how-us-elections-work.md)**
+
+---
+
+## 📚 Contents
+
+| # | Document | What you'll find |
+|---|---|---|
+| 1 | [How US elections work](docs/01-how-us-elections-work.md) | Federal vs state roles, census, redistricting, primaries, voting, counting, Electoral College, money |
+| 2 | [2026 midterms analysis](docs/02-midterms-2026-analysis.md) | Environment, forecasts compared, Senate path to 51, House, governors, redistricting wars, ballot measures, election-night clock, scenarios |
+| 3 | [State-by-state outlook](docs/03-state-by-state-outlook.md) | All 35 Senate and 36 governor races: who has the higher probability, ratings, polls |
+| 4 | [Census and official data](docs/04-census-and-data-sources.md) | Census Bureau voting data, apportionment, ACS, CVAP, EAC, FEC, state offices, open datasets |
+| 5 | [Media, forecasters, polls](docs/05-media-and-forecasters.md) | Race raters, models, poll averages, prediction markets, results desks, media-literacy checklist |
+| 6 | [Research and studies](docs/06-research-and-studies.md) | CES, ANES, MIT, Pew, think tanks across the spectrum, Northeastern research |
+| 7 | [**Non-citizens: students and workers**](docs/07-non-citizens-students-and-workers.md) | Can't vote (and the penalties), what you *can* do, H-1B / OPT / F-1 policy stakes, scenarios, checklist |
+| 8 | [**Global media and research (16 countries)**](docs/08-global-media-and-research-sources.md) | TV, print, social and think tanks from the 10 most populous countries and 10 largest economies, with **auto-updated headlines** from each |
+
+---
+
+## 🎓 For international students and visa workers (quick version)
+
+| ✅ You can | ❌ You cannot |
+|---|---|
+| Follow and discuss the election, attend public events | **Vote or register to vote** (federal/state), even if a DMV registered you by mistake |
+| Volunteer **unpaid** for a campaign | Donate money to any candidate, party or PAC (federal, state or local) |
+| Comment on proposed immigration rules at regulations.gov | Claim US citizenship on any form |
+| Contact your representatives about policy | Take decision-making roles in a campaign |
+
+**Nothing about your F-1, OPT or H-1B status changes automatically on Nov 3.** What changes is who controls Congress from January 2027. The fast-moving items are executive rules and court cases: the blocked $100,000 H-1B fee, the proposed OPT fees, the end of "duration of status", and the wage-weighted H-1B lottery. Details: [docs/07](docs/07-non-citizens-students-and-workers.md).
+
+---
+
+## ⚙️ How the live system works
+
+```mermaid
+flowchart LR
+    S[Public sources<br/>forecasts + news feeds<br/>from 16 countries] -->|hourly| A[GitHub Action<br/>update-live.yml]
+    A --> P[scripts/update_live.py<br/>extract, average, flag stale]
+    P --> D[data/*.json, *.csv<br/>history.csv]
+    P --> C[assets/*.svg charts]
+    P --> R[README live block]
+    D --> W[GitHub Pages dashboard<br/>site/index.html]
+```
+
+| Piece | Path |
+|---|---|
+| Source list and extraction rules (edit here when a site changes) | [`data/sources.json`](data/sources.json) |
+| Latest values + averages | [`data/latest.json`](data/latest.json) |
+| World media list and live headlines | [`data/world_media.json`](data/world_media.json), [`data/headlines.json`](data/headlines.json) |
+| Time series | [`data/history.csv`](data/history.csv) |
+| Race-level data | [`data/senate_2026.csv`](data/senate_2026.csv), [`data/governors_2026.csv`](data/governors_2026.csv) |
+| Updater | [`scripts/update_live.py`](scripts/update_live.py) |
+| Website | [`site/index.html`](site/index.html) |
+| Schedules | [`.github/workflows/`](.github/workflows/) |
+
+Run locally:
+
+```bash
+pip install requests beautifulsoup4 lxml matplotlib
+python3 scripts/update_live.py            # fetch live + rebuild
+python3 scripts/update_live.py --offline  # rebuild charts from stored data
+```
+
+Method notes: the **average** is a simple mean of every source with a published number (models and one prediction market). Race-level probabilities come from Decision Desk HQ; for pure toss-ups DDHQ does not name a leader, so those are drawn at 50/50. Probabilities are not predictions of certainty: a 70% favorite loses 3 times in 10.
+
+---
+
+## ⚖️ Disclaimer
+
+> **This repository is only a collection of publicly available resources, data and forecasts. The creator is neutral and does not support or oppose any political party, candidate or ideology.** Numbers are reproduced from the cited sources, which may contain errors or change without notice. Nothing here is legal, immigration or financial advice. Non-citizens should consult their DSO or a licensed immigration attorney about their own situation.
