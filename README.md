@@ -1,3 +1,21 @@
+> ## 🙋 Too technical or too much code?
+> ### 👉 **[View the Dashboard / Website](https://aravindb98.github.io/us-midterm-elections-2026-/)**
+> Plain-language, mobile-friendly, auto-updating. No GitHub account or coding needed.
+
+<div align="center">
+
+### ⭐ Star · 🍴 Fork · 👤 Follow
+
+**If this is useful, please [⭐ star the repo](https://github.com/AravindB98/us-midterm-elections-2026-) so others can find it, [🍴 fork it](https://github.com/AravindB98/us-midterm-elections-2026-/fork) to build your own version, and [👤 follow @AravindB98](https://github.com/AravindB98) for updates.**
+
+[![GitHub stars](https://img.shields.io/github/stars/AravindB98/us-midterm-elections-2026-?style=social)](https://github.com/AravindB98/us-midterm-elections-2026-/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AravindB98/us-midterm-elections-2026-?style=social)](https://github.com/AravindB98/us-midterm-elections-2026-/fork)
+[![Follow](https://img.shields.io/github/followers/AravindB98?label=Follow%20%40AravindB98&style=social)](https://github.com/AravindB98)
+
+</div>
+
+---
+
 <div align="center">
 
 # 🗳️ US Midterm Elections 2026 (Nov 3)
@@ -9,7 +27,6 @@
 ![Election](https://img.shields.io/badge/Election%20Day-Nov%203%2C%202026-374151)
 ![Neutral](https://img.shields.io/badge/Stance-Nonpartisan%20collection-6b7280)
 
-**👉 Not technical? Open the [Live Dashboard](https://aravindb98.github.io/us-midterm-elections-2026-/). No GitHub account needed.**
 
 </div>
 
@@ -22,7 +39,7 @@
 Every hour (every 15 minutes on Election Day) a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-02 05:41 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
+_Last automatic update: **2026-11-02 05:49 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
 
 | Forecast average | Democrats | Republicans | Sources averaged |
 |---|---|---|---|
@@ -179,6 +196,13 @@ python3 scripts/update_live.py --offline  # rebuild charts from stored data
 Method notes: the **average** is a simple mean of every source with a published number (models and one prediction market). Race-level probabilities come from Decision Desk HQ; for pure toss-ups DDHQ does not name a leader, so those are drawn at 50/50. Probabilities are not predictions of certainty: a 70% favorite loses 3 times in 10.
 
 ---
+
+## ⭐ Support this project
+
+- **[⭐ Star](https://github.com/AravindB98/us-midterm-elections-2026-)** to bookmark it and help others discover it
+- **[🍴 Fork](https://github.com/AravindB98/us-midterm-elections-2026-/fork)** to adapt it for another election or country (all data and code are open)
+- **[👤 Follow @AravindB98](https://github.com/AravindB98)** for more open-source projects
+- Share the **[dashboard link](https://aravindb98.github.io/us-midterm-elections-2026-/)** with anyone who wants the plain-language version
 
 ## ⚖️ Disclaimer
 
