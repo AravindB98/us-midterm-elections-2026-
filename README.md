@@ -39,7 +39,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-02 08:14 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-02 08:29 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -89,8 +89,8 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 **Latest midterm headlines (auto-updated)**
 
 - [Midterms 2026: Congress Polls and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
-- [Who’s ahead on the generic congressional ballot?](https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2JLaXpfb3Vrd3gzTWJtNmtmWnVrVUJBdmFER0JTdlBabkFwdXZ3NFktUGtfeHZuMlhYZC1mdHpvdGNUczR4SEpXWW9FRF92V0otQ2Q2NTBnVzFGa0tmT0V0N2cxa1Y2cUtOeHQ5STNMbWlhQVA0eUtQa0dvR3A4bzdtWkZFOHZvMDdIbklZQ2NoN1lyZ1JV?oc=5) (Silver Bulletin)
 - [What Are the Polls Telling Us About the 2026 Midterm Elections?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazVILW52bnFRRm9vSWpjMXJsSGhuMDRyZjNrQVRyWTRnMUFYR1I1UE9aa1A2OGhTR2V5eXpVeGRJajhqWkV4azlMX0JlZDd3bGRNZTJXSjZqcUJITjVyY0hsbTN2S2Z3TDU2QUxOOWRwSE5FVUN3dEFuRDJ5di1hM25tOVVMczJNRGdz?oc=5) (Rutgers University)
+- [Who’s ahead on the generic congressional ballot?](https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2JLaXpfb3Vrd3gzTWJtNmtmWnVrVUJBdmFER0JTdlBabkFwdXZ3NFktUGtfeHZuMlhYZC1mdHpvdGNUczR4SEpXWW9FRF92V0otQ2Q2NTBnVzFGa0tmT0V0N2cxa1Y2cUtOeHQ5STNMbWlhQVA0eUtQa0dvR3A4bzdtWkZFOHZvMDdIbklZQ2NoN1lyZ1JV?oc=5) (Silver Bulletin)
 - [Ten Poll Numbers That Explain the 2026 Midterm Elections](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmx2dGpKczJubXRLdjJ2dGZqc2lxbWxHVHJseTgycVRMZV8xbDFLN0RkSHFpSW56aE5mNVZETlBTVFpKdzNKbl8yWUhya1FxaE9aamhnYmVTU1k5WHBTM2NlT3B6TmtzNHItTVBuY09aWUpfbEstUzBJdndZc0kyRl9wTTJTN01VZFJUQ1FR?oc=5) (Council on Foreign Relations)
 - [Polls, Analysis, Learning, and More](https://news.google.com/rss/articles/CBMie0FVX3lxTFByZnpVU3JjU1BFdjdCdHBSUUFUNV9NbHBudzFTckU0SGtLVnFEbjVTa2dkaFY0WWZsQk04SHBJci15ZC1oQTV4V1Y3RzlRVFV2cjRtZ21XbjFfMTlDSEpSNHc1bHptSW1OTnpCUVpFRlp0eE1MSGlFaDVQNA?oc=5) (Marist Poll)
 
