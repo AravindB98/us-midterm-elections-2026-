@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-02T23:15:16Z",
+  "updated_utc": "2026-11-02T23:28:53Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -132,7 +132,7 @@
       "url": "https://polymarket.com/",
       "lean": "Nonpartisan / unrated",
       "house": 94.5,
-      "senate": 76.5,
+      "senate": 75.5,
       "as_of": "2026-11-02",
       "status": "live",
       "note": "Crypto-based global market; user base often described as right-leaning."
@@ -154,7 +154,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "house": 98.0,
-      "senate": 71.5,
+      "senate": 71.8,
       "as_of": "2026-11-02"
     },
     "metaculus": {
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 91.2,
     "house_n": 10,
-    "senate_dem": 71.6,
+    "senate_dem": 71.5,
     "senate_n": 10
   },
   "senate_projection": {
@@ -230,7 +230,7 @@
       ]
     },
     "senate": {
-      "value": 71.6,
+      "value": 71.5,
       "median": 75.0,
       "n": 10,
       "min": {
@@ -245,8 +245,8 @@
       "stdev": 7.0,
       "by_type": {
         "forecast_model": 68.4,
-        "prediction_market": 76.2,
-        "crowd_forecast": 77.8
+        "prediction_market": 75.8,
+        "crowd_forecast": 77.9
       },
       "sources": [
         "ddhq",
