@@ -2,7 +2,7 @@
 
 [Back to README](../README.md)
 
-> Regenerated automatically on every live update. Last run: **2026-11-02T06:00:55Z**.
+> Regenerated automatically on every live update. Last run: **2026-11-02T06:01:21Z**.
 
 **146 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
 
