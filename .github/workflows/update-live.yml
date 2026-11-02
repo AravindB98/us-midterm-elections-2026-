@@ -1,9 +1,6 @@
-name: Live update and dashboard
+name: Rebuild on push (live updates run in live-loop.yml)
 
 on:
-  schedule:
-    - cron: "17 * * * *"        # hourly
-    - cron: "*/15 * 3-5 11 *"   # every 15 min, Nov 3-5 (UTC), Election Day and night
   workflow_dispatch: {}
   push:
     branches: [main]

@@ -128,7 +128,7 @@ API = {"polymarket": polymarket, "predictit": predictit, "manifold": manifold}
 
 
 # ------------------------------------------------------------ registry update
-def update_registry_sources(latest: dict, fetch_text, offline: bool) -> None:
+def update_registry_sources(latest: dict, fetch_text, offline: bool, only_fast: bool = False) -> None:
     reg = json.loads((DATA / "source_registry.json").read_text())["sources"]
     ch = latest.setdefault("chambers", {})
     for s in reg:
@@ -142,6 +142,8 @@ def update_registry_sources(latest: dict, fetch_text, offline: bool) -> None:
         if s.get("notes"):
             rec["note"] = s["notes"]
         ex = s.get("extract")
+        if only_fast and not (ex and (ex["kind"] in API or s["id"] == "kalshi")):
+            continue
         if offline or not ex:
             rec.setdefault("status", "not machine-readable" if not ex else "seed")
             continue

@@ -1,6 +1,6 @@
 > ## 🙋 Too technical or too much code?
 > ### 👉 **[View the Dashboard / Website](https://aravindb98.github.io/us-midterm-elections-2026-/)**
-> Plain-language, mobile-friendly, auto-updating. No GitHub account or coding needed.
+> **Midterms 2026 · Live Desk**: live gauges, a Senate Monte Carlo simulator, a state map, polls by pollster lean, world headlines from 16 countries and 146 sources, refreshed **every minute**. Mobile-friendly, no GitHub account or coding needed.
 
 <div align="center">
 
@@ -36,10 +36,10 @@
 
 ## 📡 Live forecast (auto-updated)
 
-Every hour (every 15 minutes on Election Day) a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
+Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-02 06:10 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
+_Last automatic update: **2026-11-02 06:17 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -172,7 +172,7 @@ Full explainer: **[docs/01 How US elections work](docs/01-how-us-elections-work.
 
 ```mermaid
 flowchart LR
-    S[Public sources<br/>forecasts + news feeds<br/>from 16 countries] -->|hourly| A[GitHub Action<br/>update-live.yml]
+    S[Public sources<br/>forecasts + news feeds<br/>from 16 countries] -->|every minute| A[GitHub Action<br/>live-loop.yml]
     A --> P[scripts/update_live.py<br/>extract, average, flag stale]
     P --> D[data/*.json, *.csv<br/>history.csv]
     P --> C[assets/*.svg charts]
@@ -189,7 +189,7 @@ flowchart LR
 | Race-level data | [`data/senate_2026.csv`](data/senate_2026.csv), [`data/governors_2026.csv`](data/governors_2026.csv) |
 | Updater | [`scripts/update_live.py`](scripts/update_live.py) |
 | Website | [`site/index.html`](site/index.html) |
-| Schedules | [`.github/workflows/`](.github/workflows/) |
+| Schedules | [`live-loop.yml`](.github/workflows/live-loop.yml): markets every minute, headlines every 5 min, full refresh every 15 min |
 
 Run locally:
 

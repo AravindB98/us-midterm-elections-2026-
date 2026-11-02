@@ -386,7 +386,7 @@ def readme_block(latest, names, urls, house, senate, proj, sen_rows, gov_rows, t
         return "n/a" if v is None else f"{v:.1f}%"
     hc, sc, gb, concl = hc or {}, sc or {}, gb or {}, concl or []
     lines = [
-        f"_Last automatic update: **{ts} UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._",
+        f"_Last automatic update: **{ts} UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._",
         "",
         "### 🧾 Conclusion (auto-generated from all sources)",
         "",
@@ -529,7 +529,10 @@ def build_media_doc(headlines: dict) -> None:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--offline", action="store_true")
+    ap.add_argument("--mode", choices=["full", "fast", "headlines"], default="full",
+                    help="fast = markets + consensus only (for 1-minute loop); headlines = fast + news feeds; full = everything")
     args = ap.parse_args()
+    fast = args.mode in ("fast", "headlines")
     ASSETS.mkdir(exist_ok=True)
 
     sources = json.loads((DATA / "sources.json").read_text())
@@ -539,12 +542,14 @@ def main() -> None:
     for s in sources["chamber_sources"]:
         latest["chambers"].setdefault(s["id"], {})["type"] = s["type"]
 
-    SE.update_registry_sources(latest, fetch_text, args.offline)
-    gb = SE.generic_ballot(args.offline)
-    headlines = update_headlines(args.offline)
-    build_media_doc(headlines)
-    update_races(DATA / "senate_2026.csv", sources["race_sources"]["senate"]["url"], args.offline)
-    update_races(DATA / "governors_2026.csv", sources["race_sources"]["governor"]["url"], args.offline)
+    SE.update_registry_sources(latest, fetch_text, args.offline, only_fast=fast)
+    gb = SE.generic_ballot(args.offline or fast)
+    if args.mode in ("full", "headlines"):
+        headlines = update_headlines(args.offline)
+        build_media_doc(headlines)
+    if args.mode == "full":
+        update_races(DATA / "senate_2026.csv", sources["race_sources"]["senate"]["url"], args.offline)
+        update_races(DATA / "governors_2026.csv", sources["race_sources"]["governor"]["url"], args.offline)
 
     sen = list(csv.DictReader((DATA / "senate_2026.csv").open()))
     gov = list(csv.DictReader((DATA / "governors_2026.csv").open()))
@@ -567,8 +572,7 @@ def main() -> None:
     prev = list(csv.DictReader(hist.open())) if not new else []
     row = {"timestamp_utc": latest["updated_utc"], "house_avg": house[0], "senate_avg": senate[0],
            "senate_expected_d": proj["expected_d"], "n_house": house[1], "n_senate": senate[1]}
-    same = prev and prev[-1]["house_avg"] == str(house[0]) and prev[-1]["senate_avg"] == str(senate[0]) \
-        and prev[-1]["timestamp_utc"][:10] == row["timestamp_utc"][:10]
+    same = prev and prev[-1]["house_avg"] == str(house[0]) and prev[-1]["senate_avg"] == str(senate[0])
     if not same:
         with hist.open("a", newline="") as f:
             w = csv.DictWriter(f, fieldnames=row.keys())
@@ -576,6 +580,9 @@ def main() -> None:
                 w.writeheader()
             w.writerow(row)
 
+    if fast:
+        print(f"Fast update done. House={house}, Senate={senate}")
+        return
     chart_infographic(latest, house, senate, proj, ts)
     chart_chambers(latest)
     chart_generic_ballot(gb)

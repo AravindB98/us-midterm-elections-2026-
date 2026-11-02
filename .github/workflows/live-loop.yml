@@ -1,0 +1,66 @@
+name: Live loop (every minute)
+
+# GitHub's scheduler can't run more often than every 5 minutes, so this job stays alive
+# for ~5h45m and runs the updater every 60 seconds, then re-dispatches itself.
+#   every minute : prediction markets (Kalshi, Polymarket, PredictIt, Manifold) + consensus
+#   every 5 min  : + headlines from 16 countries and topic feeds
+#   every 15 min : full refresh (scraped models, race tables, poll table, charts, README, docs)
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "7 */6 * * *"   # safety net if the self-dispatch chain ever breaks
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: live-loop
+  cancel-in-progress: false
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests beautifulsoup4 lxml matplotlib pandas html5lib
+      - name: Update every minute
+        env:
+          REPO: ${{ github.repository }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          publish_site () {
+            rm -rf _site && mkdir _site && cp site/index.html _site/ && cp -r data assets _site/ && touch _site/.nojekyll
+            ( cd _site && git init -q -b gh-pages && git add -A && git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -q -m "live $(date -u +%H:%M)" \
+              && git push -q -f "https://x-access-token:${TOKEN}@github.com/${REPO}.git" gh-pages ) || echo "publish failed"
+          }
+          END=$((SECONDS + 20700))
+          i=0
+          while [ $SECONDS -lt $END ]; do
+            start=$SECONDS
+            if [ $((i % 15)) -eq 0 ]; then mode=full; elif [ $((i % 5)) -eq 0 ]; then mode=headlines; else mode=fast; fi
+            echo "::group::iteration $i ($mode) $(date -u +%H:%M:%S)"
+            timeout 240 python scripts/update_live.py --mode $mode || echo "update error (continuing)"
+            publish_site
+            if [ "$mode" = full ]; then
+              git add data assets docs README.md
+              if ! git diff --cached --quiet; then
+                git commit -q -m "Live update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+                for t in 1 2 3; do git pull -q --rebase -X ours origin main && git push -q origin HEAD:main && break; sleep 5; done
+              fi
+            fi
+            echo "::endgroup::"
+            i=$((i + 1))
+            el=$((SECONDS - start)); [ $el -lt 60 ] && sleep $((60 - el))
+          done
+      - name: Re-dispatch to keep the loop alive
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api -X POST "repos/${{ github.repository }}/actions/workflows/live-loop.yml/dispatches" -f ref=main || true
