@@ -39,7 +39,7 @@
 Every hour (every 15 minutes on Election Day) a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-02 05:49 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
+_Last automatic update: **2026-11-02 05:53 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
 
 | Forecast average | Democrats | Republicans | Sources averaged |
 |---|---|---|---|
