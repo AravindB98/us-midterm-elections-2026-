@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-02T06:52:59Z",
+  "updated_utc": "2026-11-02T07:11:06Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -144,7 +144,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "senate": 72.0,
-      "house": 92.0,
+      "house": 93.0,
       "as_of": "2026-11-02"
     },
     "manifold": {
@@ -177,7 +177,7 @@
     }
   },
   "ensemble": {
-    "house_dem": 90.8,
+    "house_dem": 90.9,
     "house_n": 10,
     "senate_dem": 70.5,
     "senate_n": 10
@@ -198,8 +198,8 @@
   "disclaimer": "This is only a collection of publicly available resources and forecasts. The creator is neutral and does not support any political party, candidate or ideology.",
   "consensus": {
     "house": {
-      "value": 90.8,
-      "median": 92.0,
+      "value": 90.9,
+      "median": 92.5,
       "n": 10,
       "min": {
         "value": 83,
@@ -213,7 +213,7 @@
       "stdev": 4.4,
       "by_type": {
         "forecast_model": 89.8,
-        "prediction_market": 93.3,
+        "prediction_market": 93.6,
         "crowd_forecast": 90.0
       },
       "sources": [
