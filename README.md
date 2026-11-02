@@ -39,18 +39,18 @@
 Every hour (every 15 minutes on Election Day) a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-02 06:01 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
+_Last automatic update: **2026-11-02 06:08 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
-- House: Democrats strongly favored (weighted average 90% Democratic across 7 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 95% (Silver Bulletin (Nate Silver) FLIPR).
-- Senate: Democrats favored (weighted average 70% Democratic across 7 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).
+- House: Democrats strongly favored (weighted average 91% Democratic across 10 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 97% (Manifold Markets).
+- Senate: Democrats favored (weighted average 70% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).
 - Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
 
 | Consensus (weighted) | Democrats | Republicans | Fresh sources | Range across sources | Verdict |
 |---|---|---|---|---|---|
-| **House control** | 89.7% | 10.3% | 7 | 83% to 95% | Democrats strongly favored |
-| **Senate control** | 69.7% | 30.3% | 7 | 60% to 84% | Democrats favored |
+| **House control** | 90.8% | 9.2% | 10 | 83% to 97% | Democrats strongly favored |
+| **Senate control** | 70.5% | 29.5% | 10 | 60% to 84% | Democrats favored |
 | **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race odds | - | 51 needed |
 
 **Forecasts in the consensus**
@@ -62,9 +62,12 @@ _Last automatic update: **2026-11-02 06:01 UTC**. Refreshed hourly (every 15 min
 | [Silver Bulletin (Nate Silver) FLIPR](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model) | Forecast models | 95.0% | n/a | 2026-11-02 |
 | [Split Ticket / The Argument](https://www.theargumentmag.com/p/split-ticket-2026-midterms-model) | Forecast models | 89.0% | 65.0% | 2026-10-20 |
 | [VoteHub](https://votehub.com/) | Forecast models | n/a | 60.0% | 2026-10-24 |
-| [midtermforecast.com](https://midtermforecast.com/) | Forecast models | 91.0% | 75.0% | 2026-11-02 |
+| [midtermforecast.com](https://midtermforecast.com/) | Forecast models | 92.0% | 76.0% | 2026-11-02 |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | 93.3% | 71.0% | 2026-11-02 |
+| [Polymarket](https://polymarket.com/) | Prediction markets | 94.5% | 72.5% | 2026-11-02 |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | 92.0% | 72.0% | 2026-11-02 |
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | 83.0% | 84.0% | 2026-11-01 |
+| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 97.0% | 73.0% | 2026-11-02 |
 
 All 146 sources, grouped by type (models, markets, raters, pollsters, news, TV, social, academic, AI, repos): **[docs/09](docs/09-all-sources-consensus.md)**.
 
@@ -85,10 +88,10 @@ All 146 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 
 **Latest midterm headlines (auto-updated)**
 
+- [Who’s ahead on the generic congressional ballot?](https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2JLaXpfb3Vrd3gzTWJtNmtmWnVrVUJBdmFER0JTdlBabkFwdXZ3NFktUGtfeHZuMlhYZC1mdHpvdGNUczR4SEpXWW9FRF92V0otQ2Q2NTBnVzFGa0tmT0V0N2cxa1Y2cUtOeHQ5STNMbWlhQVA0eUtQa0dvR3A4bzdtWkZFOHZvMDdIbklZQ2NoN1lyZ1JV?oc=5) (Silver Bulletin)
 - [Midterms 2026: Congress Polls and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
 - [What Are the Polls Telling Us About the 2026 Midterm Elections?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazVILW52bnFRRm9vSWpjMXJsSGhuMDRyZjNrQVRyWTRnMUFYR1I1UE9aa1A2OGhTR2V5eXpVeGRJajhqWkV4azlMX0JlZDd3bGRNZTJXSjZqcUJITjVyY0hsbTN2S2Z3TDU2QUxOOWRwSE5FVUN3dEFuRDJ5di1hM25tOVVMczJNRGdz?oc=5) (Rutgers University)
 - [Ten Poll Numbers That Explain the 2026 Midterm Elections](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmx2dGpKczJubXRLdjJ2dGZqc2lxbWxHVHJseTgycVRMZV8xbDFLN0RkSHFpSW56aE5mNVZETlBTVFpKdzNKbl8yWUhya1FxaE9aamhnYmVTU1k5WHBTM2NlT3B6TmtzNHItTVBuY09aWUpfbEstUzBJdndZc0kyRl9wTTJTN01VZFJUQ1FR?oc=5) (Council on Foreign Relations)
-- [When will we know 2026 midterm election results? It may take some time, but that's normal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZnamdIek1pLVdlWUdONEhMM0dtcU1RRHctMEwxR3hOcjFudU9hRTk5ellBY19GRUZ1SUVUdmFicWt3cWJYM3h6Rm5QMnlUcHFxenR2UmpmeWkxbk5YY0ZaeG5XeDNaMTVsN3ZsaWdzUXlmdTBINnlZQXRPU3VzVVNWaU1Rdm0wWEVPeXg1dWhGSl9oRzlNYTVkWk5RZDFmN05Mcl9UaUF5NnNBMEp1bjlUYWhFRHNRVnZ5NGtQME5pQdIBxwFBVV95cUxOU1ZGT0Q0bW9ha0dpWm5QQ1J2UG85bEJqZDRHUGlmNUhDZ25lRkJnb3ZTaUpReENRTFNKQkhQdko2bGctX2RfS0lNMUhwQnRwamxhbkIzZzQ2MFl6TDc1RGRMUnFkdjNUSkZoSnVwYXd5ZHBPYnNBYTAtNnRfdDFyRTVKVFJsQXpFYWZVUC1OZE5BUlB1NEcyMjdrYldNNk44SnkwTHYyb0hNX0VQZkZvRjRlQ3lETTJiWFJwZFBQcF9vOWpkcVNF?oc=5) (PBS)
 - [US midterms 2026: All you need to know in maps and charts](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUJkNXdEV0ZzQnFZVmw5RWp6X284ME1SckZYSHNtUDhUcGloVjZOSkU4RUo5M1NHN08yTEIxWndMM2RJMW15YTVGMmRYWW5GNFYtSlVydk1scm1WMXBnWi1odU85VHhXSWdTaEM0VWhJaWR4ZVk2ZU9nVmIyTHhBZ29uWE9zR1o1Rnh3N1Rya9IBlAFBVV95cUxOOC1qNjF3M1Q4b0QwMHIyS1dRSUQxbzdLTFJTYXg0NVN6T1RMaGlvdnl3RG9Zamtza2w5MzhGVTJyYVp5OE0zYWhXVHJKc2ZmRFQyQTFKNDh0ZnpyU1I2bjRKVDNURDkxWExxWmNyejJCWHdwNHNkUUZlQU5uNmp1VzdvRWhYOUZrMERhWFhfNWNfcWxK?oc=5) (Al Jazeera)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.

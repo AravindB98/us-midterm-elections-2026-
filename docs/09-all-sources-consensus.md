@@ -2,14 +2,14 @@
 
 [Back to README](../README.md)
 
-> Regenerated automatically on every live update. Last run: **2026-11-02T06:01:21Z**.
+> Regenerated automatically on every live update. Last run: **2026-11-02T06:08:54Z**.
 
 **146 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
 
 ## Conclusion (auto-generated)
 
-- House: Democrats strongly favored (weighted average 90% Democratic across 7 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 95% (Silver Bulletin (Nate Silver) FLIPR).
-- Senate: Democrats favored (weighted average 70% Democratic across 7 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).
+- House: Democrats strongly favored (weighted average 91% Democratic across 10 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 97% (Manifold Markets).
+- Senate: Democrats favored (weighted average 70% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).
 - Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
 
 ## Forecasts used in the consensus
@@ -17,23 +17,23 @@
 | Source | Type | Lean (as characterized) | House (D) | Senate (D) | As of | Status | In consensus |
 |---|---|---|---|---|---|---|---|
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | Center (outlet) | 83.0% | 84.0% | 2026-11-01 | seed | yes |
-| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | Nonpartisan / unrated | - | - | - | seed | no |
+| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | Nonpartisan / unrated | 97.0% | 73.0% | 2026-11-02 | live | yes |
 | [Metaculus](https://www.metaculus.com/questions/34484/us-congress-control-after-2026-midterms/) | Crowd forecasts | Nonpartisan / unrated | - | - | - | not machine-readable | no |
 | [CNN data analysis (Harry Enten)](https://www.cnn.com/politics) | Forecast models | Lean Left (outlet, per AllSides) | - | - | - | not machine-readable | no |
 | [Decision Desk HQ / The Hill](https://votes.decisiondeskhq.com/forecast/2026) | Forecast models | Nonpartisan / unrated | 84.0% | 64.0% | 2026-11-02 | stale | yes |
-| [FiftyPlusOne / Strength In Numbers (G. Elliott Morris)](https://fiftyplusone.news/) | Forecast models | Nonpartisan / unrated | 84.0% | - | 2026-10-15 | seed | no |
+| [FiftyPlusOne / Strength In Numbers (G. Elliott Morris)](https://fiftyplusone.news/) | Forecast models | Nonpartisan / unrated | 84.0% | - | 2026-10-15 | stale | no |
 | [JHK Forecasts](https://jhkforecasts.com/) | Forecast models | Nonpartisan / unrated | - | - | - | not machine-readable | no |
-| [Poliwave](https://www.poliwave.com/us/fed/projection) | Forecast models | Nonpartisan / unrated | 89.0% | 78.0% | 2026-11-02 | live | yes |
+| [Poliwave](https://www.poliwave.com/us/fed/projection) | Forecast models | Nonpartisan / unrated | 89.0% | 78.0% | 2026-11-02 | stale | yes |
 | [Quantus Insights Senate forecast](https://quantus.substack.com/) | Forecast models | Lean Right (pollster, commonly characterized) | - | - | - | not machine-readable | no |
-| [Race to the WH (Logan Phillips)](https://www.racetothewh.com/senate24) | Forecast models | Nonpartisan / unrated | - | - | - | seed | no |
+| [Race to the WH (Logan Phillips)](https://www.racetothewh.com/senate24) | Forecast models | Nonpartisan / unrated | - | - | - | unavailable | no |
 | [Silver Bulletin (Nate Silver) FLIPR](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model) | Forecast models | Nonpartisan / unrated | 95.0% | - | 2026-11-02 | live | yes |
-| [Split Ticket / The Argument](https://www.theargumentmag.com/p/split-ticket-2026-midterms-model) | Forecast models | Nonpartisan / unrated | 89.0% | 65.0% | 2026-10-20 | seed | yes |
-| [The Economist midterm model](https://theeconomistoffthecharts.substack.com/p/our-prediction-model-for-americas) | Forecast models | Lean Left (outlet, per AllSides) | 90.0% | 49.0% | 2026-06-15 | seed | no |
-| [VoteHub](https://votehub.com/) | Forecast models | Nonpartisan / unrated | - | 60.0% | 2026-10-24 | seed | yes |
-| [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 91.0% | 75.0% | 2026-11-02 | live | yes |
+| [Split Ticket / The Argument](https://www.theargumentmag.com/p/split-ticket-2026-midterms-model) | Forecast models | Nonpartisan / unrated | 89.0% | 65.0% | 2026-10-20 | stale | yes |
+| [The Economist midterm model](https://theeconomistoffthecharts.substack.com/p/our-prediction-model-for-americas) | Forecast models | Lean Left (outlet, per AllSides) | 90.0% | 49.0% | 2026-06-15 | stale | no |
+| [VoteHub](https://votehub.com/) | Forecast models | Nonpartisan / unrated | - | 60.0% | 2026-10-24 | stale | yes |
+| [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 92.0% | 76.0% | 2026-11-02 | live | yes |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | Nonpartisan / unrated | 93.3% | 71.0% | 2026-11-02 | live | yes |
-| [Polymarket](https://polymarket.com/) | Prediction markets | Nonpartisan / unrated | 93.5% | 65.5% | 2026-10-04 | seed | no |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | - | - | - | seed | no |
+| [Polymarket](https://polymarket.com/) | Prediction markets | Nonpartisan / unrated | 94.5% | 72.5% | 2026-11-02 | live | yes |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 92.0% | 72.0% | 2026-11-02 | live | yes |
 
 ## Every source, by type
 
