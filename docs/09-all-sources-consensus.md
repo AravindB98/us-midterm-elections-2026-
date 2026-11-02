@@ -2,14 +2,14 @@
 
 [Back to README](../README.md)
 
-> Regenerated automatically on every live update. Last run: **2026-11-02T10:14:26Z**.
+> Regenerated automatically on every live update. Last run: **2026-11-02T10:29:28Z**.
 
 **179 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
 
 ## Conclusion (auto-generated)
 
 - House: Democrats strongly favored (weighted average 91% Democratic across 10 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 97% (Manifold Markets).
-- Senate: Democrats favored (weighted average 70% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).
+- Senate: Democrats favored (weighted average 71% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).
 - Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
 
 ## Forecasts used in the consensus
@@ -33,7 +33,7 @@
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 92.0% | 76.0% | 2026-11-02 | live | yes |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | Nonpartisan / unrated | 93.3% | 71.0% | 2026-11-02 | live | yes |
 | [Polymarket](https://polymarket.com/) | Prediction markets | Nonpartisan / unrated | 94.5% | 72.5% | 2026-11-02 | live | yes |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 92.0% | 72.0% | 2026-11-02 | live | yes |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 92.0% | 73.0% | 2026-11-02 | live | yes |
 
 ## Every source, by type
 
