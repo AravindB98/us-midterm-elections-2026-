@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml matplotlib
+        run: pip install requests beautifulsoup4 lxml matplotlib pandas html5lib
       - name: Fetch sources and rebuild data, charts, README
         run: |
           if [ "${{ github.event_name }}" = "push" ]; then

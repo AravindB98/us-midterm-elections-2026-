@@ -84,6 +84,7 @@
   <button data-t="senate">Senate</button>
   <button data-t="governors">Governors</button>
   <button data-t="trend">Trend</button>
+  <button data-t="allsrc">All sources &amp; consensus</button>
   <button data-t="world">World media &amp; live news</button>
   <button data-t="sources">Sources</button>
   <button data-t="howto">How elections work</button>
@@ -108,6 +109,9 @@
         <p class="note" id="tossN"></p></div>
     </div>
     <p class="note" style="margin-top:10px">Left / blue = Democrats. Right / red = Republicans. These are probabilities, not results: a 70% favorite still loses about 3 times in 10.</p>
+
+    <div class="card" style="margin-top:16px"><h3>🧾 Conclusion from all sources</h3><ul class="clean" id="concl"></ul>
+      <p class="note">Weighted consensus: forecast models ×1.0, money-based prediction markets ×0.8, crowd forecasts ×0.4; only numbers from the last 14 days count. Generated automatically; not an endorsement.</p></div>
 
     <div class="card" style="margin-top:16px"><h3>What each forecaster says</h3>
       <div style="overflow-x:auto"><table id="srcTable"><thead><tr><th>Source</th><th>Type</th><th>House (Dem chance)</th><th>Senate (Dem chance)</th><th>As of</th></tr></thead><tbody></tbody></table></div>
@@ -147,6 +151,25 @@
       <div id="trendChart"></div>
       <div class="legend"><span><i style="background:var(--d)"></i>House: Democratic chance</span><span><i style="background:#7c3aed"></i>Senate: Democratic chance</span><span>Dashed line = 50% (below it, Republicans are favored)</span></div>
       <p class="note">A new point is added each time the automatic update sees a change.</p>
+    </div>
+  </section>
+
+  <!-- ALL SOURCES -->
+  <section id="allsrc">
+    <div class="grid">
+      <div class="card"><h3>House consensus</h3><div id="hcBox"></div></div>
+      <div class="card"><h3>Senate consensus</h3><div id="scBox"></div></div>
+      <div class="card"><h3>Generic ballot by pollster lean</h3><div id="gbBox"><p class="note">Appears after the first automatic update.</p></div></div>
+    </div>
+    <div class="card" style="margin-top:16px"><h3>Every tracked source</h3>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <select class="search" id="typeSel" aria-label="Filter by type"></select>
+        <select class="search" id="leanSel" aria-label="Filter by lean"></select>
+        <input class="search" id="srcSearch" placeholder="Search sources…">
+      </div>
+      <p class="note" id="srcCount"></p>
+      <div style="overflow-x:auto"><table id="regTable"><thead><tr><th>Source</th><th>Type</th><th>Lean (as characterized)</th><th>House (D)</th><th>Senate (D)</th><th>Notes</th></tr></thead><tbody></tbody></table></div>
+      <p class="note">Lean labels follow common third-party characterizations (AllSides, Ad Fontes) or a firm's partisan clients; they may be disputed and are not a measure of accuracy.</p>
     </div>
   </section>
 
@@ -301,7 +324,7 @@ async function load(){
     document.getElementById('tossN').textContent=`${pj.counts?.['Toss Up']??'?'} Senate races rated Toss Up.`;
     const srcs=Object.fromEntries(sources.chamber_sources.map(s=>[s.id,s]));
     const tb=document.querySelector('#srcTable tbody');tb.innerHTML='';
-    Object.entries(latest.chambers).forEach(([k,v])=>{const s=srcs[k]||{};const f=x=>x==null?'<span class="note">no public number</span>':x.toFixed(1)+'%';
+    Object.entries(latest.chambers).filter(([k,v])=>v.house!=null||v.senate!=null).forEach(([k,v])=>{const s=srcs[k]||{url:v.url,name:v.name,type:v.type};const f=x=>x==null?'<span class="note">no public number</span>':x.toFixed(1)+'%';
       tb.insertAdjacentHTML('beforeend',`<tr><td><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name||NAMES[k]||k)}</a></td><td>${esc(v.type||s.type)}</td><td>${f(v.house)}</td><td>${f(v.senate)}</td><td>${esc(v.as_of||'')} ${v.status==='stale'?'<span class="stale">stale</span>':''}</td></tr>`)});
     // seat map
     const seats=Array(34).fill('Not up: D');ORDER.forEach(k=>sen.filter(r=>r.ddhq_rating===k).forEach(r=>seats.push(k+'|'+r.state)));seats.push(...Array(31).fill('Not up: R'));
@@ -337,10 +360,34 @@ async function loadWorld(){
   }catch(e){document.getElementById('countryInfo').textContent='Could not load world media: '+e.message}
 }
 
+
+const TL={forecast_model:"Forecast model",prediction_market:"Prediction market",crowd_forecast:"Crowd forecast",aggregator:"Aggregator",expert_rating:"Expert rating",poll_average:"Poll average",pollster:"Pollster",news_print:"News (print/online)",tv:"TV media",social:"Social media",academic:"Academic / think tank",ai_forecast:"AI model / AI forecast",open_source_repo:"Open-source repo"};
+function grp(l){l=(l||'').toLowerCase();if(l.includes('republican')||/\bright\b|lean right|conservative|center-right/.test(l))return'Right / Republican-leaning';if(l.includes('democrat')||/\bleft\b|lean left|progressive|center-left/.test(l))return'Left / Democratic-leaning';return'Center / nonpartisan / unrated'}
+function cBox(c){if(!c||c.value==null)return'<p class="note">Not enough fresh data.</p>';const d=c.value;return `<div class="big"><span class="d">D ${Math.round(d)}%</span><span class="r">R ${Math.round(100-d)}%</span></div><div class="bar"><span style="width:${d}%;background:var(--d)"></span><span style="width:${100-d}%;background:var(--r)"></span></div><p class="note">${c.n} fresh sources · median ${c.median}% · range ${Math.round(c.min.value)}% (${esc(c.min.source)}) to ${Math.round(c.max.value)}% (${esc(c.max.source)}) · ${c.share_favoring_dem}% of sources favor Democrats</p>`}
+async function loadAll(){
+  try{
+    const [reg,latest,gb]=await Promise.all([get('data/source_registry.json','json'),get('data/latest.json','json'),get('data/generic_ballot.json','json').catch(()=>({}))]);
+    const cons=latest.consensus||{};
+    document.getElementById('concl').innerHTML=(cons.conclusion||[]).map(x=>`<li>${esc(x)}</li>`).join('')||'<li class="note">Conclusion appears after the next automatic update.</li>';
+    document.getElementById('hcBox').innerHTML=cBox(cons.house);document.getElementById('scBox').innerHTML=cBox(cons.senate);
+    if(gb.by_group){document.getElementById('gbBox').innerHTML=Object.entries(gb.by_group).map(([g,v])=>`<div style="margin:6px 0"><b>${esc(g)}</b>: ${v.avg_margin>=0?'D':'R'}+${Math.abs(v.avg_margin).toFixed(1)} <span class="note">(${v.n} polls)</span></div>`).join('')+`<p class="note">Last ${gb.n_recent} polls, avg ${gb.average_margin>=0?'D':'R'}+${Math.abs(gb.average_margin).toFixed(1)}. <a href="${esc(gb.source)}" target="_blank" rel="noopener">Poll table</a></p>`}
+    const ch=latest.chambers||{};const S=reg.sources;
+    const ts=document.getElementById('typeSel'),ls=document.getElementById('leanSel');
+    if(!ts.options.length){ts.innerHTML='<option value="">All types ('+S.length+')</option>'+Object.entries(TL).map(([k,v])=>`<option value="${k}">${v} (${S.filter(s=>s.type===k).length})</option>`).join('');
+      ls.innerHTML='<option value="">All leans</option>'+['Left / Democratic-leaning','Center / nonpartisan / unrated','Right / Republican-leaning'].map(x=>`<option>${x}</option>`).join('')}
+    const f=v=>v==null?'<span class="note">–</span>':v.toFixed(1)+'%';
+    const draw=()=>{const t=ts.value,l=ls.value,q=document.getElementById('srcSearch').value.toLowerCase();
+      const rows=S.filter(s=>(!t||s.type===t)&&(!l||grp(s.lean)===l)&&(!q||JSON.stringify(s).toLowerCase().includes(q)));
+      document.getElementById('srcCount').textContent=`Showing ${rows.length} of ${S.length} sources`;
+      document.querySelector('#regTable tbody').innerHTML=rows.map(s=>{const c=ch[s.id]||{};return `<tr><td><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></td><td>${TL[s.type]||s.type}</td><td>${esc(s.lean)}</td><td>${f(c.house)}</td><td>${f(c.senate)}</td><td class="note">${esc(s.notes||s.provides||'')}${c.status==='stale'?' <span class="stale">stale</span>':''}</td></tr>`}).join('')};
+    ts.onchange=ls.onchange=draw;document.getElementById('srcSearch').oninput=draw;draw();
+  }catch(e){document.getElementById('srcCount').textContent='Could not load sources: '+e.message}
+}
+
 document.getElementById('tabs').onclick=e=>{const b=e.target.closest('button');if(!b)return;
   document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x===b));
   document.querySelectorAll('main section').forEach(s=>s.classList.toggle('on',s.id===b.dataset.t));};
-load();loadWorld();setInterval(()=>{load();loadWorld()},5*60*1000);
+load();loadWorld();loadAll();setInterval(()=>{load();loadWorld();loadAll()},5*60*1000);
 </script>
 </body>
 </html>

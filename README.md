@@ -39,21 +39,34 @@
 Every hour (every 15 minutes on Election Day) a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-02 05:53 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
+_Last automatic update: **2026-11-02 06:00 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
 
-| Forecast average | Democrats | Republicans | Sources averaged |
-|---|---|---|---|
-| **House control** | 90.5% | 9.5% | 5 |
-| **Senate control** | 72.0% | 28.0% | 4 |
-| **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race probabilities |
+### 🧾 Conclusion (auto-generated from all sources)
 
-| Source | Type | House (D) | Senate (D) | As of | Status |
+- House: Democrats strongly favored (weighted average 90% Democratic across 7 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 95% (Silver Bulletin (Nate Silver) FLIPR).
+- Senate: Democrats favored (weighted average 70% Democratic across 7 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).
+- Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
+
+| Consensus (weighted) | Democrats | Republicans | Fresh sources | Range across sources | Verdict |
 |---|---|---|---|---|---|
-| [Decision Desk HQ](https://votes.decisiondeskhq.com/forecast/2026) | model | 84.0% | 64.0% | 2026-11-02 | stale |
-| [Silver Bulletin (FLIPR)](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model) | model | 95.0% | n/a | 2026-11-02 | live |
-| [Poliwave](https://www.poliwave.com/us/fed/projection) | model | 89.0% | 78.0% | 2026-11-02 | live |
-| [midtermforecast.com](https://midtermforecast.com/) | model | 91.0% | 75.0% | 2026-11-02 | live |
-| [Kalshi (market)](https://news.kalshi.com/p/2026-midterm-predictions) | market | 93.3% | 71.0% | 2026-11-02 | live |
+| **House control** | 89.7% | 10.3% | 7 | 83% to 95% | Democrats strongly favored |
+| **Senate control** | 69.7% | 30.3% | 7 | 60% to 84% | Democrats favored |
+| **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race odds | - | 51 needed |
+
+**Forecasts in the consensus**
+
+| Source | Type | House (D) | Senate (D) | As of |
+|---|---|---|---|---|
+| [Decision Desk HQ / The Hill](https://votes.decisiondeskhq.com/forecast/2026) | Forecast models | 84.0% | 64.0% | 2026-11-02 |
+| [Poliwave](https://www.poliwave.com/us/fed/projection) | Forecast models | 89.0% | 78.0% | 2026-11-02 |
+| [Silver Bulletin (Nate Silver) FLIPR](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model) | Forecast models | 95.0% | n/a | 2026-11-02 |
+| [Split Ticket / The Argument](https://www.theargumentmag.com/p/split-ticket-2026-midterms-model) | Forecast models | 89.0% | 65.0% | 2026-10-20 |
+| [VoteHub](https://votehub.com/) | Forecast models | n/a | 60.0% | 2026-10-24 |
+| [midtermforecast.com](https://midtermforecast.com/) | Forecast models | 91.0% | 75.0% | 2026-11-02 |
+| [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | 93.3% | 71.0% | 2026-11-02 |
+| [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | 83.0% | 84.0% | 2026-11-01 |
+
+All 146 sources, grouped by type (models, markets, raters, pollsters, news, TV, social, academic, AI, repos): **[docs/09](docs/09-all-sources-consensus.md)**.
 
 **Closest Senate races right now**
 
@@ -69,19 +82,6 @@ _Last automatic update: **2026-11-02 05:53 UTC**. Refreshed hourly (every 15 min
 | Nebraska | - | Pete Ricketts (inc.); Dan Osborn (I) | Lean R | 73% |
 | Florida | Angie Nixon | Ashley Moody (inc.) | Likely R | 75% |
 | Michigan | Abdul El-Sayed | Mike Rogers | Likely D | 76% |
-
-**Closest governor races right now**
-
-| State | Rating | Win prob. (favored side) |
-|---|---|---|
-| Nevada | Toss Up | 57% |
-| Ohio | Toss Up | 60% |
-| Georgia | Lean D | 61% |
-| Florida | Lean R | 62% |
-| Kansas | Lean R | 65% |
-| Alaska | Lean D | 67% |
-| Iowa | Lean D | 69% |
-| Texas | Lean R | 70% |
 
 **Latest midterm headlines (auto-updated)**
 
@@ -99,6 +99,8 @@ Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sou
 ### Charts
 
 ![Chamber control by forecaster](assets/chamber_probabilities.svg)
+
+![Generic ballot by pollster lean](assets/generic_ballot_by_lean.svg)
 
 ![Senate battlegrounds](assets/senate_battlegrounds.svg)
 
@@ -145,6 +147,7 @@ Full explainer: **[docs/01 How US elections work](docs/01-how-us-elections-work.
 | 5 | [Media, forecasters, polls](docs/05-media-and-forecasters.md) | Race raters, models, poll averages, prediction markets, results desks, media-literacy checklist |
 | 6 | [Research and studies](docs/06-research-and-studies.md) | CES, ANES, MIT, Pew, think tanks across the spectrum, Northeastern research |
 | 7 | [**Non-citizens: students and workers**](docs/07-non-citizens-students-and-workers.md) | Can't vote (and the penalties), what you *can* do, H-1B / OPT / F-1 policy stakes, scenarios, checklist |
+| 9 | [**All sources, consensus and conclusion**](docs/09-all-sources-consensus.md) | 146 sources by type (models, markets, raters, pollsters of every lean, news, TV, social, academic, AI, repos), weighted consensus and auto-written conclusion |
 | 8 | [**Global media and research (16 countries)**](docs/08-global-media-and-research-sources.md) | TV, print, social and think tanks from the 10 most populous countries and 10 largest economies, with **auto-updated headlines** from each |
 
 ---

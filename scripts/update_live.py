@@ -28,6 +28,9 @@ import statistics
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import sources_engine as SE  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 ASSETS = ROOT / "assets"
@@ -227,8 +230,8 @@ def chart_infographic(latest, house, senate, proj, ts):
         ax.add_patch(plt.Rectangle((bx + bw * d_val / 100 + 0.02, 1.05), bw * r_val / 100 - 0.02, 0.28, color=R_RED))
         ax.text(x + 0.25, 0.65, sub.format(n=n), fontsize=9.5, color=MUTED)
 
-    card(0.4, "Chance of controlling the HOUSE", house[0], house[1], "average of {n} public forecasts")
-    card(4.2, "Chance of controlling the SENATE", senate[0], senate[1], "average of {n} public forecasts")
+    card(0.4, "Chance of controlling the HOUSE", house[0], house[1], "weighted consensus of {n} fresh forecasts")
+    card(4.2, "Chance of controlling the SENATE", senate[0], senate[1], "weighted consensus of {n} fresh forecasts")
     ax.add_patch(plt.Rectangle((8.0, 0.45), 3.6, 2.55, color="#f9fafb", ec=GRID, lw=1))
     ax.text(8.25, 2.6, "Senate seat projection", fontsize=12, weight="bold", color=INK)
     ax.text(8.25, 1.55, f"{proj['expected_d']:.0f}", fontsize=28, weight="bold", color=D_BLUE)
@@ -241,33 +244,57 @@ def chart_infographic(latest, house, senate, proj, ts):
     fig.savefig(ASSETS / "infographic.svg"); plt.close(fig)
 
 
-def chart_chambers(latest, names):
+def chart_chambers(latest, names=None):
     plt = _mpl()
-    ids = [k for k in names if k in latest["chambers"]]
-    fig, axes = plt.subplots(1, 2, figsize=(12, 4.2), sharey=True)
+    rows = [(k, r) for k, r in latest["chambers"].items() if r.get("type") in SE.WEIGHTS and (r.get("house") is not None or r.get("senate") is not None)]
+    rows.sort(key=lambda kr: (list(SE.WEIGHTS).index(kr[1]["type"]), kr[1]["name"]))
+    n = max(len(rows), 1)
+    fig, axes = plt.subplots(1, 2, figsize=(13, 0.45 * n + 1.8), sharey=True)
     for ax, chamber in zip(axes, ("house", "senate")):
-        labels, vals = [], []
-        for k in ids:
-            v = latest["chambers"][k].get(chamber)
-            labels.append(names[k] + (" *" if latest["chambers"][k].get("status") == "stale" else ""))
-            vals.append(v)
-        y = range(len(labels))
-        for i, v in enumerate(vals):
+        labels = []
+        for i, (k, r) in enumerate(rows):
+            fresh = SE.is_fresh(r)
+            labels.append(r["name"][:34] + ("" if fresh else " (old, excluded)"))
+            v = r.get(chamber)
             if v is None:
-                ax.text(2, i, "no public number", va="center", color=MUTED, fontsize=9.5)
+                ax.text(2, i, "no public number", va="center", color=MUTED, fontsize=9)
                 continue
-            ax.barh(i, v, color=D_BLUE, height=0.55)
-            ax.barh(i, 100 - v, left=v, color=R_RED, height=0.55)
-            ax.text(v - 1.5, i, f"D {v:.0f}%", va="center", ha="right", color="white", fontsize=10, weight="bold")
+            a = 1.0 if fresh else 0.35
+            ax.barh(i, v, color=D_BLUE, height=0.6, alpha=a)
+            ax.barh(i, 100 - v, left=v, color=R_RED, height=0.6, alpha=a)
+            ax.text(min(v, 96) - 1.5, i, f"{v:.0f}%", va="center", ha="right", color="white", fontsize=9, weight="bold")
         ax.axvline(50, color=INK, lw=1, ls=(0, (3, 3)))
-        ax.set_yticks(list(y)); ax.set_yticklabels(labels); ax.invert_yaxis()
-        ax.set_xlim(0, 100); ax.set_xlabel("Chance of control (%)  |  blue = Democrats, red = Republicans")
-        ax.set_title(f"{chamber.title()} control by forecaster", loc="left", weight="bold", color=INK)
+        ax.set_yticks(range(len(labels))); ax.set_yticklabels(labels, fontsize=9); ax.invert_yaxis()
+        ax.set_xlim(0, 100); ax.set_xlabel("Dem chance of control (%)  |  blue = D, red = R")
+        ax.set_title(f"{chamber.title()}: every forecast with a public number", loc="left", weight="bold", color=INK)
         for s in ("top", "right", "left"):
             ax.spines[s].set_visible(False)
-    fig.text(0.01, 0.01, "* stale: last good value kept because the source could not be read on the latest run.  " + DISCLAIMER, fontsize=7.5, color=MUTED)
-    fig.tight_layout(rect=(0, 0.05, 1, 1))
+    fig.text(0.01, 0.005, f"Faded = older than {SE.FRESH_DAYS} days, excluded from consensus. Models, prediction markets and crowd forecasts. " + DISCLAIMER, fontsize=7.5, color=MUTED)
+    fig.tight_layout(rect=(0, 0.03, 1, 1))
     fig.savefig(ASSETS / "chamber_probabilities.svg"); plt.close(fig)
+
+
+def chart_generic_ballot(gb):
+    plt = _mpl()
+    fig, ax = plt.subplots(figsize=(10, 3.6))
+    groups = gb.get("by_group", {})
+    order = [g for g in ("Republican-leaning", "Nonpartisan", "Democratic-leaning", "Unclassified") if g in groups]
+    if not order:
+        ax.text(0.5, 0.5, "Generic-ballot poll table not available yet", ha="center", va="center", color=MUTED, transform=ax.transAxes)
+    for i, g in enumerate(order):
+        m = groups[g]["avg_margin"]
+        ax.barh(i, m, color=D_BLUE if m >= 0 else R_RED, height=0.55)
+        ax.text(m + (0.3 if m >= 0 else -0.3), i, f"{'D' if m >= 0 else 'R'}+{abs(m):.1f}  ({groups[g]['n']} polls)", va="center", ha="left" if m >= 0 else "right", fontsize=10, color=INK)
+    ax.axvline(0, color=INK, lw=1)
+    ax.set_yticks(range(len(order))); ax.set_yticklabels(order); ax.invert_yaxis()
+    lim = max([abs(groups[g]["avg_margin"]) for g in order] + [5]) + 4
+    ax.set_xlim(-lim, lim); ax.set_xlabel("Generic ballot margin (points): right = Democratic lead, left = Republican lead")
+    ax.set_title("Generic congressional ballot, grouped by pollster lean", loc="left", weight="bold", color=INK)
+    for s in ("top", "right", "left"):
+        ax.spines[s].set_visible(False)
+    fig.text(0.01, 0.005, "Source: Wikipedia nationwide poll table (auto-updated). Lean = common characterization or partisan clients, not accuracy. " + DISCLAIMER, fontsize=7.5, color=MUTED)
+    fig.tight_layout(rect=(0, 0.05, 1, 1))
+    fig.savefig(ASSETS / "generic_ballot_by_lean.svg"); plt.close(fig)
 
 
 def chart_races(rows, title, fname, max_rows=14):
@@ -354,33 +381,39 @@ def chart_history():
 
 
 # ---------------------------------------------------------------- README block
-def readme_block(latest, names, urls, house, senate, proj, sen_rows, gov_rows, ts):
+def readme_block(latest, names, urls, house, senate, proj, sen_rows, gov_rows, ts, hc=None, sc=None, gb=None, concl=None):
     def fmt(v):
         return "n/a" if v is None else f"{v:.1f}%"
+    hc, sc, gb, concl = hc or {}, sc or {}, gb or {}, concl or []
     lines = [
         f"_Last automatic update: **{ts} UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._",
         "",
-        "| Forecast average | Democrats | Republicans | Sources averaged |",
-        "|---|---|---|---|",
-        f"| **House control** | {fmt(house[0])} | {fmt(None if house[0] is None else 100 - house[0])} | {house[1]} |",
-        f"| **Senate control** | {fmt(senate[0])} | {fmt(None if senate[0] is None else 100 - senate[0])} | {senate[1]} |",
-        f"| **Senate seats (expected)** | {proj['expected_d']} | {proj['expected_r']} | DDHQ race probabilities |",
+        "### 🧾 Conclusion (auto-generated from all sources)",
         "",
-        "| Source | Type | House (D) | Senate (D) | As of | Status |",
+    ] + [f"- {c}" for c in concl] + [
+        "",
+        "| Consensus (weighted) | Democrats | Republicans | Fresh sources | Range across sources | Verdict |",
         "|---|---|---|---|---|---|",
     ]
-    for k, name in names.items():
-        r = latest["chambers"].get(k, {})
-        lines.append(f"| [{name}]({urls[k]}) | {r.get('type','')} | {fmt(r.get('house'))} | {fmt(r.get('senate'))} | {r.get('as_of','')} | {r.get('status','')} |")
+    for label, c in (("**House control**", hc), ("**Senate control**", sc)):
+        v = c.get("value")
+        rng = f"{c['min']['value']:.0f}% to {c['max']['value']:.0f}%" if v is not None else "-"
+        lines.append(f"| {label} | {fmt(v)} | {fmt(None if v is None else 100 - v)} | {c.get('n', 0)} | {rng} | {SE.verdict(v)} |")
+    lines.append(f"| **Senate seats (expected)** | {proj['expected_d']} | {proj['expected_r']} | DDHQ race odds | - | 51 needed |")
+    if gb.get("by_group"):
+        lines += ["", "| Generic ballot by pollster lean | Avg margin | Polls |", "|---|---|---|"]
+        for g, v in sorted(gb["by_group"].items()):
+            lines.append(f"| {g} | {'D' if v['avg_margin'] >= 0 else 'R'}+{abs(v['avg_margin']):.1f} | {v['n']} |")
+    lines += ["", "**Forecasts in the consensus**", "", "| Source | Type | House (D) | Senate (D) | As of |", "|---|---|---|---|---|"]
+    for k, r in sorted(latest["chambers"].items(), key=lambda kr: (list(SE.WEIGHTS).index(kr[1].get("type", "forecast_model")) if kr[1].get("type") in SE.WEIGHTS else 9, kr[1].get("name", ""))):
+        if r.get("type") in SE.WEIGHTS and SE.is_fresh(r) and (r.get("house") is not None or r.get("senate") is not None):
+            lines.append(f"| [{r['name']}]({r['url']}) | {SE.TYPE_LABEL[r['type']]} | {fmt(r.get('house'))} | {fmt(r.get('senate'))} | {r.get('as_of','')} |")
+    lines += ["", f"All {len(json.loads((DATA / 'source_registry.json').read_text())['sources'])} sources, grouped by type (models, markets, raters, pollsters, news, TV, social, academic, AI, repos): **[docs/09](docs/09-all-sources-consensus.md)**."]
     lines += ["", "**Closest Senate races right now**", "", "| State | Democrat | Republican / other | Rating | Win prob. (favored side) |", "|---|---|---|---|---|"]
     close = sorted([r for r in sen_rows if r["ddhq_rating"] not in ("Safe D", "Safe R")], key=lambda r: abs(dem_prob(r) - 0.5))[:10]
     for r in close:
         other = r["rep_candidate"] + (f"; {r['other_candidate']}" if r["other_candidate"] else "")
         lines.append(f"| {r['state']} | {r['dem_candidate'] or '-'} | {other} | {r['ddhq_rating']} | {r['ddhq_prob']}% |")
-    lines += ["", "**Closest governor races right now**", "", "| State | Rating | Win prob. (favored side) |", "|---|---|---|"]
-    gclose = sorted([r for r in gov_rows if r["ddhq_rating"] not in ("Safe D", "Safe R")], key=lambda r: abs(dem_prob(r) - 0.5))[:8]
-    for r in gclose:
-        lines.append(f"| {r['state']} | {r['ddhq_rating']} | {r['ddhq_prob']}% |")
     try:
         hl = json.loads((DATA / "headlines.json").read_text())
         us = hl.get("countries", {}).get("United States", [])[:5]
@@ -506,7 +539,8 @@ def main() -> None:
     for s in sources["chamber_sources"]:
         latest["chambers"].setdefault(s["id"], {})["type"] = s["type"]
 
-    update_chambers(sources, latest, args.offline)
+    SE.update_registry_sources(latest, fetch_text, args.offline)
+    gb = SE.generic_ballot(args.offline)
     headlines = update_headlines(args.offline)
     build_media_doc(headlines)
     update_races(DATA / "senate_2026.csv", sources["race_sources"]["senate"]["url"], args.offline)
@@ -514,13 +548,16 @@ def main() -> None:
 
     sen = list(csv.DictReader((DATA / "senate_2026.csv").open()))
     gov = list(csv.DictReader((DATA / "governors_2026.csv").open()))
-    house, senate = ensemble(latest, "house"), ensemble(latest, "senate")
+    hc, sc = SE.consensus(latest, "house"), SE.consensus(latest, "senate")
+    house, senate = (hc.get("value"), hc.get("n", 0)), (sc.get("value"), sc.get("n", 0))
+    concl = SE.conclusion(hc, sc, gb)
     proj = senate_projection(sen)
     ts_dt = now_utc()
     ts = ts_dt.strftime("%Y-%m-%d %H:%M")
 
     latest["updated_utc"] = ts_dt.isoformat().replace("+00:00", "Z")
     latest["ensemble"] = {"house_dem": house[0], "house_n": house[1], "senate_dem": senate[0], "senate_n": senate[1]}
+    latest["consensus"] = {"house": hc, "senate": sc, "conclusion": concl}
     latest["senate_projection"] = proj
     latest["disclaimer"] = DISCLAIMER
     (DATA / "latest.json").write_text(json.dumps(latest, indent=2) + "\n")
@@ -540,12 +577,14 @@ def main() -> None:
             w.writerow(row)
 
     chart_infographic(latest, house, senate, proj, ts)
-    chart_chambers(latest, names)
+    chart_chambers(latest)
+    chart_generic_ballot(gb)
     chart_races(sen, "Senate: most competitive races", "senate_battlegrounds.svg")
     chart_races(gov, "Governors: most competitive races", "governor_battlegrounds.svg")
     chart_hemicycle(sen)
     chart_history()
-    write_readme(readme_block(latest, names, urls, house, senate, proj, sen, gov, ts))
+    write_readme(readme_block(latest, names, urls, house, senate, proj, sen, gov, ts, hc, sc, gb, concl))
+    SE.build_registry_doc(latest, hc, sc, gb, concl, DISCLAIMER)
     print(f"Done. House avg={house}, Senate avg={senate}, Senate expected D={proj['expected_d']}")
 
 

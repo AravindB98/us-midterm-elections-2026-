@@ -1,0 +1,1310 @@
+{
+ "_about": "Registry of sources used or referenced by this project. Lean labels describe the outlet or pollster as commonly characterized (AllSides / Ad Fontes / sponsor affiliation) and may be disputed. Inclusion is not endorsement.",
+ "sources": [
+  {
+   "id": "ddhq",
+   "name": "Decision Desk HQ / The Hill",
+   "type": "forecast_model",
+   "url": "https://votes.decisiondeskhq.com/forecast/2026",
+   "lean": "Nonpartisan / unrated",
+   "provides": "House & Senate control %, every race",
+   "extract": {
+    "kind": "regex",
+    "house": "Democrats\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+to\\s+win\\s+the\\s+House",
+    "senate": "Democrats\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+to\\s+win\\s+the\\s+Senate"
+   },
+   "seed": {
+    "house": 84,
+    "senate": 64,
+    "as_of": "2026-11-02"
+   }
+  },
+  {
+   "id": "silver",
+   "name": "Silver Bulletin (Nate Silver) FLIPR",
+   "type": "forecast_model",
+   "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+   "lean": "Nonpartisan / unrated",
+   "provides": "House, Senate, governors",
+   "extract": {
+    "kind": "regex",
+    "house": "Democrats\\s+have\\s+(?:about\\s+)?an?\\s+(\\d{1,3}(?:\\.\\d)?)\\s*(?:percent|%)\\s+chance\\s+of\\s+(?:re)?taking\\s+the\\s+House",
+    "senate": "(\\d{1,3}(?:\\.\\d)?)\\s*(?:percent|%)\\s+chance\\s+of\\s+(?:winning|taking|controlling|flipping)\\s+the\\s+Senate"
+   },
+   "seed": {
+    "house": 95,
+    "senate": null,
+    "as_of": "2026-11-01"
+   },
+   "notes": "Model page states a 'meaningful edge' for Democrats in the Senate; Senate number parsed when published in page text."
+  },
+  {
+   "id": "poliwave",
+   "name": "Poliwave",
+   "type": "forecast_model",
+   "url": "https://www.poliwave.com/us/fed/projection",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "extract": {
+    "kind": "regex",
+    "house": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+of\\s+controlling\\s+the\\s+House",
+    "senate": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+of\\s+controlling\\s+the\\s+Senate"
+   },
+   "seed": {
+    "house": 89,
+    "senate": 78,
+    "as_of": "2026-11-02"
+   }
+  },
+  {
+   "id": "midtermforecast",
+   "name": "midtermforecast.com",
+   "type": "forecast_model",
+   "url": "https://midtermforecast.com/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "extract": {
+    "kind": "regex",
+    "house": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+to\\s+win\\s+the\\s+House",
+    "senate": "Democrats\\s+have\\s+an?\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+to\\s+win\\s+the\\s+Senate"
+   },
+   "seed": {
+    "house": 91,
+    "senate": 75,
+    "as_of": "2026-11-02"
+   }
+  },
+  {
+   "id": "economist",
+   "name": "The Economist midterm model",
+   "type": "forecast_model",
+   "url": "https://theeconomistoffthecharts.substack.com/p/our-prediction-model-for-americas",
+   "lean": "Lean Left (outlet, per AllSides)",
+   "provides": "",
+   "extract": {
+    "kind": "regex",
+    "house": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+(?:of\\s+)?(?:winning|taking|flipping)\\s+(?:back\\s+)?the\\s+House",
+    "senate": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+(?:of\\s+)?(?:winning|taking|flipping)\\s+the\\s+Senate"
+   },
+   "seed": {
+    "house": 90,
+    "senate": 49,
+    "as_of": "2026-06-15"
+   },
+   "notes": "Paywalled; last public figures reported mid-2026, so excluded from consensus until refreshed."
+  },
+  {
+   "id": "splitticket",
+   "name": "Split Ticket / The Argument",
+   "type": "forecast_model",
+   "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "extract": {
+    "kind": "regex",
+    "house": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+(?:of\\s+)?(?:winning|retaking|taking)\\s+the\\s+House",
+    "senate": "(\\d{1,3}(?:\\.\\d)?)%\\s+(?:chance|probability)\\s+(?:of\\s+)?(?:winning|capturing|taking)\\s+the\\s+Senate"
+   },
+   "seed": {
+    "house": 89,
+    "senate": 65,
+    "as_of": "2026-10-20"
+   },
+   "notes": "Figures as reported by Channel 4 / The New Republic in October."
+  },
+  {
+   "id": "fiftyplusone",
+   "name": "FiftyPlusOne / Strength In Numbers (G. Elliott Morris)",
+   "type": "forecast_model",
+   "url": "https://fiftyplusone.news/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "extract": {
+    "kind": "regex",
+    "house": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+(?:of\\s+|to\\s+)?win(?:ning)?\\s+(?:the\\s+majority\\s+in\\s+)?the\\s+(?:U\\.S\\.\\s+)?House",
+    "senate": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+(?:of\\s+|to\\s+)?win(?:ning)?\\s+control\\s+of\\s+the\\s+Senate"
+   },
+   "seed": {
+    "house": 84,
+    "senate": null,
+    "as_of": "2026-10-15"
+   }
+  },
+  {
+   "id": "votehub",
+   "name": "VoteHub",
+   "type": "forecast_model",
+   "url": "https://votehub.com/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "extract": {
+    "kind": "regex",
+    "house": "Democrats\\s+have\\s+an?\\s+(\\d{1,3})%\\s+chance\\s+of\\s+(?:flipping|winning)\\s+the\\s+House",
+    "senate": "Democrats\\s+have\\s+an?\\s+(\\d{1,3})%\\s+chance\\s+of\\s+(?:controlling|winning)\\s+the\\s+Senate"
+   },
+   "seed": {
+    "house": null,
+    "senate": 60,
+    "as_of": "2026-10-24"
+   },
+   "notes": "Senate figure from Newsweek (10 days out)."
+  },
+  {
+   "id": "racetothewh",
+   "name": "Race to the WH (Logan Phillips)",
+   "type": "forecast_model",
+   "url": "https://www.racetothewh.com/senate24",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "extract": {
+    "kind": "regex",
+    "house": "Democrats?\\s+(?:have\\s+an?\\s+)?(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+(?:of\\s+winning|to\\s+win)\\s+the\\s+House",
+    "senate": "Democrats?\\s+(?:have\\s+an?\\s+)?(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+(?:of\\s+winning|to\\s+win)\\s+(?:a\\s+)?(?:the\\s+)?Senate"
+   }
+  },
+  {
+   "id": "jhk",
+   "name": "JHK Forecasts",
+   "type": "forecast_model",
+   "url": "https://jhkforecasts.com/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Open-methodology model; numbers not machine-readable."
+  },
+  {
+   "id": "abramowitz",
+   "name": "Abramowitz generic-ballot model (Emory / Center for Politics)",
+   "type": "academic",
+   "url": "https://www.rasmussenreports.com/public_content/political_commentary/commentary_by_alan_i_abramowitz/generic_ballot_model_gives_democrats_strong_chance_to_take_back_house_in_2026",
+   "lean": "Nonpartisan / unrated",
+   "provides": "Seat-change regression from generic ballot",
+   "notes": "Gives Democrats a strong chance in the House; Senate depends on environment."
+  },
+  {
+   "id": "quantus",
+   "name": "Quantus Insights Senate forecast",
+   "type": "forecast_model",
+   "url": "https://quantus.substack.com/",
+   "lean": "Lean Right (pollster, commonly characterized)",
+   "provides": "",
+   "notes": "Republican-leaning pollster that also publishes a Senate model."
+  },
+  {
+   "id": "cnn_enten",
+   "name": "CNN data analysis (Harry Enten)",
+   "type": "forecast_model",
+   "url": "https://www.cnn.com/politics",
+   "lean": "Lean Left (outlet, per AllSides)",
+   "provides": "",
+   "notes": "TV analysis; noted the GOP is 'very much in the ball game' (Mediaite, late Oct)."
+  },
+  {
+   "id": "kalshi",
+   "name": "Kalshi",
+   "type": "prediction_market",
+   "url": "https://news.kalshi.com/p/2026-midterm-predictions",
+   "lean": "Nonpartisan / unrated",
+   "provides": "CFTC-regulated exchange",
+   "extract": {
+    "kind": "regex",
+    "house": "Democrats\\s+an?\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+of\\s+winning\\s+the\\s+House",
+    "senate": "and\\s+an?\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+of\\s+controlling\\s+the\\s+Senate"
+   },
+   "seed": {
+    "house": 93.3,
+    "senate": 71,
+    "as_of": "2026-11-01"
+   }
+  },
+  {
+   "id": "polymarket",
+   "name": "Polymarket",
+   "type": "prediction_market",
+   "url": "https://polymarket.com/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "extract": {
+    "kind": "polymarket"
+   },
+   "seed": {
+    "house": 93.5,
+    "senate": 65.5,
+    "as_of": "2026-10-04"
+   },
+   "notes": "Crypto-based global market; user base often described as right-leaning."
+  },
+  {
+   "id": "predictit",
+   "name": "PredictIt",
+   "type": "prediction_market",
+   "url": "https://www.predictit.org/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "extract": {
+    "kind": "predictit"
+   }
+  },
+  {
+   "id": "manifold",
+   "name": "Manifold Markets",
+   "type": "crowd_forecast",
+   "url": "https://manifold.markets/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "Play-money crowd forecasts",
+   "extract": {
+    "kind": "manifold"
+   }
+  },
+  {
+   "id": "metaculus",
+   "name": "Metaculus",
+   "type": "crowd_forecast",
+   "url": "https://www.metaculus.com/questions/34484/us-congress-control-after-2026-midterms/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "Forecaster community",
+   "notes": "Low participation on 2026 questions."
+  },
+  {
+   "id": "forbespredict",
+   "name": "ForbesPredict",
+   "type": "crowd_forecast",
+   "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
+   "lean": "Center (outlet)",
+   "provides": "Reader picks, not money",
+   "seed": {
+    "house": 83,
+    "senate": 84,
+    "as_of": "2026-11-01"
+   }
+  },
+  {
+   "id": "electionbettingodds",
+   "name": "ElectionBettingOdds.com",
+   "type": "aggregator",
+   "url": "https://electionbettingodds.com/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Aggregates betting markets; not counted separately to avoid double counting."
+  },
+  {
+   "id": "defirate",
+   "name": "DeFi Rate market tracker",
+   "type": "aggregator",
+   "url": "https://defirate.com/prediction-markets/2026-midterms/house-control-odds/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Aggregates Kalshi and Polymarket."
+  },
+  {
+   "id": "predictionhunt",
+   "name": "Prediction Hunt",
+   "type": "aggregator",
+   "url": "https://www.predictionhunt.com/odds/2026-us-senate-control",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Compares Kalshi, Polymarket, PredictIt."
+  },
+  {
+   "id": "cook",
+   "name": "Cook Political Report",
+   "type": "expert_rating",
+   "url": "https://www.cookpolitical.com/ratings",
+   "lean": "Nonpartisan",
+   "provides": "",
+   "notes": "Senate: Democrats 'slight favorites' with 7 toss-ups; House: Democrats favored."
+  },
+  {
+   "id": "sabato",
+   "name": "Sabato's Crystal Ball (UVA)",
+   "type": "expert_rating",
+   "url": "https://centerforpolitics.org/crystalball/",
+   "lean": "Nonpartisan (academic)",
+   "provides": ""
+  },
+  {
+   "id": "inside",
+   "name": "Inside Elections",
+   "type": "expert_rating",
+   "url": "https://insideelections.com/",
+   "lean": "Nonpartisan",
+   "provides": ""
+  },
+  {
+   "id": "fox_power",
+   "name": "Fox News Power Rankings",
+   "type": "expert_rating",
+   "url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing",
+   "lean": "Right (outlet, per AllSides)",
+   "provides": "",
+   "notes": "Final rankings: Senate control a toss-up; House points to Democrats."
+  },
+  {
+   "id": "almanac",
+   "name": "Almanac of American Politics ratings",
+   "type": "expert_rating",
+   "url": "https://www.270towin.com/2026-senate-election-predictions/",
+   "lean": "Nonpartisan",
+   "provides": ""
+  },
+  {
+   "id": "usnews",
+   "name": "US News governor ratings",
+   "type": "expert_rating",
+   "url": "https://www.usnews.com/news/politics/articles/2026-10-28/2026-governor-race-ratings-democrats-gain-ground-in-key-states",
+   "lean": "Center",
+   "provides": ""
+  },
+  {
+   "id": "270consensus",
+   "name": "270toWin consensus maps",
+   "type": "expert_rating",
+   "url": "https://www.270towin.com/2026-senate-election-predictions/",
+   "lean": "Nonpartisan",
+   "provides": "",
+   "notes": "Combines Cook, Sabato and others."
+  },
+  {
+   "id": "rcp",
+   "name": "RealClearPolling averages",
+   "type": "poll_average",
+   "url": "https://www.realclearpolling.com/latest-polls/senate",
+   "lean": "Center-right (outlet, per AllSides: Lean Right)",
+   "provides": ""
+  },
+  {
+   "id": "nyt_avg",
+   "name": "New York Times polling averages",
+   "type": "poll_average",
+   "url": "https://www.nytimes.com/interactive/polls/",
+   "lean": "Lean Left (outlet, per AllSides)",
+   "provides": ""
+  },
+  {
+   "id": "silver_avg",
+   "name": "Silver Bulletin generic ballot average",
+   "type": "poll_average",
+   "url": "https://www.natesilver.net/",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  },
+  {
+   "id": "pollcheck",
+   "name": "PollCheck generic ballot average",
+   "type": "poll_average",
+   "url": "https://www.pollcheck.co.uk/us-midterms-2026/generic-ballot",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  },
+  {
+   "id": "ddhq_avg",
+   "name": "DDHQ polling averages",
+   "type": "poll_average",
+   "url": "https://polls.decisiondeskhq.com/",
+   "lean": "Nonpartisan",
+   "provides": ""
+  },
+  {
+   "id": "wiki_polls",
+   "name": "Wikipedia: nationwide generic ballot poll table",
+   "type": "poll_average",
+   "url": "https://en.wikipedia.org/",
+   "lean": "Community-edited (lists all pollsters)",
+   "provides": ""
+  },
+  {
+   "id": "nbc_tracker",
+   "name": "NBC News battleground poll tracker",
+   "type": "poll_average",
+   "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+   "lean": "Lean Left (outlet, per AllSides)",
+   "provides": ""
+  },
+  {
+   "id": "nyt_siena",
+   "name": "NYT / Siena",
+   "type": "pollster",
+   "url": "https://www.nytimes.com/interactive/polls/",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "reuters_ipsos",
+   "name": "Reuters / Ipsos",
+   "type": "pollster",
+   "url": "https://www.ipsos.com/en-us/news-polls",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "pew",
+   "name": "Pew Research Center",
+   "type": "pollster",
+   "url": "https://www.pewresearch.org/politics/",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "yougov",
+   "name": "YouGov / The Economist",
+   "type": "pollster",
+   "url": "https://today.yougov.com/topics/politics",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "emerson",
+   "name": "Emerson College",
+   "type": "pollster",
+   "url": "https://emersoncollegepolling.com/",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "quinnipiac",
+   "name": "Quinnipiac University",
+   "type": "pollster",
+   "url": "https://poll.qu.edu/",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "marist",
+   "name": "Marist (NPR/PBS)",
+   "type": "pollster",
+   "url": "https://maristpoll.marist.edu/",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "cnn_ssrs",
+   "name": "CNN / SSRS",
+   "type": "pollster",
+   "url": "https://www.cnn.com/polling",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "fox_poll",
+   "name": "Fox News Poll (Beacon/Shaw, bipartisan team)",
+   "type": "pollster",
+   "url": "https://www.foxnews.com/official-polls",
+   "lean": "Nonpartisan (bipartisan team)",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "ap_norc",
+   "name": "AP-NORC",
+   "type": "pollster",
+   "url": "https://apnorc.org/",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "gallup",
+   "name": "Gallup",
+   "type": "pollster",
+   "url": "https://news.gallup.com/topic/politics.aspx",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "morningconsult",
+   "name": "Morning Consult",
+   "type": "pollster",
+   "url": "https://pro.morningconsult.com/",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "suffolk",
+   "name": "Suffolk University",
+   "type": "pollster",
+   "url": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "harvardharris",
+   "name": "Harvard CAPS / Harris",
+   "type": "pollster",
+   "url": "https://harvardharrispoll.com/",
+   "lean": "Nonpartisan",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "activote",
+   "name": "ActiVote",
+   "type": "pollster",
+   "url": "https://www.activote.net/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "rasmussen",
+   "name": "Rasmussen Reports",
+   "type": "pollster",
+   "url": "https://www.rasmussenreports.com/public_content/politics/mood_of_america/generic_congressional_ballot",
+   "lean": "Lean Republican",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "napolitan",
+   "name": "Napolitan News Service (Scott Rasmussen)",
+   "type": "pollster",
+   "url": "https://napolitannews.org/",
+   "lean": "Lean Republican",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "trafalgar",
+   "name": "Trafalgar Group",
+   "type": "pollster",
+   "url": "https://www.thetrafalgargroup.org/",
+   "lean": "Lean Republican",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "insideradvantage",
+   "name": "InsiderAdvantage",
+   "type": "pollster",
+   "url": "https://insideradvantage.com/",
+   "lean": "Lean Republican",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "coefficient",
+   "name": "co/efficient",
+   "type": "pollster",
+   "url": "https://co-efficient.com/",
+   "lean": "Republican firm",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "echelon",
+   "name": "Echelon Insights",
+   "type": "pollster",
+   "url": "https://echeloninsights.com/",
+   "lean": "Republican-aligned firm",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "cygnal",
+   "name": "Cygnal",
+   "type": "pollster",
+   "url": "https://www.cygn.al/",
+   "lean": "Republican firm",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "mclaughlin",
+   "name": "McLaughlin & Associates",
+   "type": "pollster",
+   "url": "https://mclaughlinonline.com/",
+   "lean": "Republican firm",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "quantus_poll",
+   "name": "Quantus Insights",
+   "type": "pollster",
+   "url": "https://quantusinsights.org/",
+   "lean": "Lean Republican",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "dfp",
+   "name": "Data for Progress",
+   "type": "pollster",
+   "url": "https://www.dataforprogress.org/",
+   "lean": "Democratic-aligned (progressive)",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "navigator",
+   "name": "Navigator Research",
+   "type": "pollster",
+   "url": "https://navigatorresearch.org/",
+   "lean": "Democratic firm",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "change",
+   "name": "Change Research",
+   "type": "pollster",
+   "url": "https://changeresearch.com/",
+   "lean": "Democratic-aligned",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "ppp",
+   "name": "Public Policy Polling",
+   "type": "pollster",
+   "url": "https://www.publicpolicypolling.com/",
+   "lean": "Democratic firm",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "gsg",
+   "name": "Global Strategy Group",
+   "type": "pollster",
+   "url": "https://globalstrategygroup.com/",
+   "lean": "Democratic firm",
+   "provides": "Generic ballot and race polls"
+  },
+  {
+   "id": "news_associated_press",
+   "name": "Associated Press",
+   "type": "news_print",
+   "url": "https://apnews.com/politics",
+   "lean": "Center (wire) (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_reuters",
+   "name": "Reuters",
+   "type": "news_print",
+   "url": "https://www.reuters.com/world/us/",
+   "lean": "Center (wire) (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_wall_street_journal",
+   "name": "The Wall Street Journal",
+   "type": "news_print",
+   "url": "https://www.wsj.com/politics",
+   "lean": "Center (news) / Lean Right (opinion) (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_new_york_times",
+   "name": "The New York Times",
+   "type": "news_print",
+   "url": "https://www.nytimes.com/section/politics",
+   "lean": "Lean Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_washington_post",
+   "name": "The Washington Post",
+   "type": "news_print",
+   "url": "https://www.washingtonpost.com/politics/",
+   "lean": "Lean Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_usa_today",
+   "name": "USA Today",
+   "type": "news_print",
+   "url": "https://www.usatoday.com/news/politics/",
+   "lean": "Lean Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_politico",
+   "name": "Politico",
+   "type": "news_print",
+   "url": "https://www.politico.com/",
+   "lean": "Lean Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_hill",
+   "name": "The Hill",
+   "type": "news_print",
+   "url": "https://thehill.com/",
+   "lean": "Center (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_axios",
+   "name": "Axios",
+   "type": "news_print",
+   "url": "https://www.axios.com/politics-policy",
+   "lean": "Lean Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_bloomberg",
+   "name": "Bloomberg",
+   "type": "news_print",
+   "url": "https://www.bloomberg.com/politics",
+   "lean": "Lean Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_newsweek",
+   "name": "Newsweek",
+   "type": "news_print",
+   "url": "https://www.newsweek.com/politics",
+   "lean": "Center (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_npr",
+   "name": "NPR",
+   "type": "news_print",
+   "url": "https://www.npr.org/sections/politics/",
+   "lean": "Lean Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_washington_examiner",
+   "name": "Washington Examiner",
+   "type": "news_print",
+   "url": "https://www.washingtonexaminer.com/",
+   "lean": "Lean Right (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_national_review",
+   "name": "National Review",
+   "type": "news_print",
+   "url": "https://www.nationalreview.com/",
+   "lean": "Right (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_daily_wire",
+   "name": "The Daily Wire",
+   "type": "news_print",
+   "url": "https://www.dailywire.com/",
+   "lean": "Right (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_federalist",
+   "name": "The Federalist",
+   "type": "news_print",
+   "url": "https://thefederalist.com/",
+   "lean": "Right (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_daily_signal",
+   "name": "Daily Signal",
+   "type": "news_print",
+   "url": "https://www.dailysignal.com/",
+   "lean": "Right (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_washington_free_beacon",
+   "name": "Washington Free Beacon",
+   "type": "news_print",
+   "url": "https://freebeacon.com/",
+   "lean": "Right (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_dispatch",
+   "name": "The Dispatch",
+   "type": "news_print",
+   "url": "https://thedispatch.com/",
+   "lean": "Lean Right (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_bulwark",
+   "name": "The Bulwark",
+   "type": "news_print",
+   "url": "https://www.thebulwark.com/",
+   "lean": "Lean Left (anti-Trump conservatives) (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_atlantic",
+   "name": "The Atlantic",
+   "type": "news_print",
+   "url": "https://www.theatlantic.com/politics/",
+   "lean": "Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_the_nation",
+   "name": "The Nation",
+   "type": "news_print",
+   "url": "https://www.thenation.com/",
+   "lean": "Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_vox",
+   "name": "Vox",
+   "type": "news_print",
+   "url": "https://www.vox.com/politics",
+   "lean": "Left (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_semafor",
+   "name": "Semafor",
+   "type": "news_print",
+   "url": "https://www.semafor.com/vertical/politics",
+   "lean": "Center (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_punchbowl_news",
+   "name": "Punchbowl News",
+   "type": "news_print",
+   "url": "https://punchbowl.news/",
+   "lean": "Center (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "news_political_wire",
+   "name": "Political Wire",
+   "type": "news_print",
+   "url": "https://politicalwire.com/",
+   "lean": "Lean Left (aggregator) (per AllSides/Ad Fontes characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_abc",
+   "name": "ABC News",
+   "type": "tv",
+   "url": "https://abcnews.go.com/Politics",
+   "lean": "Lean Left (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_cbs",
+   "name": "CBS News",
+   "type": "tv",
+   "url": "https://www.cbsnews.com/politics/",
+   "lean": "Lean Left (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_nbc",
+   "name": "NBC News",
+   "type": "tv",
+   "url": "https://www.nbcnews.com/politics",
+   "lean": "Lean Left (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_cnn",
+   "name": "CNN",
+   "type": "tv",
+   "url": "https://www.cnn.com/politics",
+   "lean": "Lean Left (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_fox",
+   "name": "Fox News",
+   "type": "tv",
+   "url": "https://www.foxnews.com/politics",
+   "lean": "Right (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_ms",
+   "name": "MS NOW (formerly MSNBC)",
+   "type": "tv",
+   "url": "https://www.ms.now/",
+   "lean": "Left (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_newsmax",
+   "name": "Newsmax",
+   "type": "tv",
+   "url": "https://www.newsmax.com/politics/",
+   "lean": "Right (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_newsnation",
+   "name": "NewsNation",
+   "type": "tv",
+   "url": "https://www.newsnationnow.com/politics/",
+   "lean": "Center (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_pbs",
+   "name": "PBS NewsHour",
+   "type": "tv",
+   "url": "https://www.pbs.org/newshour/politics",
+   "lean": "Center (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_c-span",
+   "name": "C-SPAN",
+   "type": "tv",
+   "url": "https://www.c-span.org/",
+   "lean": "Center (unedited coverage) (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_univision",
+   "name": "Univision Noticias",
+   "type": "tv",
+   "url": "https://www.univision.com/noticias/politica",
+   "lean": "Lean Left (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "tv_telemundo",
+   "name": "Telemundo Noticias",
+   "type": "tv",
+   "url": "https://www.telemundo.com/noticias",
+   "lean": "Lean Left (per AllSides characterizations)",
+   "provides": ""
+  },
+  {
+   "id": "social_103",
+   "name": "Nate Silver (@NateSilver538) on X",
+   "type": "social",
+   "url": "https://x.com/NateSilver538",
+   "lean": "Unrated",
+   "provides": ""
+  },
+  {
+   "id": "social_104",
+   "name": "Dave Wasserman, Cook (@Redistrict) on X",
+   "type": "social",
+   "url": "https://x.com/Redistrict",
+   "lean": "Nonpartisan",
+   "provides": ""
+  },
+  {
+   "id": "social_105",
+   "name": "Decision Desk HQ (@DecisionDeskHQ) on X",
+   "type": "social",
+   "url": "https://x.com/DecisionDeskHQ",
+   "lean": "Nonpartisan",
+   "provides": ""
+  },
+  {
+   "id": "social_106",
+   "name": "Split Ticket (@SplitTicket_) on X",
+   "type": "social",
+   "url": "https://x.com/SplitTicket_",
+   "lean": "Unrated",
+   "provides": ""
+  },
+  {
+   "id": "social_107",
+   "name": "Larry Sabato (@LarrySabato) on X",
+   "type": "social",
+   "url": "https://x.com/LarrySabato",
+   "lean": "Nonpartisan",
+   "provides": ""
+  },
+  {
+   "id": "social_108",
+   "name": "Harry Enten (@ForecasterEnten) on X",
+   "type": "social",
+   "url": "https://x.com/ForecasterEnten",
+   "lean": "Unrated",
+   "provides": ""
+  },
+  {
+   "id": "social_109",
+   "name": "Nate Cohn, NYT (@Nate_Cohn) on X",
+   "type": "social",
+   "url": "https://x.com/Nate_Cohn",
+   "lean": "Unrated",
+   "provides": ""
+  },
+  {
+   "id": "social_110",
+   "name": "Rasmussen Reports (@Rasmussen_Poll) on X",
+   "type": "social",
+   "url": "https://x.com/Rasmussen_Poll",
+   "lean": "Lean Republican",
+   "provides": ""
+  },
+  {
+   "id": "social_111",
+   "name": "Data for Progress (@DataProgress) on X",
+   "type": "social",
+   "url": "https://x.com/DataProgress",
+   "lean": "Democratic-aligned",
+   "provides": ""
+  },
+  {
+   "id": "social_112",
+   "name": "Polymarket (@Polymarket) on X",
+   "type": "social",
+   "url": "https://x.com/Polymarket",
+   "lean": "Unrated",
+   "provides": ""
+  },
+  {
+   "id": "social_113",
+   "name": "Kalshi (@Kalshi) on X",
+   "type": "social",
+   "url": "https://x.com/Kalshi",
+   "lean": "Unrated",
+   "provides": ""
+  },
+  {
+   "id": "social_114",
+   "name": "r/YAPms (election prediction community) on Reddit",
+   "type": "social",
+   "url": "https://www.reddit.com/r/YAPms/",
+   "lean": "Mixed (user community)",
+   "provides": ""
+  },
+  {
+   "id": "social_115",
+   "name": "C-SPAN on YouTube",
+   "type": "social",
+   "url": "https://www.youtube.com/@cspan",
+   "lean": "Center",
+   "provides": ""
+  },
+  {
+   "id": "social_116",
+   "name": "Google News: US midterms (live feed)",
+   "type": "social",
+   "url": "https://news.google.com/search?q=US%20midterm%20elections%202026",
+   "lean": "Algorithmic mix",
+   "provides": ""
+  },
+  {
+   "id": "acad_117",
+   "name": "Cooperative Election Study (Harvard)",
+   "type": "academic",
+   "url": "https://cces.gov.harvard.edu/",
+   "lean": "Nonpartisan (academic/official)",
+   "provides": ""
+  },
+  {
+   "id": "acad_118",
+   "name": "American National Election Studies",
+   "type": "academic",
+   "url": "https://electionstudies.org/",
+   "lean": "Nonpartisan (academic/official)",
+   "provides": ""
+  },
+  {
+   "id": "acad_119",
+   "name": "MIT Election Data + Science Lab",
+   "type": "academic",
+   "url": "https://electionlab.mit.edu/",
+   "lean": "Nonpartisan (academic/official)",
+   "provides": ""
+  },
+  {
+   "id": "acad_120",
+   "name": "UVA Center for Politics",
+   "type": "academic",
+   "url": "https://centerforpolitics.org/",
+   "lean": "Nonpartisan (academic/official)",
+   "provides": ""
+  },
+  {
+   "id": "acad_121",
+   "name": "University of Florida Election Lab",
+   "type": "academic",
+   "url": "https://election.lab.ufl.edu/",
+   "lean": "Nonpartisan (academic/official)",
+   "provides": ""
+  },
+  {
+   "id": "acad_122",
+   "name": "Harvard IOP Youth Poll",
+   "type": "academic",
+   "url": "https://iop.harvard.edu/youth-poll",
+   "lean": "Nonpartisan (academic/official)",
+   "provides": ""
+  },
+  {
+   "id": "acad_123",
+   "name": "APSA PS: Political Science & Politics forecasting symposium",
+   "type": "academic",
+   "url": "https://www.cambridge.org/core/journals/ps-political-science-and-politics",
+   "lean": "Nonpartisan (academic/official)",
+   "provides": ""
+  },
+  {
+   "id": "acad_124",
+   "name": "Northeastern University political science analysis",
+   "type": "academic",
+   "url": "https://news.northeastern.edu/2026/10/12/november-midterms-political-analysis/",
+   "lean": "Nonpartisan (academic/official)",
+   "provides": ""
+  },
+  {
+   "id": "acad_125",
+   "name": "Brookings Institution",
+   "type": "academic",
+   "url": "https://www.brookings.edu/",
+   "lean": "Center-left",
+   "provides": ""
+  },
+  {
+   "id": "acad_126",
+   "name": "American Enterprise Institute",
+   "type": "academic",
+   "url": "https://www.aei.org/",
+   "lean": "Center-right",
+   "provides": ""
+  },
+  {
+   "id": "acad_127",
+   "name": "Heritage Foundation",
+   "type": "academic",
+   "url": "https://www.heritage.org/election-integrity",
+   "lean": "Conservative",
+   "provides": ""
+  },
+  {
+   "id": "acad_128",
+   "name": "Brennan Center (NYU)",
+   "type": "academic",
+   "url": "https://www.brennancenter.org/",
+   "lean": "Progressive",
+   "provides": ""
+  },
+  {
+   "id": "acad_129",
+   "name": "Bipartisan Policy Center",
+   "type": "academic",
+   "url": "https://bipartisanpolicy.org/topics/elections/",
+   "lean": "Bipartisan",
+   "provides": ""
+  },
+  {
+   "id": "acad_130",
+   "name": "Census Bureau voting & registration",
+   "type": "academic",
+   "url": "https://www.census.gov/topics/public-sector/voting.html",
+   "lean": "Nonpartisan (academic/official)",
+   "provides": ""
+  },
+  {
+   "id": "ai_131",
+   "name": "BallotBench (9 AI agents forecasting 863 races)",
+   "type": "ai_forecast",
+   "url": "https://runtimewire.com/article/thoughtful-ballotbench-ai-election-forecast-benchmark",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Live AI-agent forecasts compared with markets and experts."
+  },
+  {
+   "id": "ai_132",
+   "name": "Opper AI Roundtable: 2026 midterm poll of 23 models",
+   "type": "ai_forecast",
+   "url": "https://opper.ai/ai-roundtable/questions/2026-midterm-results-0a3155a6",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Plurality of models picked Democratic House / Republican Senate (date of poll unclear)."
+  },
+  {
+   "id": "ai_133",
+   "name": "Opper AI Roundtable: most likely outcome (6 models)",
+   "type": "ai_forecast",
+   "url": "https://opper.ai/ai-roundtable/questions/what-is-the-most-likely-outcome-of-the-2026-us-midterm-5fee506c",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Consensus: divided Congress (D House, R Senate)."
+  },
+  {
+   "id": "ai_134",
+   "name": "arXiv: Large-scale study of LLMs for election prediction",
+   "type": "ai_forecast",
+   "url": "https://arxiv.org/html/2412.15291v1",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Method paper; warns of political skew in LLMs."
+  },
+  {
+   "id": "ai_135",
+   "name": "University of Bayreuth (ICML 2026): How AI predicts voting decisions",
+   "type": "ai_forecast",
+   "url": "https://www.uni-bayreuth.de/en/press-release/ai-voting-decisions",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Research on LLM vote prediction."
+  },
+  {
+   "id": "ai_136",
+   "name": "LSE blog: be wary of what GenAI tells us about the 2026 midterms",
+   "type": "ai_forecast",
+   "url": "https://blogs.lse.ac.uk/usappblog/2025/12/11/the-2026-midterms-why-we-should-be-wary-of-what-genai-tells-us-ahead-of-next-years-elections/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Caution on AI election claims."
+  },
+  {
+   "id": "ai_137",
+   "name": "VoteHub ML fundamentals ensemble",
+   "type": "ai_forecast",
+   "url": "https://votehub.com/2026/05/04/introducing-the-2026-votehub-midterm-forecast/",
+   "lean": "Nonpartisan / unrated",
+   "provides": "",
+   "notes": "Machine-learning component inside a published forecast."
+  },
+  {
+   "id": "repo_138",
+   "name": "t0lg-a: open 2026 midterm forecast (GitHub Pages)",
+   "type": "open_source_repo",
+   "url": "https://t0lg-a.github.io/midterm",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  },
+  {
+   "id": "repo_139",
+   "name": "grantbw4: 2026 midterms forecast (GitHub Pages)",
+   "type": "open_source_repo",
+   "url": "https://grantbw4.github.io/2026-midterms-forecast",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  },
+  {
+   "id": "repo_140",
+   "name": "G. Elliott Morris: build-your-own Senate forecast",
+   "type": "open_source_repo",
+   "url": "https://projects.gelliottmorris.com/senate-2026/",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  },
+  {
+   "id": "repo_141",
+   "name": "The Economist on GitHub (published model code)",
+   "type": "open_source_repo",
+   "url": "https://github.com/TheEconomist",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  },
+  {
+   "id": "repo_142",
+   "name": "MIT MEDSL election data on GitHub",
+   "type": "open_source_repo",
+   "url": "https://github.com/MEDSL",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  },
+  {
+   "id": "repo_143",
+   "name": "OpenElections (certified results data)",
+   "type": "open_source_repo",
+   "url": "https://github.com/openelections",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  },
+  {
+   "id": "repo_144",
+   "name": "FiveThirtyEight data archive (no longer updated)",
+   "type": "open_source_repo",
+   "url": "https://github.com/fivethirtyeight/data",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  },
+  {
+   "id": "repo_145",
+   "name": "This repository",
+   "type": "open_source_repo",
+   "url": "https://github.com/AravindB98/us-midterm-elections-2026-",
+   "lean": "Nonpartisan / unrated",
+   "provides": ""
+  }
+ ]
+}
