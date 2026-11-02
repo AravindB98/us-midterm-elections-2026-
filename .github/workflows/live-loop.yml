@@ -46,7 +46,7 @@ jobs:
             start=$SECONDS
             if [ $((i % 15)) -eq 0 ]; then mode=full; elif [ $((i % 5)) -eq 0 ]; then mode=headlines; else mode=fast; fi
             echo "::group::iteration $i ($mode) $(date -u +%H:%M:%S)"
-            timeout 240 python scripts/update_live.py --mode $mode || echo "update error (continuing)"
+            timeout $([ "$mode" = full ] && echo 420 || echo 150) python scripts/update_live.py --mode $mode || echo "update error (continuing)"
             publish_site
             if [ "$mode" = full ]; then
               git add data assets docs README.md

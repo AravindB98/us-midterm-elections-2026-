@@ -79,25 +79,25 @@ def fetch_text(url: str) -> str | None:
         "Accept-Language": "en-US,en;q=0.9",
     }
     r = None
-    for attempt in range(3):
+    for attempt in range(2):
         try:
-            r = requests.get(url, timeout=30, headers=headers)
+            r = requests.get(url, timeout=20, headers=headers)
             if r.status_code in (429, 503):
-                wait = int(r.headers.get("Retry-After", "0") or 0) or 20 * (attempt + 1)
-                print(f"  {r.status_code} from {url}; retrying in {wait}s", file=sys.stderr)
-                time.sleep(min(wait, 60))
-                continue
+                print(f"  {r.status_code} from {url}; skipping (rate-limited), keeping last value", file=sys.stderr)
+                r = None
+                break
             r.raise_for_status()
             break
         except Exception as e:  # network, 4xx, 5xx
             print(f"  fetch failed {url}: {e}", file=sys.stderr)
             r = None
+            if attempt == 0:
+                time.sleep(2)
+                continue
             break
-    else:
-        r = None
     if r is None or not r.ok:
         return None
-    time.sleep(3)  # be polite between requests
+    time.sleep(1)  # be polite between requests
     soup = BeautifulSoup(r.text, "lxml")
     meta = " ".join(
         m.get("content", "")
@@ -566,11 +566,11 @@ def main() -> None:
     for s in sources["chamber_sources"]:
         latest["chambers"].setdefault(s["id"], {})["type"] = s["type"]
 
-    SE.update_registry_sources(latest, fetch_text, args.offline, only_fast=fast)
-    gb = SE.generic_ballot(args.offline or fast)
     if args.mode in ("full", "headlines"):
         headlines = update_headlines(args.offline, candidates=(args.mode == "full"))
         build_media_doc(headlines)
+    SE.update_registry_sources(latest, fetch_text, args.offline, only_fast=fast)
+    gb = SE.generic_ballot(args.offline or fast)
     if args.mode == "full":
         update_races(DATA / "senate_2026.csv", sources["race_sources"]["senate"]["url"], args.offline)
         update_races(DATA / "governors_2026.csv", sources["race_sources"]["governor"]["url"], args.offline)

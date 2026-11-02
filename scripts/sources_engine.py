@@ -35,8 +35,7 @@ def _get(url: str, **kw):
         try:
             r = requests.get(url, timeout=30, headers=UA, **kw)
             if r.status_code in (429, 503):
-                time.sleep(15 * (attempt + 1))
-                continue
+                return None
             r.raise_for_status()
             return r
         except Exception as e:
