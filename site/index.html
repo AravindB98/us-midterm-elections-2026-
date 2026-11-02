@@ -125,6 +125,8 @@ footer{padding:26px 0 40px;color:var(--muted);font-size:13px}
 .star{border-radius:18px;overflow:hidden;border:1px solid var(--line);background:var(--panel)}
 .star .band{height:8px} .star .in{padding:16px}
 .partytag{display:inline-block;font-size:11px;font-weight:800;letter-spacing:1px;padding:2px 8px;border-radius:999px;color:#fff}
+.vid{position:relative;width:100%;aspect-ratio:16/9;border-radius:14px;overflow:hidden;background:#0b1020;border:1px solid var(--line)}
+.vid iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 @media (max-width:900px){.hero{grid-template-columns:1fr}.g3,.g4{grid-template-columns:1fr 1fr}.g2{grid-template-columns:1fr}}
 @media (max-width:560px){.sheet{top:auto;bottom:0;transform:translate(-50%,0);border-radius:20px 20px 0 0;max-height:82vh;width:100vw}.count div{min-width:58px;padding:6px 8px}.count b{font-size:18px}.hero h1{font-size:26px}.g3,.g4{grid-template-columns:1fr}.gauges{grid-template-columns:1fr 1fr}.big{font-size:36px}}
 @media (prefers-reduced-motion:reduce){.ticker .track,.dot{animation:none}}
@@ -143,6 +145,7 @@ footer{padding:26px 0 40px;color:var(--muted);font-size:13px}
         <a class="btn gold" href="https://github.com/AravindB98/us-midterm-elections-2026-" target="_blank" rel="noopener">⭐ Star</a>
         <a class="btn" href="https://github.com/AravindB98/us-midterm-elections-2026-/fork" target="_blank" rel="noopener">🍴 Fork</a>
         <a class="btn" href="https://github.com/AravindB98" target="_blank" rel="noopener">👤 Follow</a>
+        <a class="btn" href="https://youtu.be/rSkGzIMN0mc" target="_blank" rel="noopener">▶ Watch</a>
         <button class="btn" id="share">🔗 Share</button>
         <button class="btn" id="theme" aria-label="Toggle dark mode">🌓</button>
       </div>
@@ -163,7 +166,7 @@ footer{padding:26px 0 40px;color:var(--muted);font-size:13px}
 </div>
 <div class="ticker" aria-label="Latest headlines"><span class="lbl">LIVE NEWS</span><div class="track" id="track">Loading headlines…</div></div>
 <nav class="sec"><div class="wrap" id="secnav">
-  <a href="#forecast" class="on">Forecast</a><a href="#simulator">Senate simulator</a><a href="#map">Map</a><a href="#races">Battlegrounds</a><a href="#campaign">Campaign trail</a><a href="#trend">Trend</a><a href="#polls">Polls by lean</a><a href="#world">World watch</a><a href="#sources">Sources</a><a href="#learn">How it works</a><a href="#visa">Students &amp; visa workers</a><a href="#method">Methodology &amp; data</a>
+  <a href="#forecast" class="on">Forecast</a><a href="#tour">Video tour</a><a href="#simulator">Senate simulator</a><a href="#map">Map</a><a href="#races">Battlegrounds</a><a href="#campaign">Campaign trail</a><a href="#trend">Trend</a><a href="#polls">Polls by lean</a><a href="#world">World watch</a><a href="#sources">Sources</a><a href="#learn">How it works</a><a href="#visa">Students &amp; visa workers</a><a href="#method">Methodology &amp; data</a>
 </div></nav>
 
 <main class="wrap">
@@ -178,6 +181,15 @@ footer{padding:26px 0 40px;color:var(--muted);font-size:13px}
   <div class="grid g4" style="margin-top:16px" id="kpis"></div>
   <div class="card" style="margin-top:16px"><h3>🧾 Conclusion (auto-written from all sources)</h3><ul class="concl" id="concl"><li class="muted">Loading…</li></ul></div>
   <div class="card" style="margin-top:16px"><h3>Models vs markets vs crowds</h3><div id="byType"></div><p class="tiny muted">When markets and models agree, confidence is higher; when they diverge, treat the outcome as less certain.</p></div>
+</section>
+
+<section id="tour">
+  <div class="kicker">60 seconds</div>
+  <h2>Video tour of the Live Desk</h2>
+  <div class="grid g2" style="align-items:center">
+    <div class="vid"><iframe src="https://www.youtube-nocookie.com/embed/rSkGzIMN0mc?rel=0" title="Midterms 2026 Live Desk video tour" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+    <div><p class="lead">A one-minute walkthrough: live gauges, the source spread, the Senate simulator, the map, the campaign trail, world watch and open data.</p><p><a class="lbtn" href="https://youtu.be/rSkGzIMN0mc" target="_blank" rel="noopener">▶ Watch on YouTube</a> <a class="lbtn" href="https://github.com/AravindB98/us-midterm-elections-2026-" target="_blank" rel="noopener">⭐ Star the repo</a></p><p class="tiny muted">Numbers in the video were captured on Nov 2, 2026; the gauges above are live.</p></div>
+  </div>
 </section>
 
 <section id="simulator">

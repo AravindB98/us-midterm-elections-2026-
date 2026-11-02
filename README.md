@@ -2,6 +2,10 @@
 > ### 👉 **[View the Dashboard / Website](https://aravindb98.github.io/us-midterm-elections-2026-/)**
 > **Midterms 2026 · Live Desk**: live gauges, a Senate Monte Carlo simulator, a state map, candidate profiles, a campaign trail (Trump, Obama, Vance, Harris and both parties' ads and news), polls by pollster lean, world headlines from 16 countries and 146 sources, refreshed **every minute**. Mobile-friendly, no GitHub account or coding needed.
 
+> ### 🎬 **[Watch the 60-second video tour on YouTube](https://youtu.be/rSkGzIMN0mc)**
+
+[![Watch the video tour](https://img.youtube.com/vi/rSkGzIMN0mc/hqdefault.jpg)](https://youtu.be/rSkGzIMN0mc)
+
 <div align="center">
 
 ### ⭐ Star · 🍴 Fork · 👤 Follow
@@ -205,6 +209,7 @@ Method notes: the **average** is a simple mean of every source with a published 
 
 ## ⭐ Support this project
 
+- **[🎬 Watch and share the video tour](https://youtu.be/rSkGzIMN0mc)** on YouTube
 - **[⭐ Star](https://github.com/AravindB98/us-midterm-elections-2026-)** to bookmark it and help others discover it
 - **[🍴 Fork](https://github.com/AravindB98/us-midterm-elections-2026-/fork)** to adapt it for another election or country (all data and code are open)
 - **[👤 Follow @AravindB98](https://github.com/AravindB98)** for more open-source projects
