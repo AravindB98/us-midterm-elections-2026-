@@ -50,7 +50,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(68.507518 248.015976) rotate(-30)">11-02 06</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(67.9815 248.015976) rotate(-30)">11-02 06</text>
      </g>
     </g>
     <g id="xtick_2">
@@ -60,7 +60,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_2">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(166.57215 248.015976) rotate(-30)">11-02 08</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(164.180453 248.015976) rotate(-30)">11-02 08</text>
      </g>
     </g>
     <g id="xtick_3">
@@ -70,7 +70,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_3">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(264.636783 248.015976) rotate(-30)">11-02 10</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(260.379406 248.015976) rotate(-30)">11-02 10</text>
      </g>
     </g>
     <g id="xtick_4">
@@ -80,7 +80,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_4">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(362.701415 248.015976) rotate(-30)">11-02 12</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(356.578359 248.015976) rotate(-30)">11-02 12</text>
      </g>
     </g>
     <g id="xtick_5">
@@ -90,7 +90,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_5">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(460.766047 248.015976) rotate(-30)">11-02 14</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(452.777312 248.015976) rotate(-30)">11-02 14</text>
      </g>
     </g>
     <g id="xtick_6">
@@ -100,7 +100,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_6">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(558.830679 248.015976) rotate(-30)">11-02 16</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(548.976264 248.015976) rotate(-30)">11-02 16</text>
      </g>
     </g>
     <g id="xtick_7">
@@ -110,7 +110,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_7">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(656.895311 248.015976) rotate(-30)">11-02 18</text>
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(645.175217 248.015976) rotate(-30)">11-02 18</text>
      </g>
     </g>
    </g>
@@ -216,36 +216,37 @@ L 705.163636 27.96
    </g>
    <g id="line2d_20">
     <path d="M 85.011074 45.525703 
-L 96.315747 45.163523 
-L 112.755193 46.612241 
-L 119.93298 44.620254 
-L 166.622641 44.439165 
-L 311.812777 44.620254 
-L 326.38627 44.620254 
-L 369.73901 44.620254 
-L 391.912513 44.620254 
-L 396.05302 44.620254 
-L 399.308221 44.801344 
-L 400.139046 44.620254 
-L 432.146252 44.620254 
-L 492.524102 44.620254 
-L 498.326259 44.439165 
-L 500.791495 44.439165 
-L 508.473224 44.439165 
-L 524.776469 44.439165 
-L 563.253217 44.439165 
-L 572.296956 44.439165 
-L 573.127781 44.439165 
-L 574.135668 44.258075 
-L 591.147157 44.258075 
-L 592.073323 44.258075 
-L 594.71562 44.439165 
-L 604.385883 44.439165 
-L 620.784468 44.439165 
-L 621.601674 44.439165 
-L 626.504905 44.439165 
-L 628.139316 44.439165 
-L 665.049754 44.258075 
+L 96.100676 45.163523 
+L 112.227361 46.612241 
+L 119.26859 44.620254 
+L 165.069981 44.439165 
+L 307.497875 44.620254 
+L 321.794108 44.620254 
+L 364.322062 44.620254 
+L 386.073714 44.620254 
+L 390.135447 44.620254 
+L 393.328718 44.801344 
+L 394.143737 44.620254 
+L 425.542007 44.620254 
+L 484.771167 44.620254 
+L 490.462939 44.439165 
+L 492.881274 44.439165 
+L 500.416858 44.439165 
+L 516.409934 44.439165 
+L 554.154662 44.439165 
+L 563.026343 44.439165 
+L 563.841362 44.439165 
+L 564.830074 44.258075 
+L 581.51792 44.258075 
+L 582.426465 44.258075 
+L 585.018493 44.439165 
+L 594.504778 44.439165 
+L 610.591381 44.439165 
+L 611.393039 44.439165 
+L 616.202987 44.439165 
+L 617.806303 44.439165 
+L 654.01452 44.258075 
+L 664.39599 44.439165 
 L 675.632562 44.439165 
 " clip-path="url(#p9e10cd49a6)" style="fill: none; stroke: #1d4ed8; stroke-width: 2; stroke-linecap: square"/>
     <defs>
@@ -397,7 +398,7 @@ L 705.163636 209.049721
     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #111827" x="681.632562" y="47.036821" transform="rotate(-0 681.632562 47.036821)">91%</text>
    </g>
    <g id="text_16">
-    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #111827" x="681.632562" y="83.254765" transform="rotate(-0 681.632562 83.254765)">71%</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #111827" x="681.632562" y="83.073675" transform="rotate(-0 681.632562 83.073675)">71%</text>
    </g>
    <g id="text_17">
     <text style="font-weight: 700; font-size: 13.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #111827" x="55.48" y="21.96" transform="rotate(-0 55.48 21.96)">Forecast average over time (each auto-update adds a point)</text>

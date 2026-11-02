@@ -154,7 +154,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "house": 98.0,
-      "senate": 75.8,
+      "senate": 76.0,
       "as_of": "2026-11-02"
     },
     "metaculus": {
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 90.9,
     "house_n": 10,
-    "senate_dem": 70.9,
+    "senate_dem": 71.0,
     "senate_n": 10
   },
   "senate_projection": {
@@ -230,7 +230,7 @@
       ]
     },
     "senate": {
-      "value": 70.9,
+      "value": 71.0,
       "median": 73.8,
       "n": 10,
       "min": {
@@ -246,7 +246,7 @@
       "by_type": {
         "forecast_model": 68.6,
         "prediction_market": 72.8,
-        "crowd_forecast": 79.9
+        "crowd_forecast": 80.0
       },
       "sources": [
         "ddhq",
