@@ -84,7 +84,9 @@ input[type=search],select{padding:9px 12px;border:1px solid var(--line);border-r
 .legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-2px}
 svg text{fill:var(--muted);font-size:11px}
 /* map */
-.tile{cursor:pointer;transition:transform .12s} .tile:hover{transform:scale(1.06)}
+.tile{cursor:pointer;outline:none}
+.tile rect{transition:stroke-width .12s,filter .12s}
+.tile:hover rect,.tile:focus-visible rect{stroke:var(--ink);stroke-width:3;filter:brightness(1.08)}
 .tile text{fill:#fff;font-weight:800;font-size:12px;pointer-events:none}
 .tile.light text{fill:#0b1020}
 /* sim */
@@ -390,10 +392,11 @@ function tick(){const now=new Date(),poll=new Date('2026-11-03T19:00:00-05:00');
 /* ---------- simulator ---------- */
 let locks={};
 function ncdfInv(p){p=Math.min(Math.max(p,1e-4),1-1e-4);const a=[-39.6968302866538,220.946098424521,-275.928510446969,138.357751867269,-30.6647980661472,2.50662827745924],b=[-54.4760987982241,161.585836858041,-155.698979859887,66.8013118877197,-13.2806815528857],c=[-7.78489400243029e-3,-.322396458041136,-2.40075827716184,-2.54973253934373,4.37466414146497,2.93816398269878],d=[7.78469570904146e-3,.32246712907004,2.445134137143,3.75440866190742],pl=.02425;let q,r;if(p<pl){q=Math.sqrt(-2*Math.log(p));return(((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1)}if(p>1-pl){q=Math.sqrt(-2*Math.log(1-p));return-(((((c[0]*q+c[1])*q+c[2])*q+c[3])*q+c[4])*q+c[5])/((((d[0]*q+d[1])*q+d[2])*q+d[3])*q+1)}q=p-.5;r=q*q;return(((((a[0]*r+a[1])*r+a[2])*r+a[3])*r+a[4])*r+a[5])*q/(((((b[0]*r+b[1])*r+b[2])*r+b[3])*r+b[4])*r+1)}
-function gauss(){let u=0,v=0;while(!u)u=Math.random();while(!v)v=Math.random();return Math.sqrt(-2*Math.log(u))*Math.cos(2*Math.PI*v)}
+let _s=1;function rnd(){_s|=0;_s=_s+0x6D2B79F5|0;let t=Math.imul(_s^_s>>>15,1|_s);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}
+function gauss(){let u=0,v=0;while(!u)u=rnd();while(!v)v=rnd();return Math.sqrt(-2*Math.log(u))*Math.cos(2*Math.PI*v)}
 function simulate(){const races=D.sen;if(!races.length)return;const bias=+$('#bias').value,sN=+$('#sig').value,sI=4,sT=Math.sqrt(sN*sN+sI*sI);
   $('#biasV').textContent=(bias>0?'+':'')+bias;$('#sigV').textContent=sN;
-  const mu=races.map(r=>ncdfInv(demP(r))*sT);const N=20000,counts=new Array(101).fill(0);let dCtrl=0;const winWith={},winCnt={},loseWith={};
+  _s=20261103;const mu=races.map(r=>ncdfInv(demP(r))*sT);const N=20000,counts=new Array(101).fill(0);let dCtrl=0;const winWith={},winCnt={},loseWith={};
   for(let k=0;k<N;k++){const nat=bias+gauss()*sN;let seats=34;const won=[];
     for(let i=0;i<races.length;i++){const st=races[i].state;let w;if(locks[st]==='D')w=true;else if(locks[st]==='R')w=false;else w=(mu[i]+nat+gauss()*sI)>0;
       if(w&&races[i].dem_candidate)seats++;won.push(w)}
@@ -427,7 +430,7 @@ function cards(el,rows,n){const comp=rows.filter(r=>!['Safe D','Safe R'].include
   el.dataset.kind=el.id==='govCards'?'governor':'Senate';el.innerHTML=comp.map(r=>{const p=demP(r)*100;return `<div class="racecard"><div style="display:flex;justify-content:space-between;align-items:center"><b>${esc(r.state)}</b>${chip(r.ddhq_rating)}</div><div class="nm">${candBtn(r,'dem_candidate',r.dem_candidate?'d':'i',r.dem_candidate?'D':'I')||candBtn(r,'other_candidate','i','I')}${candBtn(r,'rep_candidate','r','R')}</div><div class="bar" data-tip="${r.ddhq_rating==='Toss Up'?'Toss-up: source names no leader':p.toFixed(0)+'% Democratic side'}"><i style="width:${p}%;background:var(--d)"></i><i style="width:${100-p}%;background:var(--r)"></i></div><div class="tiny muted" style="margin-top:6px">${r.ddhq_rating==='Toss Up'?'Toss-up ('+r.ddhq_prob+'% for favored side)':r.ddhq_prob+'% for favored side'}</div></div>`}).join('');bindTips(el);wireCands(el)}
 
 /* ---------- trend ---------- */
-function trend(){const hh=D.hist.filter(r=>r.house_avg||r.senate_avg);const el=$('#trendChart');if(hh.length<2){el.innerHTML='<p class="muted">The trend line builds as updates arrive.</p>';return}
+let trendSig='';function trend(){const hh=D.hist.filter(r=>r.house_avg||r.senate_avg);const el=$('#trendChart');const ts=hh.length+'|'+(hh.length?hh[hh.length-1].timestamp_utc:'')+'|'+(document.documentElement.dataset.theme||'');if(ts===trendSig)return;trendSig=ts;if(hh.length<2){el.innerHTML='<p class="muted">The trend line builds as updates arrive.</p>';return}
   const w=1000,h=300,P={l:40,r:60,t:14,b:28};const xs=hh.map(r=>+new Date(r.timestamp_utc)),x0=Math.min(...xs),x1=Math.max(...xs);const X=t=>P.l+(t-x0)/((x1-x0)||1)*(w-P.l-P.r),Y=v=>P.t+(1-v/100)*(h-P.t-P.b);
   let s=`<svg viewBox="0 0 ${w} ${h}" width="100%">`;[0,25,50,75,100].forEach(v=>s+=`<line x1="${P.l}" x2="${w-P.r}" y1="${Y(v)}" y2="${Y(v)}" stroke="${css('--line')}" ${v===50?'stroke-dasharray="4 4"':''}/><text x="${P.l-6}" y="${Y(v)+4}" text-anchor="end">${v}%</text>`);
   [['house_avg',css('--d'),'House'],['senate_avg','#f5b301','Senate']].forEach(([k,c,l])=>{const pts=hh.filter(r=>r[k]).map(r=>[X(+new Date(r.timestamp_utc)),Y(+r[k]),+r[k],r.timestamp_utc]);s+=`<polyline fill="none" stroke="${c}" stroke-width="2.5" points="${pts.map(p=>p[0]+','+p[1]).join(' ')}"/>`;
@@ -500,18 +503,26 @@ function campaign(){const c=D.camp;if(!c)return;const cn=D.hl.campaign||{};
   wireCands($('#candTable'))}
 
 /* ---------- load ---------- */
+let coreSig='';
 async function loadCore(){try{const [latest,senT,govT,histT]=await Promise.all([get('data/latest.json','json'),get('data/senate_2026.csv'),get('data/governors_2026.csv'),get('data/history.csv').catch(()=>'')]);
-  const changed=D.latest.updated_utc&&latest.updated_utc!==D.latest.updated_utc;D.latest=latest;D.sen=csv(senT);D.gov=csv(govT);D.hist=histT?csv(histT):[];lastStamp=new Date(latest.updated_utc);
-  renderOverview();if(!$('#racebtns').children.length)renderSimButtons();simulate();renderMap();cards($('#raceCards'),D.sen,12);cards($('#govCards'),D.gov,8);trend();sources();if(D.camp)campaign();
-  if(changed){toast('Live update received');$$('.gcard').forEach(n=>{n.classList.remove('flash');void n.offsetWidth;n.classList.add('flash')})}
-  $('#foot').textContent='Data updated '+lastStamp.toLocaleString()+'.'}catch(e){$('#ago').textContent='Data unavailable, retrying…'}}
+  lastStamp=new Date(latest.updated_utc);$('#foot').textContent='Data updated '+lastStamp.toLocaleString()+'.';
+  const cons=JSON.stringify([latest.consensus,latest.senate_projection,Object.values(latest.chambers||{}).map(r=>[r.house,r.senate,r.as_of,r.status])]);
+  const sig=cons+'|'+senT+'|'+govT;const first=!coreSig;
+  D.hist=histT?csv(histT):[];
+  if(sig===coreSig){trend();return}
+  const racesChanged=first||!coreSig.endsWith('|'+senT+'|'+govT);
+  coreSig=sig;D.latest=latest;D.sen=csv(senT);D.gov=csv(govT);
+  renderOverview();trend();sources();
+  if(racesChanged){if(!$('#racebtns').children.length)renderSimButtons();simulate();renderMap();cards($('#raceCards'),D.sen,12);cards($('#govCards'),D.gov,8);if(D.camp)campaign()}
+  if(!first){toast('Forecast updated');$$('.gcard').forEach(n=>{n.classList.remove('flash');void n.offsetWidth;n.classList.add('flash')})}
+  }catch(e){$('#ago').textContent='Data unavailable, retrying…'}}
 async function loadSlow(){try{const [gb,media,hl,reg,camp]=await Promise.all([get('data/generic_ballot.json','json').catch(()=>({})),get('data/world_media.json','json'),get('data/headlines.json','json').catch(()=>({})),get('data/source_registry.json','json'),get('data/campaign.json','json').catch(()=>null)]);
-  D.gb=gb;D.media=media;D.hl=hl;D.reg=reg;D.camp=camp;polls();world();ticker();sources();renderOverview();campaign()}catch(e){}}
+  const ss=JSON.stringify([gb.updated_utc,hl.updated_utc,reg.sources.length,camp&&camp.star_campaigners.length]);if(ss===window._slowSig)return;window._slowSig=ss;D.gb=gb;D.media=media;D.hl=hl;D.reg=reg;D.camp=camp;polls();world();ticker();sources();renderOverview();campaign()}catch(e){}}
 
 /* ---------- UI wiring ---------- */
 $('#bias').oninput=simulate;$('#sig').oninput=simulate;$('#reset').onclick=()=>{locks={};$('#bias').value=0;$('#sig').value=3;renderSimButtons();simulate()};
 $$('#mapMode button').forEach(b=>b.onclick=()=>{mapMode=b.dataset.m;$$('#mapMode button').forEach(x=>x.classList.toggle('on',x===b));renderMap()});
-$('#theme').onclick=()=>{const d=document.documentElement;const n=d.dataset.theme==='dark'?'':'dark';d.dataset.theme=n;try{localStorage.setItem('theme',n)}catch(e){};renderOverview();renderMap();trend();simulate()};
+$('#theme').onclick=()=>{const d=document.documentElement;const n=d.dataset.theme==='dark'?'':'dark';d.dataset.theme=n;try{localStorage.setItem('theme',n)}catch(e){};trendSig='';renderOverview();renderMap();trend();simulate()};
 try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;else if(matchMedia('(prefers-color-scheme: dark)').matches)document.documentElement.dataset.theme='dark'}catch(e){}
 $('#share').onclick=async()=>{const u=location.href.split('#')[0],t='Midterms 2026 · Live Desk: real-time consensus of models, markets and polls';if(navigator.share){try{await navigator.share({title:t,url:u})}catch(e){}}else{try{await navigator.clipboard.writeText(u);toast('Link copied')}catch(e){prompt('Copy link',u)}}};
 const obs=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){$$('#secnav a').forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+e.target.id))}}),{rootMargin:'-45% 0px -50% 0px'});$$('main section').forEach(s=>obs.observe(s));
