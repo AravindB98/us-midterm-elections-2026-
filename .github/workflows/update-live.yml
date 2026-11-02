@@ -51,17 +51,18 @@ jobs:
           cp site/index.html _site/
           cp -r data assets _site/
           touch _site/.nojekyll
-      - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
   deploy:
+    # Requires Settings > Pages > Source: GitHub Actions (one-time). Data updates above run regardless.
     needs: update
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - uses: actions/configure-pages@v5
       - id: deployment
         uses: actions/deploy-pages@v4

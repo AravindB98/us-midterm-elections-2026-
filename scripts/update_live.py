@@ -69,19 +69,32 @@ def fetch_text(url: str) -> str | None:
     except ImportError:
         print("requests/bs4 not installed; skipping fetch", file=sys.stderr)
         return None
-    try:
-        r = requests.get(
-            url,
-            timeout=30,
-            headers={
-                "User-Agent": "Mozilla/5.0 (compatible; us-midterm-elections-2026-/1.0; +https://github.com/AravindB98)",
-                "Accept-Language": "en-US,en;q=0.9",
-            },
-        )
-        r.raise_for_status()
-    except Exception as e:  # network, 4xx, 5xx
-        print(f"  fetch failed {url}: {e}", file=sys.stderr)
+    import time
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    r = None
+    for attempt in range(3):
+        try:
+            r = requests.get(url, timeout=30, headers=headers)
+            if r.status_code in (429, 503):
+                wait = int(r.headers.get("Retry-After", "0") or 0) or 20 * (attempt + 1)
+                print(f"  {r.status_code} from {url}; retrying in {wait}s", file=sys.stderr)
+                time.sleep(min(wait, 60))
+                continue
+            r.raise_for_status()
+            break
+        except Exception as e:  # network, 4xx, 5xx
+            print(f"  fetch failed {url}: {e}", file=sys.stderr)
+            r = None
+            break
+    else:
+        r = None
+    if r is None or not r.ok:
         return None
+    time.sleep(3)  # be polite between requests
     soup = BeautifulSoup(r.text, "lxml")
     meta = " ".join(
         m.get("content", "")
