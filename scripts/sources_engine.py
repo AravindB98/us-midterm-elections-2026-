@@ -73,6 +73,7 @@ def polymarket() -> dict:
                     p = _yes_price(m)
                     if p is not None:
                         out[chamber.lower()] = round(p, 1)
+                        print(f"    polymarket matched: {m.get('question')} -> {p:.1f}")
                         break
             if chamber.lower() in out:
                 break
@@ -96,8 +97,9 @@ def predictit() -> dict:
                     cn = (c.get("name") or c.get("shortName") or "").lower()
                     if "democrat" in cn:
                         v = c.get("lastTradePrice")
-                        if v:
-                            out.setdefault(chamber, round(float(v) * 100, 1))
+                        if v and chamber not in out:
+                            out[chamber] = round(float(v) * 100, 1)
+                            print(f"    predictit matched: {m.get('name')} / {cn} -> {out[chamber]}")
     return out
 
 
@@ -117,6 +119,7 @@ def manifold() -> dict:
             if m.get("outcomeType") == "BINARY" and "2026" in qq and chamber in qq and "democrat" in qq \
                     and not any(w in qq for w in ("both", "and the", "lose", "but", "seats", "if ")):
                 out[chamber] = round(float(m.get("probability", 0)) * 100, 1)
+                print(f"    manifold matched: {m.get('question')} -> {out[chamber]}")
                 break
     return out
 
@@ -211,17 +214,21 @@ def generic_ballot(offline: bool) -> dict:
     except ImportError:
         return prev
     title = None
-    r = _get("https://en.wikipedia.org/w/api.php", params={"action": "query", "list": "search", "format": "json", "srlimit": 5,
-                                                             "srsearch": "opinion polling 2026 United States House of Representatives elections generic ballot"})
-    if r:
-        for hit in r.json().get("query", {}).get("search", []):
-            t = hit["title"]
-            if "2026" in t and ("polling" in t.lower() or "opinion" in t.lower()):
-                title = t
-                break
+    candidates = []
+    for q in ("Nationwide opinion polling 2026 United States House of Representatives elections",
+              "generic ballot opinion polling 2026 United States House",
+              "2026 United States House of Representatives elections"):
+        r = _get("https://en.wikipedia.org/w/api.php", params={"action": "query", "list": "search", "format": "json", "srlimit": 8, "srsearch": q})
+        if r:
+            candidates += [h["title"] for h in r.json().get("query", {}).get("search", [])]
+    print(f"  generic ballot: candidate pages {candidates[:8]}")
+    pref = [c for c in candidates if "2026" in c and "house" in c.lower() and ("polling" in c.lower() or "opinion" in c.lower())]
+    fall = [c for c in candidates if c == "2026 United States House of Representatives elections"]
+    title = (pref or fall or [None])[0]
     if not title:
         print("  generic ballot: no Wikipedia page found", file=sys.stderr)
         return prev
+    print(f"  generic ballot: using page '{title}'")
     page = _get("https://en.wikipedia.org/w/index.php", params={"title": title, "action": "render"})
     if not page:
         return prev

@@ -150,8 +150,8 @@ Full explainer: **[docs/01 How US elections work](docs/01-how-us-elections-work.
 | 5 | [Media, forecasters, polls](docs/05-media-and-forecasters.md) | Race raters, models, poll averages, prediction markets, results desks, media-literacy checklist |
 | 6 | [Research and studies](docs/06-research-and-studies.md) | CES, ANES, MIT, Pew, think tanks across the spectrum, Northeastern research |
 | 7 | [**Non-citizens: students and workers**](docs/07-non-citizens-students-and-workers.md) | Can't vote (and the penalties), what you *can* do, H-1B / OPT / F-1 policy stakes, scenarios, checklist |
-| 9 | [**All sources, consensus and conclusion**](docs/09-all-sources-consensus.md) | 146 sources by type (models, markets, raters, pollsters of every lean, news, TV, social, academic, AI, repos), weighted consensus and auto-written conclusion |
 | 8 | [**Global media and research (16 countries)**](docs/08-global-media-and-research-sources.md) | TV, print, social and think tanks from the 10 most populous countries and 10 largest economies, with **auto-updated headlines** from each |
+| 9 | [**All sources, consensus and conclusion**](docs/09-all-sources-consensus.md) | 146 sources by type (models, markets, raters, pollsters of every lean, news, TV, social, academic, AI, repos), weighted consensus and auto-written conclusion |
 
 ---
 
