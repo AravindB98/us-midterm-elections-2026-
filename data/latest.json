@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-02T16:15:39Z",
+  "updated_utc": "2026-11-02T16:30:47Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -15,7 +15,7 @@
       "house": 95.0,
       "senate": null,
       "as_of": "2026-11-02",
-      "status": "live",
+      "status": "stale",
       "note": "Model page states a 'meaningful edge' for Democrats in the Senate; Senate number parsed when published in page text.",
       "type": "forecast_model",
       "name": "Silver Bulletin (Nate Silver) FLIPR",
@@ -143,7 +143,7 @@
       "url": "https://www.predictit.org/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "senate": 77.0,
+      "senate": 75.0,
       "house": 92.0,
       "as_of": "2026-11-02"
     },
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 90.9,
     "house_n": 10,
-    "senate_dem": 71.2,
+    "senate_dem": 71.0,
     "senate_n": 10
   },
   "senate_projection": {
@@ -230,8 +230,8 @@
       ]
     },
     "senate": {
-      "value": 71.2,
-      "median": 74.7,
+      "value": 71.0,
+      "median": 74.2,
       "n": 10,
       "min": {
         "value": 60,
@@ -242,10 +242,10 @@
         "source": "ForbesPredict"
       },
       "share_favoring_dem": 100,
-      "stdev": 7.0,
+      "stdev": 6.9,
       "by_type": {
         "forecast_model": 68.6,
-        "prediction_market": 73.8,
+        "prediction_market": 73.2,
         "crowd_forecast": 79.9
       },
       "sources": [

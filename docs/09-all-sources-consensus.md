@@ -2,7 +2,7 @@
 
 [Back to README](../README.md)
 
-> Regenerated automatically on every live update. Last run: **2026-11-02T16:15:39Z**.
+> Regenerated automatically on every live update. Last run: **2026-11-02T16:30:47Z**.
 
 **179 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
 
@@ -26,14 +26,14 @@
 | [Poliwave](https://www.poliwave.com/us/fed/projection) | Forecast models | Nonpartisan / unrated | 89.0% | 78.0% | 2026-11-02 | stale | yes |
 | [Quantus Insights Senate forecast](https://quantus.substack.com/) | Forecast models | Lean Right (pollster, commonly characterized) | - | - | - | not machine-readable | no |
 | [Race to the WH (Logan Phillips)](https://www.racetothewh.com/senate24) | Forecast models | Nonpartisan / unrated | - | - | - | unavailable | no |
-| [Silver Bulletin (Nate Silver) FLIPR](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model) | Forecast models | Nonpartisan / unrated | 95.0% | - | 2026-11-02 | live | yes |
+| [Silver Bulletin (Nate Silver) FLIPR](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model) | Forecast models | Nonpartisan / unrated | 95.0% | - | 2026-11-02 | stale | yes |
 | [Split Ticket / The Argument](https://www.theargumentmag.com/p/split-ticket-2026-midterms-model) | Forecast models | Nonpartisan / unrated | 89.0% | 65.0% | 2026-10-20 | stale | yes |
 | [The Economist midterm model](https://theeconomistoffthecharts.substack.com/p/our-prediction-model-for-americas) | Forecast models | Lean Left (outlet, per AllSides) | 90.0% | 49.0% | 2026-06-15 | stale | no |
 | [VoteHub](https://votehub.com/) | Forecast models | Nonpartisan / unrated | - | 60.0% | 2026-10-24 | stale | yes |
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 92.0% | 76.0% | 2026-11-02 | live | yes |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | Nonpartisan / unrated | 93.3% | 71.0% | 2026-11-02 | live | yes |
 | [Polymarket](https://polymarket.com/) | Prediction markets | Nonpartisan / unrated | 94.5% | 73.5% | 2026-11-02 | live | yes |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 92.0% | 77.0% | 2026-11-02 | live | yes |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 92.0% | 75.0% | 2026-11-02 | live | yes |
 
 ## Every source, by type
 
