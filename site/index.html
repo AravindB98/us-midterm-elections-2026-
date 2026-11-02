@@ -127,6 +127,12 @@ footer{padding:26px 0 40px;color:var(--muted);font-size:13px}
 .partytag{display:inline-block;font-size:11px;font-weight:800;letter-spacing:1px;padding:2px 8px;border-radius:999px;color:#fff}
 .vid{position:relative;width:100%;aspect-ratio:16/9;border-radius:14px;overflow:hidden;background:#0b1020;border:1px solid var(--line)}
 .vid iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.vcard{min-width:0;border:1px solid var(--line);border-radius:16px;padding:14px;background:var(--panel)}
+.vstats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:10px 0}
+.vstats div{background:var(--panel2);border-radius:10px;padding:8px}
+.vstats b{display:block;font-size:17px} .vstats span{font-size:11px;color:var(--muted)}
+.vtab td,.vtab th{padding:6px 6px;font-size:13px}
+@media (max-width:560px){.vstats{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:900px){.hero{grid-template-columns:1fr}.g3,.g4{grid-template-columns:1fr 1fr}.g2{grid-template-columns:1fr}}
 @media (max-width:560px){.sheet{top:auto;bottom:0;transform:translate(-50%,0);border-radius:20px 20px 0 0;max-height:82vh;width:100vw}.count div{min-width:58px;padding:6px 8px}.count b{font-size:18px}.hero h1{font-size:26px}.g3,.g4{grid-template-columns:1fr}.gauges{grid-template-columns:1fr 1fr}.big{font-size:36px}}
 @media (prefers-reduced-motion:reduce){.ticker .track,.dot{animation:none}}
@@ -166,7 +172,7 @@ footer{padding:26px 0 40px;color:var(--muted);font-size:13px}
 </div>
 <div class="ticker" aria-label="Latest headlines"><span class="lbl">LIVE NEWS</span><div class="track" id="track">Loading headlines…</div></div>
 <nav class="sec"><div class="wrap" id="secnav">
-  <a href="#forecast" class="on">Forecast</a><a href="#tour">Video tour</a><a href="#simulator">Senate simulator</a><a href="#map">Map</a><a href="#races">Battlegrounds</a><a href="#campaign">Campaign trail</a><a href="#trend">Trend</a><a href="#polls">Polls by lean</a><a href="#world">World watch</a><a href="#sources">Sources</a><a href="#learn">How it works</a><a href="#visa">Students &amp; visa workers</a><a href="#method">Methodology &amp; data</a>
+  <a href="#forecast" class="on">Forecast</a><a href="#tour">Video tour</a><a href="#simulator">Senate simulator</a><a href="#map">Map</a><a href="#votes">Votes to win</a><a href="#races">Battlegrounds</a><a href="#campaign">Campaign trail</a><a href="#trend">Trend</a><a href="#polls">Polls by lean</a><a href="#world">World watch</a><a href="#sources">Sources</a><a href="#learn">How it works</a><a href="#visa">Students &amp; visa workers</a><a href="#method">Methodology &amp; data</a>
 </div></nav>
 
 <main class="wrap">
@@ -225,6 +231,22 @@ footer{padding:26px 0 40px;color:var(--muted);font-size:13px}
     <div class="legend" id="mapLegend"></div>
     <div id="stateInfo" class="small muted">Click a state.</div>
   </div>
+</section>
+
+<section id="votes">
+  <div class="kicker">Votes, not percentages</div>
+  <h2>How many votes it takes, race by race</h2>
+  <p class="lead">Each race's projected turnout, the votes needed to win, and what every poll and forecast lead means in real votes, plus how many voters would have to switch to flip it. Turnout baseline: official 2022 midterm ballots per state.</p>
+  <div class="card">
+    <div class="simctl">
+      <label>2026 turnout vs 2022: <b id="tsV">100%</b><br><input type="range" id="ts" min="70" max="130" step="5" value="100"></label>
+      <label>Show<br><select id="vfilter"><option value="comp">Competitive races</option><option value="all">All races</option><option value="senate">Senate only</option><option value="gov">Governors only</option></select></label>
+      <span class="pill">Forecast-implied margins assume a ±6-pt forecast error</span>
+    </div>
+    <div id="vsum" class="small" style="margin-top:10px"></div>
+  </div>
+  <div class="grid g2" style="margin-top:16px" id="vcards"></div>
+  <p class="tiny muted">How to read it: a 5-point lead with 1,000,000 voters ≈ 50,000 votes. The trailing side needs about half that many voters to switch sides, or that many extra voters of their own to turn out. Votes to win assume a two-way race (50% + 1); with third-party candidates the winning share can be lower. Alaska and Maine use ranked-choice voting; Georgia and Louisiana require a majority or a runoff. Turnout: <a href="https://election.lab.ufl.edu/dataset/2022-general-election-turnout-rates-v1-2/" target="_blank" rel="noopener">UF Election Lab, 2022 turnout v1.2</a> (from state election offices). Polls: final-week releases as reported by the linked sources. Forecast: Decision Desk HQ, live.</p>
 </section>
 
 <section id="races">
@@ -514,6 +536,28 @@ function campaign(){const c=D.camp;if(!c)return;const cn=D.hl.campaign||{};
   $('#candTable tbody').innerHTML=rows.map(([r,k])=>`<tr><td><b>${esc(r.state)}</b> <span class="tiny muted">${k==='governor'?'Governor':'Senate'}</span><div>${chip(r.ddhq_rating)}</div></td><td>${r.dem_candidate?cell(r,'dem_candidate','d','D',k):cell(r,'other_candidate','i','I',k)}</td><td>${cell(r,'rep_candidate','r','R',k)}${r.dem_candidate&&r.other_candidate?'<div style="margin-top:6px">'+cell(r,'other_candidate','i','I',k)+'</div>':''}</td></tr>`).join('');
   wireCands($('#candTable'))}
 
+
+/* ---------- votes to win ---------- */
+const fmtN=n=>Math.round(n).toLocaleString('en-US');
+function votes(){if(!D.turn||!D.rp||!D.sen.length)return;const sc=+$('#ts').value/100;$('#tsV').textContent=Math.round(sc*100)+'%';const flt=$('#vfilter').value;
+  const SIG=6;const T=Object.fromEntries(D.turn.map(r=>[r.STATE,r]));
+  let races=[...D.sen.map(r=>[r,'Senate']),...D.gov.map(r=>[r,'Governor'])];
+  if(flt==='comp')races=races.filter(([r])=>!['Safe D','Safe R'].includes(r.ddhq_rating));if(flt==='senate')races=races.filter(([,k])=>k==='Senate');if(flt==='gov')races=races.filter(([,k])=>k==='Governor');
+  const rows=races.map(([r,k])=>{const tt=T[r.state];if(!tt)return null;const turn=+tt.TOTAL_BALLOTS_COUNTED*sc;const p=demP(r);const fm=r.ddhq_rating==='Toss Up'?0:ncdfInv(p)*SIG;
+    const src=[{source:'Decision Desk HQ forecast (implied margin)',margin:+fm.toFixed(1),lean:'Nonpartisan',kind:'Forecast',date:'live',url:'https://votes.decisiondeskhq.com/forecast/2026'}];
+    if(k==='Senate'&&D.rp.polls[r.state])src.push(...D.rp.polls[r.state]);
+    const ms=src.map(s=>Math.abs(s.margin)).sort((a,b)=>a-b),med=ms.length%2?ms[(ms.length-1)/2]:(ms[ms.length/2-1]+ms[ms.length/2])/2;return{r,k,tt,turn,src,closest:med*turn/100}}).filter(Boolean).sort((a,b)=>a.closest-b.closest);
+  const top=rows.filter(x=>x.k==='Senate').slice(0,5);
+  $('#vsum').innerHTML='<b>Closest Senate races in votes (median lead across all sources):</b> '+top.map(x=>`<span class="pill" style="margin:2px">${AB[x.r.state]} ≈ ${fmtN(x.closest)} votes</span>`).join(' ');
+  const who=(m,r)=>m>0?(clean(r.dem_candidate)||'Dem side'):m<0?(clean(r.rep_candidate)||'GOP side'):'Even';
+  $('#vcards').innerHTML=rows.map(x=>{const r=x.r;const rule=(D.rp.rules||{})[r.state];
+    return `<div class="vcard"><div style="display:flex;justify-content:space-between;align-items:center;gap:8px"><b style="font-size:17px">${esc(r.state)} <span class="tiny muted">${x.k}</span></b>${chip(r.ddhq_rating)}</div>
+    <div class="small"><span style="color:var(--d)">${esc(clean(r.dem_candidate)||clean(r.other_candidate)||'–')}</span> vs <span style="color:var(--r)">${esc(clean(r.rep_candidate)||'–')}</span></div>
+    <div class="vstats"><div><b>${fmtN(+x.tt.VEP)}</b><span>Eligible voters</span></div><div><b>${fmtN(+x.tt.TOTAL_BALLOTS_COUNTED)}</b><span>Ballots in 2022</span></div><div><b>${fmtN(x.turn)}</b><span>Projected 2026 turnout</span></div><div><b>${fmtN(Math.floor(x.turn/2)+1)}</b><span>Votes to win (50% + 1)</span></div></div>
+    <div style="overflow-x:auto"><table class="vtab"><thead><tr><th>Source</th><th>Lead</th><th>≈ Vote lead</th><th>Voters to switch to flip</th></tr></thead><tbody>${x.src.map(s=>{const m=s.margin,lead=Math.abs(m)/100*x.turn;return `<tr><td><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.source)}</a><div class="tiny muted">${esc(s.kind||'Poll')} · ${esc(s.date||'')} · ${esc(s.lean||'')}</div></td><td style="color:${m>0?'var(--d)':m<0?'var(--r)':'var(--ink)'};white-space:nowrap">${m===0?'Even':esc(who(m,r))+' +'+Math.abs(m).toFixed(1)}</td><td>${m===0?'–':fmtN(lead)}</td><td>${m===0?'Any shift decides it':fmtN(lead/2+1)}</td></tr>`}).join('')}</tbody></table></div>
+    ${rule?`<p class="tiny muted" style="margin:6px 0 0">${esc(rule)}</p>`:''}</div>`}).join('')}
+$('#ts').oninput=votes;$('#vfilter').onchange=votes;
+
 /* ---------- load ---------- */
 let coreSig='';
 async function loadCore(){try{const [latest,senT,govT,histT]=await Promise.all([get('data/latest.json','json'),get('data/senate_2026.csv'),get('data/governors_2026.csv'),get('data/history.csv').catch(()=>'')]);
@@ -525,10 +569,10 @@ async function loadCore(){try{const [latest,senT,govT,histT]=await Promise.all([
   const racesChanged=first||!coreSig.endsWith('|'+senT+'|'+govT);
   coreSig=sig;D.latest=latest;D.sen=csv(senT);D.gov=csv(govT);
   renderOverview();trend();sources();
-  if(racesChanged){if(!$('#racebtns').children.length)renderSimButtons();simulate();renderMap();cards($('#raceCards'),D.sen,12);cards($('#govCards'),D.gov,8);if(D.camp)campaign()}
+  if(racesChanged){if(!$('#racebtns').children.length)renderSimButtons();simulate();renderMap();votes();cards($('#raceCards'),D.sen,12);cards($('#govCards'),D.gov,8);if(D.camp)campaign()}
   if(!first){toast('Forecast updated');$$('.gcard').forEach(n=>{n.classList.remove('flash');void n.offsetWidth;n.classList.add('flash')})}
   }catch(e){$('#ago').textContent='Data unavailable, retrying…'}}
-async function loadSlow(){try{const [gb,media,hl,reg,camp]=await Promise.all([get('data/generic_ballot.json','json').catch(()=>({})),get('data/world_media.json','json'),get('data/headlines.json','json').catch(()=>({})),get('data/source_registry.json','json'),get('data/campaign.json','json').catch(()=>null)]);
+async function loadSlow(){try{const [gb,media,hl,reg,camp,turnT,rp]=await Promise.all([get('data/generic_ballot.json','json').catch(()=>({})),get('data/world_media.json','json'),get('data/headlines.json','json').catch(()=>({})),get('data/source_registry.json','json'),get('data/campaign.json','json').catch(()=>null),get('data/turnout_2022.csv').catch(()=>''),get('data/race_polls.json','json').catch(()=>null)]);if(turnT)D.turn=csv(turnT);if(rp)D.rp=rp;votes();
   const ss=JSON.stringify([gb.updated_utc,hl.updated_utc,reg.sources.length,camp&&camp.star_campaigners.length]);if(ss===window._slowSig)return;window._slowSig=ss;D.gb=gb;D.media=media;D.hl=hl;D.reg=reg;D.camp=camp;polls();world();ticker();sources();renderOverview();campaign()}catch(e){}}
 
 /* ---------- UI wiring ---------- */

@@ -1,6 +1,6 @@
 > ## 🙋 Too technical or too much code?
 > ### 👉 **[View the Dashboard / Website](https://aravindb98.github.io/us-midterm-elections-2026-/)**
-> **Midterms 2026 · Live Desk**: live gauges, a Senate Monte Carlo simulator, a state map, candidate profiles, a campaign trail (Trump, Obama, Vance, Harris and both parties' ads and news), polls by pollster lean, world headlines from 16 countries and 146 sources, refreshed **every minute**. Mobile-friendly, no GitHub account or coding needed.
+> **Midterms 2026 · Live Desk**: live gauges, a Senate Monte Carlo simulator, a state map, a votes-to-win calculator (turnout, votes needed and every poll's lead in real votes), candidate profiles, a campaign trail (Trump, Obama, Vance, Harris and both parties' ads and news), polls by pollster lean, world headlines from 16 countries and 146 sources, refreshed **every minute**. Mobile-friendly, no GitHub account or coding needed.
 
 > ### 🎬 **[Watch the 60-second video tour on YouTube](https://youtu.be/rSkGzIMN0mc)**
 
@@ -191,6 +191,7 @@ flowchart LR
 | World media list and live headlines | [`data/world_media.json`](data/world_media.json), [`data/headlines.json`](data/headlines.json) |
 | Time series | [`data/history.csv`](data/history.csv) |
 | Race-level data | [`data/senate_2026.csv`](data/senate_2026.csv), [`data/governors_2026.csv`](data/governors_2026.csv) |
+| Votes to win | [`data/turnout_2022.csv`](data/turnout_2022.csv) (UF Election Lab, official 2022 ballots and eligible voters), [`data/race_polls.json`](data/race_polls.json) (final-week polls per race) |
 | Updater | [`scripts/update_live.py`](scripts/update_live.py) |
 | Website | [`site/index.html`](site/index.html) |
 | Schedules | [`live-loop.yml`](.github/workflows/live-loop.yml): markets every minute, headlines every 5 min, full refresh every 15 min |
