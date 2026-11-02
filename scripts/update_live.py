@@ -472,7 +472,7 @@ def fetch_feed(feed: dict, limit: int = 8) -> list[dict] | None:
     return out
 
 
-def update_headlines(offline: bool) -> dict:
+def update_headlines(offline: bool, candidates: bool = False) -> dict:
     path = DATA / "headlines.json"
     prev = json.loads(path.read_text()) if path.exists() else {"countries": {}, "topics": {}}
     if offline:
@@ -487,6 +487,30 @@ def update_headlines(offline: bool) -> dict:
     for k, f in media.get("topic_feeds", {}).items():
         items = fetch_feed(f)
         res["topics"][k] = {"label": f["label"], "items": items if items is not None else prev.get("topics", {}).get(k, {}).get("items", [])}
+    # campaign trail: star campaigners and party feeds (every headlines run)
+    base = {"hl": "en-US", "gl": "US", "ceid": "US:en"}
+    camp = json.loads((DATA / "campaign.json").read_text())
+    res["campaign"] = {}
+    for s in camp["star_campaigners"]:
+        items = fetch_feed({**base, **s["feed"]}, limit=6)
+        res["campaign"][s["name"]] = items if items is not None else prev.get("campaign", {}).get(s["name"], [])
+    for party, f in camp["party_feeds"].items():
+        items = fetch_feed({**base, "q": f["q"]}, limit=8)
+        res["campaign"]["party_" + party] = items if items is not None else prev.get("campaign", {}).get("party_" + party, [])
+    # battleground candidates (full runs only; carried over otherwise)
+    res["candidates"] = prev.get("candidates", {})
+    if candidates:
+        for fname, office in (("senate_2026.csv", "Senate"), ("governors_2026.csv", "governor")):
+            rows = [r for r in csv.DictReader((DATA / fname).open()) if r["ddhq_rating"] not in ("Safe D", "Safe R")]
+            for r in rows:
+                for col in ("dem_candidate", "rep_candidate", "other_candidate"):
+                    name = re.sub(r"\s*\(.*?\)", "", r.get(col, "") or "").strip()
+                    if not name:
+                        continue
+                    items = fetch_feed({**base, "q": f'"{name}" {r["state"]} {office}'}, limit=5)
+                    if items is not None:
+                        res["candidates"][name] = items
+        print(f"  candidate feeds: {len(res['candidates'])}")
     path.write_text(json.dumps(res, indent=1, ensure_ascii=False) + "\n")
     return res
 
@@ -545,7 +569,7 @@ def main() -> None:
     SE.update_registry_sources(latest, fetch_text, args.offline, only_fast=fast)
     gb = SE.generic_ballot(args.offline or fast)
     if args.mode in ("full", "headlines"):
-        headlines = update_headlines(args.offline)
+        headlines = update_headlines(args.offline, candidates=(args.mode == "full"))
         build_media_doc(headlines)
     if args.mode == "full":
         update_races(DATA / "senate_2026.csv", sources["race_sources"]["senate"]["url"], args.offline)

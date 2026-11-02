@@ -1305,6 +1305,303 @@
    "url": "https://github.com/AravindB98/us-midterm-elections-2026-",
    "lean": "Nonpartisan / unrated",
    "provides": ""
+  },
+  {
+   "id": "com_kimmel",
+   "name": "Jimmy Kimmel Live (YouTube)",
+   "type": "satire_comedy",
+   "url": "https://www.youtube.com/@JimmyKimmelLive",
+   "lean": "Left-leaning comedy (commonly characterized)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "com_colbert",
+   "name": "The Late Show with Stephen Colbert (YouTube)",
+   "type": "satire_comedy",
+   "url": "https://www.youtube.com/@ColbertLateShow",
+   "lean": "Left-leaning comedy (commonly characterized)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "com_dailyshow",
+   "name": "The Daily Show (YouTube)",
+   "type": "satire_comedy",
+   "url": "https://www.youtube.com/@TheDailyShow",
+   "lean": "Left-leaning comedy (commonly characterized)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "com_lwt",
+   "name": "Last Week Tonight with John Oliver (YouTube)",
+   "type": "satire_comedy",
+   "url": "https://www.youtube.com/@LastWeekTonight",
+   "lean": "Left-leaning comedy (commonly characterized)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "com_seth",
+   "name": "Late Night with Seth Meyers (YouTube)",
+   "type": "satire_comedy",
+   "url": "https://www.youtube.com/@LateNightSeth",
+   "lean": "Left-leaning comedy (commonly characterized)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "com_snl",
+   "name": "Saturday Night Live: political sketches (YouTube search)",
+   "type": "satire_comedy",
+   "url": "https://www.youtube.com/results?search_query=SNL+cold+open+midterms+2026",
+   "lean": "Left-leaning comedy (commonly characterized)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "com_gutfeld",
+   "name": "Gutfeld! on Fox News (YouTube search)",
+   "type": "satire_comedy",
+   "url": "https://www.youtube.com/results?search_query=Gutfeld+midterms+2026",
+   "lean": "Right-leaning comedy (commonly characterized)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "com_babylonbee",
+   "name": "The Babylon Bee (satire)",
+   "type": "satire_comedy",
+   "url": "https://babylonbee.com/",
+   "lean": "Right-leaning satire (commonly characterized)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "com_onion",
+   "name": "The Onion (satire)",
+   "type": "satire_comedy",
+   "url": "https://theonion.com/",
+   "lean": "Left-leaning satire (commonly characterized)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "com_memes",
+   "name": "Midterm memes and viral clips (X search)",
+   "type": "satire_comedy",
+   "url": "https://x.com/search?q=midterms%202026&f=top",
+   "lean": "Mixed (user-generated)",
+   "provides": "",
+   "notes": "Comedy and satire, not news."
+  },
+  {
+   "id": "yt_cnn",
+   "name": "CNN on YouTube",
+   "type": "social",
+   "url": "https://www.youtube.com/@CNN",
+   "lean": "Lean Left",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "yt_fox",
+   "name": "Fox News on YouTube",
+   "type": "social",
+   "url": "https://www.youtube.com/@FoxNews",
+   "lean": "Right",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "yt_nbc",
+   "name": "NBC News on YouTube",
+   "type": "social",
+   "url": "https://www.youtube.com/@NBCNews",
+   "lean": "Lean Left",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "yt_abc",
+   "name": "ABC News on YouTube",
+   "type": "social",
+   "url": "https://www.youtube.com/@ABCNews",
+   "lean": "Lean Left",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "yt_cbs",
+   "name": "CBS News on YouTube",
+   "type": "social",
+   "url": "https://www.youtube.com/@CBSNews",
+   "lean": "Lean Left",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "yt_pbs",
+   "name": "PBS NewsHour on YouTube",
+   "type": "social",
+   "url": "https://www.youtube.com/@PBSNewsHour",
+   "lean": "Center",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "yt_newsnation",
+   "name": "NewsNation on YouTube",
+   "type": "social",
+   "url": "https://www.youtube.com/@NewsNation",
+   "lean": "Center",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "yt_newsmax",
+   "name": "Newsmax on YouTube (search)",
+   "type": "social",
+   "url": "https://www.youtube.com/results?search_query=Newsmax+midterms+2026",
+   "lean": "Right",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "yt_msnow",
+   "name": "MS NOW on YouTube (search)",
+   "type": "social",
+   "url": "https://www.youtube.com/results?search_query=MS+NOW+midterms+2026",
+   "lean": "Left",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "tt_midterms",
+   "name": "TikTok: #midterms2026",
+   "type": "social",
+   "url": "https://www.tiktok.com/tag/midterms2026",
+   "lean": "Mixed (user-generated)",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "ig_midterms",
+   "name": "Instagram: #midterms2026",
+   "type": "social",
+   "url": "https://www.instagram.com/explore/tags/midterms2026/",
+   "lean": "Mixed (user-generated)",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "th_midterms",
+   "name": "Threads: midterms search",
+   "type": "social",
+   "url": "https://www.threads.net/search?q=midterms%202026",
+   "lean": "Mixed (user-generated)",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "bs_midterms",
+   "name": "Bluesky: midterms search",
+   "type": "social",
+   "url": "https://bsky.app/search?q=midterms%202026",
+   "lean": "Mixed (user-generated)",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "rd_politics",
+   "name": "Reddit r/politics",
+   "type": "social",
+   "url": "https://www.reddit.com/r/politics/",
+   "lean": "Left-leaning community (commonly characterized)",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "rd_conservative",
+   "name": "Reddit r/Conservative",
+   "type": "social",
+   "url": "https://www.reddit.com/r/Conservative/",
+   "lean": "Right-leaning community",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "ts_trump",
+   "name": "Donald Trump on Truth Social",
+   "type": "social",
+   "url": "https://truthsocial.com/@realDonaldTrump",
+   "lean": "Republican (official account)",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "x_obama",
+   "name": "Barack Obama on X",
+   "type": "social",
+   "url": "https://x.com/BarackObama",
+   "lean": "Democratic (official account)",
+   "provides": "",
+   "notes": ""
+  },
+  {
+   "id": "p_dnc",
+   "name": "Democratic National Committee",
+   "type": "party_campaign",
+   "url": "https://democrats.org/",
+   "lean": "Democratic (party)",
+   "provides": "",
+   "notes": "Official party committee; partisan by definition."
+  },
+  {
+   "id": "p_rnc",
+   "name": "Republican National Committee",
+   "type": "party_campaign",
+   "url": "https://gop.com/",
+   "lean": "Republican (party)",
+   "provides": "",
+   "notes": "Official party committee; partisan by definition."
+  },
+  {
+   "id": "p_dscc",
+   "name": "DSCC (Senate Democrats)",
+   "type": "party_campaign",
+   "url": "https://www.dscc.org/",
+   "lean": "Democratic (party)",
+   "provides": "",
+   "notes": "Official party committee; partisan by definition."
+  },
+  {
+   "id": "p_nrsc",
+   "name": "NRSC (Senate Republicans)",
+   "type": "party_campaign",
+   "url": "https://www.nrsc.org/",
+   "lean": "Republican (party)",
+   "provides": "",
+   "notes": "Official party committee; partisan by definition."
+  },
+  {
+   "id": "p_dccc",
+   "name": "DCCC (House Democrats)",
+   "type": "party_campaign",
+   "url": "https://dccc.org/",
+   "lean": "Democratic (party)",
+   "provides": "",
+   "notes": "Official party committee; partisan by definition."
+  },
+  {
+   "id": "p_nrcc",
+   "name": "NRCC (House Republicans)",
+   "type": "party_campaign",
+   "url": "https://www.nrcc.org/",
+   "lean": "Republican (party)",
+   "provides": "",
+   "notes": "Official party committee; partisan by definition."
   }
  ]
 }

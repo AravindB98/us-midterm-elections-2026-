@@ -2,9 +2,9 @@
 
 [Back to README](../README.md)
 
-> Regenerated automatically on every live update. Last run: **2026-11-02T06:17:58Z**.
+> Regenerated automatically on every live update. Last run: **2026-11-02T07:50:30Z**.
 
-**146 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
+**179 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
 
 ## Conclusion (auto-generated)
 
@@ -33,7 +33,7 @@
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 92.0% | 76.0% | 2026-11-02 | live | yes |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | Nonpartisan / unrated | 93.3% | 71.0% | 2026-11-02 | live | yes |
 | [Polymarket](https://polymarket.com/) | Prediction markets | Nonpartisan / unrated | 94.5% | 72.5% | 2026-11-02 | live | yes |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 92.0% | 72.0% | 2026-11-02 | live | yes |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 93.0% | 72.0% | 2026-11-02 | live | yes |
 
 ## Every source, by type
 
@@ -184,7 +184,7 @@
 | [Univision Noticias](https://www.univision.com/noticias/politica) | Lean Left (per AllSides characterizations) |  |
 | [Telemundo Noticias](https://www.telemundo.com/noticias) | Lean Left (per AllSides characterizations) |  |
 
-### Social media (14)
+### Social media (31)
 
 | Source | Lean (as characterized) | Notes |
 |---|---|---|
@@ -202,6 +202,23 @@
 | [r/YAPms (election prediction community) on Reddit](https://www.reddit.com/r/YAPms/) | Mixed (user community) |  |
 | [C-SPAN on YouTube](https://www.youtube.com/@cspan) | Center |  |
 | [Google News: US midterms (live feed)](https://news.google.com/search?q=US%20midterm%20elections%202026) | Algorithmic mix |  |
+| [CNN on YouTube](https://www.youtube.com/@CNN) | Lean Left |  |
+| [Fox News on YouTube](https://www.youtube.com/@FoxNews) | Right |  |
+| [NBC News on YouTube](https://www.youtube.com/@NBCNews) | Lean Left |  |
+| [ABC News on YouTube](https://www.youtube.com/@ABCNews) | Lean Left |  |
+| [CBS News on YouTube](https://www.youtube.com/@CBSNews) | Lean Left |  |
+| [PBS NewsHour on YouTube](https://www.youtube.com/@PBSNewsHour) | Center |  |
+| [NewsNation on YouTube](https://www.youtube.com/@NewsNation) | Center |  |
+| [Newsmax on YouTube (search)](https://www.youtube.com/results?search_query=Newsmax+midterms+2026) | Right |  |
+| [MS NOW on YouTube (search)](https://www.youtube.com/results?search_query=MS+NOW+midterms+2026) | Left |  |
+| [TikTok: #midterms2026](https://www.tiktok.com/tag/midterms2026) | Mixed (user-generated) |  |
+| [Instagram: #midterms2026](https://www.instagram.com/explore/tags/midterms2026/) | Mixed (user-generated) |  |
+| [Threads: midterms search](https://www.threads.net/search?q=midterms%202026) | Mixed (user-generated) |  |
+| [Bluesky: midterms search](https://bsky.app/search?q=midterms%202026) | Mixed (user-generated) |  |
+| [Reddit r/politics](https://www.reddit.com/r/politics/) | Left-leaning community (commonly characterized) |  |
+| [Reddit r/Conservative](https://www.reddit.com/r/Conservative/) | Right-leaning community |  |
+| [Donald Trump on Truth Social](https://truthsocial.com/@realDonaldTrump) | Republican (official account) |  |
+| [Barack Obama on X](https://x.com/BarackObama) | Democratic (official account) |  |
 
 ### Academic research and think tanks (15)
 
@@ -247,6 +264,32 @@
 | [OpenElections (certified results data)](https://github.com/openelections) | Nonpartisan / unrated |  |
 | [FiveThirtyEight data archive (no longer updated)](https://github.com/fivethirtyeight/data) | Nonpartisan / unrated |  |
 | [This repository](https://github.com/AravindB98/us-midterm-elections-2026-) | Nonpartisan / unrated |  |
+
+### Comedy, satire and late-night shows (10)
+
+| Source | Lean (as characterized) | Notes |
+|---|---|---|
+| [Jimmy Kimmel Live (YouTube)](https://www.youtube.com/@JimmyKimmelLive) | Left-leaning comedy (commonly characterized) | Comedy and satire, not news. |
+| [The Late Show with Stephen Colbert (YouTube)](https://www.youtube.com/@ColbertLateShow) | Left-leaning comedy (commonly characterized) | Comedy and satire, not news. |
+| [The Daily Show (YouTube)](https://www.youtube.com/@TheDailyShow) | Left-leaning comedy (commonly characterized) | Comedy and satire, not news. |
+| [Last Week Tonight with John Oliver (YouTube)](https://www.youtube.com/@LastWeekTonight) | Left-leaning comedy (commonly characterized) | Comedy and satire, not news. |
+| [Late Night with Seth Meyers (YouTube)](https://www.youtube.com/@LateNightSeth) | Left-leaning comedy (commonly characterized) | Comedy and satire, not news. |
+| [Saturday Night Live: political sketches (YouTube search)](https://www.youtube.com/results?search_query=SNL+cold+open+midterms+2026) | Left-leaning comedy (commonly characterized) | Comedy and satire, not news. |
+| [Gutfeld! on Fox News (YouTube search)](https://www.youtube.com/results?search_query=Gutfeld+midterms+2026) | Right-leaning comedy (commonly characterized) | Comedy and satire, not news. |
+| [The Babylon Bee (satire)](https://babylonbee.com/) | Right-leaning satire (commonly characterized) | Comedy and satire, not news. |
+| [The Onion (satire)](https://theonion.com/) | Left-leaning satire (commonly characterized) | Comedy and satire, not news. |
+| [Midterm memes and viral clips (X search)](https://x.com/search?q=midterms%202026&f=top) | Mixed (user-generated) | Comedy and satire, not news. |
+
+### Party campaign committees (partisan by definition) (6)
+
+| Source | Lean (as characterized) | Notes |
+|---|---|---|
+| [Democratic National Committee](https://democrats.org/) | Democratic (party) | Official party committee; partisan by definition. |
+| [Republican National Committee](https://gop.com/) | Republican (party) | Official party committee; partisan by definition. |
+| [DSCC (Senate Democrats)](https://www.dscc.org/) | Democratic (party) | Official party committee; partisan by definition. |
+| [NRSC (Senate Republicans)](https://www.nrsc.org/) | Republican (party) | Official party committee; partisan by definition. |
+| [DCCC (House Democrats)](https://dccc.org/) | Democratic (party) | Official party committee; partisan by definition. |
+| [NRCC (House Republicans)](https://www.nrcc.org/) | Republican (party) | Official party committee; partisan by definition. |
 
 Lean labels follow common third-party characterizations (AllSides, Ad Fontes Media) or the firm's own partisan clients; they may be disputed and say nothing about accuracy.
 

@@ -361,6 +361,7 @@ TYPE_LABEL = {
     "aggregator": "Market aggregators (not double-counted)", "expert_rating": "Expert race ratings", "poll_average": "Poll averages",
     "pollster": "Pollsters", "news_print": "News: print and online", "tv": "TV media", "social": "Social media",
     "academic": "Academic research and think tanks", "ai_forecast": "AI models and AI forecasting", "open_source_repo": "Open-source repos and models",
+    "satire_comedy": "Comedy, satire and late-night shows", "party_campaign": "Party campaign committees (partisan by definition)",
 }
 
 
