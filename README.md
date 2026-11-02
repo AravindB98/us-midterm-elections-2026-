@@ -22,21 +22,21 @@
 Every hour (every 15 minutes on Election Day) a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-02 05:36 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
+_Last automatic update: **2026-11-02 05:40 UTC**. Refreshed hourly (every 15 minutes on Election Day) by GitHub Actions._
 
 | Forecast average | Democrats | Republicans | Sources averaged |
 |---|---|---|---|
-| **House control** | 90.3% | 9.7% | 5 |
-| **Senate control** | 70.5% | 29.5% | 4 |
+| **House control** | 90.5% | 9.5% | 5 |
+| **Senate control** | 72.0% | 28.0% | 4 |
 | **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race probabilities |
 
 | Source | Type | House (D) | Senate (D) | As of | Status |
 |---|---|---|---|---|---|
-| [Decision Desk HQ](https://votes.decisiondeskhq.com/forecast/2026) | model | 84.0% | 64.0% | 2026-11-02 | seed |
-| [Silver Bulletin (FLIPR)](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model) | model | 95.0% | n/a | 2026-11-01 | seed |
-| [Poliwave](https://www.poliwave.com/us/fed/projection) | model | 88.0% | 76.0% | 2026-11-01 | seed |
-| [midtermforecast.com](https://midtermforecast.com/) | model | 91.0% | 71.0% | 2026-10-31 | seed |
-| [Kalshi (market)](https://news.kalshi.com/p/2026-midterm-predictions) | market | 93.3% | 71.0% | 2026-11-01 | seed |
+| [Decision Desk HQ](https://votes.decisiondeskhq.com/forecast/2026) | model | 84.0% | 64.0% | 2026-11-02 | stale |
+| [Silver Bulletin (FLIPR)](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model) | model | 95.0% | n/a | 2026-11-02 | live |
+| [Poliwave](https://www.poliwave.com/us/fed/projection) | model | 89.0% | 78.0% | 2026-11-02 | live |
+| [midtermforecast.com](https://midtermforecast.com/) | model | 91.0% | 75.0% | 2026-11-02 | live |
+| [Kalshi (market)](https://news.kalshi.com/p/2026-midterm-predictions) | market | 93.3% | 71.0% | 2026-11-02 | live |
 
 **Closest Senate races right now**
 
@@ -65,6 +65,16 @@ _Last automatic update: **2026-11-02 05:36 UTC**. Refreshed hourly (every 15 min
 | Alaska | Lean D | 67% |
 | Iowa | Lean D | 69% |
 | Texas | Lean R | 70% |
+
+**Latest midterm headlines (auto-updated)**
+
+- [Midterms 2026: Congress Polls and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
+- [What Are the Polls Telling Us About the 2026 Midterm Elections?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazVILW52bnFRRm9vSWpjMXJsSGhuMDRyZjNrQVRyWTRnMUFYR1I1UE9aa1A2OGhTR2V5eXpVeGRJajhqWkV4azlMX0JlZDd3bGRNZTJXSjZqcUJITjVyY0hsbTN2S2Z3TDU2QUxOOWRwSE5FVUN3dEFuRDJ5di1hM25tOVVMczJNRGdz?oc=5) (Rutgers University)
+- [Ten Poll Numbers That Explain the 2026 Midterm Elections](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmx2dGpKczJubXRLdjJ2dGZqc2lxbWxHVHJseTgycVRMZV8xbDFLN0RkSHFpSW56aE5mNVZETlBTVFpKdzNKbl8yWUhya1FxaE9aamhnYmVTU1k5WHBTM2NlT3B6TmtzNHItTVBuY09aWUpfbEstUzBJdndZc0kyRl9wTTJTN01VZFJUQ1FR?oc=5) (Council on Foreign Relations)
+- [When will we know 2026 midterm election results? It may take some time, but that's normal](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTZnamdIek1pLVdlWUdONEhMM0dtcU1RRHctMEwxR3hOcjFudU9hRTk5ellBY19GRUZ1SUVUdmFicWt3cWJYM3h6Rm5QMnlUcHFxenR2UmpmeWkxbk5YY0ZaeG5XeDNaMTVsN3ZsaWdzUXlmdTBINnlZQXRPU3VzVVNWaU1Rdm0wWEVPeXg1dWhGSl9oRzlNYTVkWk5RZDFmN05Mcl9UaUF5NnNBMEp1bjlUYWhFRHNRVnZ5NGtQME5pQdIBxwFBVV95cUxOU1ZGT0Q0bW9ha0dpWm5QQ1J2UG85bEJqZDRHUGlmNUhDZ25lRkJnb3ZTaUpReENRTFNKQkhQdko2bGctX2RfS0lNMUhwQnRwamxhbkIzZzQ2MFl6TDc1RGRMUnFkdjNUSkZoSnVwYXd5ZHBPYnNBYTAtNnRfdDFyRTVKVFJsQXpFYWZVUC1OZE5BUlB1NEcyMjdrYldNNk44SnkwTHYyb0hNX0VQZkZvRjRlQ3lETTJiWFJwZFBQcF9vOWpkcVNF?oc=5) (PBS)
+- [US midterms 2026: All you need to know in maps and charts](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUJkNXdEV0ZzQnFZVmw5RWp6X284ME1SckZYSHNtUDhUcGloVjZOSkU4RUo5M1NHN08yTEIxWndMM2RJMW15YTVGMmRYWW5GNFYtSlVydk1scm1WMXBnWi1odU85VHhXSWdTaEM0VWhJaWR4ZVk2ZU9nVmIyTHhBZ29uWE9zR1o1Rnh3N1Rya9IBlAFBVV95cUxOOC1qNjF3M1Q4b0QwMHIyS1dRSUQxbzdLTFJTYXg0NVN6T1RMaGlvdnl3RG9Zamtza2w5MzhGVTJyYVp5OE0zYWhXVHJKc2ZmRFQyQTFKNDh0ZnpyU1I2bjRKVDNURDkxWExxWmNyejJCWHdwNHNkUUZlQU5uNmp1VzdvRWhYOUZrMERhWFhfNWNfcWxK?oc=5) (Al Jazeera)
+
+Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
 > Forecasts are probabilities, not results. On and after Nov 3, follow official state results and AP / DDHQ race calls.
 <!-- LIVE:END -->

@@ -1,47 +1,47 @@
 {
-  "updated_utc": "2026-11-02T05:36:54Z",
+  "updated_utc": "2026-11-02T05:40:00Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
       "senate": 64.0,
       "as_of": "2026-11-02",
-      "status": "seed",
+      "status": "stale",
       "type": "model"
     },
     "silver": {
       "house": 95.0,
       "senate": null,
-      "as_of": "2026-11-01",
-      "status": "seed",
+      "as_of": "2026-11-02",
+      "status": "live",
       "note": "Senate: 'meaningful edge' for Democrats, no public number",
       "type": "model"
     },
     "poliwave": {
-      "house": 88.0,
-      "senate": 76.0,
-      "as_of": "2026-11-01",
-      "status": "seed",
+      "house": 89.0,
+      "senate": 78.0,
+      "as_of": "2026-11-02",
+      "status": "live",
       "type": "model"
     },
     "midtermforecast": {
       "house": 91.0,
-      "senate": 71.0,
-      "as_of": "2026-10-31",
-      "status": "seed",
+      "senate": 75.0,
+      "as_of": "2026-11-02",
+      "status": "live",
       "type": "model"
     },
     "kalshi": {
       "house": 93.3,
       "senate": 71.0,
-      "as_of": "2026-11-01",
-      "status": "seed",
+      "as_of": "2026-11-02",
+      "status": "live",
       "type": "market"
     }
   },
   "ensemble": {
-    "house_dem": 90.3,
+    "house_dem": 90.5,
     "house_n": 5,
-    "senate_dem": 70.5,
+    "senate_dem": 72.0,
     "senate_n": 4
   },
   "senate_projection": {
