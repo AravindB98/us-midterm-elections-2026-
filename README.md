@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-03 13:04 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-03 13:19 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -93,10 +93,10 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 **Latest midterm headlines (auto-updated)**
 
 - [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
-- [Ten Poll Numbers That Explain the 2026 Midterm Elections](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmx2dGpKczJubXRLdjJ2dGZqc2lxbWxHVHJseTgycVRMZV8xbDFLN0RkSHFpSW56aE5mNVZETlBTVFpKdzNKbl8yWUhya1FxaE9aamhnYmVTU1k5WHBTM2NlT3B6TmtzNHItTVBuY09aWUpfbEstUzBJdndZc0kyRl9wTTJTN01VZFJUQ1FR?oc=5) (Council on Foreign Relations)
 - [2026 midterm election results: U.S. Senate, U.S. House, governor’s races](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2plZEdEVHZRVnJ3bWJNYzFRbmQxS3Eyc0otZlpGNGZramtmcEJlQV9WaDVMSm9PWFhtZW8xcGxwY3FyNHFHOFl3V3VVbUg1akFkclIxVG9VM1MxZktRWkpOTXJKYnpGSkNObEZnU1ZMUF9mZTh1SVZMRGh2Ykpka0NtcmVUZw?oc=5) (WHYY)
-- [2026 US midterms: A quick guide to understanding the midterm elections](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQnlWal9pTVJpRWtaX3F1MWNaWWNoSXNseTd0cmlibzlBNHY5bDRDX1FwbkR0VDB5YXRKMnlzR1hpRVpsSkc3S3ZkdkUzdmxpcXNpRy1PbElyRmtRVDFHclhTQU5tNU5oRW45cjBNeFJwX2ZkbjRPOXE4bldBWXpuQnN5ZnJfZFVFZHhTY2tOX2paT3l1ZXF4UEJCWEoxX0pNc1NpbF9DRGlBN1VyMWUzbUw1QTVtN3ptTThLT3NoaDFMMVpUcFdVOGJpQThOTHhNQVFPYmEzS3NCR0E?oc=5) (Le Monde.fr)
+- [2026 US midterm elections: In Arizona, momentum shifts to the Democrats](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc21vXzlQTWpMclpCVDQyOWlRRTZvNDJ5anlaaXpFWlZHaDN5WWg5VXlqUENrVW1QMnk2ZEZxakxZM2FnOG0yamNzbWZ6TDlzdFFiNzBjYzk1RVlEeFl2c0NPVG5YY2I5UG1TT2dKeFFxaDdkWE1zUlRMUGstdE5jeVdQTHNOMVZ0UEE1VldXTEgtdHlCQTFYdko2NzdjSjV0cWVXTGtXSkJMbklsTUJUS3pRSWJGVVdBeG9xSmVfZHZDWFducUFudWh0SzhlYVp5aFJBa0RPbE5Sd1hqZUhnWXRjSkhSelNGUURPcg?oc=5) (Le Monde.fr)
 - [US midterm elections 2026: all you need to know](https://news.google.com/rss/articles/CBMingFBVV95cUxNLWVqMXhMQnJXdHBFRlBtZUNISmEzU3ViamZ3UkwycFFXZ3B0SG0tVmVDZlg2ejFCT2RBd2ZKVzRLZmp3TXAxbUNYWENDWGdPV1FFWl9BOGplYl80SEVvQmdKeFpSZXdIOHcwTHo2WGpXOXhfTHVaR0wxVnpyRTdzb2lUMk95LW5QbU9UT1BFSU85V0FxeTRXUlg2aTdLQdIBngFBVV95cUxNd3lsLTVTNmlFUUIxMlNTWDJMajJHYWlpVTFNcEpBV25UTVBScThqY1VUWGE3YkZJRHNZMlczOUdjNU5XVUFCdW9XcGhKbVFNZHRrcTZYZGd4dTRhYVFGYkd1ZGdYdklDb0w3S1hwMldoMlZIUDFHb0Npc3pWYTN4WjVGRVcwU1RIakNjSXd4UjEySVNMWkxXclBIcEVwUQ?oc=5) (South China Morning Post)
+- [Live fact check: Election Day 2026](https://news.google.com/rss/articles/CBMie0FVX3lxTFA0UUFHR0FTMDdueXJxTkl3M1JOSEsweVdUX1lGV1FqajZIZ2xuTTI4WEw4bHVabWl4VWFvdlVnLUhTTjN0RkxPaUlMTjNOVFF4cEN1amRtSFlRR20tX3R4OXpuVGd2TnB4MW4zdGdaQk1JemZoN240U0pLMNIBgAFBVV95cUxPcG1yLTQyZ0dLQWRtcTBhemxPa0lYVElqXzFMVEhLRURPVktPblJpMDd4aVR3NFFMTWpIaF9vS1Z6Vk90UFFZcVB6TlV1bUJQenB0Qy03em5TMXhpNGdObU1NWDRZMzIxUnltdVBVNFBaamJYdGMxM2xNUnMzOUc4Sg?oc=5) (PBS)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
