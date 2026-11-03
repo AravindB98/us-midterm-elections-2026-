@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-03T21:35:04Z",
+ "updated_utc": "2026-11-03T21:50:04Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -37,13 +37,13 @@
   },
   "House": {
    "parties": {
-    "R": {
-     "after": null,
-     "before": 218
-    },
     "D": {
      "after": null,
      "before": 214
+    },
+    "R": {
+     "after": null,
+     "before": 218
     },
     "I": {
      "after": null,
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-03T21:28:35Z"
+   "source_revised": "2026-11-03T21:41:00Z"
   }
  },
  "senate_not_up": {
@@ -83,7 +83,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-03T21:29:58Z"
+   "source_revised": "2026-11-03T21:35:22Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -305,7 +305,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-   "source_revised": "2026-11-03T18:41:11Z"
+   "source_revised": "2026-11-03T21:43:45Z"
   },
   "Michigan|Senate": {
    "state": "Michigan",
@@ -416,7 +416,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-03T21:02:06Z"
+   "source_revised": "2026-11-03T21:45:37Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -494,7 +494,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-03T17:03:47Z"
+   "source_revised": "2026-11-03T21:40:46Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -735,7 +735,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
-   "source_revised": "2026-11-03T12:24:50Z"
+   "source_revised": "2026-11-03T21:41:54Z"
   },
   "Colorado|Senate": {
    "state": "Colorado",
@@ -1080,7 +1080,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-03T20:40:17Z"
+   "source_revised": "2026-11-03T21:39:24Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1394,7 +1394,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
-   "source_revised": "2026-11-03T15:59:00Z"
+   "source_revised": "2026-11-03T21:37:59Z"
   },
   "Oregon|Governor": {
    "state": "Oregon",
