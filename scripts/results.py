@@ -58,7 +58,7 @@ def parse_infobox(wikitext: str) -> dict:
     cands = []
     for i in range(1, 6):
         name = fields.get(f"nominee{i}") or fields.get(f"candidate{i}")
-        if not name:
+        if not name or PLACEHOLDER.match(name):
             continue
         party = fields.get(f"party{i}", "")
         votes = re.sub(r"[^\d]", "", fields.get(f"popular_vote{i}", "") or "")
@@ -80,6 +80,37 @@ def party_code(p: str) -> str:
     if "independent" in p:
         return "I"
     return "O" if p else ""
+
+
+def _norm(s: str) -> str:
+    return re.sub(r"[^a-z]", "", re.sub(r"\(.*?\)", "", (s or "").lower()))
+
+
+def chamber_totals(pages: dict) -> dict:
+    """Running seat counts from the national Senate and House articles (infobox seats_after)."""
+    out = {}
+    for office, title in (("Senate", "2026 United States Senate elections"), ("House", "2026 United States House of Representatives elections")):
+        pg = pages.get(title)
+        if not pg:
+            continue
+        m = re.search(r"\{\{\s*Infobox (?:legislative )?election(.*?)\n\}\}", pg["text"], flags=re.S | re.I)
+        if not m:
+            continue
+        f = {}
+        for line in re.split(r"\n\s*\|", m.group(1)):
+            if "=" in line:
+                k, v = line.split("=", 1)
+                f[k.strip().lower()] = _clean(v)
+        row = {}
+        for i in range(1, 5):
+            code = party_code(f.get(f"party{i}", ""))
+            after = re.sub(r"[^\d]", "", f.get(f"seats_after{i}", "") or "")
+            before = re.sub(r"[^\d]", "", f.get(f"seats_before{i}", "") or "")
+            if code in ("D", "R", "I"):
+                row[code] = {"after": int(after) if after else None, "before": int(before) if before else None}
+        if row:
+            out[office] = {"parties": row, "source": f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}", "source_revised": pg["rev_time"]}
+    return out
 
 
 def fetch_wikitext(titles: list[str]) -> dict:
@@ -116,7 +147,7 @@ def update_results(offline: bool = False) -> dict:
     for fname, office, tfn in (("senate_2026.csv", "Senate", senate_title), ("governors_2026.csv", "Governor", gov_title)):
         for r in csv.DictReader((DATA / fname).open()):
             races.append((r["state"], office, tfn(r["state"])))
-    pages = fetch_wikitext([t for _, _, t in races])
+    pages = fetch_wikitext([t for _, _, t in races] + ["2026 United States Senate elections", "2026 United States House of Representatives elections"])
     if not pages:
         return prev
     out = {}
@@ -136,10 +167,22 @@ def update_results(offline: bool = False) -> dict:
         for c in cands:
             c["party_code"] = party_code(c["party"])
         has_votes = any(c["votes"] for c in cands)
-        called = bool(ib["winner"])
+        if not has_votes:
+            for c in cands:
+                c["pct"] = None  # pre-election infobox numbers are not results
+        w = ib["winner"]
+        match = next((c for c in cands if w and (_norm(c["name"]) in _norm(w) or _norm(w) in _norm(c["name"]))), None)
+        old = prev.get("races", {}).get(key, {})
+        # Guard against premature or mistaken edits: a winner must match a listed candidate and
+        # appear in two consecutive reads (about a minute apart) before we show it as called.
+        seen_before = w and (old.get("winner") == w or old.get("pending_winner") == w)
+        called = bool(match) and bool(seen_before)
+        pending = w if (match and not called) else None
         out[key] = {
             "state": state, "office": office, "status": "called" if called else ("counting" if has_votes else "awaiting"),
-            "winner": ib["winner"] or None, "winner_party": party_code(ib["winner_party"]) or None,
+            "winner": w if called else None,
+            "winner_party": ((party_code(ib["winner_party"]) or match["party_code"]) if called else None),
+            "pending_winner": pending,
             "candidates": cands, "source": f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}",
             "source_revised": pg["rev_time"],
         }
@@ -152,8 +195,10 @@ def update_results(offline: bool = False) -> dict:
             t["uncalled"] += 1
     res = {"updated_utc": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
            "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
-           "races_found": found, "tally": tally, "senate_not_up": {"D": 34, "R": 31}, "races": out}
-    path.write_text(json.dumps(res, indent=1) + "\n")
+           "races_found": found, "tally": tally, "chambers": chamber_totals(pages) or prev.get("chambers", {}), "senate_not_up": {"D": 34, "R": 31}, "races": out}
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps(res, indent=1) + "\n")
+    tmp.replace(path)  # atomic, so the site never reads a half-written file
     print(f"  results: {found} race pages parsed; Senate called D{tally['Senate']['D']} R{tally['Senate']['R']} I{tally['Senate']['I']}, uncalled {tally['Senate']['uncalled']}")
     return res
 
@@ -165,7 +210,14 @@ def results_window() -> bool:
 
 
 if __name__ == "__main__":
+    if "--auto" in sys.argv:
+        # Called every minute by the live loop: every minute in the results window, else every 15th tick.
+        tick = int(sys.argv[sys.argv.index("--tick") + 1]) if "--tick" in sys.argv else 0
+        if results_window() or tick % 15 == 0:
+            update_results()
+        sys.exit(0)
     r = update_results()
+    print("CHAMBERS:", json.dumps(r.get("chambers")))
     for k, v in sorted(r.get("races", {}).items())[:80]:
         print(k, v["status"], [c["name"] + "(" + c["party_code"] + ")" for c in v["candidates"]], v.get("winner"))
     missing = []

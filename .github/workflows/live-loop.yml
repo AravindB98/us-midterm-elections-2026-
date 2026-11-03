@@ -4,6 +4,7 @@ name: Live loop (every minute)
 # for ~5h45m and runs the updater every 60 seconds, then re-dispatches itself.
 #   every minute : prediction markets (Kalshi, Polymarket, PredictIt, Manifold) + consensus
 #   every 5 min  : + headlines from 16 countries and topic feeds
+#   every minute from 5 pm ET Nov 3 : unofficial results and race calls (scripts/results.py)
 #   every 15 min : full refresh (scraped models, race tables, poll table, charts, README, docs)
 on:
   workflow_dispatch: {}
@@ -40,25 +41,42 @@ jobs:
             ( cd _site && git init -q -b gh-pages && git add -A && git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -q -m "live $(date -u +%H:%M)" \
               && git push -q -f "https://x-access-token:${TOKEN}@github.com/${REPO}.git" gh-pages ) || echo "publish failed"
           }
+          commit_main () {
+            git add data assets docs README.md
+            if ! git diff --cached --quiet; then
+              git commit -q -m "Live update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+              for t in 1 2 3; do git pull -q --rebase -X ours origin main && git push -q origin HEAD:main && break; sleep 5; done
+            fi
+          }
           END=$((SECONDS + 20700))
           i=0
+          FULLPID=""
           while [ $SECONDS -lt $END ]; do
             start=$SECONDS
-            if [ $((i % 15)) -eq 0 ]; then mode=full; elif [ $((i % 5)) -eq 0 ]; then mode=headlines; else mode=fast; fi
-            echo "::group::iteration $i ($mode) $(date -u +%H:%M:%S)"
-            timeout $([ "$mode" = full ] && echo 420 || echo 150) python scripts/update_live.py --mode $mode || echo "update error (continuing)"
-            publish_site
-            if [ "$mode" = full ]; then
-              git add data assets docs README.md
-              if ! git diff --cached --quiet; then
-                git commit -q -m "Live update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-                for t in 1 2 3; do git pull -q --rebase -X ours origin main && git push -q origin HEAD:main && break; sleep 5; done
+            echo "::group::iteration $i $(date -u +%H:%M:%S)"
+            # Election results (unofficial race calls): every minute from 5 pm ET Nov 3, else every 15 min.
+            timeout 60 python scripts/results.py --auto --tick $i || echo "results error (continuing)"
+            if [ -n "$FULLPID" ] && ! kill -0 "$FULLPID" 2>/dev/null; then
+              wait "$FULLPID"; FULLPID=""; commit_main   # full refresh finished in the background
+            fi
+            if [ -z "$FULLPID" ]; then
+              if [ $((i % 15)) -eq 0 ]; then
+                # The full refresh can take several minutes; run it in the background so results and
+                # the site keep publishing every minute meanwhile.
+                ( timeout 420 python scripts/update_live.py --mode full || echo "full update error" ) &
+                FULLPID=$!
+              elif [ $((i % 5)) -eq 0 ]; then
+                timeout 150 python scripts/update_live.py --mode headlines || echo "update error (continuing)"
+              else
+                timeout 150 python scripts/update_live.py --mode fast || echo "update error (continuing)"
               fi
             fi
+            publish_site
             echo "::endgroup::"
             i=$((i + 1))
             el=$((SECONDS - start)); [ $el -lt 60 ] && sleep $((60 - el))
           done
+          [ -n "$FULLPID" ] && wait "$FULLPID"; commit_main; publish_site
       - name: Re-dispatch to keep the loop alive
         if: always()
         env:

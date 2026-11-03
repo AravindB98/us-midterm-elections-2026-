@@ -195,6 +195,8 @@ flowchart LR
 | Updater | [`scripts/update_live.py`](scripts/update_live.py) |
 | Website | [`site/index.html`](site/index.html) |
 | Schedules | [`live-loop.yml`](.github/workflows/live-loop.yml): markets every minute, headlines every 5 min, full refresh every 15 min |
+| Election night | [`scripts/results.py`](scripts/results.py) reads all 71 Senate and governor race pages every minute from 5 pm ET on Nov 3 and writes [`data/results.json`](data/results.json). A race shows as called only when its page records an AP or network call and two consecutive checks agree. Unofficial until states certify. |
+| State view | Pick a state in the dashboard menu, or share a link like `?state=TX`, to see only that state's races, turnout, votes to win, polls, news and results. |
 
 Run locally:
 
