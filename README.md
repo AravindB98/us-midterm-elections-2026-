@@ -43,18 +43,18 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-03 23:36 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-03 23:51 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
-- House: Democrats strongly favored (weighted average 91% Democratic across 10 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 97% (Polymarket).
-- Senate: Democrats favored (weighted average 73% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).
+- House: Democrats strongly favored (weighted average 92% Democratic across 10 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 98% (Polymarket).
+- Senate: Democrats favored (weighted average 74% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 89% (PredictIt).
 - Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
 
 | Consensus (weighted) | Democrats | Republicans | Fresh sources | Range across sources | Verdict |
 |---|---|---|---|---|---|
-| **House control** | 91.3% | 8.7% | 10 | 83% to 97% | Democrats strongly favored |
-| **Senate control** | 72.6% | 27.4% | 10 | 60% to 84% | Democrats favored |
+| **House control** | 91.6% | 8.4% | 10 | 83% to 98% | Democrats strongly favored |
+| **Senate control** | 74.3% | 25.7% | 10 | 60% to 89% | Democrats favored |
 | **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race odds | - | 51 needed |
 
 **Forecasts in the consensus**
@@ -68,10 +68,10 @@ _Last automatic update: **2026-11-03 23:36 UTC**. Markets refresh every minute, 
 | [VoteHub](https://votehub.com/) | Forecast models | n/a | 60.0% | 2026-10-24 |
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | 91.0% | 76.0% | 2026-11-03 |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | 94.1% | 75.0% | 2026-11-03 |
-| [Polymarket](https://polymarket.com/) | Prediction markets | 96.7% | 81.5% | 2026-11-03 |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | 95.0% | 78.0% | 2026-11-03 |
+| [Polymarket](https://polymarket.com/) | Prediction markets | 98.2% | 86.5% | 2026-11-03 |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | 96.0% | 89.0% | 2026-11-03 |
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | 83.0% | 84.0% | 2026-11-01 |
-| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 96.7% | 78.0% | 2026-11-03 |
+| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 97.6% | 80.5% | 2026-11-03 |
 
 All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, social, academic, AI, repos): **[docs/09](docs/09-all-sources-consensus.md)**.
 
