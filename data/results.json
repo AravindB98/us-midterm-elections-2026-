@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-03T19:19:11Z",
+ "updated_utc": "2026-11-03T19:34:11Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-03T19:14:27Z"
+   "source_revised": "2026-11-03T19:31:00Z"
   }
  },
  "senate_not_up": {
@@ -331,7 +331,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-03T18:28:32Z"
+   "source_revised": "2026-11-03T19:31:39Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -553,7 +553,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
-   "source_revised": "2026-11-03T14:49:52Z"
+   "source_revised": "2026-11-03T19:29:22Z"
   },
   "Kentucky|Senate": {
    "state": "Kentucky",
@@ -1557,7 +1557,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
-   "source_revised": "2026-11-03T16:02:11Z"
+   "source_revised": "2026-11-03T19:31:09Z"
   },
   "Colorado|Governor": {
    "state": "Colorado",
@@ -1632,10 +1632,17 @@
      "votes": null,
      "pct": null,
      "party_code": "D"
+    },
+    {
+     "name": "David Hatley",
+     "party": "Independent politician",
+     "votes": null,
+     "pct": null,
+     "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-   "source_revised": "2026-11-03T17:45:27Z"
+   "source_revised": "2026-11-03T19:32:52Z"
   },
   "Vermont|Governor": {
    "state": "Vermont",
