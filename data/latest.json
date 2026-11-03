@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-03T20:05:16Z",
+  "updated_utc": "2026-11-03T20:20:21Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -144,7 +144,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "senate": 76.0,
-      "house": 92.0,
+      "house": 93.0,
       "as_of": "2026-11-03"
     },
     "manifold": {
@@ -153,8 +153,8 @@
       "url": "https://manifold.markets/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "house": 94.0,
-      "senate": 73.0,
+      "house": 95.3,
+      "senate": 73.8,
       "as_of": "2026-11-03"
     },
     "metaculus": {
@@ -177,7 +177,7 @@
     }
   },
   "ensemble": {
-    "house_dem": 90.6,
+    "house_dem": 90.8,
     "house_n": 10,
     "senate_dem": 71.6,
     "senate_n": 10
@@ -198,23 +198,23 @@
   "disclaimer": "This is only a collection of publicly available resources and forecasts. The creator is neutral and does not support any political party, candidate or ideology.",
   "consensus": {
     "house": {
-      "value": 90.6,
-      "median": 91.5,
+      "value": 90.8,
+      "median": 92.0,
       "n": 10,
       "min": {
         "value": 83,
         "source": "ForbesPredict"
       },
       "max": {
-        "value": 95.0,
-        "source": "Silver Bulletin (Nate Silver) FLIPR"
+        "value": 95.3,
+        "source": "Manifold Markets"
       },
       "share_favoring_dem": 100,
-      "stdev": 4.1,
+      "stdev": 4.3,
       "by_type": {
         "forecast_model": 89.6,
-        "prediction_market": 93.5,
-        "crowd_forecast": 88.5
+        "prediction_market": 93.9,
+        "crowd_forecast": 89.2
       },
       "sources": [
         "ddhq",
@@ -246,7 +246,7 @@
       "by_type": {
         "forecast_model": 68.6,
         "prediction_market": 75.5,
-        "crowd_forecast": 78.5
+        "crowd_forecast": 78.9
       },
       "sources": [
         "ddhq",
@@ -262,7 +262,7 @@
       ]
     },
     "conclusion": [
-      "House: Democrats strongly favored (weighted average 91% Democratic across 10 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 95% (Silver Bulletin (Nate Silver) FLIPR).",
+      "House: Democrats strongly favored (weighted average 91% Democratic across 10 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 95% (Manifold Markets).",
       "Senate: Democrats favored (weighted average 72% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
