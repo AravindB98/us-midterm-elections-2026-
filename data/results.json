@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-03T22:36:05Z",
+ "updated_utc": "2026-11-03T22:52:05Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,17 +33,17 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-03T18:25:09Z"
+   "source_revised": "2026-11-03T22:51:30Z"
   },
   "House": {
    "parties": {
-    "D": {
-     "after": null,
-     "before": 214
-    },
     "R": {
      "after": null,
      "before": 218
+    },
+    "D": {
+     "after": null,
+     "before": 214
     },
     "I": {
      "after": null,
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-03T22:02:07Z"
+   "source_revised": "2026-11-03T22:46:16Z"
   }
  },
  "senate_not_up": {
