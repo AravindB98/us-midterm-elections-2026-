@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-03 07:04 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-03 07:19 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -54,7 +54,7 @@ _Last automatic update: **2026-11-03 07:04 UTC**. Markets refresh every minute, 
 | Consensus (weighted) | Democrats | Republicans | Fresh sources | Range across sources | Verdict |
 |---|---|---|---|---|---|
 | **House control** | 91.0% | 9.0% | 10 | 83% to 98% | Democrats strongly favored |
-| **Senate control** | 72.2% | 27.8% | 10 | 60% to 84% | Democrats favored |
+| **Senate control** | 72.3% | 27.7% | 10 | 60% to 84% | Democrats favored |
 | **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race odds | - | 51 needed |
 
 **Forecasts in the consensus**
@@ -71,7 +71,7 @@ _Last automatic update: **2026-11-03 07:04 UTC**. Markets refresh every minute, 
 | [Polymarket](https://polymarket.com/) | Prediction markets | 94.5% | 77.5% | 2026-11-03 |
 | [PredictIt](https://www.predictit.org/) | Prediction markets | 94.0% | 79.0% | 2026-11-03 |
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | 83.0% | 84.0% | 2026-11-01 |
-| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 98.0% | 76.0% | 2026-11-03 |
+| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 98.0% | 76.7% | 2026-11-03 |
 
 All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, social, academic, AI, repos): **[docs/09](docs/09-all-sources-consensus.md)**.
 
@@ -93,7 +93,7 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 **Latest midterm headlines (auto-updated)**
 
 - [Democrats Show Strength in Final Days of Race for the Senate, New Polls Find](https://news.google.com/rss/articles/CBMigAFBVV95cUxPS1FWU3dzc1ljclFJa2ZkLWhzdU1vSWRmQVV4R01VdEV4TFFCLUd4cUNzLXJkemtKX1RjbzlENnU5dC1IR09sMWp1c3E1cGxpaWFhUzdidzNONjF0UEZYRUFtcE5QbHk5Q0dmN28wUmJIM0Q4TmtVOTZ4eXNhMmhUUg?oc=5) (The New York Times)
-- [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
+- [Poll: Voters demand change and a check on Trump, fueling a steep Democratic midterm advantage](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMjZXMUs1STZPTEhRSnFySU5pSVNzcnFLU3k3YU1aTGkyanZqUE1HTjVHSXVLd2xTZjkwMWJjWldnVjNqVFNoOVRaM1BhXzBSb2ZhODVJem5LTExKcHZfVHo1Q2VjNlBhZS1WSHM2UHRkaHZmMlhvWGNJZG9MM3B5WHFUMmU0a1lnTTBDVk9zcmVyeEJ1RkRPTEl4a0NNNDM4cGJVaVNUVnZvREpFSGZlZlFrZm1aWUZUOHVTX200cDJFZTRyLWJN?oc=5) (NBC News)
 - [What Are the Polls Telling Us About the 2026 Midterm Elections?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazVILW52bnFRRm9vSWpjMXJsSGhuMDRyZjNrQVRyWTRnMUFYR1I1UE9aa1A2OGhTR2V5eXpVeGRJajhqWkV4azlMX0JlZDd3bGRNZTJXSjZqcUJITjVyY0hsbTN2S2Z3TDU2QUxOOWRwSE5FVUN3dEFuRDJ5di1hM25tOVVMczJNRGdz?oc=5) (Rutgers University)
 - [Ten Poll Numbers That Explain the 2026 Midterm Elections](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmx2dGpKczJubXRLdjJ2dGZqc2lxbWxHVHJseTgycVRMZV8xbDFLN0RkSHFpSW56aE5mNVZETlBTVFpKdzNKbl8yWUhya1FxaE9aamhnYmVTU1k5WHBTM2NlT3B6TmtzNHItTVBuY09aWUpfbEstUzBJdndZc0kyRl9wTTJTN01VZFJUQ1FR?oc=5) (Council on Foreign Relations)
 - [How popular is Donald Trump?](https://news.google.com/rss/articles/CBMifEFVX3lxTFBYVUpnUy1YUjZ5TG1McTZxWTFEOXpjWmFqRjB6ZXg3VlRaMVp4aEI1WWtPSWJhRlRQdG9WV1h4S2loTWkwUnhNWGFmdHNCalE2VjUtVE9GcVlhZ3g5T0t2UFdmRlk0WU9xRDl4MjE5M1BOY0dzUGNqcERyTVc?oc=5) (Silver Bulletin)
