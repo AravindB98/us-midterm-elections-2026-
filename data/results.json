@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-03T11:48:37Z",
+ "updated_utc": "2026-11-03T12:03:37Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -80,17 +80,10 @@
      "votes": null,
      "pct": null,
      "party_code": "D"
-    },
-    {
-     "name": "David Graham",
-     "party": "Libertarian Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "O"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-03T05:47:50Z"
+   "source_revised": "2026-11-03T11:52:39Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -123,7 +116,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
-   "source_revised": "2026-11-03T05:15:40Z"
+   "source_revised": "2026-11-03T11:58:57Z"
   },
   "Ohio|Senate": {
    "state": "Ohio",
@@ -208,7 +201,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-03T11:48:19Z"
+   "source_revised": "2026-11-03T12:00:23Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -260,7 +253,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-03T11:30:22Z"
+   "source_revised": "2026-11-03T11:54:30Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -423,7 +416,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-03T05:10:26Z"
+   "source_revised": "2026-11-03T11:56:46Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -449,7 +442,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-03T05:08:31Z"
+   "source_revised": "2026-11-03T11:50:19Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -501,7 +494,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-03T05:10:58Z"
+   "source_revised": "2026-11-03T12:03:11Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -1061,7 +1054,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-03T11:44:49Z"
+   "source_revised": "2026-11-03T12:01:18Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1861,10 +1854,17 @@
      "votes": null,
      "pct": null,
      "party_code": "R"
+    },
+    {
+     "name": "Andrea James",
+     "party": "Independent",
+     "votes": null,
+     "pct": null,
+     "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
-   "source_revised": "2026-11-03T11:44:22Z"
+   "source_revised": "2026-11-03T11:58:49Z"
   },
   "Maryland|Governor": {
    "state": "Maryland",
