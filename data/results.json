@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-03T23:06:05Z",
+ "updated_utc": "2026-11-03T23:22:05Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-03T22:46:16Z"
+   "source_revised": "2026-11-03T23:20:26Z"
   }
  },
  "senate_not_up": {
@@ -558,7 +558,7 @@
   "Kentucky|Senate": {
    "state": "Kentucky",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -566,20 +566,20 @@
     {
      "name": "Andy Barr",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 3158,
+     "pct": 72.78,
      "party_code": "R"
     },
     {
      "name": "Charles Booker",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1104,
+     "pct": 25.44,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-   "source_revised": "2026-11-03T23:05:04Z"
+   "source_revised": "2026-11-03T23:09:37Z"
   },
   "South Dakota|Senate": {
    "state": "South Dakota",
