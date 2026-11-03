@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-03T23:22:05Z",
+ "updated_utc": "2026-11-03T23:36:04Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,17 +33,17 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-03T22:52:14Z"
+   "source_revised": "2026-11-03T23:31:20Z"
   },
   "House": {
    "parties": {
-    "R": {
-     "after": null,
-     "before": 218
-    },
     "D": {
      "after": null,
      "before": 214
+    },
+    "R": {
+     "after": null,
+     "before": 218
     },
     "I": {
      "after": null,
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-03T23:20:26Z"
+   "source_revised": "2026-11-03T23:22:13Z"
   }
  },
  "senate_not_up": {
@@ -175,7 +175,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-03T17:56:06Z"
+   "source_revised": "2026-11-03T23:32:40Z"
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -201,7 +201,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-03T18:25:49Z"
+   "source_revised": "2026-11-03T23:32:17Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -566,20 +566,20 @@
     {
      "name": "Andy Barr",
      "party": "Republican Party (United States)",
-     "votes": 3158,
-     "pct": 72.78,
+     "votes": 13100,
+     "pct": 65.6,
      "party_code": "R"
     },
     {
      "name": "Charles Booker",
      "party": "Democratic Party (United States)",
-     "votes": 1104,
-     "pct": 25.44,
+     "votes": 6497,
+     "pct": 32.6,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-   "source_revised": "2026-11-03T23:09:37Z"
+   "source_revised": "2026-11-03T23:31:54Z"
   },
   "South Dakota|Senate": {
    "state": "South Dakota",
