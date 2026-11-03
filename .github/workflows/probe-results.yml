@@ -1,0 +1,14 @@
+name: probe-results
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install -q requests
+      - run: python scripts/results.py
+      - run: python -c "import json;d=json.load(open('data/results.json'));import itertools;[print(k,json.dumps(v)[:600]) for k,v in itertools.islice(d['races'].items(),4)]"
