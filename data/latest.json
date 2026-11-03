@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-02T23:59:07Z",
+  "updated_utc": "2026-11-03T00:14:10Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -34,8 +34,8 @@
     },
     "midtermforecast": {
       "house": 92.0,
-      "senate": 75.0,
-      "as_of": "2026-11-02",
+      "senate": 76.0,
+      "as_of": "2026-11-03",
       "status": "live",
       "type": "forecast_model",
       "name": "midtermforecast.com",
@@ -45,7 +45,7 @@
     "kalshi": {
       "house": 94.1,
       "senate": 75.0,
-      "as_of": "2026-11-02",
+      "as_of": "2026-11-03",
       "status": "live",
       "type": "prediction_market",
       "name": "Kalshi",
@@ -133,7 +133,7 @@
       "lean": "Nonpartisan / unrated",
       "house": 94.5,
       "senate": 75.5,
-      "as_of": "2026-11-02",
+      "as_of": "2026-11-03",
       "status": "live",
       "note": "Crypto-based global market; user base often described as right-leaning."
     },
@@ -143,9 +143,9 @@
       "url": "https://www.predictit.org/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "senate": 76.0,
-      "house": 95.0,
-      "as_of": "2026-11-02"
+      "senate": 77.0,
+      "house": 94.0,
+      "as_of": "2026-11-03"
     },
     "manifold": {
       "name": "Manifold Markets",
@@ -155,7 +155,7 @@
       "status": "live",
       "house": 98.0,
       "senate": 72.2,
-      "as_of": "2026-11-02"
+      "as_of": "2026-11-03"
     },
     "metaculus": {
       "name": "Metaculus",
@@ -177,9 +177,9 @@
     }
   },
   "ensemble": {
-    "house_dem": 91.3,
+    "house_dem": 91.2,
     "house_n": 10,
-    "senate_dem": 71.4,
+    "senate_dem": 71.6,
     "senate_n": 10
   },
   "senate_projection": {
@@ -198,7 +198,7 @@
   "disclaimer": "This is only a collection of publicly available resources and forecasts. The creator is neutral and does not support any political party, candidate or ideology.",
   "consensus": {
     "house": {
-      "value": 91.3,
+      "value": 91.2,
       "median": 93.0,
       "n": 10,
       "min": {
@@ -213,7 +213,7 @@
       "stdev": 4.7,
       "by_type": {
         "forecast_model": 89.8,
-        "prediction_market": 94.5,
+        "prediction_market": 94.2,
         "crowd_forecast": 90.5
       },
       "sources": [
@@ -230,8 +230,8 @@
       ]
     },
     "senate": {
-      "value": 71.4,
-      "median": 75.0,
+      "value": 71.6,
+      "median": 75.2,
       "n": 10,
       "min": {
         "value": 60,
@@ -242,10 +242,10 @@
         "source": "ForbesPredict"
       },
       "share_favoring_dem": 100,
-      "stdev": 6.9,
+      "stdev": 7.0,
       "by_type": {
-        "forecast_model": 68.4,
-        "prediction_market": 75.5,
+        "forecast_model": 68.6,
+        "prediction_market": 75.8,
         "crowd_forecast": 78.1
       },
       "sources": [
@@ -263,7 +263,7 @@
     },
     "conclusion": [
       "House: Democrats strongly favored (weighted average 91% Democratic across 10 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 98% (Manifold Markets).",
-      "Senate: Democrats favored (weighted average 71% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).",
+      "Senate: Democrats favored (weighted average 72% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
   }
