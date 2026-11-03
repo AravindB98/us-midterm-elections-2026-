@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-03T17:50:11Z",
+  "updated_utc": "2026-11-03T18:05:08Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -143,7 +143,7 @@
       "url": "https://www.predictit.org/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "senate": 75.0,
+      "senate": 76.0,
       "house": 92.0,
       "as_of": "2026-11-03"
     },
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 90.8,
     "house_n": 10,
-    "senate_dem": 71.4,
+    "senate_dem": 71.5,
     "senate_n": 10
   },
   "senate_projection": {
@@ -230,7 +230,7 @@
       ]
     },
     "senate": {
-      "value": 71.4,
+      "value": 71.5,
       "median": 74.8,
       "n": 10,
       "min": {
@@ -245,7 +245,7 @@
       "stdev": 6.9,
       "by_type": {
         "forecast_model": 68.6,
-        "prediction_market": 74.8,
+        "prediction_market": 75.2,
         "crowd_forecast": 78.2
       },
       "sources": [
@@ -263,7 +263,7 @@
     },
     "conclusion": [
       "House: Democrats strongly favored (weighted average 91% Democratic across 10 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 98% (Manifold Markets).",
-      "Senate: Democrats favored (weighted average 71% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).",
+      "Senate: Democrats favored (weighted average 72% Democratic across 10 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 84% (ForbesPredict).",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
   }
