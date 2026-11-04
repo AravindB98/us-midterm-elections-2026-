@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T07:22:31Z",
+ "updated_utc": "2026-11-04T07:36:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 15,
+   "D": 16,
    "R": 8,
    "I": 0,
-   "uncalled": 12
+   "uncalled": 11
   },
   "Governor": {
    "D": 8,
@@ -20,7 +20,7 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": 51,
+     "after": 52,
      "before": 45
     },
     "R": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T07:14:28Z"
+   "source_revised": "2026-11-04T07:30:08Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T07:21:18Z"
+   "source_revised": "2026-11-04T07:30:22Z"
   }
  },
  "senate_not_up": {
@@ -125,20 +125,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 1996306,
-     "pct": 48.54,
+     "votes": 2197419,
+     "pct": 49.58,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 1916219,
-     "pct": 46.59,
+     "votes": 2020408,
+     "pct": 45.59,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T06:46:12Z"
+   "source_revised": "2026-11-04T07:36:19Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -223,7 +223,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T06:44:23Z"
+   "source_revised": "2026-11-04T07:33:14Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -306,9 +306,9 @@
   "Michigan|Senate": {
    "state": "Michigan",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Abdul El-Sayed",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -327,7 +327,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T06:38:34Z"
+   "source_revised": "2026-11-04T07:35:12Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -1050,7 +1050,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T06:46:30Z"
+   "source_revised": "2026-11-04T07:27:43Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1063,20 +1063,20 @@
     {
      "name": "Keisha Lance Bottoms",
      "party": "Democratic Party of Georgia",
-     "votes": 1800965,
-     "pct": 55.8,
+     "votes": 2259100,
+     "pct": 54.2,
      "party_code": "D"
     },
     {
      "name": "Rick Jackson",
      "party": "Georgia Republican Party",
-     "votes": 1423744,
-     "pct": 44.2,
+     "votes": 1905921,
+     "pct": 45.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-04T05:27:42Z"
+   "source_revised": "2026-11-04T07:34:40Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1107,7 +1107,7 @@
   "Kansas|Governor": {
    "state": "Kansas",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1115,20 +1115,20 @@
     {
      "name": "Cindy Holscher",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 546587,
+     "pct": 50.3,
      "party_code": "D"
     },
     {
      "name": "Ty Masterson",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 541030,
+     "pct": 49.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-03T21:28:53Z"
+   "source_revised": "2026-11-04T07:26:45Z"
   },
   "Alaska|Governor": {
    "state": "Alaska",
@@ -1194,7 +1194,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-04T04:30:32Z"
+   "source_revised": "2026-11-04T07:22:41Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1579,7 +1579,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
-   "source_revised": "2026-11-03T20:12:28Z"
+   "source_revised": "2026-11-04T07:34:35Z"
   },
   "Connecticut|Governor": {
    "state": "Connecticut",
@@ -1638,7 +1638,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-   "source_revised": "2026-11-03T20:50:22Z"
+   "source_revised": "2026-11-04T07:23:45Z"
   },
   "Vermont|Governor": {
    "state": "Vermont",
