@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T05:36:31Z",
+ "updated_utc": "2026-11-04T05:51:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -11,20 +11,20 @@
   },
   "Governor": {
    "D": 7,
-   "R": 3,
+   "R": 4,
    "I": 0,
-   "uncalled": 26
+   "uncalled": 25
   }
  },
  "chambers": {
   "Senate": {
    "parties": {
     "D": {
-     "after": 50,
+     "after": 52,
      "before": 45
     },
     "R": {
-     "after": 40,
+     "after": 41,
      "before": 53
     },
     "I": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T05:36:18Z"
+   "source_revised": "2026-11-04T05:42:04Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T05:33:14Z"
+   "source_revised": "2026-11-04T05:49:55Z"
   }
  },
  "senate_not_up": {
@@ -138,7 +138,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T04:28:17Z"
+   "source_revised": "2026-11-04T05:40:14Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -236,20 +236,20 @@
     {
      "name": "Troy Jackson (replacing Graham Platner)",
      "party": "Democratic Party (United States)",
-     "votes": 243124,
-     "pct": 51.8,
+     "votes": 275827,
+     "pct": 52.4,
      "party_code": "D"
     },
     {
      "name": "Susan Collins",
      "party": "Republican Party (United States)",
-     "votes": 225771,
-     "pct": 48.1,
+     "votes": 249814,
+     "pct": 47.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T05:35:58Z"
+   "source_revised": "2026-11-04T05:37:52Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -288,20 +288,20 @@
     {
      "name": "Ashley Moody",
      "party": "Republican Party (United States)",
-     "votes": 4060559,
-     "pct": 50.77,
+     "votes": 4207173,
+     "pct": 50.9,
      "party_code": "R"
     },
     {
      "name": "Angie Nixon",
      "party": "Democratic Party (United States)",
-     "votes": 3846419,
-     "pct": 48.09,
+     "votes": 396767,
+     "pct": 48.0,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-   "source_revised": "2026-11-04T01:41:56Z"
+   "source_revised": "2026-11-04T05:50:16Z"
   },
   "Michigan|Senate": {
    "state": "Michigan",
@@ -327,7 +327,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T05:34:09Z"
+   "source_revised": "2026-11-04T05:51:16Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -490,7 +490,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-04T05:11:39Z"
+   "source_revised": "2026-11-04T05:41:56Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -1277,9 +1277,9 @@
   "South Carolina|Governor": {
    "state": "South Carolina",
    "office": "Governor",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Alan Wilson",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -1298,7 +1298,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
-   "source_revised": "2026-11-03T16:03:37Z"
+   "source_revised": "2026-11-04T05:41:18Z"
   },
   "Arizona|Governor": {
    "state": "Arizona",
