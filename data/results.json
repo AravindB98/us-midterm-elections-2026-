@@ -1,19 +1,19 @@
 {
- "updated_utc": "2026-11-04T11:53:09Z",
+ "updated_utc": "2026-11-04T12:08:09Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
    "D": 16,
-   "R": 9,
+   "R": 10,
    "I": 0,
-   "uncalled": 10
+   "uncalled": 9
   },
   "Governor": {
-   "D": 11,
+   "D": 12,
    "R": 7,
    "I": 0,
-   "uncalled": 18
+   "uncalled": 17
   }
  },
  "chambers": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T11:52:52Z"
+   "source_revised": "2026-11-04T12:05:20Z"
   }
  },
  "senate_not_up": {
@@ -138,7 +138,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T07:45:44Z"
+   "source_revised": "2026-11-04T11:58:45Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -249,7 +249,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T11:44:00Z"
+   "source_revised": "2026-11-04T11:58:33Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -443,10 +443,10 @@
   "Louisiana|Senate": {
    "state": "Louisiana",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
-   "pending_winner": "Julia Letlow",
+   "status": "called",
+   "winner": "Julia Letlow",
+   "winner_party": "R",
+   "pending_winner": null,
    "candidates": [
     {
      "name": "Julia Letlow",
@@ -529,20 +529,20 @@
     {
      "name": "Barry Moore",
      "party": "Republican Party (United States)",
-     "votes": 848575,
-     "pct": 55.8,
+     "votes": 917347,
+     "pct": 54.7,
      "party_code": "R"
     },
     {
      "name": "Everett Wess",
      "party": "Democratic Party (United States)",
-     "votes": 671290,
-     "pct": 44.2,
+     "votes": 759335,
+     "pct": 45.3,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
-   "source_revised": "2026-11-04T04:31:27Z"
+   "source_revised": "2026-11-04T11:57:55Z"
   },
   "Kentucky|Senate": {
    "state": "Kentucky",
@@ -1259,20 +1259,20 @@
     {
      "name": "David Crowley",
      "party": "Democratic Party (United States)",
-     "votes": 1379075,
-     "pct": 53.4,
+     "votes": 1438721,
+     "pct": 54.1,
      "party_code": "D"
     },
     {
      "name": "Tom Tiffany",
      "party": "Republican Party (United States)",
-     "votes": 1205510,
-     "pct": 46.6,
+     "votes": 1221668,
+     "pct": 45.9,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
-   "source_revised": "2026-11-04T06:21:55Z"
+   "source_revised": "2026-11-04T12:06:50Z"
   },
   "South Carolina|Governor": {
    "state": "South Carolina",
@@ -1303,33 +1303,33 @@
   "Arizona|Governor": {
    "state": "Arizona",
    "office": "Governor",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Katie Hobbs",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Katie Hobbs",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1170284,
+     "pct": 55.83,
      "party_code": "D"
     },
     {
      "name": "Andy Biggs",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 890649,
+     "pct": 42.49,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Arizona_gubernatorial_election",
-   "source_revised": "2026-11-04T05:52:42Z"
+   "source_revised": "2026-11-04T12:05:15Z"
   },
   "Michigan|Governor": {
    "state": "Michigan",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1337,20 +1337,20 @@
     {
      "name": "Jocelyn Benson",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 2572776,
+     "pct": 54.5,
      "party_code": "D"
     },
     {
      "name": "John James",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 2070975,
+     "pct": 43.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election",
-   "source_revised": "2026-11-03T17:49:41Z"
+   "source_revised": "2026-11-04T12:04:25Z"
   },
   "Nebraska|Governor": {
    "state": "Nebraska",
@@ -1570,7 +1570,7 @@
   "Connecticut|Governor": {
    "state": "Connecticut",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1578,20 +1578,20 @@
     {
      "name": "Ned Lamont",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 718126,
+     "pct": 58.8,
      "party_code": "D"
     },
     {
      "name": "Ryan Fazio",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 503032,
+     "pct": 41.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Connecticut_gubernatorial_election",
-   "source_revised": "2026-11-04T11:08:44Z"
+   "source_revised": "2026-11-04T11:54:20Z"
   },
   "Tennessee|Governor": {
    "state": "Tennessee",
@@ -1740,7 +1740,7 @@
   "Pennsylvania|Governor": {
    "state": "Pennsylvania",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1748,20 +1748,20 @@
     {
      "name": "Josh Shapiro",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 2988002,
+     "pct": 60.3,
      "party_code": "D"
     },
     {
      "name": "Stacy Garrity",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1904484,
+     "pct": 38.4,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
-   "source_revised": "2026-11-03T18:22:50Z"
+   "source_revised": "2026-11-04T11:57:16Z"
   },
   "South Dakota|Governor": {
    "state": "South Dakota",
@@ -1852,20 +1852,20 @@
     {
      "name": "Wes Moore",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1163257,
+     "pct": 62.7,
      "party_code": "D"
     },
     {
      "name": "Dan Cox",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 616821,
+     "pct": 33.3,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
-   "source_revised": "2026-11-04T02:30:31Z"
+   "source_revised": "2026-11-04T11:59:30Z"
   },
   "Hawaii|Governor": {
    "state": "Hawaii",
