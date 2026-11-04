@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T15:15:32Z",
+ "updated_utc": "2026-11-04T15:30:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T15:13:34Z"
+   "source_revised": "2026-11-04T15:30:22Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T15:13:19Z"
+   "source_revised": "2026-11-04T15:28:07Z"
   }
  },
  "control": {
@@ -196,7 +196,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-04T14:20:23Z",
+   "source_revised": "2026-11-04T15:21:42Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -214,20 +214,20 @@
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 5397670,
-     "pct": 55.2,
+     "votes": 5445121,
+     "pct": 55.1,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 4188414,
-     "pct": 42.9,
+     "votes": 4249752,
+     "pct": 43.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T15:10:56Z"
+   "source_revised": "2026-11-04T15:26:45Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T13:56:17Z",
+   "source_revised": "2026-11-04T15:24:06Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1506,7 +1506,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
-   "source_revised": "2026-11-04T13:27:28Z",
+   "source_revised": "2026-11-04T15:18:11Z",
    "call_source": {
     "by": "Projected (results aggregator)",
     "url": "https://au.atlasbig.com/government/midterm-elections-2026"
