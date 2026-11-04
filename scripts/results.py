@@ -203,6 +203,18 @@ def update_results(offline: bool = False) -> dict:
             "candidates": cands, "source": f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}",
             "source_revised": pg["rev_time"],
         }
+    # Hand-verified calls from news reports (AP / networks) fill races Wikipedia hasn't marked yet.
+    ov_path = DATA / "calls_override.json"
+    ov = json.loads(ov_path.read_text()) if ov_path.exists() else {}
+    for key, c in ov.get("races", {}).items():
+        x = out.get(key)
+        if x and x["status"] != "called":
+            x.update({"status": "called", "winner": c["winner"], "winner_party": c["party"], "pending_winner": None,
+                      "call_source": {"by": c.get("called_by", ""), "url": c.get("source", "")}})
+    for key, c in ov.get("too_close", {}).items():
+        x = out.get(key)
+        if x and x["status"] != "called":
+            x["too_close"] = c
     tally = {"Senate": {"D": 0, "R": 0, "I": 0, "uncalled": 0}, "Governor": {"D": 0, "R": 0, "I": 0, "uncalled": 0}}
     for v in out.values():
         t = tally[v["office"]]
@@ -212,7 +224,7 @@ def update_results(offline: bool = False) -> dict:
             t["uncalled"] += 1
     res = {"updated_utc": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
            "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
-           "races_found": found, "tally": tally, "chambers": chamber_totals(pages) or prev.get("chambers", {}), "senate_not_up": {"D": 34, "R": 31}, "races": out}
+           "races_found": found, "tally": tally, "chambers": chamber_totals(pages) or prev.get("chambers", {}), "control": ov.get("control", {}), "senate_not_up": {"D": 34, "R": 31}, "races": out}
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(res, indent=1) + "\n")
     tmp.replace(path)  # atomic, so the site never reads a half-written file
