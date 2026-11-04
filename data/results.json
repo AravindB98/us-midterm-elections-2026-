@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T22:01:04Z",
+ "updated_utc": "2026-11-04T22:16:04Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T21:59:23Z"
+   "source_revised": "2026-11-04T22:14:27Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T21:56:31Z"
+   "source_revised": "2026-11-04T22:06:21Z"
   }
  },
  "control": {
@@ -494,7 +494,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
-   "source_revised": "2026-11-04T21:43:32Z"
+   "source_revised": "2026-11-04T22:08:00Z"
   },
   "Georgia|Senate": {
    "state": "Georgia",
@@ -629,7 +629,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
-   "source_revised": "2026-11-04T19:03:44Z"
+   "source_revised": "2026-11-04T22:03:13Z"
   },
   "Arkansas|Senate": {
    "state": "Arkansas",
@@ -1150,20 +1150,20 @@
     {
      "name": "Cindy Holscher",
      "party": "Democratic Party (United States)",
-     "votes": 546648,
+     "votes": 546747,
      "pct": 50.26,
      "party_code": "D"
     },
     {
      "name": "Ty Masterson",
      "party": "Republican Party (United States)",
-     "votes": 541070,
+     "votes": 541183,
      "pct": 49.74,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-04T19:40:36Z",
+   "source_revised": "2026-11-04T22:06:08Z",
    "too_close": {
     "note": "Too close to call as of Wednesday morning per AP; mail ballots still arriving. Holscher leads narrowly.",
     "source": "https://www.kwch.com/2026/11/04/holscher-holds-narrow-lead-over-masterson-uncalled-kansas-governors-race/",
