@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-03T23:51:05Z",
+ "updated_utc": "2026-11-04T00:07:05Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 0,
+   "D": 1,
    "R": 0,
    "I": 0,
-   "uncalled": 35
+   "uncalled": 34
   },
   "Governor": {
    "D": 0,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-03T23:31:20Z"
+   "source_revised": "2026-11-04T00:04:54Z"
   },
   "House": {
    "parties": {
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-03T23:22:13Z"
+   "source_revised": "2026-11-04T00:05:36Z"
   }
  },
  "senate_not_up": {
@@ -494,7 +494,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-03T21:40:46Z"
+   "source_revised": "2026-11-04T00:01:44Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -564,22 +564,22 @@
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Andy Barr",
-     "party": "Republican Party (United States)",
-     "votes": 22698,
-     "pct": 58.4,
-     "party_code": "R"
-    },
-    {
      "name": "Charles Booker",
      "party": "Democratic Party (United States)",
-     "votes": 15480,
-     "pct": 39.9,
+     "votes": 76587,
+     "pct": 51.88,
      "party_code": "D"
+    },
+    {
+     "name": "Andy Barr",
+     "party": "Republican Party (United States)",
+     "votes": 68865,
+     "pct": 46.7,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-   "source_revised": "2026-11-03T23:44:09Z"
+   "source_revised": "2026-11-04T00:05:38Z"
   },
   "South Dakota|Senate": {
    "state": "South Dakota",
@@ -714,9 +714,9 @@
   "Virginia|Senate": {
    "state": "Virginia",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Mark Warner",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -735,7 +735,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
-   "source_revised": "2026-11-03T22:05:28Z"
+   "source_revised": "2026-11-04T00:02:55Z"
   },
   "Colorado|Senate": {
    "state": "Colorado",
