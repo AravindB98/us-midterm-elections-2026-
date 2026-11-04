@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T15:00:32Z",
+ "updated_utc": "2026-11-04T15:15:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T14:57:48Z"
+   "source_revised": "2026-11-04T15:13:34Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T14:58:22Z"
+   "source_revised": "2026-11-04T15:13:19Z"
   }
  },
  "control": {
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T14:27:03Z"
+   "source_revised": "2026-11-04T15:10:56Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -390,7 +390,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-04T14:49:16Z"
+   "source_revised": "2026-11-04T15:14:05Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -429,20 +429,20 @@
     {
      "name": "Roy Cooper",
      "party": "Democratic Party (United States)",
-     "votes": 2431822,
-     "pct": 58.64,
+     "votes": 2467963,
+     "pct": 58.7,
      "party_code": "D"
     },
     {
      "name": "Michael Whatley",
      "party": "Republican Party (United States)",
-     "votes": 1624770,
-     "pct": 39.18,
+     "votes": 1643088,
+     "pct": 39.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T13:24:11Z"
+   "source_revised": "2026-11-04T15:03:19Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -507,20 +507,20 @@
     {
      "name": "Jon Ossoff",
      "party": "Democratic Party (United States)",
-     "votes": 2463116,
+     "votes": 2463132,
      "pct": 59.0,
      "party_code": "D"
     },
     {
      "name": "Mike Collins",
      "party": "Republican Party (United States)",
-     "votes": 1711318,
+     "votes": 1711322,
      "pct": 41.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-04T15:00:20Z"
+   "source_revised": "2026-11-04T15:07:21Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -1098,20 +1098,20 @@
     {
      "name": "Keisha Lance Bottoms",
      "party": "Democratic Party of Georgia",
-     "votes": 2259100,
-     "pct": 54.2,
+     "votes": 2268462,
+     "pct": 54.3,
      "party_code": "D"
     },
     {
      "name": "Rick Jackson",
      "party": "Georgia Republican Party",
-     "votes": 1905921,
-     "pct": 45.8,
+     "votes": 1908261,
+     "pct": 45.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-04T07:34:40Z"
+   "source_revised": "2026-11-04T15:05:12Z"
   },
   "Florida|Governor": {
    "state": "Florida",
