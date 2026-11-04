@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T06:36:31Z",
+ "updated_utc": "2026-11-04T06:51:30Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -11,16 +11,16 @@
   },
   "Governor": {
    "D": 8,
-   "R": 4,
+   "R": 5,
    "I": 0,
-   "uncalled": 24
+   "uncalled": 23
   }
  },
  "chambers": {
   "Senate": {
    "parties": {
     "D": {
-     "after": 53,
+     "after": 51,
      "before": 45
     },
     "R": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T06:35:59Z"
+   "source_revised": "2026-11-04T06:49:31Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T06:34:39Z"
+   "source_revised": "2026-11-04T06:49:28Z"
   }
  },
  "senate_not_up": {
@@ -138,7 +138,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T05:53:36Z"
+   "source_revised": "2026-11-04T06:46:12Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -223,7 +223,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T06:12:50Z"
+   "source_revised": "2026-11-04T06:44:23Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -249,7 +249,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T06:31:14Z"
+   "source_revised": "2026-11-04T06:45:30Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -314,20 +314,20 @@
     {
      "name": "Abdul El-Sayed",
      "party": "Democratic Party (United States)",
-     "votes": 1933317,
-     "pct": 51.9,
+     "votes": 2009755,
+     "pct": 51.8,
      "party_code": "D"
     },
     {
      "name": "Mike Rogers",
      "party": "Republican Party (United States)",
-     "votes": 1720741,
+     "votes": 1791898,
      "pct": 46.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T06:34:47Z"
+   "source_revised": "2026-11-04T06:38:34Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -1030,20 +1030,20 @@
     {
      "name": "Amy Acton",
      "party": "Ohio Democratic Party",
-     "votes": 2049907,
-     "pct": 50.69,
+     "votes": 2204745,
+     "pct": 51.26,
      "party_code": "D"
     },
     {
      "name": "Vivek Ramaswamy",
      "party": "Ohio Republican Party",
-     "votes": 1858779,
-     "pct": 45.96,
+     "votes": 1953015,
+     "pct": 45.41,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T06:16:25Z"
+   "source_revised": "2026-11-04T06:46:30Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1200,20 +1200,20 @@
     {
      "name": "Gina Hinojosa",
      "party": "Texas Democratic Party",
-     "votes": 4505083,
-     "pct": 53.2,
+     "votes": 4833851,
+     "pct": 52.7,
      "party_code": "D"
     },
     {
      "name": "Greg Abbott",
      "party": "Republican Party of Texas",
-     "votes": 3864607,
-     "pct": 45.4,
+     "votes": 4206670,
+     "pct": 45.9,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T05:19:45Z"
+   "source_revised": "2026-11-04T06:44:30Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1820,7 +1820,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-04T04:30:49Z"
+   "source_revised": "2026-11-04T06:47:48Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
@@ -1910,35 +1910,35 @@
   "Arkansas|Governor": {
    "state": "Arkansas",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Sarah Huckabee Sanders",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Sarah Huckabee Sanders",
      "party": "Republican Party (United States)",
-     "votes": 474742,
-     "pct": 53.83,
+     "votes": 477042,
+     "pct": 53.87,
      "party_code": "R"
     },
     {
      "name": "Fredrick Love",
      "party": "Democratic Party (Arkansas)",
-     "votes": 340738,
-     "pct": 38.64,
+     "votes": 341621,
+     "pct": 38.58,
      "party_code": "D"
     },
     {
      "name": "Colt Shelby",
      "party": "Libertarian Party (United States)",
-     "votes": 66373,
-     "pct": 7.53,
+     "votes": 66877,
+     "pct": 7.55,
      "party_code": "O"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Arkansas_gubernatorial_election",
-   "source_revised": "2026-11-04T05:22:53Z"
+   "source_revised": "2026-11-04T06:43:51Z"
   },
   "Idaho|Governor": {
    "state": "Idaho",
