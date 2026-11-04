@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T00:21:05Z",
+ "updated_utc": "2026-11-04T00:36:05Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 1,
+   "D": 2,
    "R": 0,
    "I": 0,
-   "uncalled": 34
+   "uncalled": 33
   },
   "Governor": {
    "D": 0,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T00:16:46Z"
+   "source_revised": "2026-11-04T00:34:35Z"
   },
   "House": {
    "parties": {
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T00:18:27Z"
+   "source_revised": "2026-11-04T00:35:09Z"
   }
  },
  "senate_not_up": {
@@ -142,7 +142,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-03T21:50:37Z"
+   "source_revised": "2026-11-04T00:31:29Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -206,28 +206,28 @@
   "South Carolina|Senate": {
    "state": "South Carolina",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Darline Graham (replacing Lindsey Graham)",
-     "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
-    },
-    {
      "name": "Annie Andrews",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 7017,
+     "pct": 55.49,
      "party_code": "D"
+    },
+    {
+     "name": "Darline Graham (replacing Lindsey Graham)",
+     "party": "Republican Party (United States)",
+     "votes": 5456,
+     "pct": 43.14,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-03T18:32:34Z"
+   "source_revised": "2026-11-04T00:35:31Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -292,20 +292,20 @@
     {
      "name": "Ashley Moody",
      "party": "Republican Party (United States)",
-     "votes": 2063903,
-     "pct": 48.1,
+     "votes": 2607664,
+     "pct": 49.0,
      "party_code": "R"
     },
     {
      "name": "Angie Nixon",
      "party": "Democratic Party (United States)",
-     "votes": 2182724,
-     "pct": 50.9,
+     "votes": 2655781,
+     "pct": 49.9,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-   "source_revised": "2026-11-04T00:20:52Z"
+   "source_revised": "2026-11-04T00:35:24Z"
   },
   "Michigan|Senate": {
    "state": "Michigan",
@@ -473,28 +473,28 @@
   "Georgia|Senate": {
    "state": "Georgia",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Jon Ossoff",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Jon Ossoff",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 393954,
+     "pct": 76.57,
      "party_code": "D"
     },
     {
      "name": "Mike Collins",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 120554,
+     "pct": 23.43,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-04T00:01:44Z"
+   "source_revised": "2026-11-04T00:27:39Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -566,20 +566,20 @@
     {
      "name": "Andy Barr",
      "party": "Republican Party (United States)",
-     "votes": 93556,
-     "pct": 50.44,
+     "votes": 105260,
+     "pct": 51.19,
      "party_code": "R"
     },
     {
      "name": "Charles Booker",
      "party": "Democratic Party (United States)",
-     "votes": 88979,
-     "pct": 47.98,
+     "votes": 96921,
+     "pct": 47.14,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-   "source_revised": "2026-11-04T00:20:52Z"
+   "source_revised": "2026-11-04T00:29:18Z"
   },
   "South Dakota|Senate": {
    "state": "South Dakota",
@@ -735,7 +735,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
-   "source_revised": "2026-11-04T00:02:55Z"
+   "source_revised": "2026-11-04T00:33:17Z"
   },
   "Colorado|Senate": {
    "state": "Colorado",
@@ -1054,7 +1054,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-03T17:12:17Z"
+   "source_revised": "2026-11-04T00:32:06Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1172,7 +1172,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
-   "source_revised": "2026-11-03T15:51:49Z"
+   "source_revised": "2026-11-04T00:35:59Z"
   },
   "Iowa|Governor": {
    "state": "Iowa",
