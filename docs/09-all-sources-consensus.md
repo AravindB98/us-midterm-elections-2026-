@@ -2,14 +2,14 @@
 
 [Back to README](../README.md)
 
-> Regenerated automatically on every live update. Last run: **2026-11-04T16:29:37Z**.
+> Regenerated automatically on every live update. Last run: **2026-11-04T16:44:31Z**.
 
 **179 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
 
 ## Conclusion (auto-generated)
 
 - House: Democrats favored (weighted average 83% Democratic across 9 fresh sources; 89% of sources favor Democrats). Range: 10% (PredictIt) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.
-- Senate: Democrats favored (weighted average 79% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.
+- Senate: Democrats favored (weighted average 78% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.
 - Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
 
 ## Forecasts used in the consensus
@@ -33,7 +33,7 @@
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 91.0% | 76.0% | 2026-11-04 | live | yes |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | Nonpartisan / unrated | 94.1% | 75.0% | 2026-11-04 | live | yes |
 | [Polymarket](https://polymarket.com/) | Prediction markets | Nonpartisan / unrated | 100.0% | 100.0% | 2026-11-04 | stale | yes |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 10.0% | 94.0% | 2026-11-04 | live | yes |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 10.0% | 89.0% | 2026-11-04 | live | yes |
 
 ## Every source, by type
 

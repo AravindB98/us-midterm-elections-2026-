@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T16:30:32Z",
+ "updated_utc": "2026-11-04T16:45:31Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
    "D": 20,
-   "R": 12,
+   "R": 13,
    "I": 0,
-   "uncalled": 3
+   "uncalled": 2
   },
   "Governor": {
    "D": 22,
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T16:30:19Z"
+   "source_revised": "2026-11-04T16:40:34Z"
   }
  },
  "control": {
@@ -266,20 +266,20 @@
     {
      "name": "Troy Jackson (replacing Graham Platner)",
      "party": "Democratic Party (United States)",
-     "votes": 340972,
-     "pct": 53.8,
+     "votes": 346909,
+     "pct": 53.7,
      "party_code": "D"
     },
     {
      "name": "Susan Collins",
      "party": "Republican Party (United States)",
-     "votes": 292570,
-     "pct": 46.1,
+     "votes": 299243,
+     "pct": 46.3,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T15:40:43Z"
+   "source_revised": "2026-11-04T16:41:42Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -318,20 +318,20 @@
     {
      "name": "Ashley Moody",
      "party": "Republican Party (United States)",
-     "votes": 4207774,
-     "pct": 50.87,
+     "votes": 4207947,
+     "pct": 50.9,
      "party_code": "R"
     },
     {
      "name": "Angie Nixon",
      "party": "Democratic Party (United States)",
-     "votes": 3968811,
-     "pct": 47.98,
+     "votes": 3969186,
+     "pct": 48.0,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-   "source_revised": "2026-11-04T10:20:18Z"
+   "source_revised": "2026-11-04T16:35:34Z"
   },
   "Michigan|Senate": {
    "state": "Michigan",
@@ -362,9 +362,9 @@
   "Montana|Senate": {
    "state": "Montana",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Kurt Alme",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -390,7 +390,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-04T15:38:38Z"
+   "source_revised": "2026-11-04T16:39:13Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -590,20 +590,20 @@
     {
      "name": "Andy Barr",
      "party": "Republican Party (United States)",
-     "votes": 784000,
-     "pct": 54.98,
+     "votes": 784867,
+     "pct": 54.99,
      "party_code": "R"
     },
     {
      "name": "Charles Booker",
      "party": "Democratic Party (United States)",
-     "votes": 611987,
-     "pct": 42.92,
+     "votes": 612349,
+     "pct": 42.9,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-   "source_revised": "2026-11-04T05:28:28Z"
+   "source_revised": "2026-11-04T16:44:34Z"
   },
   "South Dakota|Senate": {
    "state": "South Dakota",
@@ -655,7 +655,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
-   "source_revised": "2026-11-04T16:24:18Z"
+   "source_revised": "2026-11-04T16:34:54Z"
   },
   "Illinois|Senate": {
    "state": "Illinois",
@@ -824,27 +824,27 @@
     {
      "name": "Jim Risch",
      "party": "Republican Party (United States)",
-     "votes": 392297,
-     "pct": 56.6,
+     "votes": 394735,
+     "pct": 56.5,
      "party_code": "R"
     },
     {
      "name": "Todd Achilles",
      "party": "Independent politician",
-     "votes": 232663,
+     "votes": 234261,
      "pct": 33.6,
      "party_code": "I"
     },
     {
      "name": "Natalie Fleming",
      "party": "Independent politician",
-     "votes": 48259,
+     "votes": 48808,
      "pct": 7.0,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-   "source_revised": "2026-11-04T14:39:04Z"
+   "source_revised": "2026-11-04T16:36:15Z"
   },
   "Delaware|Senate": {
    "state": "Delaware",
@@ -870,7 +870,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
-   "source_revised": "2026-11-04T15:54:19Z"
+   "source_revised": "2026-11-04T16:31:44Z"
   },
   "Massachusetts|Senate": {
    "state": "Massachusetts",
@@ -883,15 +883,15 @@
     {
      "name": "Ed Markey",
      "party": "Democratic Party (United States)",
-     "votes": 1519385,
-     "pct": 63.3,
+     "votes": 1541551,
+     "pct": 63.4,
      "party_code": "D"
     },
     {
      "name": "John Deaton",
      "party": "Republican Party (United States)",
-     "votes": 773177,
-     "pct": 32.2,
+     "votes": 781025,
+     "pct": 32.1,
      "party_code": "R"
     },
     {
@@ -903,7 +903,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-04T16:19:12Z"
+   "source_revised": "2026-11-04T16:43:45Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
@@ -929,7 +929,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-   "source_revised": "2026-11-04T15:58:37Z"
+   "source_revised": "2026-11-04T16:30:49Z"
   },
   "Oregon|Senate": {
    "state": "Oregon",
@@ -955,7 +955,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-04T16:22:46Z"
+   "source_revised": "2026-11-04T16:39:08Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -1124,20 +1124,20 @@
     {
      "name": "Byron Donalds",
      "party": "Republican Party (United States)",
-     "votes": 3942784,
-     "pct": 49.77,
+     "votes": 4132275,
+     "pct": 50.0,
      "party_code": "R"
     },
     {
      "name": "David Jolly",
      "party": "Democratic Party (United States)",
-     "votes": 3879948,
-     "pct": 48.97,
+     "votes": 4024554,
+     "pct": 48.7,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-04T08:30:16Z"
+   "source_revised": "2026-11-04T16:34:15Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1265,7 +1265,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T15:32:09Z"
+   "source_revised": "2026-11-04T16:44:44Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1460,15 +1460,15 @@
     {
      "name": "Hannah Pingree",
      "party": "Democratic Party (United States)",
-     "votes": 353346,
-     "pct": 55.2,
+     "votes": 357670,
+     "pct": 55.0,
      "party_code": "D"
     },
     {
      "name": "Bobby Charles",
      "party": "Republican Party (United States)",
-     "votes": 235427,
-     "pct": 36.8,
+     "votes": 240047,
+     "pct": 36.9,
      "party_code": "R"
     },
     {
@@ -1480,7 +1480,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
-   "source_revised": "2026-11-04T11:40:19Z"
+   "source_revised": "2026-11-04T16:42:05Z"
   },
   "New Mexico|Governor": {
    "state": "New Mexico",
@@ -1536,7 +1536,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
-   "source_revised": "2026-11-04T14:12:52Z"
+   "source_revised": "2026-11-04T16:35:41Z"
   },
   "New York|Governor": {
    "state": "New York",
@@ -1601,20 +1601,20 @@
     {
      "name": "Phil Weiser",
      "party": "Democratic Party (United States)",
-     "votes": 1319726,
+     "votes": 1319781,
      "pct": 60.9,
      "party_code": "D"
     },
     {
      "name": "Victor Marx",
      "party": "Republican Party (United States)",
-     "votes": 728640,
+     "votes": 728650,
      "pct": 33.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
-   "source_revised": "2026-11-04T12:41:01Z"
+   "source_revised": "2026-11-04T16:30:35Z"
   },
   "Connecticut|Governor": {
    "state": "Connecticut",
@@ -1738,20 +1738,20 @@
     {
      "name": "Mike Mazzei",
      "party": "Republican Party (United States)",
-     "votes": 579614,
+     "votes": 580386,
      "pct": 52.0,
      "party_code": "R"
     },
     {
      "name": "Cyndi Munson",
      "party": "Democratic Party (United States)",
-     "votes": 511369,
-     "pct": 45.9,
+     "votes": 511664,
+     "pct": 45.8,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
-   "source_revised": "2026-11-04T16:06:13Z"
+   "source_revised": "2026-11-04T16:38:54Z"
   },
   "Rhode Island|Governor": {
    "state": "Rhode Island",
@@ -1875,20 +1875,20 @@
     {
      "name": "Maura Healey",
      "party": "Democratic Party (United States)",
-     "votes": 1493355,
-     "pct": 62.1,
+     "votes": 1515963,
+     "pct": 62.2,
      "party_code": "D"
     },
     {
      "name": "Mike Minogue",
      "party": "Republican Party (United States)",
-     "votes": 830277,
-     "pct": 34.5,
+     "votes": 839006,
+     "pct": 34.4,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
-   "source_revised": "2026-11-04T16:14:48Z"
+   "source_revised": "2026-11-04T16:44:59Z"
   },
   "Maryland|Governor": {
    "state": "Maryland",
@@ -1990,14 +1990,14 @@
     {
      "name": "Brad Little",
      "party": "Republican Party (United States)",
-     "votes": 388272,
+     "votes": 389631,
      "pct": 57.2,
      "party_code": "R"
     },
     {
      "name": "Terri Pickens",
      "party": "Democratic Party (United States)",
-     "votes": 218597,
+     "votes": 219051,
      "pct": 32.2,
      "party_code": "D"
     },
@@ -2010,7 +2010,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election",
-   "source_revised": "2026-11-04T12:46:45Z"
+   "source_revised": "2026-11-04T16:37:05Z"
   },
   "Wyoming|Governor": {
    "state": "Wyoming",
