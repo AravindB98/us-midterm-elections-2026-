@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T19:31:03Z",
+ "updated_utc": "2026-11-04T19:46:03Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T19:29:33Z"
+   "source_revised": "2026-11-04T19:39:42Z"
   }
  },
  "control": {
@@ -824,27 +824,27 @@
     {
      "name": "Jim Risch",
      "party": "Republican Party (United States)",
-     "votes": 394735,
+     "votes": 401731,
      "pct": 56.5,
      "party_code": "R"
     },
     {
      "name": "Todd Achilles",
      "party": "Independent politician",
-     "votes": 234261,
-     "pct": 33.6,
+     "votes": 238348,
+     "pct": 33.5,
      "party_code": "I"
     },
     {
      "name": "Natalie Fleming",
      "party": "Independent politician",
-     "votes": 48808,
+     "votes": 49927,
      "pct": 7.0,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-   "source_revised": "2026-11-04T16:36:15Z"
+   "source_revised": "2026-11-04T19:32:22Z"
   },
   "Delaware|Senate": {
    "state": "Delaware",
@@ -1085,7 +1085,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T17:40:51Z"
+   "source_revised": "2026-11-04T19:35:19Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1151,19 +1151,19 @@
      "name": "Cindy Holscher",
      "party": "Democratic Party (United States)",
      "votes": 546648,
-     "pct": 50.3,
+     "pct": 50.26,
      "party_code": "D"
     },
     {
      "name": "Ty Masterson",
      "party": "Republican Party (United States)",
      "votes": 541070,
-     "pct": 49.7,
+     "pct": 49.74,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-04T19:16:33Z",
+   "source_revised": "2026-11-04T19:40:36Z",
    "too_close": {
     "note": "Too close to call as of Wednesday morning per AP; mail ballots still arriving. Holscher leads narrowly.",
     "source": "https://www.kwch.com/2026/11/04/holscher-holds-narrow-lead-over-masterson-uncalled-kansas-governors-race/",
@@ -1506,11 +1506,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
-   "source_revised": "2026-11-04T16:54:31Z",
-   "call_source": {
-    "by": "Projected (results aggregator)",
-    "url": "https://au.atlasbig.com/government/midterm-elections-2026"
-   }
+   "source_revised": "2026-11-04T19:35:26Z"
   },
   "Minnesota|Governor": {
    "state": "Minnesota",
@@ -1862,7 +1858,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-04T13:25:47Z"
+   "source_revised": "2026-11-04T19:45:27Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
@@ -1990,27 +1986,27 @@
     {
      "name": "Brad Little",
      "party": "Republican Party (United States)",
-     "votes": 389631,
-     "pct": 57.2,
+     "votes": 407216,
+     "pct": 57.1,
      "party_code": "R"
     },
     {
      "name": "Terri Pickens",
      "party": "Democratic Party (United States)",
-     "votes": 219051,
-     "pct": 32.2,
+     "votes": 230763,
+     "pct": 32.3,
      "party_code": "D"
     },
     {
      "name": "John Stegner",
      "party": "Independent",
-     "votes": 51717,
+     "votes": 54206,
      "pct": 7.6,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election",
-   "source_revised": "2026-11-04T16:37:05Z"
+   "source_revised": "2026-11-04T19:36:22Z"
   },
   "Wyoming|Governor": {
    "state": "Wyoming",
