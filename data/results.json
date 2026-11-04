@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T00:51:05Z",
+ "updated_utc": "2026-11-04T01:07:05Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -10,10 +10,10 @@
    "uncalled": 33
   },
   "Governor": {
-   "D": 0,
+   "D": 2,
    "R": 0,
    "I": 0,
-   "uncalled": 36
+   "uncalled": 34
   }
  },
  "chambers": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T00:44:54Z"
+   "source_revised": "2026-11-04T01:05:13Z"
   },
   "House": {
    "parties": {
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T00:50:26Z"
+   "source_revised": "2026-11-04T01:06:49Z"
   }
  },
  "senate_not_up": {
@@ -129,20 +129,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 201200,
-     "pct": 66.83,
+     "votes": 716412,
+     "pct": 62.69,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 91313,
-     "pct": 30.33,
+     "votes": 390458,
+     "pct": 34.17,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T00:46:18Z"
+   "source_revised": "2026-11-04T00:57:36Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -180,7 +180,7 @@
   "Texas|Senate": {
    "state": "Texas",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -188,20 +188,20 @@
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 158692,
+     "pct": 25.4,
      "party_code": "R"
     },
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 457916,
+     "pct": 73.2,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T00:10:41Z"
+   "source_revised": "2026-11-04T01:06:29Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -253,7 +253,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-03T18:47:07Z"
+   "source_revised": "2026-11-04T00:59:41Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -290,22 +290,22 @@
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Angie Nixon",
-     "party": "Democratic Party (United States)",
-     "votes": 3228642,
-     "pct": 49.51,
-     "party_code": "D"
-    },
-    {
      "name": "Ashley Moody",
      "party": "Republican Party (United States)",
-     "votes": 3220252,
-     "pct": 49.38,
+     "votes": 3465060,
+     "pct": 49.65,
      "party_code": "R"
+    },
+    {
+     "name": "Angie Nixon",
+     "party": "Democratic Party (United States)",
+     "votes": 3436892,
+     "pct": 49.24,
+     "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-   "source_revised": "2026-11-04T00:50:57Z"
+   "source_revised": "2026-11-04T00:59:52Z"
   },
   "Michigan|Senate": {
    "state": "Michigan",
@@ -481,20 +481,20 @@
     {
      "name": "Jon Ossoff",
      "party": "Democratic Party (United States)",
-     "votes": 903791,
-     "pct": 65.2,
+     "votes": 959396,
+     "pct": 62.9,
      "party_code": "D"
     },
     {
      "name": "Mike Collins",
      "party": "Republican Party (United States)",
-     "votes": 481672,
-     "pct": 34.8,
+     "votes": 619144,
+     "pct": 37.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-04T00:45:20Z"
+   "source_revised": "2026-11-04T01:02:45Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -701,7 +701,7 @@
      "party_code": "D"
     },
     {
-     "name": "Larry Marker",
+     "name": "Larry Marker (write-in)",
      "party": "Republican Party (United States)",
      "votes": null,
      "pct": null,
@@ -709,7 +709,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
-   "source_revised": "2026-11-03T21:25:26Z"
+   "source_revised": "2026-11-04T00:55:32Z"
   },
   "Virginia|Senate": {
    "state": "Virginia",
@@ -1041,20 +1041,20 @@
     {
      "name": "Vivek Ramaswamy",
      "party": "Ohio Republican Party",
-     "votes": 78501,
-     "pct": 29.3,
+     "votes": 377852,
+     "pct": 33.36,
      "party_code": "R"
     },
     {
      "name": "Amy Acton",
      "party": "Ohio Democratic Party",
-     "votes": 184186,
-     "pct": 68.8,
+     "votes": 730273,
+     "pct": 64.48,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T00:38:12Z"
+   "source_revised": "2026-11-04T00:58:48Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1085,7 +1085,7 @@
   "Florida|Governor": {
    "state": "Florida",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1093,20 +1093,20 @@
     {
      "name": "Byron Donalds",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 2810883,
+     "pct": 49.78,
      "party_code": "R"
     },
     {
      "name": "David Jolly",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 2767012,
+     "pct": 49.0,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-03T20:35:01Z"
+   "source_revised": "2026-11-04T00:54:56Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1673,9 +1673,9 @@
   "Illinois|Governor": {
    "state": "Illinois",
    "office": "Governor",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "JB Pritzker",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1694,7 +1694,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
-   "source_revised": "2026-11-03T20:55:10Z"
+   "source_revised": "2026-11-04T01:06:28Z"
   },
   "Oklahoma|Governor": {
    "state": "Oklahoma",
@@ -1869,9 +1869,9 @@
   "Maryland|Governor": {
    "state": "Maryland",
    "office": "Governor",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Wes Moore",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1890,7 +1890,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
-   "source_revised": "2026-11-03T15:58:10Z"
+   "source_revised": "2026-11-04T01:05:34Z"
   },
   "Hawaii|Governor": {
    "state": "Hawaii",
