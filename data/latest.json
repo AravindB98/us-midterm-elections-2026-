@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T12:52:17Z",
+  "updated_utc": "2026-11-04T13:07:17Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -134,7 +134,7 @@
       "house": 100.0,
       "senate": 100.0,
       "as_of": "2026-11-04",
-      "status": "live",
+      "status": "stale",
       "note": "Crypto-based global market; user base often described as right-leaning."
     },
     "predictit": {

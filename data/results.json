@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T12:53:09Z",
+ "updated_utc": "2026-11-04T13:08:08Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T12:52:48Z"
+   "source_revised": "2026-11-04T13:06:13Z"
   }
  },
  "senate_not_up": {
@@ -1133,7 +1133,7 @@
   "Alaska|Governor": {
    "state": "Alaska",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1141,34 +1141,34 @@
     {
      "name": "Jonathan Kreiss-Tomkins",
      "party": "Alaska Democratic Party",
-     "votes": null,
-     "pct": null,
+     "votes": 103610,
+     "pct": 49.2,
      "party_code": "D"
     },
     {
      "name": "Bernadette Wilson",
      "party": "Alaska Republican Party",
-     "votes": null,
-     "pct": null,
+     "votes": 61566,
+     "pct": 29.2,
      "party_code": "R"
     },
     {
      "name": "Dave Bronson",
      "party": "Alaska Republican Party",
-     "votes": null,
-     "pct": null,
+     "votes": 29900,
+     "pct": 14.2,
      "party_code": "R"
     },
     {
      "name": "Treg Taylor",
      "party": "Alaska Republican Party",
-     "votes": null,
-     "pct": null,
+     "votes": 15713,
+     "pct": 7.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
-   "source_revised": "2026-11-04T00:35:59Z"
+   "source_revised": "2026-11-04T13:00:02Z"
   },
   "Iowa|Governor": {
    "state": "Iowa",
@@ -1513,7 +1513,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
-   "source_revised": "2026-11-04T10:27:37Z"
+   "source_revised": "2026-11-04T12:58:43Z"
   },
   "Alabama|Governor": {
    "state": "Alabama",
