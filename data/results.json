@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T06:06:31Z",
+ "updated_utc": "2026-11-04T06:21:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -20,7 +20,7 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": 51,
+     "after": 53,
      "before": 45
     },
     "R": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T06:05:38Z"
+   "source_revised": "2026-11-04T06:20:39Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T06:02:48Z"
+   "source_revised": "2026-11-04T06:15:16Z"
   }
  },
  "senate_not_up": {
@@ -79,7 +79,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T05:27:56Z"
+   "source_revised": "2026-11-04T06:17:02Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -223,7 +223,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T06:06:23Z"
+   "source_revised": "2026-11-04T06:12:50Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -314,20 +314,20 @@
     {
      "name": "Abdul El-Sayed",
      "party": "Democratic Party (United States)",
-     "votes": 1481936,
-     "pct": 50.8,
+     "votes": 1933317,
+     "pct": 51.9,
      "party_code": "D"
     },
     {
      "name": "Mike Rogers",
      "party": "Republican Party (United States)",
-     "votes": 1377524,
-     "pct": 47.2,
+     "votes": 1720741,
+     "pct": 46.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T05:51:16Z"
+   "source_revised": "2026-11-04T06:19:43Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -386,7 +386,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-04T06:03:28Z"
+   "source_revised": "2026-11-04T06:08:25Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -1043,7 +1043,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T05:06:38Z"
+   "source_revised": "2026-11-04T06:16:25Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1598,7 +1598,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Connecticut_gubernatorial_election",
-   "source_revised": "2026-11-04T01:22:04Z"
+   "source_revised": "2026-11-04T06:13:15Z"
   },
   "Tennessee|Governor": {
    "state": "Tennessee",
