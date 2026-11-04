@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T14:15:31Z",
+ "updated_utc": "2026-11-04T14:30:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T14:05:17Z"
+   "source_revised": "2026-11-04T14:22:38Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T14:14:44Z"
+   "source_revised": "2026-11-04T14:29:30Z"
   }
  },
  "control": {
@@ -170,7 +170,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T13:46:09Z"
+   "source_revised": "2026-11-04T14:29:04Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -181,29 +181,22 @@
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Dan S. Sullivan",
-     "party": "Republican Party (United States)",
-     "votes": 100751,
-     "pct": 48.49,
-     "party_code": "R"
-    },
-    {
      "name": "Mary Peltola",
      "party": "Democratic Party (United States)",
-     "votes": 99074,
-     "pct": 47.68,
+     "votes": 102701,
+     "pct": 48.18,
      "party_code": "D"
     },
     {
-     "name": "Daniel J. Sullivan Jr.",
-     "party": "Independent",
-     "votes": null,
-     "pct": null,
-     "party_code": "I"
+     "name": "Dan S. Sullivan",
+     "party": "Republican Party (United States)",
+     "votes": 102075,
+     "pct": 47.88,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-04T11:10:55Z",
+   "source_revised": "2026-11-04T14:20:23Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -221,20 +214,20 @@
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 5256956,
-     "pct": 54.9,
+     "votes": 5397670,
+     "pct": 55.2,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 4137612,
-     "pct": 43.21,
+     "votes": 4188414,
+     "pct": 42.9,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T10:17:23Z"
+   "source_revised": "2026-11-04T14:27:03Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -286,7 +279,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T11:58:33Z"
+   "source_revised": "2026-11-04T14:19:37Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -370,12 +363,12 @@
    "state": "Montana",
    "office": "Senate",
    "status": "called",
-   "winner": "Kurt Alme",
+   "winner": "Sawyer Adams",
    "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Kurt Alme",
+     "name": "Sawyer Adams",
      "party": "Republican Party (United States)",
      "votes": 187961,
      "pct": 47.7,
@@ -397,7 +390,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-04T08:36:48Z"
+   "source_revised": "2026-11-04T14:20:54Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -1092,7 +1085,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T14:13:13Z"
+   "source_revised": "2026-11-04T14:25:48Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1233,20 +1226,20 @@
     {
      "name": "Rob Sand",
      "party": "Iowa Democratic Party",
-     "votes": 654266,
-     "pct": 57.28,
+     "votes": 757326,
+     "pct": 55.5,
      "party_code": "D"
     },
     {
      "name": "Zach Lahn",
      "party": "Republican Party of Iowa",
-     "votes": 488067,
-     "pct": 42.72,
+     "votes": 607415,
+     "pct": 44.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-04T13:57:28Z"
+   "source_revised": "2026-11-04T14:18:05Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1259,20 +1252,20 @@
     {
      "name": "Gina Hinojosa",
      "party": "Texas Democratic Party",
-     "votes": 5051936,
-     "pct": 52.8,
+     "votes": 5185814,
+     "pct": 53.0,
      "party_code": "D"
     },
     {
      "name": "Greg Abbott",
      "party": "Republican Party of Texas",
-     "votes": 4377041,
-     "pct": 45.7,
+     "votes": 4461211,
+     "pct": 45.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T11:28:21Z"
+   "source_revised": "2026-11-04T14:24:49Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1817,7 +1810,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
-   "source_revised": "2026-11-04T11:57:16Z"
+   "source_revised": "2026-11-04T14:22:50Z"
   },
   "South Dakota|Governor": {
    "state": "South Dakota",
