@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T11:08:08Z",
+ "updated_utc": "2026-11-04T11:23:10Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T11:06:33Z"
+   "source_revised": "2026-11-04T11:18:21Z"
   }
  },
  "senate_not_up": {
@@ -143,7 +143,7 @@
   "Alaska|Senate": {
    "state": "Alaska",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -151,15 +151,15 @@
     {
      "name": "Dan S. Sullivan",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 100751,
+     "pct": 48.49,
      "party_code": "R"
     },
     {
      "name": "Mary Peltola",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 99074,
+     "pct": 47.68,
      "party_code": "D"
     },
     {
@@ -171,7 +171,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-04T10:56:13Z"
+   "source_revised": "2026-11-04T11:10:55Z"
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -327,7 +327,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T10:34:56Z"
+   "source_revised": "2026-11-04T11:15:21Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -1050,7 +1050,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T08:54:54Z"
+   "source_revised": "2026-11-04T11:22:26Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1591,7 +1591,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Connecticut_gubernatorial_election",
-   "source_revised": "2026-11-04T06:13:15Z"
+   "source_revised": "2026-11-04T11:08:44Z"
   },
   "Tennessee|Governor": {
    "state": "Tennessee",
