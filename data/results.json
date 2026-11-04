@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T14:30:32Z",
+ "updated_utc": "2026-11-04T14:45:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -20,7 +20,7 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": 52,
+     "after": 54,
      "before": 45
     },
     "R": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T14:22:38Z"
+   "source_revised": "2026-11-04T14:36:24Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T14:29:30Z"
+   "source_revised": "2026-11-04T14:38:16Z"
   }
  },
  "control": {
@@ -111,7 +111,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T14:08:09Z"
+   "source_revised": "2026-11-04T14:43:11Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -124,15 +124,15 @@
     {
      "name": "Josh Turek",
      "party": "Democratic",
-     "votes": 687410,
-     "pct": 50.8,
+     "votes": 686487,
+     "pct": 50.5,
      "party_code": "D"
     },
     {
      "name": "Ashley Hinson",
      "party": "Republican Party (United States)",
-     "votes": 647490,
-     "pct": 46.13,
+     "votes": 630615,
+     "pct": 46.43,
      "party_code": "R"
     },
     {
@@ -144,7 +144,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
-   "source_revised": "2026-11-04T05:08:19Z"
+   "source_revised": "2026-11-04T14:40:54Z"
   },
   "Ohio|Senate": {
    "state": "Ohio",
@@ -344,20 +344,20 @@
     {
      "name": "Abdul El-Sayed",
      "party": "Democratic Party (United States)",
-     "votes": 2460111,
-     "pct": 52.4,
+     "votes": 2497852,
+     "pct": 52.5,
      "party_code": "D"
     },
     {
      "name": "Mike Rogers",
      "party": "Republican Party (United States)",
-     "votes": 2143780,
-     "pct": 45.6,
+     "votes": 2162890,
+     "pct": 45.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T14:12:26Z"
+   "source_revised": "2026-11-04T14:39:21Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -824,27 +824,27 @@
     {
      "name": "Jim Risch",
      "party": "Republican Party (United States)",
-     "votes": 369605,
-     "pct": 56.9,
+     "votes": 392297,
+     "pct": 56.6,
      "party_code": "R"
     },
     {
      "name": "Todd Achilles",
      "party": "Independent politician",
-     "votes": 216896,
-     "pct": 33.4,
+     "votes": 232663,
+     "pct": 33.6,
      "party_code": "I"
     },
     {
      "name": "Natalie Fleming",
      "party": "Independent politician",
-     "votes": 45054,
-     "pct": 6.9,
+     "votes": 48259,
+     "pct": 7.0,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-   "source_revised": "2026-11-04T09:46:07Z"
+   "source_revised": "2026-11-04T14:39:04Z"
   },
   "Delaware|Senate": {
    "state": "Delaware",
@@ -1239,7 +1239,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-04T14:18:05Z"
+   "source_revised": "2026-11-04T14:42:10Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1265,7 +1265,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T14:24:49Z"
+   "source_revised": "2026-11-04T14:35:45Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1382,20 +1382,20 @@
     {
      "name": "Jocelyn Benson",
      "party": "Democratic Party (United States)",
-     "votes": 2572776,
+     "votes": 2591316,
      "pct": 54.5,
      "party_code": "D"
     },
     {
      "name": "John James",
      "party": "Republican Party (United States)",
-     "votes": 2070975,
-     "pct": 43.8,
+     "votes": 2078052,
+     "pct": 43.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election",
-   "source_revised": "2026-11-04T12:04:25Z"
+   "source_revised": "2026-11-04T14:34:43Z"
   },
   "Nebraska|Governor": {
    "state": "Nebraska",
@@ -1725,7 +1725,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
-   "source_revised": "2026-11-04T12:11:47Z"
+   "source_revised": "2026-11-04T14:34:07Z"
   },
   "Oklahoma|Governor": {
    "state": "Oklahoma",
