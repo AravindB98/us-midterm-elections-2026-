@@ -1,19 +1,19 @@
 {
- "updated_utc": "2026-11-04T02:21:05Z",
+ "updated_utc": "2026-11-04T02:34:04Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 4,
-   "R": 3,
+   "D": 6,
+   "R": 4,
    "I": 0,
-   "uncalled": 28
+   "uncalled": 25
   },
   "Governor": {
-   "D": 3,
-   "R": 1,
+   "D": 4,
+   "R": 2,
    "I": 0,
-   "uncalled": 32
+   "uncalled": 30
   }
  },
  "chambers": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T02:12:31Z"
+   "source_revised": "2026-11-04T02:27:59Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T02:21:02Z"
+   "source_revised": "2026-11-04T02:28:21Z"
   }
  },
  "senate_not_up": {
@@ -184,20 +184,20 @@
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 2417452,
-     "pct": 59.0,
+     "votes": 3241741,
+     "pct": 60.0,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 1619829,
-     "pct": 39.5,
+     "votes": 2111740,
+     "pct": 39.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T02:07:21Z"
+   "source_revised": "2026-11-04T02:33:47Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -275,7 +275,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-04T02:14:28Z"
+   "source_revised": "2026-11-04T02:33:12Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -386,7 +386,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-03T21:51:18Z"
+   "source_revised": "2026-11-04T02:28:18Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -399,20 +399,20 @@
     {
      "name": "Roy Cooper",
      "party": "Democratic Party (United States)",
-     "votes": 1712610,
-     "pct": 62.4,
+     "votes": 2011031,
+     "pct": 59.7,
      "party_code": "D"
     },
     {
      "name": "Michael Whatley",
      "party": "Republican Party (United States)",
-     "votes": 981533,
-     "pct": 35.8,
+     "votes": 1287081,
+     "pct": 38.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T02:00:52Z"
+   "source_revised": "2026-11-04T02:26:46Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -554,28 +554,28 @@
   "Kentucky|Senate": {
    "state": "Kentucky",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Andy Barr",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Andy Barr",
      "party": "Republican Party (United States)",
-     "votes": 105260,
-     "pct": 51.19,
+     "votes": 639881,
+     "pct": 53.8,
      "party_code": "R"
     },
     {
      "name": "Charles Booker",
      "party": "Democratic Party (United States)",
-     "votes": 96921,
-     "pct": 47.14,
+     "votes": 524079,
+     "pct": 44.1,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-   "source_revised": "2026-11-04T00:29:18Z"
+   "source_revised": "2026-11-04T02:25:43Z"
   },
   "South Dakota|Senate": {
    "state": "South Dakota",
@@ -684,9 +684,9 @@
   "New Mexico|Senate": {
    "state": "New Mexico",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Ben Ray Luj\u00e1n",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -705,7 +705,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
-   "source_revised": "2026-11-04T00:55:32Z"
+   "source_revised": "2026-11-04T02:22:42Z"
   },
   "Virginia|Senate": {
    "state": "Virginia",
@@ -736,9 +736,9 @@
   "Colorado|Senate": {
    "state": "Colorado",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "John Hickenlooper",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -757,7 +757,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
-   "source_revised": "2026-11-03T20:09:16Z"
+   "source_revised": "2026-11-04T02:24:08Z"
   },
   "Tennessee|Senate": {
    "state": "Tennessee",
@@ -998,7 +998,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
-   "source_revised": "2026-11-04T02:16:48Z"
+   "source_revised": "2026-11-04T02:32:15Z"
   },
   "Nevada|Governor": {
    "state": "Nevada",
@@ -1055,10 +1055,10 @@
   "Georgia|Governor": {
    "state": "Georgia",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
-   "pending_winner": "Keisha Lance Bottoms",
+   "status": "called",
+   "winner": "Keisha Lance Bottoms",
+   "winner_party": "D",
+   "pending_winner": null,
    "candidates": [
     {
      "name": "Keisha Lance Bottoms",
@@ -1076,7 +1076,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-04T02:20:40Z"
+   "source_revised": "2026-11-04T02:25:56Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1102,7 +1102,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-04T01:52:01Z"
+   "source_revised": "2026-11-04T02:29:39Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1886,7 +1886,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
-   "source_revised": "2026-11-04T01:22:39Z"
+   "source_revised": "2026-11-04T02:30:31Z"
   },
   "Hawaii|Governor": {
    "state": "Hawaii",
@@ -1983,9 +1983,9 @@
   "Wyoming|Governor": {
    "state": "Wyoming",
    "office": "Governor",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Eric Barlow",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -2004,7 +2004,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
-   "source_revised": "2026-11-03T16:09:52Z"
+   "source_revised": "2026-11-04T02:31:48Z"
   }
  }
 }
