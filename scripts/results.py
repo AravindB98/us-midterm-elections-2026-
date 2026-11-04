@@ -211,9 +211,16 @@ def update_results(offline: bool = False) -> dict:
         if x and x["status"] != "called":
             x.update({"status": "called", "winner": c["winner"], "winner_party": c["party"], "pending_winner": None,
                       "call_source": {"by": c.get("called_by", ""), "url": c.get("source", "")}})
+    now_iso = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     for key, c in ov.get("too_close", {}).items():
         x = out.get(key)
-        if x and x["status"] != "called":
+        if not x:
+            continue
+        # A race that news reports say is uncalled stays uncalled until the hold expires,
+        # so a premature edit on Wikipedia can't show a winner the networks haven't called.
+        if x["status"] == "called" and not x.get("call_source") and c.get("hold_until_utc", "") > now_iso:
+            x.update({"status": "counting", "winner": None, "winner_party": None})
+        if x["status"] != "called":
             x["too_close"] = c
     tally = {"Senate": {"D": 0, "R": 0, "I": 0, "uncalled": 0}, "Governor": {"D": 0, "R": 0, "I": 0, "uncalled": 0}}
     for v in out.values():
