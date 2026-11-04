@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T10:38:08Z",
+ "updated_utc": "2026-11-04T10:53:09Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T10:16:44Z"
+   "source_revised": "2026-11-04T10:45:25Z"
   }
  },
  "senate_not_up": {
@@ -171,7 +171,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-04T10:11:13Z"
+   "source_revised": "2026-11-04T10:48:43Z"
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -386,7 +386,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-04T07:06:55Z"
+   "source_revised": "2026-11-04T10:45:05Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -477,20 +477,20 @@
     {
      "name": "Jon Ossoff",
      "party": "Democratic Party (United States)",
-     "votes": 2407286,
-     "pct": 58.83,
+     "votes": 2463116,
+     "pct": 59.0,
      "party_code": "D"
     },
     {
      "name": "Mike Collins",
      "party": "Republican Party (United States)",
-     "votes": 1684685,
-     "pct": 41.17,
+     "votes": 1711318,
+     "pct": 41.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-04T06:33:20Z"
+   "source_revised": "2026-11-04T10:51:45Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -633,20 +633,20 @@
     {
      "name": "Juliana Stratton",
      "party": "Democratic Party (United States)",
-     "votes": 2076017,
-     "pct": 61.2,
+     "votes": 2418659,
+     "pct": 61.0,
      "party_code": "D"
     },
     {
      "name": "Don Tracy",
      "party": "Republican Party (United States)",
-     "votes": 1260874,
-     "pct": 37.2,
+     "votes": 1487039,
+     "pct": 37.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
-   "source_revised": "2026-11-04T04:21:02Z"
+   "source_revised": "2026-11-04T10:46:31Z"
   },
   "New Jersey|Senate": {
    "state": "New Jersey",
@@ -755,7 +755,7 @@
   "Tennessee|Senate": {
    "state": "Tennessee",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -763,20 +763,20 @@
     {
      "name": "Bill Hagerty",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1138407,
+     "pct": 55.1,
      "party_code": "R"
     },
     {
      "name": "Marquita Bradshaw",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 886911,
+     "pct": 42.9,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
-   "source_revised": "2026-11-03T12:20:48Z"
+   "source_revised": "2026-11-04T10:43:51Z"
   },
   "Idaho|Senate": {
    "state": "Idaho",
@@ -1220,7 +1220,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T10:01:13Z"
+   "source_revised": "2026-11-04T10:39:30Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1539,7 +1539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
-   "source_revised": "2026-11-04T09:56:41Z"
+   "source_revised": "2026-11-04T10:47:25Z"
   },
   "Colorado|Governor": {
    "state": "Colorado",
