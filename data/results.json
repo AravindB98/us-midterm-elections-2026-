@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T21:46:04Z",
+ "updated_utc": "2026-11-04T22:01:04Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T21:23:55Z"
+   "source_revised": "2026-11-04T21:59:23Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T21:26:04Z"
+   "source_revised": "2026-11-04T21:56:31Z"
   }
  },
  "control": {
@@ -305,7 +305,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-04T21:43:54Z"
+   "source_revised": "2026-11-04T21:53:04Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -455,20 +455,20 @@
     {
      "name": "Chris Pappas",
      "party": "Democratic Party (United States)",
-     "votes": 337071,
+     "votes": 341737,
      "pct": 56.1,
      "party_code": "D"
     },
     {
      "name": "John E. Sununu",
      "party": "Republican Party (United States)",
-     "votes": 252746,
+     "votes": 257453,
      "pct": 42.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-04T19:22:17Z"
+   "source_revised": "2026-11-04T21:58:29Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T21:37:57Z",
+   "source_revised": "2026-11-04T21:57:56Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1085,7 +1085,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T19:35:19Z"
+   "source_revised": "2026-11-04T21:51:13Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1239,7 +1239,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-04T20:31:33Z"
+   "source_revised": "2026-11-04T21:46:13Z"
   },
   "Texas|Governor": {
    "state": "Texas",
