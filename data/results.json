@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T05:51:31Z",
+ "updated_utc": "2026-11-04T06:06:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -20,7 +20,7 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": 52,
+     "after": 51,
      "before": 45
     },
     "R": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T05:42:04Z"
+   "source_revised": "2026-11-04T06:05:38Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T05:49:55Z"
+   "source_revised": "2026-11-04T06:02:48Z"
   }
  },
  "senate_not_up": {
@@ -138,7 +138,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T05:40:14Z"
+   "source_revised": "2026-11-04T05:53:36Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -197,7 +197,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T04:37:40Z"
+   "source_revised": "2026-11-04T06:01:31Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -223,7 +223,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T05:19:52Z"
+   "source_revised": "2026-11-04T06:06:23Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -386,7 +386,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-04T05:29:25Z"
+   "source_revised": "2026-11-04T06:03:28Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -513,17 +513,10 @@
      "votes": null,
      "pct": null,
      "party_code": "D"
-    },
-    {
-     "name": "Ty Pinkins",
-     "party": "Independent (US)",
-     "votes": null,
-     "pct": null,
-     "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-03T21:31:41Z"
+   "source_revised": "2026-11-04T06:02:33Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -1324,7 +1317,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Arizona_gubernatorial_election",
-   "source_revised": "2026-11-03T19:39:50Z"
+   "source_revised": "2026-11-04T05:52:42Z"
   },
   "Michigan|Governor": {
    "state": "Michigan",
