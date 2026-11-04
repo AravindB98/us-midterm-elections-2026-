@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T18:44:31Z",
+ "updated_utc": "2026-11-04T19:00:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T18:42:04Z"
+   "source_revised": "2026-11-04T18:58:01Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T18:40:26Z"
+   "source_revised": "2026-11-04T18:47:23Z"
   }
  },
  "control": {
@@ -157,7 +157,7 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 2301402,
+     "votes": 2301042,
      "pct": 50.01,
      "party_code": "D"
     },
@@ -170,7 +170,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T17:18:28Z"
+   "source_revised": "2026-11-04T18:57:21Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -253,7 +253,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T12:27:52Z"
+   "source_revised": "2026-11-04T18:44:43Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -370,27 +370,27 @@
     {
      "name": "Kurt Alme",
      "party": "Republican Party (United States)",
-     "votes": 187961,
-     "pct": 47.7,
+     "votes": 223086,
+     "pct": 48.8,
      "party_code": "R"
     },
     {
      "name": "Seth Bodnar",
      "party": "Independent politician",
-     "votes": 152203,
-     "pct": 38.6,
+     "votes": 170948,
+     "pct": 37.4,
      "party_code": "I"
     },
     {
      "name": "Alani Bankhead",
      "party": "Democratic Party (United States)",
-     "votes": 46838,
-     "pct": 11.9,
+     "votes": 54875,
+     "pct": 12.0,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-04T17:24:42Z"
+   "source_revised": "2026-11-04T18:49:36Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -403,20 +403,20 @@
     {
      "name": "Peggy Flanagan",
      "party": "Minnesota Democratic\u2013Farmer\u2013Labor Party",
-     "votes": 1520300,
+     "votes": 1520871,
      "pct": 53.7,
      "party_code": "D"
     },
     {
      "name": "Michele Tafoya",
      "party": "Republican Party (United States)",
-     "votes": 1232683,
+     "votes": 1233476,
      "pct": 43.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-04T16:01:43Z"
+   "source_revised": "2026-11-04T18:46:19Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -455,20 +455,20 @@
     {
      "name": "Chris Pappas",
      "party": "Democratic Party (United States)",
-     "votes": 331447,
-     "pct": 56.2,
+     "votes": 337071,
+     "pct": 56.1,
      "party_code": "D"
     },
     {
      "name": "John E. Sununu",
      "party": "Republican Party (United States)",
-     "votes": 247329,
-     "pct": 41.9,
+     "votes": 252746,
+     "pct": 42.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-04T13:51:44Z"
+   "source_revised": "2026-11-04T18:51:27Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -655,7 +655,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
-   "source_revised": "2026-11-04T16:34:54Z"
+   "source_revised": "2026-11-04T18:59:02Z"
   },
   "Illinois|Senate": {
    "state": "Illinois",
@@ -694,20 +694,20 @@
     {
      "name": "Cory Booker",
      "party": "Democratic Party (United States)",
-     "votes": 1754917,
-     "pct": 62.3,
+     "votes": 1781879,
+     "pct": 62.1,
      "party_code": "D"
     },
     {
      "name": "Justin Murphy",
      "party": "Republican Party (United States)",
-     "votes": 988046,
-     "pct": 35.1,
+     "votes": 1013938,
+     "pct": 35.3,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
-   "source_revised": "2026-11-04T10:21:15Z"
+   "source_revised": "2026-11-04T18:55:01Z"
   },
   "New Mexico|Senate": {
    "state": "New Mexico",
@@ -733,7 +733,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
-   "source_revised": "2026-11-04T15:45:33Z"
+   "source_revised": "2026-11-04T18:56:14Z"
   },
   "Virginia|Senate": {
    "state": "Virginia",
@@ -968,20 +968,20 @@
     {
      "name": "Jack Reed",
      "party": "Democratic Party (United States)",
-     "votes": 236408,
+     "votes": 237742,
      "pct": 66.6,
      "party_code": "D"
     },
     {
      "name": "Raymond McKay",
      "party": "Republican Party (United States)",
-     "votes": 104649,
-     "pct": 29.5,
+     "votes": 104875,
+     "pct": 29.4,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
-   "source_revised": "2026-11-04T10:18:36Z"
+   "source_revised": "2026-11-04T18:59:17Z"
   },
   "West Virginia|Senate": {
    "state": "West Virginia",
@@ -1137,7 +1137,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-04T16:34:15Z"
+   "source_revised": "2026-11-04T18:47:24Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1278,20 +1278,20 @@
     {
      "name": "Kelly Ayotte",
      "party": "Republican Party (United States)",
-     "votes": 302583,
-     "pct": 51.1,
+     "votes": 306041,
+     "pct": 51.2,
      "party_code": "R"
     },
     {
      "name": "Cinde Warmington",
      "party": "Democratic Party (United States)",
-     "votes": 279219,
-     "pct": 47.2,
+     "votes": 281599,
+     "pct": 47.1,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
-   "source_revised": "2026-11-04T16:57:03Z"
+   "source_revised": "2026-11-04T18:52:43Z"
   },
   "Wisconsin|Governor": {
    "state": "Wisconsin",
@@ -1447,7 +1447,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-04T16:20:25Z"
+   "source_revised": "2026-11-04T18:53:52Z"
   },
   "Maine|Governor": {
    "state": "Maine",
@@ -1523,20 +1523,20 @@
     {
      "name": "Amy Klobuchar",
      "party": "Minnesota Democratic\u2013Farmer\u2013Labor Party",
-     "votes": 1569097,
+     "votes": 1569699,
      "pct": 55.5,
      "party_code": "D"
     },
     {
      "name": "Lisa Demuth",
      "party": "Republican Party of Minnesota",
-     "votes": 1205798,
+     "votes": 1206592,
      "pct": 42.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
-   "source_revised": "2026-11-04T17:35:23Z"
+   "source_revised": "2026-11-04T18:47:31Z"
   },
   "New York|Governor": {
    "state": "New York",
@@ -1764,14 +1764,14 @@
     {
      "name": "Helena Foulkes",
      "party": "Democratic Party (United States)",
-     "votes": 203894,
-     "pct": 57.5,
+     "votes": 205117,
+     "pct": 57.6,
      "party_code": "D"
     },
     {
      "name": "Ken Block",
      "party": "Independent politician",
-     "votes": 98914,
+     "votes": 99269,
      "pct": 27.9,
      "party_code": "I"
     },
@@ -1784,7 +1784,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
-   "source_revised": "2026-11-04T12:49:20Z"
+   "source_revised": "2026-11-04T19:00:06Z"
   },
   "Pennsylvania|Governor": {
    "state": "Pennsylvania",
@@ -1810,7 +1810,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
-   "source_revised": "2026-11-04T16:12:17Z"
+   "source_revised": "2026-11-04T18:48:01Z"
   },
   "South Dakota|Governor": {
    "state": "South Dakota",

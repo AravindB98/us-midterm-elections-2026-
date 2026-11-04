@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T18:44:28Z",
+  "updated_utc": "2026-11-04T18:59:35Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -143,7 +143,7 @@
       "url": "https://www.predictit.org/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "senate": 91.0,
+      "senate": 94.0,
       "house": 2.0,
       "as_of": "2026-11-04"
     },
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 81.7,
     "house_n": 9,
-    "senate_dem": 78.3,
+    "senate_dem": 78.7,
     "senate_n": 9
   },
   "senate_projection": {
@@ -229,7 +229,7 @@
       ]
     },
     "senate": {
-      "value": 78.3,
+      "value": 78.7,
       "median": 78.0,
       "n": 9,
       "min": {
@@ -241,10 +241,10 @@
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 13.3,
+      "stdev": 13.6,
       "by_type": {
         "forecast_model": 69.5,
-        "prediction_market": 88.7,
+        "prediction_market": 89.7,
         "crowd_forecast": 91.5
       },
       "sources": [
@@ -261,7 +261,7 @@
     },
     "conclusion": [
       "House: Democrats favored (weighted average 82% Democratic across 9 fresh sources; 89% of sources favor Democrats). Range: 2% (PredictIt) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
-      "Senate: Democrats favored (weighted average 78% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
+      "Senate: Democrats favored (weighted average 79% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
   }
