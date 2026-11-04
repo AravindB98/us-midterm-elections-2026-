@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T16:45:31Z",
+ "updated_utc": "2026-11-04T17:00:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T16:13:45Z"
+   "source_revised": "2026-11-04T16:48:54Z"
   },
   "House": {
    "parties": {
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T15:30:52Z"
+   "source_revised": "2026-11-04T16:48:54Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T16:08:38Z",
+   "source_revised": "2026-11-04T16:56:34Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1278,20 +1278,20 @@
     {
      "name": "Kelly Ayotte",
      "party": "Republican Party (United States)",
-     "votes": 299637,
+     "votes": 302583,
      "pct": 51.1,
      "party_code": "R"
     },
     {
      "name": "Cinde Warmington",
      "party": "Democratic Party (United States)",
-     "votes": 276986,
+     "votes": 279219,
      "pct": 47.2,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
-   "source_revised": "2026-11-04T11:44:58Z"
+   "source_revised": "2026-11-04T16:57:03Z"
   },
   "Wisconsin|Governor": {
    "state": "Wisconsin",
@@ -1506,7 +1506,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
-   "source_revised": "2026-11-04T15:35:03Z",
+   "source_revised": "2026-11-04T16:54:31Z",
    "call_source": {
     "by": "Projected (results aggregator)",
     "url": "https://au.atlasbig.com/government/midterm-elections-2026"
@@ -1654,14 +1654,14 @@
      "name": "Marsha Blackburn",
      "party": "Republican Party (United States)",
      "votes": 955259,
-     "pct": 44.5,
+     "pct": 45.5,
      "party_code": "R"
     },
     {
      "name": "Jerri Green",
      "party": "Democratic Party (United States)",
      "votes": 902546,
-     "pct": 43.2,
+     "pct": 43.0,
      "party_code": "D"
     },
     {
@@ -1673,7 +1673,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-   "source_revised": "2026-11-04T14:07:39Z"
+   "source_revised": "2026-11-04T16:50:47Z"
   },
   "Vermont|Governor": {
    "state": "Vermont",
