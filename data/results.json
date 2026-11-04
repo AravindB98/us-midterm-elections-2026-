@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T11:38:08Z",
+ "updated_utc": "2026-11-04T11:53:09Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T10:37:57Z"
+   "source_revised": "2026-11-04T11:41:27Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T11:36:34Z"
+   "source_revised": "2026-11-04T11:52:52Z"
   }
  },
  "senate_not_up": {
@@ -249,7 +249,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T11:37:57Z"
+   "source_revised": "2026-11-04T11:44:00Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -446,7 +446,7 @@
    "status": "counting",
    "winner": null,
    "winner_party": null,
-   "pending_winner": null,
+   "pending_winner": "Julia Letlow",
    "candidates": [
     {
      "name": "Julia Letlow",
@@ -464,7 +464,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
-   "source_revised": "2026-11-04T08:59:54Z"
+   "source_revised": "2026-11-04T11:53:06Z"
   },
   "Georgia|Senate": {
    "state": "Georgia",
@@ -1011,20 +1011,20 @@
     {
      "name": "Aaron Ford",
      "party": "Democratic Party (United States)",
-     "votes": 491891,
-     "pct": 51.52,
+     "votes": 506653,
+     "pct": 51.7,
      "party_code": "D"
     },
     {
      "name": "Joe Lombardo",
      "party": "Republican Party (United States)",
-     "votes": 423205,
-     "pct": 44.33,
+     "votes": 432732,
+     "pct": 44.15,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
-   "source_revised": "2026-11-04T10:17:51Z"
+   "source_revised": "2026-11-04T11:45:24Z"
   },
   "Ohio|Governor": {
    "state": "Ohio",
@@ -1233,20 +1233,20 @@
     {
      "name": "Kelly Ayotte",
      "party": "Republican Party (United States)",
-     "votes": 278603,
-     "pct": 51.0,
+     "votes": 299637,
+     "pct": 51.1,
      "party_code": "R"
     },
     {
      "name": "Cinde Warmington",
      "party": "Democratic Party (United States)",
-     "votes": 259063,
-     "pct": 47.4,
+     "votes": 276986,
+     "pct": 47.2,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
-   "source_revised": "2026-11-04T05:11:39Z"
+   "source_revised": "2026-11-04T11:44:58Z"
   },
   "Wisconsin|Governor": {
    "state": "Wisconsin",
@@ -1415,27 +1415,27 @@
     {
      "name": "Hannah Pingree",
      "party": "Democratic Party (United States)",
-     "votes": 240950,
-     "pct": 53.0,
+     "votes": 353346,
+     "pct": 55.2,
      "party_code": "D"
     },
     {
      "name": "Bobby Charles",
      "party": "Republican Party (United States)",
-     "votes": 176728,
-     "pct": 38.9,
+     "votes": 235427,
+     "pct": 36.8,
      "party_code": "R"
     },
     {
      "name": "Rick Bennett",
      "party": "Independent",
-     "votes": 36551,
+     "votes": 50943,
      "pct": 8.0,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
-   "source_revised": "2026-11-04T05:03:49Z"
+   "source_revised": "2026-11-04T11:40:19Z"
   },
   "New Mexico|Governor": {
    "state": "New Mexico",
@@ -1715,27 +1715,27 @@
     {
      "name": "Helena Foulkes",
      "party": "Democratic Party (United States)",
-     "votes": 184664,
-     "pct": 57.48,
+     "votes": 203894,
+     "pct": 57.5,
      "party_code": "D"
     },
     {
      "name": "Ken Block",
      "party": "Independent politician",
-     "votes": 87759,
-     "pct": 27.77,
+     "votes": 98914,
+     "pct": 27.9,
      "party_code": "I"
     },
     {
      "name": "Aaron Guckian",
      "party": "Republican Party (United States)",
-     "votes": 42317,
-     "pct": 13.39,
+     "votes": 46997,
+     "pct": 13.3,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
-   "source_revised": "2026-11-04T02:08:11Z"
+   "source_revised": "2026-11-04T11:51:15Z"
   },
   "Pennsylvania|Governor": {
    "state": "Pennsylvania",
@@ -1818,7 +1818,7 @@
   "Massachusetts|Governor": {
    "state": "Massachusetts",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1826,27 +1826,20 @@
     {
      "name": "Maura Healey",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1362786,
+     "pct": 62.7,
      "party_code": "D"
     },
     {
      "name": "Mike Minogue",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 735451,
+     "pct": 33.9,
      "party_code": "R"
-    },
-    {
-     "name": "Andrea James",
-     "party": "Independent",
-     "votes": null,
-     "pct": null,
-     "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
-   "source_revised": "2026-11-03T15:16:32Z"
+   "source_revised": "2026-11-04T11:49:04Z"
   },
   "Maryland|Governor": {
    "state": "Maryland",
