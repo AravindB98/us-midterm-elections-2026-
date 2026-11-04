@@ -1,19 +1,19 @@
 {
- "updated_utc": "2026-11-04T13:38:08Z",
- "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
+ "updated_utc": "2026-11-04T13:42:42Z",
+ "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 16,
-   "R": 10,
+   "D": 20,
+   "R": 13,
    "I": 0,
-   "uncalled": 9
+   "uncalled": 2
   },
   "Governor": {
-   "D": 12,
-   "R": 7,
+   "D": 23,
+   "R": 12,
    "I": 0,
-   "uncalled": 17
+   "uncalled": 1
   }
  },
  "chambers": {
@@ -24,7 +24,7 @@
      "before": 45
     },
     "R": {
-     "after": 4446,
+     "after": null,
      "before": 53
     },
     "I": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T13:31:18Z"
+   "source_revised": "2026-11-04T13:41:47Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,39 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T13:36:35Z"
+   "source_revised": "2026-11-04T13:42:05Z"
+  }
+ },
+ "control": {
+  "Senate": {
+   "party": "D",
+   "called_by": "AP, CBS, NBC, CNN",
+   "detail": "Democrats projected to win the Senate majority. Alaska and Mississippi still too close to call.",
+   "sources": [
+    [
+     "AP via Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    ]
+   ]
+  },
+  "House": {
+   "party": "D",
+   "called_by": "AP, CBS, NBC, CNN",
+   "detail": "Democrats projected to win the House majority (218 needed). NBC News projects about 258 Democratic seats; counting continues.",
+   "sources": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+    ]
+   ]
   }
  },
  "senate_not_up": {
@@ -171,7 +203,11 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-04T11:10:55Z"
+   "source_revised": "2026-11-04T11:10:55Z",
+   "too_close": {
+    "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
+    "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/"
+   }
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -254,9 +290,9 @@
   "Nebraska|Senate": {
    "state": "Nebraska",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Pete Ricketts",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -275,7 +311,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-04T09:59:39Z"
+   "source_revised": "2026-11-04T13:40:01Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -516,7 +552,11 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T11:25:02Z"
+   "source_revised": "2026-11-04T11:25:02Z",
+   "too_close": {
+    "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
+    "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/"
+   }
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -599,9 +639,9 @@
   "Arkansas|Senate": {
    "state": "Arkansas",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Tom Cotton",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -651,9 +691,9 @@
   "New Jersey|Senate": {
    "state": "New Jersey",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Cory Booker",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -755,9 +795,9 @@
   "Tennessee|Senate": {
    "state": "Tennessee",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Bill Hagerty",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -814,9 +854,9 @@
   "Delaware|Senate": {
    "state": "Delaware",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Chris Coons",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -899,9 +939,9 @@
   "Oregon|Senate": {
    "state": "Oregon",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Jeff Merkley",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -915,7 +955,7 @@
      "name": "David Brock Smith",
      "party": "Republican Party (United States)",
      "votes": 612071,
-     "pct": 405.0,
+     "pct": 40.5,
      "party_code": "R"
     }
    ],
@@ -925,9 +965,9 @@
   "Rhode Island|Senate": {
    "state": "Rhode Island",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Jack Reed",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1107,9 +1147,9 @@
   "Kansas|Governor": {
    "state": "Kansas",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Cindy Holscher",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1128,7 +1168,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-04T13:37:02Z"
+   "source_revised": "2026-11-04T13:40:21Z"
   },
   "Alaska|Governor": {
    "state": "Alaska",
@@ -1168,7 +1208,11 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
-   "source_revised": "2026-11-04T13:00:02Z"
+   "source_revised": "2026-11-04T13:00:02Z",
+   "too_close": {
+    "note": "Not yet called; absentee ballots and ranked-choice tabulation pending.",
+    "source": "https://alaskabeacon.com/2026/11/03/jonathan-kreiss-tomkins-leading-in-alaskas-gubernatorial-race-in-early-results/"
+   }
   },
   "Iowa|Governor": {
    "state": "Iowa",
@@ -1225,9 +1269,9 @@
   "New Hampshire|Governor": {
    "state": "New Hampshire",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Kelly Ayotte",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -1329,9 +1373,9 @@
   "Michigan|Governor": {
    "state": "Michigan",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Jocelyn Benson",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1355,9 +1399,9 @@
   "Nebraska|Governor": {
    "state": "Nebraska",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Jim Pillen",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -1407,9 +1451,9 @@
   "Maine|Governor": {
    "state": "Maine",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Hannah Pingree",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1440,9 +1484,9 @@
   "New Mexico|Governor": {
    "state": "New Mexico",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Deb Haaland",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1461,14 +1505,18 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
-   "source_revised": "2026-11-04T13:27:28Z"
+   "source_revised": "2026-11-04T13:27:28Z",
+   "call_source": {
+    "by": "Projected (results aggregator)",
+    "url": "https://au.atlasbig.com/government/midterm-elections-2026"
+   }
   },
   "Minnesota|Governor": {
    "state": "Minnesota",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Amy Klobuchar",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1492,9 +1540,9 @@
   "New York|Governor": {
    "state": "New York",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Kathy Hochul",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1518,9 +1566,9 @@
   "Alabama|Governor": {
    "state": "Alabama",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Tommy Tuberville",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -1544,9 +1592,9 @@
   "Colorado|Governor": {
    "state": "Colorado",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Phil Weiser",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1570,9 +1618,9 @@
   "Connecticut|Governor": {
    "state": "Connecticut",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Ned Lamont",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1740,9 +1788,9 @@
   "Pennsylvania|Governor": {
    "state": "Pennsylvania",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Josh Shapiro",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1766,9 +1814,9 @@
   "South Dakota|Governor": {
    "state": "South Dakota",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Larry Rhoden",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -1818,9 +1866,9 @@
   "Massachusetts|Governor": {
    "state": "Massachusetts",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Maura Healey",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1870,9 +1918,9 @@
   "Hawaii|Governor": {
    "state": "Hawaii",
    "office": "Governor",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Josh Green",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1891,7 +1939,11 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election",
-   "source_revised": "2026-11-03T05:40:04Z"
+   "source_revised": "2026-11-03T05:40:04Z",
+   "call_source": {
+    "by": "NBC News",
+    "url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+   }
   },
   "Arkansas|Governor": {
    "state": "Arkansas",
@@ -1929,9 +1981,9 @@
   "Idaho|Governor": {
    "state": "Idaho",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Brad Little",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
