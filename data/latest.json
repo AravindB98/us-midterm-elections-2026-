@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T04:36:49Z",
+  "updated_utc": "2026-11-04T04:51:28Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -132,7 +132,7 @@
       "url": "https://polymarket.com/",
       "lean": "Nonpartisan / unrated",
       "house": 100.0,
-      "senate": 99.9,
+      "senate": 100.0,
       "as_of": "2026-11-04",
       "status": "live",
       "note": "Crypto-based global market; user base often described as right-leaning."
@@ -237,11 +237,11 @@
         "source": "VoteHub"
       },
       "max": {
-        "value": 99.9,
+        "value": 100.0,
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 13.7,
+      "stdev": 13.8,
       "by_type": {
         "forecast_model": 69.5,
         "prediction_market": 91.3,
