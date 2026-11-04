@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T02:52:31Z",
+ "updated_utc": "2026-11-04T03:06:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 6,
+   "D": 7,
    "R": 5,
    "I": 0,
-   "uncalled": 24
+   "uncalled": 23
   },
   "Governor": {
    "D": 4,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T02:51:28Z"
+   "source_revised": "2026-11-04T03:04:36Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T02:50:22Z"
+   "source_revised": "2026-11-04T03:03:39Z"
   }
  },
  "senate_not_up": {
@@ -125,20 +125,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 1482599,
-     "pct": 48.7,
+     "votes": 1567192,
+     "pct": 48.66,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 1422683,
-     "pct": 46.7,
+     "votes": 1502407,
+     "pct": 46.65,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T02:46:16Z"
+   "source_revised": "2026-11-04T02:52:47Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -184,46 +184,46 @@
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 3241741,
-     "pct": 60.0,
+     "votes": 3658165,
+     "pct": 65.0,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 2111740,
+     "votes": 2774482,
      "pct": 39.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T02:49:27Z"
+   "source_revised": "2026-11-04T02:55:02Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Annie Andrews",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Annie Andrews",
      "party": "Democratic Party (United States)",
-     "votes": 904087,
-     "pct": 51.1,
+     "votes": 918263,
+     "pct": 51.0,
      "party_code": "D"
     },
     {
      "name": "Darline Graham",
      "party": "Republican Party (United States)",
-     "votes": 826806,
+     "votes": 842906,
      "pct": 46.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T02:51:14Z"
+   "source_revised": "2026-11-04T03:03:19Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -262,20 +262,20 @@
     {
      "name": "Dan Osborn",
      "party": "Independent politician",
-     "votes": 111636,
-     "pct": 58.7,
+     "votes": 161540,
+     "pct": 54.1,
      "party_code": "I"
     },
     {
      "name": "Pete Ricketts",
      "party": "Republican Party (United States)",
-     "votes": 69035,
-     "pct": 36.3,
+     "votes": 121668,
+     "pct": 40.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-04T02:34:11Z"
+   "source_revised": "2026-11-04T02:55:13Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -399,20 +399,20 @@
     {
      "name": "Roy Cooper",
      "party": "Democratic Party (United States)",
-     "votes": 2011031,
-     "pct": 59.7,
+     "votes": 2147556,
+     "pct": 58.8,
      "party_code": "D"
     },
     {
      "name": "Michael Whatley",
      "party": "Republican Party (United States)",
-     "votes": 1287081,
-     "pct": 38.2,
+     "votes": 1430129,
+     "pct": 39.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T02:26:46Z"
+   "source_revised": "2026-11-04T02:56:57Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -438,7 +438,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-04T02:45:29Z"
+   "source_revised": "2026-11-04T02:52:56Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -718,20 +718,20 @@
     {
      "name": "Mark Warner",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1720969,
+     "pct": 59.1,
      "party_code": "D"
     },
     {
      "name": "Bert Mizusawa",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1183307,
+     "pct": 40.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
-   "source_revised": "2026-11-04T00:33:17Z"
+   "source_revised": "2026-11-04T02:53:31Z"
   },
   "Colorado|Senate": {
    "state": "Colorado",
@@ -848,27 +848,27 @@
     {
      "name": "Ed Markey",
      "party": "Democratic Party (United States)",
-     "votes": 23164,
-     "pct": 82.9,
+     "votes": 270896,
+     "pct": 68.4,
      "party_code": "D"
     },
     {
      "name": "John Deaton",
      "party": "Republican Party (United States)",
-     "votes": 2418,
-     "pct": 8.7,
+     "votes": 105431,
+     "pct": 26.6,
      "party_code": "R"
     },
     {
      "name": "Joe Tache",
      "party": "Party for Socialism and Liberation",
-     "votes": 2024,
-     "pct": 7.2,
+     "votes": null,
+     "pct": null,
      "party_code": "O"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-04T01:25:17Z"
+   "source_revised": "2026-11-04T02:56:01Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
@@ -1037,20 +1037,20 @@
     {
      "name": "Amy Acton",
      "party": "Ohio Democratic Party",
-     "votes": 1138771,
-     "pct": 55.4,
+     "votes": 1658024,
+     "pct": 50.4,
      "party_code": "D"
     },
     {
      "name": "Vivek Ramaswamy",
      "party": "Ohio Republican Party",
-     "votes": 865475,
-     "pct": 41.8,
+     "votes": 1519697,
+     "pct": 46.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T01:56:04Z"
+   "source_revised": "2026-11-04T02:59:32Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1076,7 +1076,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-04T02:50:21Z"
+   "source_revised": "2026-11-04T03:05:25Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1233,20 +1233,20 @@
     {
      "name": "Kelly Ayotte",
      "party": "Republican Party (United States)",
-     "votes": 6,
-     "pct": 85.7,
+     "votes": 170943,
+     "pct": 49.73,
      "party_code": "R"
     },
     {
      "name": "Cinde Warmington",
      "party": "Democratic Party (United States)",
-     "votes": 1,
-     "pct": 14.3,
+     "votes": 166130,
+     "pct": 48.33,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
-   "source_revised": "2026-11-03T21:12:59Z"
+   "source_revised": "2026-11-04T03:00:45Z"
   },
   "Wisconsin|Governor": {
    "state": "Wisconsin",
@@ -1416,7 +1416,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-03T15:50:19Z"
+   "source_revised": "2026-11-04T02:59:23Z"
   },
   "Maine|Governor": {
    "state": "Maine",
@@ -1643,7 +1643,7 @@
   "Vermont|Governor": {
    "state": "Vermont",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1651,20 +1651,20 @@
     {
      "name": "Phil Scott",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 128141,
+     "pct": 52.0,
      "party_code": "R"
     },
     {
      "name": "Amanda Janoo",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 114034,
+     "pct": 46.28,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election",
-   "source_revised": "2026-11-03T17:14:53Z"
+   "source_revised": "2026-11-04T02:58:32Z"
   },
   "Illinois|Governor": {
    "state": "Illinois",

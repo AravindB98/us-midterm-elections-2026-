@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-04 02:51 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-04 03:06 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -53,8 +53,8 @@ _Last automatic update: **2026-11-04 02:51 UTC**. Markets refresh every minute, 
 
 | Consensus (weighted) | Democrats | Republicans | Fresh sources | Range across sources | Verdict |
 |---|---|---|---|---|---|
-| **House control** | 92.4% | 7.6% | 9 | 83% to 100% | Democrats strongly favored |
-| **Senate control** | 78.8% | 21.2% | 9 | 60% to 99% | Democrats favored |
+| **House control** | 92.3% | 7.7% | 9 | 83% to 100% | Democrats strongly favored |
+| **Senate control** | 78.9% | 21.1% | 9 | 60% to 99% | Democrats favored |
 | **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race odds | - | 51 needed |
 
 **Forecasts in the consensus**
@@ -67,8 +67,8 @@ _Last automatic update: **2026-11-04 02:51 UTC**. Markets refresh every minute, 
 | [VoteHub](https://votehub.com/) | Forecast models | n/a | 60.0% | 2026-10-24 |
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | 91.0% | 76.0% | 2026-11-04 |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | 94.1% | 75.0% | 2026-11-04 |
-| [Polymarket](https://polymarket.com/) | Prediction markets | 99.9% | 99.2% | 2026-11-04 |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | 98.0% | 96.0% | 2026-11-04 |
+| [Polymarket](https://polymarket.com/) | Prediction markets | 99.8% | 99.4% | 2026-11-04 |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | 97.0% | 97.0% | 2026-11-04 |
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | 83.0% | 84.0% | 2026-11-01 |
 | [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 98.7% | 98.9% | 2026-11-04 |
 
@@ -94,7 +94,7 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 - [Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZoZnd5TWlac1BNQkoyZGw1UHR6RkphN3J4S3E2bkZXbFN4SFhKcWdGQkhyNXJfblNQWTJkbXBxeHZZSTBoa0RLc18xSnpxX3dJR1FiYm5hdTdER0FWVEJRRGg3T0Nwek41ZmJFX3ZFdUtjeV83T0YzUDVvN3BhZEU3d2hocWx5ZUZQdGx0SEx4Y1hu?oc=5) (The New York Times)
 - [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
 - [What Are the Polls Telling Us About the 2026 Midterm Elections?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazVILW52bnFRRm9vSWpjMXJsSGhuMDRyZjNrQVRyWTRnMUFYR1I1UE9aa1A2OGhTR2V5eXpVeGRJajhqWkV4azlMX0JlZDd3bGRNZTJXSjZqcUJITjVyY0hsbTN2S2Z3TDU2QUxOOWRwSE5FVUN3dEFuRDJ5di1hM25tOVVMczJNRGdz?oc=5) (Rutgers University)
-- [Midterm elections come to a close in referendum on Trump's presidency](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzRjRWNra2lGcG4tYzBfV0hCVHRJbXpNUTN2dm1IQ1hJSXRjNzRMZmJwX0VHcTlMRHk0QjF2V3pMZ0thYnJLTlZmYmRNU1hUVHRmbXRGRk0xS0U3d2RJUHB1SFAwUWt4cG1OVk81b0lwbmxXeXNVWWdJU3RFejR3OGhwUXJUZExqSS1pTkNkWm0zLU1VV3VGeDRVQXhyZmtCR1otSGpldVYzUQ?oc=5) (PBS)
+- [WATCH LIVE: Election night 2026 PBS News special coverage](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjFEcFpDeks3WVlYcnR2cUFzNHpOUDNzM1ViOGwxb1ZQUGFFelRGMndZUnUwVzk4NFFqRXpfa0NPTG1oa1VMVE56cXlIbHRRZDh3aDVMd0hTUlRlZmk2YU1TTGh5d3ZMLTRlSmgzRUFsd0pHc3ZOb1ZGNHczcmRTdnhsZzNzS19KclVkbkxtRktGbVAyeV9MV21R0gGfAUFVX3lxTE5hX1hScURhZHBMMmxKekxuRktnNU9HRENLWnVKa2Rub0hhZTd4b2pORmdiUmdLVHdPeC1US0FOMXIwa09oNEROZlpRY0NJMXBqQ1pGaWdmbi0wN0ROSm9xUjlPa0JQSkI5dlZMZkhZTFhkeE9aZm9wa3U0ZWFNTUhKYjU0cmNILTVQZFJIOV85NHE0bEJyWTB1R1J2TGtUUQ?oc=5) (PBS)
 - [US midterm elections 2026: live results from Senate, House and governor races in all 50 states](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXg4ZGtKNUVWaHpvR29nU2ZHQVZkekxsWDQ2SEp5QnFyOHA4amh2eHJSa3h3c2NfcVZ0anVCQjdkUWF1QktGTHBORzZzcHJHNkZBTVJNOTVrLUVhSVVsQjJMLWhVOHdHYlN6TnhvajdVbVhIeEZuOTdhZDY0Rk9fQ0lEQUk0UlEwdTZnb1BGNGtROC1hbV9XeVpQbmlHaGdXVk03Qk1Mb2lQZU5ZOFp2WUc4ckdnbDBYR0xfbWJR?oc=5) (The Guardian)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
