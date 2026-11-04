@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T03:21:31Z",
+ "updated_utc": "2026-11-04T03:37:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T03:18:54Z"
+   "source_revised": "2026-11-04T03:27:24Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T03:20:32Z"
+   "source_revised": "2026-11-04T03:36:17Z"
   }
  },
  "senate_not_up": {
@@ -66,20 +66,20 @@
     {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 375403,
-     "pct": 58.4,
+     "votes": 466434,
+     "pct": 54.7,
      "party_code": "D"
     },
     {
      "name": "Roger Marshall",
      "party": "Republican Party (United States)",
-     "votes": 252054,
-     "pct": 39.2,
+     "votes": 363014,
+     "pct": 42.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T02:47:43Z"
+   "source_revised": "2026-11-04T03:29:10Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -125,20 +125,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 1693605,
-     "pct": 48.09,
+     "votes": 1813194,
+     "pct": 48.22,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 1659985,
-     "pct": 47.14,
+     "votes": 1766512,
+     "pct": 46.98,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T03:17:33Z"
+   "source_revised": "2026-11-04T03:26:20Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -223,7 +223,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T03:18:06Z"
+   "source_revised": "2026-11-04T03:33:40Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -306,7 +306,7 @@
   "Michigan|Senate": {
    "state": "Michigan",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -314,20 +314,20 @@
     {
      "name": "Abdul El-Sayed",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 618789,
+     "pct": 53.6,
      "party_code": "D"
     },
     {
      "name": "Mike Rogers",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 515436,
+     "pct": 44.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T02:43:13Z"
+   "source_revised": "2026-11-04T03:29:35Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -365,7 +365,7 @@
   "Minnesota|Senate": {
    "state": "Minnesota",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -373,20 +373,20 @@
     {
      "name": "Peggy Flanagan",
      "party": "Minnesota Democratic\u2013Farmer\u2013Labor Party",
-     "votes": null,
-     "pct": null,
+     "votes": 68596,
+     "pct": 41.1,
      "party_code": "D"
     },
     {
      "name": "Michele Tafoya",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 93491,
+     "pct": 56.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-04T02:28:18Z"
+   "source_revised": "2026-11-04T03:32:36Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -809,7 +809,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-   "source_revised": "2026-11-03T20:46:27Z"
+   "source_revised": "2026-11-04T03:32:23Z"
   },
   "Delaware|Senate": {
    "state": "Delaware",
@@ -1651,20 +1651,20 @@
     {
      "name": "Phil Scott",
      "party": "Republican Party (United States)",
-     "votes": 128141,
-     "pct": 52.0,
+     "votes": 142227,
+     "pct": 51.94,
      "party_code": "R"
     },
     {
      "name": "Amanda Janoo",
      "party": "Democratic Party (United States)",
-     "votes": 114034,
-     "pct": 46.28,
+     "votes": 126881,
+     "pct": 46.34,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election",
-   "source_revised": "2026-11-04T02:58:32Z"
+   "source_revised": "2026-11-04T03:33:31Z"
   },
   "Illinois|Governor": {
    "state": "Illinois",
