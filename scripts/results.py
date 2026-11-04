@@ -50,10 +50,11 @@ def parse_infobox(wikitext: str) -> dict:
     if not m:
         return {}
     body = m.group(1)
-    fields = {}
+    fields, raw = {}, {}
     for line in re.split(r"\n\s*\|", body):
         if "=" in line:
             k, v = line.split("=", 1)
+            raw[k.strip().lower()] = v
             fields[k.strip().lower()] = _clean(v)
     cands = []
     for i in range(1, 6):
@@ -62,12 +63,26 @@ def parse_infobox(wikitext: str) -> dict:
             continue
         party = fields.get(f"party{i}", "")
         votes = re.sub(r"[^\d]", "", fields.get(f"popular_vote{i}", "") or "")
-        pct = re.sub(r"[^\d.]", "", fields.get(f"percentage{i}", "") or "")
-        cands.append({"name": name, "party": party, "votes": int(votes) if votes else None,
-                      "pct": float(pct) if pct and pct.count(".") <= 1 else None})
+        ptxt = fields.get(f"percentage{i}", "") or ""
+        if "," in ptxt and "." not in ptxt:
+            ptxt = ptxt.replace(",", ".")  # decimal comma typo
+        pct = re.sub(r"[^\d.]", "", ptxt)
+        pct = float(pct) if pct and pct.count(".") <= 1 else None
+        if pct is not None and pct > 100:
+            pct = None
+        bold = any("'''" in (raw.get(f"{f}{i}", "") or "") for f in ("nominee", "popular_vote", "percentage"))
+        cands.append({"name": name, "party": party, "votes": int(votes) if votes else None, "pct": pct, "_bold": bold})
     winner = fields.get("after_election", "")
     winner = "" if PLACEHOLDER.match(winner or "") else winner
-    return {"candidates": cands, "winner": winner, "winner_party": fields.get("after_party", ""),
+    winner_party = fields.get("after_party", "")
+    # Wikipedia convention: editors bold the winner's name and numbers once the race is called.
+    # Use it only when after_election is blank, exactly one candidate is bolded, and votes are posted.
+    bolded = [c for c in cands if c["_bold"]]
+    if not winner and len(bolded) == 1 and any(c["votes"] for c in cands):
+        winner, winner_party = bolded[0]["name"], bolded[0]["party"]
+    for c in cands:
+        c.pop("_bold", None)
+    return {"candidates": cands, "winner": winner, "winner_party": winner_party,
             "previous": fields.get("before_election", ""), "previous_party": fields.get("before_party", "")}
 
 
@@ -106,8 +121,10 @@ def chamber_totals(pages: dict) -> dict:
             code = party_code(f.get(f"party{i}", ""))
             after = re.sub(r"[^\d]", "", f.get(f"seats_after{i}", "") or "")
             before = re.sub(r"[^\d]", "", f.get(f"seats_before{i}", "") or "")
+            cap = 100 if office == "Senate" else 435
+            ok = lambda x: int(x) if x and int(x) <= cap else None  # drop garbled values like "4446"
             if code in ("D", "R", "I"):
-                row[code] = {"after": int(after) if after else None, "before": int(before) if before else None}
+                row[code] = {"after": ok(after), "before": ok(before)}
         if row:
             out[office] = {"parties": row, "source": f"https://en.wikipedia.org/wiki/{title.replace(' ', '_')}", "source_revised": pg["rev_time"]}
     return out
@@ -194,7 +211,7 @@ def update_results(offline: bool = False) -> dict:
         else:
             t["uncalled"] += 1
     res = {"updated_utc": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
-           "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
+           "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
            "races_found": found, "tally": tally, "chambers": chamber_totals(pages) or prev.get("chambers", {}), "senate_not_up": {"D": 34, "R": 31}, "races": out}
     tmp = path.with_suffix(".tmp")
     tmp.write_text(json.dumps(res, indent=1) + "\n")
