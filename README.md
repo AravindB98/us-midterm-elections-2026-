@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-04 14:44 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-04 14:59 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -92,10 +92,10 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 **Latest midterm headlines (auto-updated)**
 
 - [Trump Says in Interview That He Will Accept Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5) (The New York Times)
-- [Who will win the midterms? How the US elections will be won and lost](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qeHZpUU1lTm12dDU5M2dQUzU5M3FEbFRlRnkybWtkRFl4aHEwLVh6N3hmbDRwdG9BU2ZFYVFhSFZ4cTBLbk4tR1gtMjZXcUREUGNOd0huNEJ4T1k?oc=5) (BBC)
-- [Live 2026 Midterm Elections](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSOTZYLXQwVzlmVzVRel9hSFBtY2FpcEZaajJLcGI0a0MxUkFlSFlrRkNLV0ZQT2s1RGwwbUJIZjJfWlFHY2RnV3BLaWRSV054UWtvbEF5N3labm1IU1ltXw?oc=5) (PBS)
-- [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
-- [WATCH LIVE: Takeaways from the 2026 midterms and answers to your election questions](https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjljV0hIdXhEc3poY0FqZWlTZE54cXFkRnFOakhTdUNUZVo3N1Z5QXk1S2RNYlRjRkkxOTdzZG5XWTlYemo2bTFZdTBmTUZ1TVk5b19jMEhhMHNQY01wYjFjX1lEOU9ibGVEdGRFMGJid3Jicmo2bmx4b3haaFQ1S09OVXRXSXpqS3VjeXBQSzJmMTVSdjZPQ19oeEhFSnhSVzExNUF1ZTRna3dodTF1M001bHJvbDRncHJ2Q9IBwgFBVV95cUxNRmZ1ZWlMN2h5X1VQYnhXNHRYeDF3ZEdFQ1BCRVZpbnFMUlk1WXpfN0pvcWExX1gxaHJrdC1JdXlpbkgtaWdrVFJGbVp3ZkE1LWNHQ09PNkN1TERIQlFrbWlQbkZQMjI1bTNZUWlXYmpyaEJIeFlCWTZoLTJKVG9XUEdCYWl2anBkN0xaNjgtVUJBMU9fZ0xjQU5mTlc0SXVsN3JVc2FLYlNpbHVqenpNX1FuVzNOZEt4c0k2X1VYV0lGZw?oc=5) (PBS)
+- [US midterms 2026 election results live: Democrats capture Congress](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNm1Mdnk5QnRLWkpvSHRLZFJwX2NwRnM2clg1OE1fdzZUZFdDTXlmbldHVkU0ZkRqNVB2Wk5JN2dtNVhWVGx3YXpzQ2ZXZ2lOdzkxd0hzZzR2cEp4LUhxNlFVNHZzYmppb1NtcEtsQ2NZdGtKRlNxVEJIRXFkZkhXNFZuWGttQVdxQ0h6T1A5cVd0U19ZNm93YnFQWXFra0lyRWtfTnFNMFJpV0FaS1VCOGYzNWNTQQ?oc=5) (Reuters)
+- [These candidates made history in the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1BqeVJLY2hpRG8zSUZlbjlKOGIxNjdJMXhBdHRNWkdqZ1pQQUx3TTA3R2kwSmNGVW5OTVlrQnhZbEU5bVRqazVnWTlUVnRmcDNPWGQyUDM4aDBmcTZ5aFFtLUtUTWt4Z2pTcm1VVnZ0cmhGLXU2TG9KSjhIUlBjWThnZUl3QXB6M1pj?oc=5) (ABC7 Bay Area)
+- [2026 midterm election results: U.S. Senate, U.S. House, governor’s races](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2plZEdEVHZRVnJ3bWJNYzFRbmQxS3Eyc0otZlpGNGZramtmcEJlQV9WaDVMSm9PWFhtZW8xcGxwY3FyNHFHOFl3V3VVbUg1akFkclIxVG9VM1MxZktRWkpOTXJKYnpGSkNObEZnU1ZMUF9mZTh1SVZMRGh2Ykpka0NtcmVUZw?oc=5) (WHYY)
+- [Midterm elections come to a close in referendum on Trump's presidency](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzRjRWNra2lGcG4tYzBfV0hCVHRJbXpNUTN2dm1IQ1hJSXRjNzRMZmJwX0VHcTlMRHk0QjF2V3pMZ0thYnJLTlZmYmRNU1hUVHRmbXRGRk0xS0U3d2RJUHB1SFAwUWt4cG1OVk81b0lwbmxXeXNVWWdJU3RFejR3OGhwUXJUZExqSS1pTkNkWm0zLU1VV3VGeDRVQXhyZmtCR1otSGpldVYzUQ?oc=5) (PBS)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 

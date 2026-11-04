@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T14:45:32Z",
+ "updated_utc": "2026-11-04T15:00:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
    "D": 20,
-   "R": 13,
+   "R": 12,
    "I": 0,
-   "uncalled": 2
+   "uncalled": 3
   },
   "Governor": {
    "D": 22,
@@ -20,7 +20,7 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": 54,
+     "after": null,
      "before": 45
     },
     "R": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T14:36:24Z"
+   "source_revised": "2026-11-04T14:57:48Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T14:38:16Z"
+   "source_revised": "2026-11-04T14:58:22Z"
   }
  },
  "control": {
@@ -362,13 +362,13 @@
   "Montana|Senate": {
    "state": "Montana",
    "office": "Senate",
-   "status": "called",
-   "winner": "Sawyer Adams",
-   "winner_party": "R",
+   "status": "counting",
+   "winner": null,
+   "winner_party": null,
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Sawyer Adams",
+     "name": "Kurt Alme",
      "party": "Republican Party (United States)",
      "votes": 187961,
      "pct": 47.7,
@@ -390,7 +390,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-04T14:20:54Z"
+   "source_revised": "2026-11-04T14:49:16Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -520,7 +520,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-04T10:51:45Z"
+   "source_revised": "2026-11-04T15:00:20Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -1239,7 +1239,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-04T14:42:10Z"
+   "source_revised": "2026-11-04T14:49:25Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1725,7 +1725,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
-   "source_revised": "2026-11-04T14:34:07Z"
+   "source_revised": "2026-11-04T14:57:05Z"
   },
   "Oklahoma|Governor": {
    "state": "Oklahoma",
