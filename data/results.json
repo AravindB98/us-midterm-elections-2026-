@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T16:00:32Z",
+ "updated_utc": "2026-11-04T16:15:31Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T16:00:04Z"
+   "source_revised": "2026-11-04T16:13:45Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T15:54:56Z"
+   "source_revised": "2026-11-04T16:14:37Z"
   }
  },
  "control": {
@@ -196,7 +196,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-04T15:21:42Z",
+   "source_revised": "2026-11-04T16:08:47Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -403,20 +403,20 @@
     {
      "name": "Peggy Flanagan",
      "party": "Minnesota Democratic\u2013Farmer\u2013Labor Party",
-     "votes": 1506294,
-     "pct": 53.8,
+     "votes": 1520300,
+     "pct": 53.7,
      "party_code": "D"
     },
     {
      "name": "Michele Tafoya",
      "party": "Republican Party (United States)",
-     "votes": 1215455,
-     "pct": 43.4,
+     "votes": 1232683,
+     "pct": 43.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-04T10:45:05Z"
+   "source_revised": "2026-11-04T16:01:43Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T16:00:26Z",
+   "source_revised": "2026-11-04T16:08:38Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -616,20 +616,20 @@
     {
      "name": "Mike Rounds",
      "party": "Republican Party (United States)",
-     "votes": 184477,
-     "pct": 60.6,
+     "votes": 184571,
+     "pct": 60.5,
      "party_code": "R"
     },
     {
      "name": "Brian Bengs",
      "party": "Independent politician",
-     "votes": 119818,
-     "pct": 39.4,
+     "votes": 120484,
+     "pct": 39.5,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
-   "source_revised": "2026-11-04T09:55:57Z"
+   "source_revised": "2026-11-04T16:04:12Z"
   },
   "Arkansas|Senate": {
    "state": "Arkansas",
@@ -1317,7 +1317,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
-   "source_revised": "2026-11-04T13:52:59Z"
+   "source_revised": "2026-11-04T16:05:45Z"
   },
   "South Carolina|Governor": {
    "state": "South Carolina",
@@ -1588,7 +1588,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
-   "source_revised": "2026-11-04T13:51:05Z"
+   "source_revised": "2026-11-04T16:12:48Z"
   },
   "Colorado|Governor": {
    "state": "Colorado",
@@ -1738,20 +1738,20 @@
     {
      "name": "Mike Mazzei",
      "party": "Republican Party (United States)",
-     "votes": 572738,
-     "pct": 51.99,
+     "votes": 579614,
+     "pct": 52.0,
      "party_code": "R"
     },
     {
      "name": "Cyndi Munson",
      "party": "Democratic Party (United States)",
-     "votes": 505249,
-     "pct": 45.86,
+     "votes": 511369,
+     "pct": 45.9,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
-   "source_revised": "2026-11-04T10:18:44Z"
+   "source_revised": "2026-11-04T16:06:13Z"
   },
   "Rhode Island|Governor": {
    "state": "Rhode Island",
@@ -1797,20 +1797,20 @@
     {
      "name": "Josh Shapiro",
      "party": "Democratic Party (United States)",
-     "votes": 2988002,
-     "pct": 60.3,
+     "votes": 3002608,
+     "pct": 60.4,
      "party_code": "D"
     },
     {
      "name": "Stacy Garrity",
      "party": "Republican Party (United States)",
-     "votes": 1904484,
-     "pct": 38.4,
+     "votes": 1906260,
+     "pct": 38.3,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
-   "source_revised": "2026-11-04T14:22:50Z"
+   "source_revised": "2026-11-04T16:12:17Z"
   },
   "South Dakota|Governor": {
    "state": "South Dakota",
@@ -1875,20 +1875,20 @@
     {
      "name": "Maura Healey",
      "party": "Democratic Party (United States)",
-     "votes": 1362786,
-     "pct": 62.7,
+     "votes": 1493355,
+     "pct": 62.1,
      "party_code": "D"
     },
     {
      "name": "Mike Minogue",
      "party": "Republican Party (United States)",
-     "votes": 735451,
-     "pct": 33.9,
+     "votes": 830277,
+     "pct": 34.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
-   "source_revised": "2026-11-04T12:35:26Z"
+   "source_revised": "2026-11-04T16:14:48Z"
   },
   "Maryland|Governor": {
    "state": "Maryland",
