@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T13:42:42Z",
+ "updated_utc": "2026-11-04T13:45:31Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -10,10 +10,10 @@
    "uncalled": 2
   },
   "Governor": {
-   "D": 23,
+   "D": 22,
    "R": 12,
    "I": 0,
-   "uncalled": 1
+   "uncalled": 2
   }
  },
  "chambers": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T13:42:05Z"
+   "source_revised": "2026-11-04T13:44:00Z"
   }
  },
  "control": {
@@ -206,7 +206,8 @@
    "source_revised": "2026-11-04T11:10:55Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
-    "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/"
+    "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
+    "hold_until_utc": "2026-11-04T19:00:00Z"
    }
   },
   "Texas|Senate": {
@@ -555,7 +556,8 @@
    "source_revised": "2026-11-04T11:25:02Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
-    "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/"
+    "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
+    "hold_until_utc": "2026-11-04T19:00:00Z"
    }
   },
   "Alabama|Senate": {
@@ -1147,9 +1149,9 @@
   "Kansas|Governor": {
    "state": "Kansas",
    "office": "Governor",
-   "status": "called",
-   "winner": "Cindy Holscher",
-   "winner_party": "D",
+   "status": "counting",
+   "winner": null,
+   "winner_party": null,
    "pending_winner": null,
    "candidates": [
     {
@@ -1168,7 +1170,12 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-04T13:40:21Z"
+   "source_revised": "2026-11-04T13:40:21Z",
+   "too_close": {
+    "note": "Too close to call as of Wednesday morning per AP; mail ballots still arriving. Holscher leads narrowly.",
+    "source": "https://www.kwch.com/2026/11/04/holscher-holds-narrow-lead-over-masterson-uncalled-kansas-governors-race/",
+    "hold_until_utc": "2026-11-04T19:00:00Z"
+   }
   },
   "Alaska|Governor": {
    "state": "Alaska",
@@ -1211,7 +1218,8 @@
    "source_revised": "2026-11-04T13:00:02Z",
    "too_close": {
     "note": "Not yet called; absentee ballots and ranked-choice tabulation pending.",
-    "source": "https://alaskabeacon.com/2026/11/03/jonathan-kreiss-tomkins-leading-in-alaskas-gubernatorial-race-in-early-results/"
+    "source": "https://alaskabeacon.com/2026/11/03/jonathan-kreiss-tomkins-leading-in-alaskas-gubernatorial-race-in-early-results/",
+    "hold_until_utc": "2026-11-04T19:00:00Z"
    }
   },
   "Iowa|Governor": {
