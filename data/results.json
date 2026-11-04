@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T07:36:31Z",
+ "updated_utc": "2026-11-04T07:51:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -20,7 +20,7 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": 52,
+     "after": 54,
      "before": 45
     },
     "R": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T07:30:08Z"
+   "source_revised": "2026-11-04T07:48:13Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T07:30:22Z"
+   "source_revised": "2026-11-04T07:42:02Z"
   }
  },
  "senate_not_up": {
@@ -125,20 +125,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 2197419,
-     "pct": 49.58,
+     "votes": 2246694,
+     "pct": 49.67,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 2020408,
-     "pct": 45.59,
+     "votes": 2057537,
+     "pct": 45.49,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T07:36:19Z"
+   "source_revised": "2026-11-04T07:45:44Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -184,20 +184,20 @@
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 4932811,
+     "votes": 5125580,
      "pct": 54.9,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 3884743,
+     "votes": 4040298,
      "pct": 43.3,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T06:26:09Z"
+   "source_revised": "2026-11-04T07:46:28Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -249,7 +249,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T06:55:11Z"
+   "source_revised": "2026-11-04T07:38:49Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -314,20 +314,20 @@
     {
      "name": "Abdul El-Sayed",
      "party": "Democratic Party (United States)",
-     "votes": 2009755,
-     "pct": 51.8,
+     "votes": 2207507,
+     "pct": 52.0,
      "party_code": "D"
     },
     {
      "name": "Mike Rogers",
      "party": "Republican Party (United States)",
-     "votes": 1791898,
-     "pct": 46.2,
+     "votes": 1955024,
+     "pct": 46.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T07:35:12Z"
+   "source_revised": "2026-11-04T07:38:35Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -1037,20 +1037,20 @@
     {
      "name": "Amy Acton",
      "party": "Ohio Democratic Party",
-     "votes": 2204745,
-     "pct": 51.26,
+     "votes": 2347650,
+     "pct": 51.97,
      "party_code": "D"
     },
     {
      "name": "Vivek Ramaswamy",
      "party": "Ohio Republican Party",
-     "votes": 1953015,
-     "pct": 45.41,
+     "votes": 2020106,
+     "pct": 44.72,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T07:27:43Z"
+   "source_revised": "2026-11-04T07:43:02Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1220,7 +1220,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T07:01:52Z"
+   "source_revised": "2026-11-04T07:42:32Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
