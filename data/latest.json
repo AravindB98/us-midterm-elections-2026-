@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T01:21:07Z",
+  "updated_utc": "2026-11-04T01:36:01Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -131,7 +131,7 @@
       "type": "prediction_market",
       "url": "https://polymarket.com/",
       "lean": "Nonpartisan / unrated",
-      "house": 99.2,
+      "house": 99.4,
       "senate": 98.0,
       "as_of": "2026-11-04",
       "status": "live",
@@ -143,8 +143,8 @@
       "url": "https://www.predictit.org/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "senate": 95.0,
-      "house": 98.0,
+      "senate": 96.0,
+      "house": 97.0,
       "as_of": "2026-11-04"
     },
     "manifold": {
@@ -154,7 +154,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "house": 98.0,
-      "senate": 94.0,
+      "senate": 96.0,
       "as_of": "2026-11-04"
     },
     "metaculus": {
@@ -177,9 +177,9 @@
     }
   },
   "ensemble": {
-    "house_dem": 92.3,
+    "house_dem": 92.2,
     "house_n": 9,
-    "senate_dem": 78.3,
+    "senate_dem": 78.5,
     "senate_n": 9
   },
   "senate_projection": {
@@ -198,7 +198,7 @@
   "disclaimer": "This is only a collection of publicly available resources and forecasts. The creator is neutral and does not support any political party, candidate or ideology.",
   "consensus": {
     "house": {
-      "value": 92.3,
+      "value": 92.2,
       "median": 94.1,
       "n": 9,
       "min": {
@@ -206,14 +206,14 @@
         "source": "ForbesPredict"
       },
       "max": {
-        "value": 99.2,
+        "value": 99.4,
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 5.7,
+      "stdev": 5.6,
       "by_type": {
         "forecast_model": 89.8,
-        "prediction_market": 97.1,
+        "prediction_market": 96.8,
         "crowd_forecast": 90.5
       },
       "sources": [
@@ -229,7 +229,7 @@
       ]
     },
     "senate": {
-      "value": 78.3,
+      "value": 78.5,
       "median": 78.0,
       "n": 9,
       "min": {
@@ -241,11 +241,11 @@
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 12.7,
+      "stdev": 13.1,
       "by_type": {
         "forecast_model": 69.5,
-        "prediction_market": 89.3,
-        "crowd_forecast": 89.0
+        "prediction_market": 89.7,
+        "crowd_forecast": 90.0
       },
       "sources": [
         "ddhq",

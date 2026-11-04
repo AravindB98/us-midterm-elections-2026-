@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T01:22:05Z",
+ "updated_utc": "2026-11-04T01:36:05Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T01:20:22Z"
+   "source_revised": "2026-11-04T01:35:06Z"
   },
   "House": {
    "parties": {
@@ -44,14 +44,10 @@
     "R": {
      "after": null,
      "before": 218
-    },
-    "I": {
-     "after": null,
-     "before": 1
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T01:08:13Z"
+   "source_revised": "2026-11-04T01:35:18Z"
   }
  },
  "senate_not_up": {
@@ -68,22 +64,22 @@
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Roger Marshall",
-     "party": "Republican Party (United States)",
-     "votes": 41113,
-     "pct": 41.2,
-     "party_code": "R"
-    },
-    {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 56782,
+     "votes": 84319,
      "pct": 56.9,
      "party_code": "D"
+    },
+    {
+     "name": "Roger Marshall",
+     "party": "Republican Party (United States)",
+     "votes": 58652,
+     "pct": 40.18,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T01:15:58Z"
+   "source_revised": "2026-11-04T01:31:20Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -188,20 +184,20 @@
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 491969,
-     "pct": 35.7,
+     "votes": 950469,
+     "pct": 39.1,
      "party_code": "R"
     },
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 865194,
-     "pct": 62.8,
+     "votes": 1443167,
+     "pct": 59.4,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T01:15:45Z"
+   "source_revised": "2026-11-04T01:34:37Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -253,7 +249,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T01:17:37Z"
+   "source_revised": "2026-11-04T01:34:08Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -844,7 +840,7 @@
   "Massachusetts|Senate": {
    "state": "Massachusetts",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -852,27 +848,27 @@
     {
      "name": "Ed Markey",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 23164,
+     "pct": 82.9,
      "party_code": "D"
     },
     {
      "name": "John Deaton",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 2418,
+     "pct": 8.7,
      "party_code": "R"
     },
     {
      "name": "Joe Tache",
      "party": "Party for Socialism and Liberation",
-     "votes": null,
-     "pct": null,
+     "votes": 2024,
+     "pct": 7.2,
      "party_code": "O"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-03T21:58:59Z"
+   "source_revised": "2026-11-04T01:25:17Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
@@ -1059,28 +1055,28 @@
   "Georgia|Governor": {
    "state": "Georgia",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Rick Jackson",
-     "party": "Georgia Republican Party",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
-    },
-    {
      "name": "Keisha Lance Bottoms",
      "party": "Democratic Party of Georgia",
-     "votes": null,
-     "pct": null,
+     "votes": 1549504,
+     "pct": 58.92,
      "party_code": "D"
+    },
+    {
+     "name": "Rick Jackson",
+     "party": "Georgia Republican Party",
+     "votes": 1080214,
+     "pct": 41.08,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-03T21:39:24Z"
+   "source_revised": "2026-11-04T01:29:48Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1091,22 +1087,22 @@
    "pending_winner": null,
    "candidates": [
     {
-     "name": "David Jolly",
-     "party": "Democratic Party (United States)",
-     "votes": 3740881,
-     "pct": 49.53,
-     "party_code": "D"
-    },
-    {
      "name": "Byron Donalds",
      "party": "Republican Party (United States)",
-     "votes": 3719089,
-     "pct": 49.24,
+     "votes": 3942784,
+     "pct": 49.77,
      "party_code": "R"
+    },
+    {
+     "name": "David Jolly",
+     "party": "Democratic Party (United States)",
+     "votes": 3879948,
+     "pct": 48.97,
+     "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-04T01:12:43Z"
+   "source_revised": "2026-11-04T01:36:03Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1609,7 +1605,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Connecticut_gubernatorial_election",
-   "source_revised": "2026-11-03T15:19:31Z"
+   "source_revised": "2026-11-04T01:22:04Z"
   },
   "Tennessee|Governor": {
    "state": "Tennessee",
@@ -1694,7 +1690,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
-   "source_revised": "2026-11-04T01:06:28Z"
+   "source_revised": "2026-11-04T01:27:59Z"
   },
   "Oklahoma|Governor": {
    "state": "Oklahoma",
@@ -1890,7 +1886,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
-   "source_revised": "2026-11-04T01:05:34Z"
+   "source_revised": "2026-11-04T01:22:39Z"
   },
   "Hawaii|Governor": {
    "state": "Hawaii",
