@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T02:37:31Z",
+ "updated_utc": "2026-11-04T02:52:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
    "D": 6,
-   "R": 4,
+   "R": 5,
    "I": 0,
-   "uncalled": 25
+   "uncalled": 24
   },
   "Governor": {
    "D": 4,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T02:27:59Z"
+   "source_revised": "2026-11-04T02:51:28Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T02:34:57Z"
+   "source_revised": "2026-11-04T02:50:22Z"
   }
  },
  "senate_not_up": {
@@ -66,20 +66,20 @@
     {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 275014,
-     "pct": 63.7,
+     "votes": 375403,
+     "pct": 58.4,
      "party_code": "D"
     },
     {
      "name": "Roger Marshall",
      "party": "Republican Party (United States)",
-     "votes": 149111,
-     "pct": 34.5,
+     "votes": 252054,
+     "pct": 39.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T01:54:38Z"
+   "source_revised": "2026-11-04T02:47:43Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -125,20 +125,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 996923,
-     "pct": 56.36,
+     "votes": 1482599,
+     "pct": 48.7,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 709406,
-     "pct": 40.11,
+     "votes": 1422683,
+     "pct": 46.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T01:40:05Z"
+   "source_revised": "2026-11-04T02:46:16Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -197,7 +197,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T02:33:47Z"
+   "source_revised": "2026-11-04T02:49:27Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -210,20 +210,20 @@
     {
      "name": "Annie Andrews",
      "party": "Democratic Party (United States)",
-     "votes": 852821,
-     "pct": 51.29,
+     "votes": 904087,
+     "pct": 51.1,
      "party_code": "D"
     },
     {
      "name": "Darline Graham",
      "party": "Republican Party (United States)",
-     "votes": 775519,
-     "pct": 46.64,
+     "votes": 826806,
+     "pct": 46.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T02:35:16Z"
+   "source_revised": "2026-11-04T02:51:14Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -236,20 +236,20 @@
     {
      "name": "Troy Jackson (replacing Graham Platner)",
      "party": "Democratic Party (United States)",
-     "votes": 11210,
-     "pct": 55.6,
+     "votes": 47867,
+     "pct": 50.4,
      "party_code": "D"
     },
     {
      "name": "Susan Collins",
      "party": "Republican Party (United States)",
-     "votes": 14020,
-     "pct": 44.4,
+     "votes": 47262,
+     "pct": 49.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T01:58:21Z"
+   "source_revised": "2026-11-04T02:48:26Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -327,7 +327,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-03T22:14:37Z"
+   "source_revised": "2026-11-04T02:43:13Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -438,7 +438,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-04T02:05:41Z"
+   "source_revised": "2026-11-04T02:45:29Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -477,20 +477,20 @@
     {
      "name": "Jon Ossoff",
      "party": "Democratic Party (United States)",
-     "votes": 959396,
-     "pct": 62.9,
+     "votes": 2047190,
+     "pct": 59.3,
      "party_code": "D"
     },
     {
      "name": "Mike Collins",
      "party": "Republican Party (United States)",
-     "votes": 619144,
-     "pct": 37.1,
+     "votes": 1407313,
+     "pct": 40.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-04T01:51:38Z"
+   "source_revised": "2026-11-04T02:42:26Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -873,28 +873,28 @@
   "Oklahoma|Senate": {
    "state": "Oklahoma",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Kevin Hern",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Kevin Hern",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 441549,
+     "pct": 60.56,
      "party_code": "R"
     },
     {
      "name": "N'Kiyla \"Jasmine\" Thomas",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 262340,
+     "pct": 35.98,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-   "source_revised": "2026-11-03T12:17:38Z"
+   "source_revised": "2026-11-04T02:40:29Z"
   },
   "Oregon|Senate": {
    "state": "Oregon",
@@ -1076,7 +1076,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-04T02:34:53Z"
+   "source_revised": "2026-11-04T02:50:21Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1827,7 +1827,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-03T19:55:48Z"
+   "source_revised": "2026-11-04T02:51:20Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
