@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T14:00:32Z",
+ "updated_utc": "2026-11-04T14:15:31Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T13:41:47Z"
+   "source_revised": "2026-11-04T14:05:17Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T14:00:00Z"
+   "source_revised": "2026-11-04T14:14:44Z"
   }
  },
  "control": {
@@ -98,20 +98,20 @@
     {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 557314,
-     "pct": 51.0,
+     "votes": 556414,
+     "pct": 50.9,
      "party_code": "D"
     },
     {
      "name": "Roger Marshall",
      "party": "Republican Party (United States)",
      "votes": 503230,
-     "pct": 46.0,
+     "pct": 46.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T13:22:32Z"
+   "source_revised": "2026-11-04T14:08:09Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -299,20 +299,20 @@
     {
      "name": "Pete Ricketts",
      "party": "Republican Party (United States)",
-     "votes": 366063,
-     "pct": 50.2,
+     "votes": 368798,
+     "pct": 50.3,
      "party_code": "R"
     },
     {
      "name": "Dan Osborn",
      "party": "Independent politician",
-     "votes": 319285,
-     "pct": 43.8,
+     "votes": 320562,
+     "pct": 43.7,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-04T13:40:01Z"
+   "source_revised": "2026-11-04T14:13:31Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -364,7 +364,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T11:15:21Z"
+   "source_revised": "2026-11-04T14:12:26Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -766,7 +766,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
-   "source_revised": "2026-11-04T10:27:52Z"
+   "source_revised": "2026-11-04T14:14:47Z"
   },
   "Colorado|Senate": {
    "state": "Colorado",
@@ -1092,7 +1092,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T13:58:05Z"
+   "source_revised": "2026-11-04T14:13:13Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1543,7 +1543,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
-   "source_revised": "2026-11-04T12:16:49Z"
+   "source_revised": "2026-11-04T14:12:52Z"
   },
   "New York|Governor": {
    "state": "New York",
@@ -1680,7 +1680,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-   "source_revised": "2026-11-04T13:50:10Z"
+   "source_revised": "2026-11-04T14:07:39Z"
   },
   "Vermont|Governor": {
    "state": "Vermont",
