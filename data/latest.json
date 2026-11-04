@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T06:51:26Z",
+  "updated_utc": "2026-11-04T07:06:29Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -131,7 +131,7 @@
       "type": "prediction_market",
       "url": "https://polymarket.com/",
       "lean": "Nonpartisan / unrated",
-      "house": 99.9,
+      "house": 100.0,
       "senate": 100.0,
       "as_of": "2026-11-04",
       "status": "live",
@@ -206,7 +206,7 @@
         "source": "ForbesPredict"
       },
       "max": {
-        "value": 99.9,
+        "value": 100.0,
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,

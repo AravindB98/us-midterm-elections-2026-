@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T06:51:30Z",
+ "updated_utc": "2026-11-04T07:06:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -24,7 +24,7 @@
      "before": 45
     },
     "R": {
-     "after": 41,
+     "after": 43,
      "before": 53
     },
     "I": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T06:49:31Z"
+   "source_revised": "2026-11-04T06:55:37Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T06:49:28Z"
+   "source_revised": "2026-11-04T06:57:37Z"
   }
  },
  "senate_not_up": {
@@ -79,7 +79,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T06:17:02Z"
+   "source_revised": "2026-11-04T07:05:49Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -171,7 +171,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-04T05:10:10Z"
+   "source_revised": "2026-11-04T07:05:45Z"
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -249,7 +249,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T06:45:30Z"
+   "source_revised": "2026-11-04T06:55:11Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -443,7 +443,7 @@
   "Louisiana|Senate": {
    "state": "Louisiana",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -451,20 +451,20 @@
     {
      "name": "Julia Letlow",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 745963,
+     "pct": 50.9,
      "party_code": "R"
     },
     {
      "name": "Jamie Davis",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 720106,
+     "pct": 49.1,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
-   "source_revised": "2026-11-03T21:21:29Z"
+   "source_revised": "2026-11-04T07:01:17Z"
   },
   "Georgia|Senate": {
    "state": "Georgia",
@@ -1095,7 +1095,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-04T04:20:13Z"
+   "source_revised": "2026-11-04T07:04:02Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1213,7 +1213,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T06:44:30Z"
+   "source_revised": "2026-11-04T07:01:52Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1938,7 +1938,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Arkansas_gubernatorial_election",
-   "source_revised": "2026-11-04T06:43:51Z"
+   "source_revised": "2026-11-04T06:55:38Z"
   },
   "Idaho|Governor": {
    "state": "Idaho",
@@ -1984,20 +1984,27 @@
     {
      "name": "Eric Barlow",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 125427,
+     "pct": 68.44,
      "party_code": "R"
+    },
+    {
+     "name": "Rebecca Bextel",
+     "party": "Constitution Party (United States)",
+     "votes": 30710,
+     "pct": 16.76,
+     "party_code": "O"
     },
     {
      "name": "Kenneth Casner",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 27136,
+     "pct": 14.81,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
-   "source_revised": "2026-11-04T02:31:48Z"
+   "source_revised": "2026-11-04T06:54:05Z"
   }
  }
 }
