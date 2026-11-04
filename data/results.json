@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T07:06:31Z",
+ "updated_utc": "2026-11-04T07:22:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
    "D": 15,
-   "R": 7,
+   "R": 8,
    "I": 0,
-   "uncalled": 13
+   "uncalled": 12
   },
   "Governor": {
    "D": 8,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T06:55:37Z"
+   "source_revised": "2026-11-04T07:14:28Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T06:57:37Z"
+   "source_revised": "2026-11-04T07:21:18Z"
   }
  },
  "senate_not_up": {
@@ -66,20 +66,20 @@
     {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 541771,
-     "pct": 52.1,
+     "votes": 557314,
+     "pct": 51.0,
      "party_code": "D"
     },
     {
      "name": "Roger Marshall",
      "party": "Republican Party (United States)",
-     "votes": 466980,
-     "pct": 44.9,
+     "votes": 503230,
+     "pct": 46.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T07:05:49Z"
+   "source_revised": "2026-11-04T07:12:15Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -373,20 +373,20 @@
     {
      "name": "Peggy Flanagan",
      "party": "Minnesota Democratic\u2013Farmer\u2013Labor Party",
-     "votes": 1205247,
-     "pct": 53.7,
+     "votes": 1506294,
+     "pct": 53.8,
      "party_code": "D"
     },
     {
      "name": "Michele Tafoya",
      "party": "Republican Party (United States)",
-     "votes": 978353,
-     "pct": 43.6,
+     "votes": 1215455,
+     "pct": 43.4,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-04T06:08:25Z"
+   "source_revised": "2026-11-04T07:06:55Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -464,7 +464,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
-   "source_revised": "2026-11-04T07:01:17Z"
+   "source_revised": "2026-11-04T07:06:46Z"
   },
   "Georgia|Senate": {
    "state": "Georgia",
@@ -495,28 +495,28 @@
   "Mississippi|Senate": {
    "state": "Mississippi",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Cindy Hyde-Smith",
-     "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
-    },
-    {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 462779,
+     "pct": 48.9,
      "party_code": "D"
+    },
+    {
+     "name": "Cindy Hyde-Smith",
+     "party": "Republican Party (United States)",
+     "votes": 462751,
+     "pct": 48.9,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T06:02:33Z"
+   "source_revised": "2026-11-04T07:16:42Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -781,28 +781,35 @@
   "Idaho|Senate": {
    "state": "Idaho",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Jim Risch",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Jim Risch",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 317836,
+     "pct": 55.6,
      "party_code": "R"
     },
     {
      "name": "Todd Achilles",
      "party": "Independent politician",
-     "votes": null,
-     "pct": null,
+     "votes": 197950,
+     "pct": 34.6,
+     "party_code": "I"
+    },
+    {
+     "name": "Natalie Fleming",
+     "party": "Independent politician",
+     "votes": 39506,
+     "pct": 6.9,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-   "source_revised": "2026-11-04T03:32:23Z"
+   "source_revised": "2026-11-04T07:07:19Z"
   },
   "Delaware|Senate": {
    "state": "Delaware",
@@ -1546,7 +1553,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
-   "source_revised": "2026-11-04T05:25:03Z"
+   "source_revised": "2026-11-04T07:20:37Z"
   },
   "Colorado|Governor": {
    "state": "Colorado",

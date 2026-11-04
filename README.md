@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-04 07:06 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-04 07:21 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -91,11 +91,11 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 
 **Latest midterm headlines (auto-updated)**
 
-- [Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan](https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZoZnd5TWlac1BNQkoyZGw1UHR6RkphN3J4S3E2bkZXbFN4SFhKcWdGQkhyNXJfblNQWTJkbXBxeHZZSTBoa0RLc18xSnpxX3dJR1FiYm5hdTdER0FWVEJRRGg3T0Nwek41ZmJFX3ZFdUtjeV83T0YzUDVvN3BhZEU3d2hocWx5ZUZQdGx0SEx4Y1hu?oc=5) (The New York Times)
 - [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
-- [What Are the Polls Telling Us About the 2026 Midterm Elections?](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazVILW52bnFRRm9vSWpjMXJsSGhuMDRyZjNrQVRyWTRnMUFYR1I1UE9aa1A2OGhTR2V5eXpVeGRJajhqWkV4azlMX0JlZDd3bGRNZTJXSjZqcUJITjVyY0hsbTN2S2Z3TDU2QUxOOWRwSE5FVUN3dEFuRDJ5di1hM25tOVVMczJNRGdz?oc=5) (Rutgers University)
 - [2026 midterm election results: U.S. Senate, U.S. House, governor’s races](https://news.google.com/rss/articles/CBMihgFBVV95cUxPM2plZEdEVHZRVnJ3bWJNYzFRbmQxS3Eyc0otZlpGNGZramtmcEJlQV9WaDVMSm9PWFhtZW8xcGxwY3FyNHFHOFl3V3VVbUg1akFkclIxVG9VM1MxZktRWkpOTXJKYnpGSkNObEZnU1ZMUF9mZTh1SVZMRGh2Ykpka0NtcmVUZw?oc=5) (WHYY)
-- [These candidates made history in the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1BqeVJLY2hpRG8zSUZlbjlKOGIxNjdJMXhBdHRNWkdqZ1pQQUx3TTA3R2kwSmNGVW5OTVlrQnhZbEU5bVRqazVnWTlUVnRmcDNPWGQyUDM4aDBmcTZ5aFFtLUtUTWt4Z2pTcm1VVnZ0cmhGLXU2TG9KSjhIUlBjWThnZUl3QXB6M1pj?oc=5) (ABC7 Bay Area)
+- [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
+- [US midterm elections 2026: live results from Senate, House and governor races in all 50 states](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXg4ZGtKNUVWaHpvR29nU2ZHQVZkekxsWDQ2SEp5QnFyOHA4amh2eHJSa3h3c2NfcVZ0anVCQjdkUWF1QktGTHBORzZzcHJHNkZBTVJNOTVrLUVhSVVsQjJMLWhVOHdHYlN6TnhvajdVbVhIeEZuOTdhZDY0Rk9fQ0lEQUk0UlEwdTZnb1BGNGtROC1hbV9XeVpQbmlHaGdXVk03Qk1Mb2lQZU5ZOFp2WUc4ckdnbDBYR0xfbWJR?oc=5) (The Guardian)
+- [These candidates made history in the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzh5RExtbDFQQmxfMUNvU0dyM2ozNnpfbmgwSjZXNFVoWE5XV0VIMlQ0c0Z4VC0xbnJHVWI0VlNPT0VObjEzQWlDOU1TYW4zVHZCT2hOZ1dvSk9iTWtvbFJCZHl0TnVpblBUeGQ1OWRyUnVqZmEwcTN4QTczVllyR2s3M2ROZjFh?oc=5) (ABC7 New York)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
