@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T07:51:31Z",
+ "updated_utc": "2026-11-04T08:06:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
    "D": 16,
-   "R": 8,
+   "R": 9,
    "I": 0,
-   "uncalled": 11
+   "uncalled": 10
   },
   "Governor": {
    "D": 8,
@@ -20,7 +20,7 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": 54,
+     "after": 52,
      "before": 45
     },
     "R": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T07:48:13Z"
+   "source_revised": "2026-11-04T07:57:58Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T07:42:02Z"
+   "source_revised": "2026-11-04T08:04:39Z"
   }
  },
  "senate_not_up": {
@@ -327,40 +327,40 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T07:38:35Z"
+   "source_revised": "2026-11-04T07:51:20Z"
   },
   "Montana|Senate": {
    "state": "Montana",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Kurt Alme",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Kurt Alme",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 187961,
+     "pct": 47.7,
      "party_code": "R"
-    },
-    {
-     "name": "Alani Bankhead",
-     "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "D"
     },
     {
      "name": "Seth Bodnar",
      "party": "Independent politician",
-     "votes": null,
-     "pct": null,
+     "votes": 152203,
+     "pct": 38.6,
      "party_code": "I"
+    },
+    {
+     "name": "Alani Bankhead",
+     "party": "Democratic Party (United States)",
+     "votes": 46838,
+     "pct": 11.9,
+     "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-03T20:29:00Z"
+   "source_revised": "2026-11-04T08:05:09Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -504,19 +504,19 @@
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
      "votes": 462779,
-     "pct": 48.9,
+     "pct": 48.95,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
      "votes": 462751,
-     "pct": 48.9,
+     "pct": 48.94,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T07:16:42Z"
+   "source_revised": "2026-11-04T08:00:00Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -881,20 +881,20 @@
     {
      "name": "Kevin Hern",
      "party": "Republican Party (United States)",
-     "votes": 441549,
-     "pct": 60.56,
+     "votes": 628799,
+     "pct": 57.29,
      "party_code": "R"
     },
     {
      "name": "N'Kiyla \"Jasmine\" Thomas",
      "party": "Democratic Party (United States)",
-     "votes": 262340,
-     "pct": 35.98,
+     "votes": 430321,
+     "pct": 39.2,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-   "source_revised": "2026-11-04T02:40:29Z"
+   "source_revised": "2026-11-04T07:55:12Z"
   },
   "Oregon|Senate": {
    "state": "Oregon",
@@ -1558,7 +1558,7 @@
   "Colorado|Governor": {
    "state": "Colorado",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1566,20 +1566,20 @@
     {
      "name": "Phil Weiser",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1295308,
+     "pct": 61.1,
      "party_code": "D"
     },
     {
      "name": "Victor Marx",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 709039,
+     "pct": 33.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
-   "source_revised": "2026-11-04T07:34:35Z"
+   "source_revised": "2026-11-04T07:55:59Z"
   },
   "Connecticut|Governor": {
    "state": "Connecticut",
