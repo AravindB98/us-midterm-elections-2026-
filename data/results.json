@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T05:21:31Z",
+ "updated_utc": "2026-11-04T05:36:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 14,
+   "D": 15,
    "R": 7,
    "I": 0,
-   "uncalled": 14
+   "uncalled": 13
   },
   "Governor": {
    "D": 7,
@@ -20,7 +20,7 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": 52,
+     "after": 50,
      "before": 45
     },
     "R": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T05:20:30Z"
+   "source_revised": "2026-11-04T05:36:18Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T05:21:02Z"
+   "source_revised": "2026-11-04T05:33:14Z"
   }
  },
  "senate_not_up": {
@@ -79,7 +79,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T05:03:49Z"
+   "source_revised": "2026-11-04T05:27:56Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -228,9 +228,9 @@
   "Maine|Senate": {
    "state": "Maine",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Troy Jackson",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -249,7 +249,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T05:08:50Z"
+   "source_revised": "2026-11-04T05:35:58Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -260,22 +260,22 @@
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Dan Osborn",
-     "party": "Independent politician",
-     "votes": 161540,
-     "pct": 54.1,
-     "party_code": "I"
-    },
-    {
      "name": "Pete Ricketts",
      "party": "Republican Party (United States)",
-     "votes": 121668,
-     "pct": 40.7,
+     "votes": 234151,
+     "pct": 48.0,
      "party_code": "R"
+    },
+    {
+     "name": "Dan Osborn",
+     "party": "Independent politician",
+     "votes": 225160,
+     "pct": 46.2,
+     "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-04T02:55:13Z"
+   "source_revised": "2026-11-04T05:23:14Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -314,20 +314,20 @@
     {
      "name": "Abdul El-Sayed",
      "party": "Democratic Party (United States)",
-     "votes": 618789,
-     "pct": 53.6,
+     "votes": 1481936,
+     "pct": 50.8,
      "party_code": "D"
     },
     {
      "name": "Mike Rogers",
      "party": "Republican Party (United States)",
-     "votes": 515436,
-     "pct": 44.7,
+     "votes": 1377524,
+     "pct": 47.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T03:29:35Z"
+   "source_revised": "2026-11-04T05:34:09Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -373,20 +373,20 @@
     {
      "name": "Peggy Flanagan",
      "party": "Minnesota Democratic\u2013Farmer\u2013Labor Party",
-     "votes": 567348,
-     "pct": 45.57,
+     "votes": 1205247,
+     "pct": 53.7,
      "party_code": "D"
     },
     {
      "name": "Michele Tafoya",
      "party": "Republican Party (United States)",
-     "votes": 641283,
-     "pct": 51.51,
+     "votes": 978353,
+     "pct": 43.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-04T05:09:15Z"
+   "source_revised": "2026-11-04T05:29:25Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -412,7 +412,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T04:41:28Z"
+   "source_revised": "2026-11-04T05:30:06Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -562,20 +562,20 @@
     {
      "name": "Andy Barr",
      "party": "Republican Party (United States)",
-     "votes": 639881,
-     "pct": 53.8,
+     "votes": 784000,
+     "pct": 54.98,
      "party_code": "R"
     },
     {
      "name": "Charles Booker",
      "party": "Democratic Party (United States)",
-     "votes": 524079,
-     "pct": 44.1,
+     "votes": 611987,
+     "pct": 42.92,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-   "source_revised": "2026-11-04T02:25:43Z"
+   "source_revised": "2026-11-04T05:28:28Z"
   },
   "South Dakota|Senate": {
    "state": "South Dakota",
@@ -1076,7 +1076,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-04T04:56:28Z"
+   "source_revised": "2026-11-04T05:27:42Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1553,7 +1553,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
-   "source_revised": "2026-11-04T01:41:47Z"
+   "source_revised": "2026-11-04T05:25:03Z"
   },
   "Colorado|Governor": {
    "state": "Colorado",
@@ -1945,7 +1945,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Arkansas_gubernatorial_election",
-   "source_revised": "2026-11-04T05:18:49Z"
+   "source_revised": "2026-11-04T05:22:53Z"
   },
   "Idaho|Governor": {
    "state": "Idaho",
