@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T10:08:08Z",
+ "updated_utc": "2026-11-04T10:23:09Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -10,10 +10,10 @@
    "uncalled": 10
   },
   "Governor": {
-   "D": 8,
+   "D": 9,
    "R": 7,
    "I": 0,
-   "uncalled": 21
+   "uncalled": 20
   }
  },
  "chambers": {
@@ -28,12 +28,12 @@
      "before": 53
     },
     "I": {
-     "after": null,
+     "after": 2,
      "before": 2
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T10:05:53Z"
+   "source_revised": "2026-11-04T10:17:56Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T10:06:23Z"
+   "source_revised": "2026-11-04T10:16:44Z"
   }
  },
  "senate_not_up": {
@@ -171,7 +171,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-04T07:05:45Z"
+   "source_revised": "2026-11-04T10:11:13Z"
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -184,20 +184,20 @@
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 5125580,
+     "votes": 5256956,
      "pct": 54.9,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 4040298,
-     "pct": 43.3,
+     "votes": 4137612,
+     "pct": 43.21,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T07:46:28Z"
+   "source_revised": "2026-11-04T10:17:23Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -236,20 +236,20 @@
     {
      "name": "Troy Jackson (replacing Graham Platner)",
      "party": "Democratic Party (United States)",
-     "votes": 275827,
-     "pct": 52.4,
+     "votes": 340972,
+     "pct": 53.8,
      "party_code": "D"
     },
     {
      "name": "Susan Collins",
      "party": "Republican Party (United States)",
-     "votes": 249814,
-     "pct": 47.5,
+     "votes": 292570,
+     "pct": 46.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T07:38:49Z"
+   "source_revised": "2026-11-04T10:08:15Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -288,20 +288,20 @@
     {
      "name": "Ashley Moody",
      "party": "Republican Party (United States)",
-     "votes": 4207173,
-     "pct": 50.9,
+     "votes": 4207774,
+     "pct": 50.87,
      "party_code": "R"
     },
     {
      "name": "Angie Nixon",
      "party": "Democratic Party (United States)",
-     "votes": 396767,
-     "pct": 48.0,
+     "votes": 3968811,
+     "pct": 47.98,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-   "source_revised": "2026-11-04T05:50:16Z"
+   "source_revised": "2026-11-04T10:20:18Z"
   },
   "Michigan|Senate": {
    "state": "Michigan",
@@ -425,20 +425,20 @@
     {
      "name": "Chris Pappas",
      "party": "Democratic Party (United States)",
-     "votes": 123682,
-     "pct": 59.1,
+     "votes": 331447,
+     "pct": 56.2,
      "party_code": "D"
     },
     {
      "name": "John E. Sununu",
      "party": "Republican Party (United States)",
-     "votes": 87604,
-     "pct": 39.6,
+     "votes": 247329,
+     "pct": 41.9,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-04T05:09:40Z"
+   "source_revised": "2026-11-04T10:10:46Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -651,7 +651,7 @@
   "New Jersey|Senate": {
    "state": "New Jersey",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -659,20 +659,20 @@
     {
      "name": "Cory Booker",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1754917,
+     "pct": 62.3,
      "party_code": "D"
     },
     {
      "name": "Justin Murphy",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 988046,
+     "pct": 35.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
-   "source_revised": "2026-11-03T12:38:12Z"
+   "source_revised": "2026-11-04T10:21:15Z"
   },
   "New Mexico|Senate": {
    "state": "New Mexico",
@@ -848,15 +848,15 @@
     {
      "name": "Ed Markey",
      "party": "Democratic Party (United States)",
-     "votes": 270896,
-     "pct": 68.4,
+     "votes": 1384546,
+     "pct": 63.8,
      "party_code": "D"
     },
     {
      "name": "John Deaton",
      "party": "Republican Party (United States)",
-     "votes": 105431,
-     "pct": 26.6,
+     "votes": 687377,
+     "pct": 31.7,
      "party_code": "R"
     },
     {
@@ -868,7 +868,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-04T04:35:04Z"
+   "source_revised": "2026-11-04T10:13:48Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
@@ -925,7 +925,7 @@
   "Rhode Island|Senate": {
    "state": "Rhode Island",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -933,20 +933,20 @@
     {
      "name": "Jack Reed",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 236408,
+     "pct": 66.6,
      "party_code": "D"
     },
     {
      "name": "Raymond McKay",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 104649,
+     "pct": 29.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
-   "source_revised": "2026-11-03T21:58:45Z"
+   "source_revised": "2026-11-04T10:18:36Z"
   },
   "West Virginia|Senate": {
    "state": "West Virginia",
@@ -998,33 +998,33 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
-   "source_revised": "2026-11-04T09:49:49Z"
+   "source_revised": "2026-11-04T10:09:54Z"
   },
   "Nevada|Governor": {
    "state": "Nevada",
    "office": "Governor",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Aaron Ford",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Joe Lombardo",
-     "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
-    },
-    {
      "name": "Aaron Ford",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 491891,
+     "pct": 51.52,
      "party_code": "D"
+    },
+    {
+     "name": "Joe Lombardo",
+     "party": "Republican Party (United States)",
+     "votes": 423205,
+     "pct": 44.33,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
-   "source_revised": "2026-11-03T20:47:22Z"
+   "source_revised": "2026-11-04T10:17:51Z"
   },
   "Ohio|Governor": {
    "state": "Ohio",
@@ -1128,7 +1128,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-04T07:26:45Z"
+   "source_revised": "2026-11-04T10:22:32Z"
   },
   "Alaska|Governor": {
    "state": "Alaska",
@@ -1689,20 +1689,20 @@
     {
      "name": "Mike Mazzei",
      "party": "Republican Party (United States)",
-     "votes": 572716,
+     "votes": 572738,
      "pct": 51.99,
      "party_code": "R"
     },
     {
      "name": "Cyndi Munson",
      "party": "Democratic Party (United States)",
-     "votes": 505188,
+     "votes": 505249,
      "pct": 45.86,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
-   "source_revised": "2026-11-04T08:13:50Z"
+   "source_revised": "2026-11-04T10:18:44Z"
   },
   "Rhode Island|Governor": {
    "state": "Rhode Island",
