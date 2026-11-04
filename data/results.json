@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T18:30:31Z",
+ "updated_utc": "2026-11-04T18:44:31Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T18:30:06Z"
+   "source_revised": "2026-11-04T18:42:04Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T18:21:24Z"
+   "source_revised": "2026-11-04T18:40:26Z"
   }
  },
  "control": {
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T18:27:36Z"
+   "source_revised": "2026-11-04T18:33:56Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -533,20 +533,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 466351,
+     "votes": 462857,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 464487,
-     "pct": 48.9,
+     "votes": 462792,
+     "pct": 48.94,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T18:19:16Z",
+   "source_revised": "2026-11-04T18:34:35Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -629,7 +629,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
-   "source_revised": "2026-11-04T16:04:12Z"
+   "source_revised": "2026-11-04T18:33:11Z"
   },
   "Arkansas|Senate": {
    "state": "Arkansas",
@@ -1033,7 +1033,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
-   "source_revised": "2026-11-04T10:09:54Z"
+   "source_revised": "2026-11-04T18:35:10Z"
   },
   "Nevada|Governor": {
    "state": "Nevada",
@@ -1725,7 +1725,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
-   "source_revised": "2026-11-04T14:57:05Z"
+   "source_revised": "2026-11-04T18:33:30Z"
   },
   "Oklahoma|Governor": {
    "state": "Oklahoma",
@@ -2043,7 +2043,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
-   "source_revised": "2026-11-04T12:43:05Z"
+   "source_revised": "2026-11-04T18:32:31Z"
   }
  }
 }
