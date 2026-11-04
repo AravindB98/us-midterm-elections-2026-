@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T12:23:09Z",
+ "updated_utc": "2026-11-04T12:38:09Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T11:41:27Z"
+   "source_revised": "2026-11-04T12:32:16Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T12:22:41Z"
+   "source_revised": "2026-11-04T12:37:59Z"
   }
  },
  "senate_not_up": {
@@ -223,7 +223,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T10:37:30Z"
+   "source_revised": "2026-11-04T12:27:52Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -412,7 +412,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T12:21:56Z"
+   "source_revised": "2026-11-04T12:28:36Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -1024,7 +1024,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
-   "source_revised": "2026-11-04T11:45:24Z"
+   "source_revised": "2026-11-04T12:25:10Z"
   },
   "Ohio|Governor": {
    "state": "Ohio",
@@ -1128,7 +1128,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-04T10:23:13Z"
+   "source_revised": "2026-11-04T12:28:44Z"
   },
   "Alaska|Governor": {
    "state": "Alaska",
@@ -1285,20 +1285,20 @@
     {
      "name": "Alan Wilson",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1050190,
+     "pct": 51.6,
      "party_code": "R"
     },
     {
      "name": "Jermaine Johnson",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 959001,
+     "pct": 47.1,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
-   "source_revised": "2026-11-04T05:41:18Z"
+   "source_revised": "2026-11-04T12:23:12Z"
   },
   "Arizona|Governor": {
    "state": "Arizona",
@@ -1355,7 +1355,7 @@
   "Nebraska|Governor": {
    "state": "Nebraska",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1363,20 +1363,20 @@
     {
      "name": "Jim Pillen",
      "party": "Republican",
-     "votes": null,
-     "pct": null,
+     "votes": 371775,
+     "pct": 50.6,
      "party_code": "R"
     },
     {
      "name": "Lynne Walz",
      "party": "Democratic",
-     "votes": null,
-     "pct": null,
+     "votes": 310774,
+     "pct": 42.3,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
-   "source_revised": "2026-11-04T09:05:39Z"
+   "source_revised": "2026-11-04T12:32:09Z"
   },
   "Oregon|Governor": {
    "state": "Oregon",
@@ -1539,7 +1539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
-   "source_revised": "2026-11-04T10:47:25Z"
+   "source_revised": "2026-11-04T12:25:03Z"
   },
   "Colorado|Governor": {
    "state": "Colorado",
@@ -1766,7 +1766,7 @@
   "South Dakota|Governor": {
    "state": "South Dakota",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1774,20 +1774,20 @@
     {
      "name": "Larry Rhoden",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 193317,
+     "pct": 63.5,
      "party_code": "R"
     },
     {
      "name": "Dan Ahlers",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 111131,
+     "pct": 36.5,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_South_Dakota_gubernatorial_election",
-   "source_revised": "2026-11-03T16:04:00Z"
+   "source_revised": "2026-11-04T12:34:38Z"
   },
   "California|Governor": {
    "state": "California",
@@ -1839,7 +1839,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
-   "source_revised": "2026-11-04T11:49:04Z"
+   "source_revised": "2026-11-04T12:35:26Z"
   },
   "Maryland|Governor": {
    "state": "Maryland",
