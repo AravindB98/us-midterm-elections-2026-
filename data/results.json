@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T20:45:03Z",
+ "updated_utc": "2026-11-04T21:01:03Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T20:39:14Z"
+   "source_revised": "2026-11-04T20:59:32Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T20:39:58Z"
+   "source_revised": "2026-11-04T20:57:02Z"
   }
  },
  "control": {
@@ -98,7 +98,7 @@
     {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 556476,
+     "votes": 556477,
      "pct": 50.9,
      "party_code": "D"
     },
@@ -111,7 +111,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T19:05:13Z"
+   "source_revised": "2026-11-04T20:55:30Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T20:29:21Z"
+   "source_revised": "2026-11-04T20:56:20Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -318,20 +318,20 @@
     {
      "name": "Ashley Moody",
      "party": "Republican Party (United States)",
-     "votes": 4207947,
+     "votes": 4208022,
      "pct": 50.9,
      "party_code": "R"
     },
     {
      "name": "Angie Nixon",
      "party": "Democratic Party (United States)",
-     "votes": 3969186,
+     "votes": 3969303,
      "pct": 48.0,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-   "source_revised": "2026-11-04T16:35:34Z"
+   "source_revised": "2026-11-04T20:51:44Z"
   },
   "Michigan|Senate": {
    "state": "Michigan",
@@ -442,7 +442,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T20:42:04Z"
+   "source_revised": "2026-11-04T20:50:05Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -507,20 +507,20 @@
     {
      "name": "Jon Ossoff",
      "party": "Democratic Party (United States)",
-     "votes": 2463132,
+     "votes": 2466207,
      "pct": 59.0,
      "party_code": "D"
     },
     {
      "name": "Mike Collins",
      "party": "Republican Party (United States)",
-     "votes": 1711322,
+     "votes": 1711747,
      "pct": 41.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-04T15:07:21Z"
+   "source_revised": "2026-11-04T20:53:54Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T20:29:36Z",
+   "source_revised": "2026-11-04T20:53:01Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -571,13 +571,13 @@
     {
      "name": "Everett Wess",
      "party": "Democratic Party (United States)",
-     "votes": 759335,
+     "votes": 759336,
      "pct": 45.3,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
-   "source_revised": "2026-11-04T13:18:55Z"
+   "source_revised": "2026-11-04T20:48:18Z"
   },
   "Kentucky|Senate": {
    "state": "Kentucky",
@@ -642,20 +642,20 @@
     {
      "name": "Tom Cotton",
      "party": "Republican Party (United States)",
-     "votes": 480526,
+     "votes": 480576,
      "pct": 54.3,
      "party_code": "R"
     },
     {
      "name": "Hallie Shoffner",
      "party": "Democratic Party (United States)",
-     "votes": 375596,
+     "votes": 375620,
      "pct": 42.4,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
-   "source_revised": "2026-11-04T18:59:02Z"
+   "source_revised": "2026-11-04T20:49:58Z"
   },
   "Illinois|Senate": {
    "state": "Illinois",
@@ -1447,7 +1447,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-04T19:20:12Z"
+   "source_revised": "2026-11-04T20:45:48Z"
   },
   "Maine|Governor": {
    "state": "Maine",
