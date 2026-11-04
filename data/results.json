@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T23:16:04Z",
+ "updated_utc": "2026-11-04T23:31:04Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T23:11:54Z"
+   "source_revised": "2026-11-04T23:30:37Z"
   }
  },
  "control": {
@@ -442,7 +442,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T21:43:02Z"
+   "source_revised": "2026-11-04T23:19:25Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -533,20 +533,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 462857,
+     "votes": 463379,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 462792,
-     "pct": 48.94,
+     "votes": 462954,
+     "pct": 48.89,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T23:15:00Z",
+   "source_revised": "2026-11-04T23:30:45Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1265,7 +1265,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T23:02:18Z"
+   "source_revised": "2026-11-04T23:22:28Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1343,7 +1343,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
-   "source_revised": "2026-11-04T12:23:12Z"
+   "source_revised": "2026-11-04T23:25:37Z"
   },
   "Arizona|Governor": {
    "state": "Arizona",
