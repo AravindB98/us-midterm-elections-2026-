@@ -1,30 +1,30 @@
 {
- "updated_utc": "2026-11-04T04:21:31Z",
+ "updated_utc": "2026-11-04T04:37:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 11,
-   "R": 5,
+   "D": 13,
+   "R": 6,
    "I": 0,
-   "uncalled": 19
+   "uncalled": 16
   },
   "Governor": {
-   "D": 5,
+   "D": 7,
    "R": 2,
    "I": 0,
-   "uncalled": 29
+   "uncalled": 27
   }
  },
  "chambers": {
   "Senate": {
    "parties": {
     "R": {
-     "after": 37,
+     "after": 39,
      "before": 53
     },
     "D": {
-     "after": 49,
+     "after": 50,
      "before": 45
     },
     "I": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T04:18:13Z"
+   "source_revised": "2026-11-04T04:37:09Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T04:20:57Z"
+   "source_revised": "2026-11-04T04:36:10Z"
   }
  },
  "senate_not_up": {
@@ -79,29 +79,29 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T04:19:40Z"
+   "source_revised": "2026-11-04T04:36:00Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Josh Turek",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Ashley Hinson",
-     "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
+     "name": "Josh Turek",
+     "party": "Democratic",
+     "votes": 635000,
+     "pct": 50.9,
+     "party_code": "D"
     },
     {
-     "name": "Josh Turek",
-     "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "D"
+     "name": "Ashley Hinson",
+     "party": "Republican Party (United States)",
+     "votes": 573706,
+     "pct": 46.03,
+     "party_code": "R"
     },
     {
      "name": "Thomas Laehn",
@@ -112,7 +112,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
-   "source_revised": "2026-11-03T20:39:30Z"
+   "source_revised": "2026-11-04T04:29:06Z"
   },
   "Ohio|Senate": {
    "state": "Ohio",
@@ -138,7 +138,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T04:08:00Z"
+   "source_revised": "2026-11-04T04:28:17Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -412,7 +412,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T03:42:04Z"
+   "source_revised": "2026-11-04T04:26:22Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -528,28 +528,28 @@
   "Alabama|Senate": {
    "state": "Alabama",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Barry Moore",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Barry Moore",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 848575,
+     "pct": 55.8,
      "party_code": "R"
     },
     {
      "name": "Everett Wess",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 671290,
+     "pct": 44.2,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
-   "source_revised": "2026-11-03T19:29:22Z"
+   "source_revised": "2026-11-04T04:31:27Z"
   },
   "Kentucky|Senate": {
    "state": "Kentucky",
@@ -840,9 +840,9 @@
   "Massachusetts|Senate": {
    "state": "Massachusetts",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Ed Markey",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -868,7 +868,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-04T02:56:01Z"
+   "source_revised": "2026-11-04T04:35:04Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
@@ -1173,36 +1173,36 @@
   "Iowa|Governor": {
    "state": "Iowa",
    "office": "Governor",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Rob Sand",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Zach Lahn",
-     "party": "Republican Party of Iowa",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
-    },
-    {
      "name": "Rob Sand",
      "party": "Iowa Democratic Party",
-     "votes": null,
-     "pct": null,
+     "votes": 654266,
+     "pct": 57.28,
      "party_code": "D"
+    },
+    {
+     "name": "Zach Lahn",
+     "party": "Republican Party of Iowa",
+     "votes": 488067,
+     "pct": 42.72,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-03T21:13:27Z"
+   "source_revised": "2026-11-04T04:30:32Z"
   },
   "Texas|Governor": {
    "state": "Texas",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
-   "pending_winner": "Gina Hinojosa",
+   "status": "called",
+   "winner": "Gina Hinojosa",
+   "winner_party": "D",
+   "pending_winner": null,
    "candidates": [
     {
      "name": "Gina Hinojosa",
@@ -1220,7 +1220,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T04:20:49Z"
+   "source_revised": "2026-11-04T04:26:05Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1416,7 +1416,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-04T04:18:41Z"
+   "source_revised": "2026-11-04T04:23:39Z"
   },
   "Maine|Governor": {
    "state": "Maine",
@@ -1690,7 +1690,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
-   "source_revised": "2026-11-04T04:00:44Z"
+   "source_revised": "2026-11-04T04:26:48Z"
   },
   "Oklahoma|Governor": {
    "state": "Oklahoma",
@@ -1806,7 +1806,7 @@
   "California|Governor": {
    "state": "California",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1814,20 +1814,20 @@
     {
      "name": "Xavier Becerra",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 2937418,
+     "pct": 63.84,
      "party_code": "D"
     },
     {
      "name": "Steve Hilton",
      "party": "Republican",
-     "votes": null,
-     "pct": null,
+     "votes": 1663910,
+     "pct": 36.16,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-04T03:59:17Z"
+   "source_revised": "2026-11-04T04:30:49Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
