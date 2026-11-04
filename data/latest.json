@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T01:36:01Z",
+  "updated_utc": "2026-11-04T01:51:04Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -131,8 +131,8 @@
       "type": "prediction_market",
       "url": "https://polymarket.com/",
       "lean": "Nonpartisan / unrated",
-      "house": 99.4,
-      "senate": 98.0,
+      "house": 99.7,
+      "senate": 98.7,
       "as_of": "2026-11-04",
       "status": "live",
       "note": "Crypto-based global market; user base often described as right-leaning."
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 92.2,
     "house_n": 9,
-    "senate_dem": 78.5,
+    "senate_dem": 78.6,
     "senate_n": 9
   },
   "senate_projection": {
@@ -206,14 +206,14 @@
         "source": "ForbesPredict"
       },
       "max": {
-        "value": 99.4,
+        "value": 99.7,
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 5.6,
+      "stdev": 5.7,
       "by_type": {
         "forecast_model": 89.8,
-        "prediction_market": 96.8,
+        "prediction_market": 96.9,
         "crowd_forecast": 90.5
       },
       "sources": [
@@ -229,7 +229,7 @@
       ]
     },
     "senate": {
-      "value": 78.5,
+      "value": 78.6,
       "median": 78.0,
       "n": 9,
       "min": {
@@ -237,14 +237,14 @@
         "source": "VoteHub"
       },
       "max": {
-        "value": 98.0,
+        "value": 98.7,
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 13.1,
+      "stdev": 13.2,
       "by_type": {
         "forecast_model": 69.5,
-        "prediction_market": 89.7,
+        "prediction_market": 89.9,
         "crowd_forecast": 90.0
       },
       "sources": [
@@ -260,8 +260,8 @@
       ]
     },
     "conclusion": [
-      "House: Democrats strongly favored (weighted average 92% Democratic across 9 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 99% (Polymarket).",
-      "Senate: Democrats favored (weighted average 78% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 98% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
+      "House: Democrats strongly favored (weighted average 92% Democratic across 9 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 100% (Polymarket).",
+      "Senate: Democrats favored (weighted average 79% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 99% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
   }
