@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T03:06:31Z",
+ "updated_utc": "2026-11-04T03:21:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 7,
+   "D": 8,
    "R": 5,
    "I": 0,
-   "uncalled": 23
+   "uncalled": 22
   },
   "Governor": {
    "D": 4,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T03:04:36Z"
+   "source_revised": "2026-11-04T03:18:54Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T03:03:39Z"
+   "source_revised": "2026-11-04T03:20:32Z"
   }
  },
  "senate_not_up": {
@@ -125,20 +125,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 1567192,
-     "pct": 48.66,
+     "votes": 1693605,
+     "pct": 48.09,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 1502407,
-     "pct": 46.65,
+     "votes": 1659985,
+     "pct": 47.14,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T02:52:47Z"
+   "source_revised": "2026-11-04T03:17:33Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -210,20 +210,20 @@
     {
      "name": "Annie Andrews",
      "party": "Democratic Party (United States)",
-     "votes": 918263,
+     "votes": 925013,
      "pct": 51.0,
      "party_code": "D"
     },
     {
      "name": "Darline Graham",
      "party": "Republican Party (United States)",
-     "votes": 842906,
-     "pct": 46.8,
+     "votes": 850123,
+     "pct": 46.9,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T03:03:19Z"
+   "source_revised": "2026-11-04T03:18:06Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -412,7 +412,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T02:56:57Z"
+   "source_revised": "2026-11-04T03:13:32Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -632,28 +632,28 @@
   "Illinois|Senate": {
    "state": "Illinois",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Juliana Stratton",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Juliana Stratton",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1475672,
+     "pct": 63.2,
      "party_code": "D"
     },
     {
      "name": "Don Tracy",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 826140,
+     "pct": 35.4,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
-   "source_revised": "2026-11-03T20:50:36Z"
+   "source_revised": "2026-11-04T03:09:10Z"
   },
   "New Jersey|Senate": {
    "state": "New Jersey",
@@ -1076,7 +1076,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-04T03:05:25Z"
+   "source_revised": "2026-11-04T03:15:43Z"
   },
   "Florida|Governor": {
    "state": "Florida",
