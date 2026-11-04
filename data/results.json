@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T12:38:09Z",
+ "updated_utc": "2026-11-04T12:53:09Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T12:32:16Z"
+   "source_revised": "2026-11-04T12:51:00Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T12:37:59Z"
+   "source_revised": "2026-11-04T12:52:48Z"
   }
  },
  "senate_not_up": {
@@ -1440,7 +1440,7 @@
   "New Mexico|Governor": {
    "state": "New Mexico",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1448,20 +1448,20 @@
     {
      "name": "Deb Haaland",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 412834,
+     "pct": 57.2,
      "party_code": "D"
     },
     {
      "name": "Gregg Hull",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 308315,
+     "pct": 42.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
-   "source_revised": "2026-11-03T16:01:39Z"
+   "source_revised": "2026-11-04T12:38:31Z"
   },
   "Minnesota|Governor": {
    "state": "Minnesota",
@@ -1552,20 +1552,20 @@
     {
      "name": "Phil Weiser",
      "party": "Democratic Party (United States)",
-     "votes": 1295308,
-     "pct": 61.1,
+     "votes": 1319726,
+     "pct": 60.9,
      "party_code": "D"
     },
     {
      "name": "Victor Marx",
      "party": "Republican Party (United States)",
-     "votes": 709039,
-     "pct": 33.5,
+     "votes": 728640,
+     "pct": 33.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
-   "source_revised": "2026-11-04T07:55:59Z"
+   "source_revised": "2026-11-04T12:41:01Z"
   },
   "Connecticut|Governor": {
    "state": "Connecticut",
@@ -1735,7 +1735,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
-   "source_revised": "2026-11-04T11:51:15Z"
+   "source_revised": "2026-11-04T12:49:20Z"
   },
   "Pennsylvania|Governor": {
    "state": "Pennsylvania",
@@ -1813,7 +1813,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-04T11:05:20Z"
+   "source_revised": "2026-11-04T12:51:23Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
@@ -1929,7 +1929,7 @@
   "Idaho|Governor": {
    "state": "Idaho",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1937,27 +1937,27 @@
     {
      "name": "Brad Little",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 388272,
+     "pct": 57.2,
      "party_code": "R"
     },
     {
      "name": "Terri Pickens",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 218597,
+     "pct": 32.2,
      "party_code": "D"
     },
     {
      "name": "John Stegner",
      "party": "Independent",
-     "votes": null,
-     "pct": null,
+     "votes": 51717,
+     "pct": 7.6,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election",
-   "source_revised": "2026-11-03T20:47:28Z"
+   "source_revised": "2026-11-04T12:46:45Z"
   },
   "Wyoming|Governor": {
    "state": "Wyoming",
@@ -1970,27 +1970,27 @@
     {
      "name": "Eric Barlow",
      "party": "Republican Party (United States)",
-     "votes": 125427,
-     "pct": 68.44,
+     "votes": 128480,
+     "pct": 68.6,
      "party_code": "R"
     },
     {
      "name": "Rebecca Bextel",
      "party": "Constitution Party (United States)",
-     "votes": 30710,
-     "pct": 16.76,
+     "votes": 31430,
+     "pct": 16.8,
      "party_code": "O"
     },
     {
      "name": "Kenneth Casner",
      "party": "Democratic Party (United States)",
-     "votes": 27136,
-     "pct": 14.81,
+     "votes": 27469,
+     "pct": 14.7,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
-   "source_revised": "2026-11-04T09:59:28Z"
+   "source_revised": "2026-11-04T12:43:05Z"
   }
  }
 }
