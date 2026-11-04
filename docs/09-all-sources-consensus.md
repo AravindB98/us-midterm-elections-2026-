@@ -33,7 +33,7 @@
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 91.0% | 76.0% | 2026-11-04 | live | yes |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | Nonpartisan / unrated | 94.1% | 75.0% | 2026-11-04 | live | yes |
 | [Polymarket](https://polymarket.com/) | Prediction markets | Nonpartisan / unrated | 100.0% | 100.0% | 2026-11-04 | stale | yes |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 99.0% | 98.0% | 2026-11-04 | live | yes |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 99.0% | 99.0% | 2026-11-04 | live | yes |
 
 ## Every source, by type
 
