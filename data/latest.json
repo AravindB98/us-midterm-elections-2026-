@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T04:06:33Z",
+  "updated_utc": "2026-11-04T04:21:27Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -144,7 +144,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "senate": 99.0,
-      "house": 98.0,
+      "house": 99.0,
       "as_of": "2026-11-04"
     },
     "manifold": {
@@ -154,7 +154,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "house": 98.7,
-      "senate": 95.3,
+      "senate": 95.1,
       "as_of": "2026-11-04"
     },
     "metaculus": {
@@ -177,7 +177,7 @@
     }
   },
   "ensemble": {
-    "house_dem": 92.4,
+    "house_dem": 92.5,
     "house_n": 9,
     "senate_dem": 79.0,
     "senate_n": 9
@@ -198,7 +198,7 @@
   "disclaimer": "This is only a collection of publicly available resources and forecasts. The creator is neutral and does not support any political party, candidate or ideology.",
   "consensus": {
     "house": {
-      "value": 92.4,
+      "value": 92.5,
       "median": 94.1,
       "n": 9,
       "min": {
@@ -210,10 +210,10 @@
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 5.9,
+      "stdev": 6.0,
       "by_type": {
         "forecast_model": 89.8,
-        "prediction_market": 97.3,
+        "prediction_market": 97.7,
         "crowd_forecast": 90.8
       },
       "sources": [
@@ -245,7 +245,7 @@
       "by_type": {
         "forecast_model": 69.5,
         "prediction_market": 91.3,
-        "crowd_forecast": 89.7
+        "crowd_forecast": 89.5
       },
       "sources": [
         "ddhq",

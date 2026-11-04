@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T04:07:31Z",
+ "updated_utc": "2026-11-04T04:21:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 10,
+   "D": 11,
    "R": 5,
    "I": 0,
-   "uncalled": 20
+   "uncalled": 19
   },
   "Governor": {
    "D": 5,
@@ -20,11 +20,11 @@
   "Senate": {
    "parties": {
     "R": {
-     "after": null,
+     "after": 37,
      "before": 53
     },
     "D": {
-     "after": null,
+     "after": 49,
      "before": 45
     },
     "I": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T04:06:48Z"
+   "source_revised": "2026-11-04T04:18:13Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T04:05:33Z"
+   "source_revised": "2026-11-04T04:20:57Z"
   }
  },
  "senate_not_up": {
@@ -58,28 +58,28 @@
   "Kansas|Senate": {
    "state": "Kansas",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Adam Hamilton",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 466434,
-     "pct": 54.7,
+     "votes": 541771,
+     "pct": 52.1,
      "party_code": "D"
     },
     {
      "name": "Roger Marshall",
      "party": "Republican Party (United States)",
-     "votes": 363014,
-     "pct": 42.5,
+     "votes": 466980,
+     "pct": 44.9,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T04:04:52Z"
+   "source_revised": "2026-11-04T04:19:40Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -125,20 +125,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 1950220,
-     "pct": 48.45,
+     "votes": 1996306,
+     "pct": 48.54,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 1879888,
-     "pct": 46.7,
+     "votes": 1916219,
+     "pct": 46.59,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T04:02:52Z"
+   "source_revised": "2026-11-04T04:08:00Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -197,7 +197,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T04:03:52Z"
+   "source_revised": "2026-11-04T04:17:29Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -223,7 +223,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T03:46:16Z"
+   "source_revised": "2026-11-04T04:20:59Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -640,20 +640,20 @@
     {
      "name": "Juliana Stratton",
      "party": "Democratic Party (United States)",
-     "votes": 1475672,
-     "pct": 63.2,
+     "votes": 2076017,
+     "pct": 61.2,
      "party_code": "D"
     },
     {
      "name": "Don Tracy",
      "party": "Republican Party (United States)",
-     "votes": 826140,
-     "pct": 35.4,
+     "votes": 1260874,
+     "pct": 37.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
-   "source_revised": "2026-11-04T03:09:10Z"
+   "source_revised": "2026-11-04T04:21:02Z"
   },
   "New Jersey|Senate": {
    "state": "New Jersey",
@@ -1102,7 +1102,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-04T02:29:39Z"
+   "source_revised": "2026-11-04T04:20:13Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1202,25 +1202,25 @@
    "status": "counting",
    "winner": null,
    "winner_party": null,
-   "pending_winner": null,
+   "pending_winner": "Gina Hinojosa",
    "candidates": [
     {
      "name": "Gina Hinojosa",
      "party": "Texas Democratic Party",
-     "votes": 4250934,
-     "pct": 54.0,
+     "votes": 3959786,
+     "pct": 57.4,
      "party_code": "D"
     },
     {
      "name": "Greg Abbott",
      "party": "Republican Party of Texas",
-     "votes": 3520645,
-     "pct": 44.7,
+     "votes": 2853887,
+     "pct": 41.4,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T04:07:18Z"
+   "source_revised": "2026-11-04T04:20:49Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1395,7 +1395,7 @@
   "Oregon|Governor": {
    "state": "Oregon",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1403,20 +1403,20 @@
     {
      "name": "Tina Kotek",
      "party": "Democratic Party of Oregon",
-     "votes": null,
-     "pct": null,
+     "votes": 393859,
+     "pct": 55.94,
      "party_code": "D"
     },
     {
      "name": "Christine Drazan",
      "party": "Oregon Republican Party",
-     "votes": null,
-     "pct": null,
+     "votes": 292026,
+     "pct": 41.48,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-04T03:55:15Z"
+   "source_revised": "2026-11-04T04:18:41Z"
   },
   "Maine|Governor": {
    "state": "Maine",
