@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T09:37:58Z",
+ "updated_utc": "2026-11-04T09:53:09Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T09:27:52Z"
+   "source_revised": "2026-11-04T09:51:03Z"
   }
  },
  "senate_not_up": {
@@ -789,27 +789,27 @@
     {
      "name": "Jim Risch",
      "party": "Republican Party (United States)",
-     "votes": 317836,
-     "pct": 55.6,
+     "votes": 369605,
+     "pct": 56.9,
      "party_code": "R"
     },
     {
      "name": "Todd Achilles",
      "party": "Independent politician",
-     "votes": 197950,
-     "pct": 34.6,
+     "votes": 216896,
+     "pct": 33.4,
      "party_code": "I"
     },
     {
      "name": "Natalie Fleming",
      "party": "Independent politician",
-     "votes": 39506,
+     "votes": 45054,
      "pct": 6.9,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-   "source_revised": "2026-11-04T08:52:37Z"
+   "source_revised": "2026-11-04T09:46:07Z"
   },
   "Delaware|Senate": {
    "state": "Delaware",
@@ -920,7 +920,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-04T09:37:09Z"
+   "source_revised": "2026-11-04T09:39:40Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -998,7 +998,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
-   "source_revised": "2026-11-04T02:32:15Z"
+   "source_revised": "2026-11-04T09:49:49Z"
   },
   "Nevada|Governor": {
    "state": "Nevada",
@@ -1194,7 +1194,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-04T07:22:41Z"
+   "source_revised": "2026-11-04T09:39:06Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1518,7 +1518,7 @@
   "Alabama|Governor": {
    "state": "Alabama",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1526,20 +1526,20 @@
     {
      "name": "Tommy Tuberville",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 872445,
+     "pct": 52.1,
      "party_code": "R"
     },
     {
      "name": "Doug Jones",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 803468,
+     "pct": 47.9,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
-   "source_revised": "2026-11-04T07:20:37Z"
+   "source_revised": "2026-11-04T09:52:51Z"
   },
   "Colorado|Governor": {
    "state": "Colorado",
