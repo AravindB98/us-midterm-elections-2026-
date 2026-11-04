@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T16:15:31Z",
+ "updated_utc": "2026-11-04T16:30:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T16:14:37Z"
+   "source_revised": "2026-11-04T16:30:19Z"
   }
  },
  "control": {
@@ -655,7 +655,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
-   "source_revised": "2026-11-04T10:04:27Z"
+   "source_revised": "2026-11-04T16:24:18Z"
   },
   "Illinois|Senate": {
    "state": "Illinois",
@@ -746,20 +746,20 @@
     {
      "name": "Mark Warner",
      "party": "Democratic Party (United States)",
-     "votes": 2176203,
-     "pct": 61.0,
+     "votes": 2169536,
+     "pct": 61.1,
      "party_code": "D"
     },
     {
      "name": "Bert Mizusawa",
      "party": "Republican Party (United States)",
-     "votes": 1384206,
-     "pct": 38.8,
+     "votes": 1374151,
+     "pct": 38.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
-   "source_revised": "2026-11-04T14:14:47Z"
+   "source_revised": "2026-11-04T16:18:13Z"
   },
   "Colorado|Senate": {
    "state": "Colorado",
@@ -772,20 +772,20 @@
     {
      "name": "John Hickenlooper",
      "party": "Democratic Party (United States)",
-     "votes": 1310885,
+     "votes": 1310937,
      "pct": 60.2,
      "party_code": "D"
     },
     {
      "name": "Mark Baisley",
      "party": "Republican Party (United States)",
-     "votes": 773924,
+     "votes": 773936,
      "pct": 35.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
-   "source_revised": "2026-11-04T11:02:13Z"
+   "source_revised": "2026-11-04T16:29:30Z"
   },
   "Tennessee|Senate": {
    "state": "Tennessee",
@@ -883,15 +883,15 @@
     {
      "name": "Ed Markey",
      "party": "Democratic Party (United States)",
-     "votes": 1384546,
-     "pct": 63.8,
+     "votes": 1519385,
+     "pct": 63.3,
      "party_code": "D"
     },
     {
      "name": "John Deaton",
      "party": "Republican Party (United States)",
-     "votes": 687377,
-     "pct": 31.7,
+     "votes": 773177,
+     "pct": 32.2,
      "party_code": "R"
     },
     {
@@ -903,7 +903,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-04T10:13:48Z"
+   "source_revised": "2026-11-04T16:19:12Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
@@ -942,20 +942,20 @@
     {
      "name": "Jeff Merkley",
      "party": "Democratic Party (United States)",
-     "votes": 857042,
+     "votes": 864411,
      "pct": 56.6,
      "party_code": "D"
     },
     {
      "name": "David Brock Smith",
      "party": "Republican Party (United States)",
-     "votes": 612071,
+     "votes": 619239,
      "pct": 40.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-04T15:36:50Z"
+   "source_revised": "2026-11-04T16:22:46Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -1163,7 +1163,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-04T13:59:11Z",
+   "source_revised": "2026-11-04T16:23:47Z",
    "too_close": {
     "note": "Too close to call as of Wednesday morning per AP; mail ballots still arriving. Holscher leads narrowly.",
     "source": "https://www.kwch.com/2026/11/04/holscher-holds-narrow-lead-over-masterson-uncalled-kansas-governors-race/",
@@ -1239,7 +1239,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-04T14:49:25Z"
+   "source_revised": "2026-11-04T16:22:16Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1317,7 +1317,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
-   "source_revised": "2026-11-04T16:05:45Z"
+   "source_revised": "2026-11-04T16:22:01Z"
   },
   "South Carolina|Governor": {
    "state": "South Carolina",
@@ -1434,20 +1434,20 @@
     {
      "name": "Tina Kotek",
      "party": "Democratic Party of Oregon",
-     "votes": 794291,
-     "pct": 51.85,
+     "votes": 795725,
+     "pct": 51.7,
      "party_code": "D"
     },
     {
      "name": "Christine Drazan",
      "party": "Oregon Republican Party",
-     "votes": 696941,
+     "votes": 699400,
      "pct": 45.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-04T10:59:18Z"
+   "source_revised": "2026-11-04T16:20:25Z"
   },
   "Maine|Governor": {
    "state": "Maine",
@@ -1957,27 +1957,27 @@
     {
      "name": "Sarah Huckabee Sanders",
      "party": "Republican Party (United States)",
-     "votes": 477042,
-     "pct": 53.87,
+     "votes": 477092,
+     "pct": 53.9,
      "party_code": "R"
     },
     {
      "name": "Fredrick Love",
      "party": "Democratic Party (Arkansas)",
-     "votes": 341621,
-     "pct": 38.58,
+     "votes": 341645,
+     "pct": 38.6,
      "party_code": "D"
     },
     {
      "name": "Colt Shelby",
      "party": "Libertarian Party (United States)",
-     "votes": 66877,
-     "pct": 7.55,
+     "votes": 66880,
+     "pct": 7.6,
      "party_code": "O"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Arkansas_gubernatorial_election",
-   "source_revised": "2026-11-04T06:55:38Z"
+   "source_revised": "2026-11-04T16:26:41Z"
   },
   "Idaho|Governor": {
    "state": "Idaho",
