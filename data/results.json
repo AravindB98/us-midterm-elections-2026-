@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T03:52:31Z",
+ "updated_utc": "2026-11-04T04:07:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 8,
+   "D": 10,
    "R": 5,
    "I": 0,
-   "uncalled": 22
+   "uncalled": 20
   },
   "Governor": {
    "D": 5,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T03:52:04Z"
+   "source_revised": "2026-11-04T04:06:48Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T03:50:53Z"
+   "source_revised": "2026-11-04T04:05:33Z"
   }
  },
  "senate_not_up": {
@@ -79,7 +79,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T03:29:10Z"
+   "source_revised": "2026-11-04T04:04:52Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -117,9 +117,9 @@
   "Ohio|Senate": {
    "state": "Ohio",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Sherrod Brown",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -138,7 +138,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T03:47:22Z"
+   "source_revised": "2026-11-04T04:02:52Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -176,28 +176,28 @@
   "Texas|Senate": {
    "state": "Texas",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "James Talarico",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 3832836,
-     "pct": 54.55,
+     "votes": 4085629,
+     "pct": 59.5,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 3077469,
-     "pct": 43.78,
+     "votes": 2675691,
+     "pct": 39.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T03:48:39Z"
+   "source_revised": "2026-11-04T04:03:52Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -1050,7 +1050,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T03:52:25Z"
+   "source_revised": "2026-11-04T04:00:18Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1207,20 +1207,20 @@
     {
      "name": "Gina Hinojosa",
      "party": "Texas Democratic Party",
-     "votes": 2444456,
-     "pct": 56.1,
+     "votes": 4250934,
+     "pct": 54.0,
      "party_code": "D"
     },
     {
      "name": "Greg Abbott",
      "party": "Republican Party of Texas",
-     "votes": 1861331,
-     "pct": 42.7,
+     "votes": 3520645,
+     "pct": 44.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T02:36:38Z"
+   "source_revised": "2026-11-04T04:07:18Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1416,7 +1416,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-04T02:59:23Z"
+   "source_revised": "2026-11-04T03:55:15Z"
   },
   "Maine|Governor": {
    "state": "Maine",
@@ -1677,20 +1677,20 @@
     {
      "name": "JB Pritzker",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1981468,
+     "pct": 59.7,
      "party_code": "D"
     },
     {
      "name": "Darren Bailey",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1228265,
+     "pct": 37.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
-   "source_revised": "2026-11-04T02:17:34Z"
+   "source_revised": "2026-11-04T04:00:44Z"
   },
   "Oklahoma|Governor": {
    "state": "Oklahoma",
@@ -1827,7 +1827,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-04T02:51:20Z"
+   "source_revised": "2026-11-04T03:59:17Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
