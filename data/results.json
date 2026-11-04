@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-04T01:52:05Z",
+ "updated_utc": "2026-11-04T02:06:05Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 3,
-   "R": 1,
+   "D": 4,
+   "R": 2,
    "I": 0,
-   "uncalled": 31
+   "uncalled": 29
   },
   "Governor": {
    "D": 2,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T01:43:50Z"
+   "source_revised": "2026-11-04T02:05:49Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T01:49:57Z"
+   "source_revised": "2026-11-04T02:04:42Z"
   }
  },
  "senate_not_up": {
@@ -66,20 +66,20 @@
     {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 140416,
-     "pct": 62.2,
+     "votes": 275014,
+     "pct": 63.7,
      "party_code": "D"
     },
     {
      "name": "Roger Marshall",
      "party": "Republican Party (United States)",
-     "votes": 80860,
-     "pct": 35.8,
+     "votes": 149111,
+     "pct": 34.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T01:46:05Z"
+   "source_revised": "2026-11-04T01:54:38Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -210,46 +210,46 @@
     {
      "name": "Annie Andrews",
      "party": "Democratic Party (United States)",
-     "votes": 571349,
-     "pct": 51.8,
+     "votes": 578646,
+     "pct": 51.6,
      "party_code": "D"
     },
     {
      "name": "Darline Graham (replacing Lindsey Graham)",
      "party": "Republican Party (United States)",
-     "votes": 511816,
-     "pct": 46.4,
+     "votes": 522049,
+     "pct": 46.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T01:51:36Z"
+   "source_revised": "2026-11-04T01:53:36Z"
   },
   "Maine|Senate": {
    "state": "Maine",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Susan Collins",
-     "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
-    },
-    {
      "name": "Troy Jackson (replacing Graham Platner)",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 11210,
+     "pct": 55.6,
      "party_code": "D"
+    },
+    {
+     "name": "Susan Collins",
+     "party": "Republican Party (United States)",
+     "votes": 14020,
+     "pct": 44.4,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T01:34:08Z"
+   "source_revised": "2026-11-04T01:58:21Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -399,46 +399,46 @@
     {
      "name": "Roy Cooper",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 1712610,
+     "pct": 62.4,
      "party_code": "D"
     },
     {
      "name": "Michael Whatley",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 981533,
+     "pct": 35.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T01:45:03Z"
+   "source_revised": "2026-11-04T02:00:52Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Chris Pappas",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
-     "name": "John E. Sununu",
-     "party": "Republican Party (United States)",
-     "votes": 5,
-     "pct": 71.4,
-     "party_code": "R"
-    },
-    {
      "name": "Chris Pappas",
      "party": "Democratic Party (United States)",
-     "votes": 2,
-     "pct": 28.6,
+     "votes": 123682,
+     "pct": 59.1,
      "party_code": "D"
+    },
+    {
+     "name": "John E. Sununu",
+     "party": "Republican Party (United States)",
+     "votes": 87604,
+     "pct": 39.6,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-03T21:16:01Z"
+   "source_revised": "2026-11-04T02:05:41Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -951,28 +951,28 @@
   "West Virginia|Senate": {
    "state": "West Virginia",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Shelley Moore Capito",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Shelley Moore Capito",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 162548,
+     "pct": 55.5,
      "party_code": "R"
     },
     {
      "name": "Rachel Fetty Anderson",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 120099,
+     "pct": 41.0,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia",
-   "source_revised": "2026-11-03T05:13:51Z"
+   "source_revised": "2026-11-04T01:54:55Z"
   },
   "Wyoming|Senate": {
    "state": "Wyoming",
@@ -1035,22 +1035,22 @@
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Vivek Ramaswamy",
-     "party": "Ohio Republican Party",
-     "votes": 557275,
-     "pct": 37.0,
-     "party_code": "R"
-    },
-    {
      "name": "Amy Acton",
      "party": "Ohio Democratic Party",
-     "votes": 914431,
-     "pct": 60.71,
+     "votes": 1138771,
+     "pct": 55.4,
      "party_code": "D"
+    },
+    {
+     "name": "Vivek Ramaswamy",
+     "party": "Ohio Republican Party",
+     "votes": 865475,
+     "pct": 41.8,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T01:17:19Z"
+   "source_revised": "2026-11-04T01:56:04Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
