@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T03:37:31Z",
+ "updated_utc": "2026-11-04T03:52:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -10,10 +10,10 @@
    "uncalled": 22
   },
   "Governor": {
-   "D": 4,
+   "D": 5,
    "R": 2,
    "I": 0,
-   "uncalled": 30
+   "uncalled": 29
   }
  },
  "chambers": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T03:27:24Z"
+   "source_revised": "2026-11-04T03:52:04Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T03:36:17Z"
+   "source_revised": "2026-11-04T03:50:53Z"
   }
  },
  "senate_not_up": {
@@ -125,20 +125,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 1813194,
-     "pct": 48.22,
+     "votes": 1950220,
+     "pct": 48.45,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 1766512,
-     "pct": 46.98,
+     "votes": 1879888,
+     "pct": 46.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-04T03:26:20Z"
+   "source_revised": "2026-11-04T03:47:22Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -184,20 +184,20 @@
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 3658165,
-     "pct": 65.0,
+     "votes": 3832836,
+     "pct": 54.55,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 2774482,
-     "pct": 39.0,
+     "votes": 3077469,
+     "pct": 43.78,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T02:55:02Z"
+   "source_revised": "2026-11-04T03:48:39Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -210,20 +210,20 @@
     {
      "name": "Annie Andrews",
      "party": "Democratic Party (United States)",
-     "votes": 925013,
+     "votes": 984027,
      "pct": 51.0,
      "party_code": "D"
     },
     {
      "name": "Darline Graham",
      "party": "Republican Party (United States)",
-     "votes": 850123,
-     "pct": 46.9,
+     "votes": 916267,
+     "pct": 47.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T03:33:40Z"
+   "source_revised": "2026-11-04T03:46:16Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -412,7 +412,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-04T03:13:32Z"
+   "source_revised": "2026-11-04T03:42:04Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -1029,28 +1029,28 @@
   "Ohio|Governor": {
    "state": "Ohio",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Amy Acton",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Amy Acton",
      "party": "Ohio Democratic Party",
-     "votes": 1658024,
-     "pct": 50.4,
+     "votes": 2049907,
+     "pct": 50.69,
      "party_code": "D"
     },
     {
      "name": "Vivek Ramaswamy",
      "party": "Ohio Republican Party",
-     "votes": 1519697,
-     "pct": 46.2,
+     "votes": 1858779,
+     "pct": 45.96,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T02:59:32Z"
+   "source_revised": "2026-11-04T03:52:25Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
