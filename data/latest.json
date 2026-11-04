@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-04T15:44:36Z",
+  "updated_utc": "2026-11-04T15:59:31Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -143,8 +143,8 @@
       "url": "https://www.predictit.org/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "senate": 98.0,
-      "house": 99.0,
+      "senate": 99.0,
+      "house": 10.0,
       "as_of": "2026-11-04"
     },
     "manifold": {
@@ -177,9 +177,9 @@
     }
   },
   "ensemble": {
-    "house_dem": 92.5,
+    "house_dem": 82.6,
     "house_n": 9,
-    "senate_dem": 79.1,
+    "senate_dem": 79.2,
     "senate_n": 9
   },
   "senate_projection": {
@@ -198,22 +198,22 @@
   "disclaimer": "This is only a collection of publicly available resources and forecasts. The creator is neutral and does not support any political party, candidate or ideology.",
   "consensus": {
     "house": {
-      "value": 92.5,
-      "median": 94.1,
+      "value": 82.6,
+      "median": 91.0,
       "n": 9,
       "min": {
-        "value": 83,
-        "source": "ForbesPredict"
+        "value": 10.0,
+        "source": "PredictIt"
       },
       "max": {
         "value": 100.0,
         "source": "Polymarket"
       },
-      "share_favoring_dem": 100,
-      "stdev": 6.0,
+      "share_favoring_dem": 89,
+      "stdev": 26.3,
       "by_type": {
         "forecast_model": 89.8,
-        "prediction_market": 97.7,
+        "prediction_market": 68.0,
         "crowd_forecast": 90.8
       },
       "sources": [
@@ -229,7 +229,7 @@
       ]
     },
     "senate": {
-      "value": 79.1,
+      "value": 79.2,
       "median": 78.0,
       "n": 9,
       "min": {
@@ -241,10 +241,10 @@
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 14.1,
+      "stdev": 14.2,
       "by_type": {
         "forecast_model": 69.5,
-        "prediction_market": 91.0,
+        "prediction_market": 91.3,
         "crowd_forecast": 91.5
       },
       "sources": [
@@ -260,7 +260,7 @@
       ]
     },
     "conclusion": [
-      "House: Democrats strongly favored (weighted average 92% Democratic across 9 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 100% (Polymarket).",
+      "House: Democrats favored (weighted average 83% Democratic across 9 fresh sources; 89% of sources favor Democrats). Range: 10% (PredictIt) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
       "Senate: Democrats favored (weighted average 79% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]

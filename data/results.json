@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T15:45:31Z",
+ "updated_utc": "2026-11-04T16:00:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T15:30:22Z"
+   "source_revised": "2026-11-04T16:00:04Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T15:41:42Z"
+   "source_revised": "2026-11-04T15:54:56Z"
   }
  },
  "control": {
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T15:43:36Z",
+   "source_revised": "2026-11-04T16:00:26Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -681,7 +681,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
-   "source_revised": "2026-11-04T10:46:31Z"
+   "source_revised": "2026-11-04T15:56:49Z"
   },
   "New Jersey|Senate": {
    "state": "New Jersey",
@@ -733,7 +733,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
-   "source_revised": "2026-11-04T11:05:17Z"
+   "source_revised": "2026-11-04T15:45:33Z"
   },
   "Virginia|Senate": {
    "state": "Virginia",
@@ -870,7 +870,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
-   "source_revised": "2026-11-04T10:25:42Z"
+   "source_revised": "2026-11-04T15:54:19Z"
   },
   "Massachusetts|Senate": {
    "state": "Massachusetts",
@@ -916,20 +916,20 @@
     {
      "name": "Kevin Hern",
      "party": "Republican Party (United States)",
-     "votes": 628799,
-     "pct": 57.29,
+     "votes": 637262,
+     "pct": 57.3,
      "party_code": "R"
     },
     {
      "name": "N'Kiyla \"Jasmine\" Thomas",
      "party": "Democratic Party (United States)",
-     "votes": 430321,
+     "votes": 436393,
      "pct": 39.2,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-   "source_revised": "2026-11-04T07:55:12Z"
+   "source_revised": "2026-11-04T15:58:37Z"
   },
   "Oregon|Senate": {
    "state": "Oregon",
