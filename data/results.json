@@ -1,19 +1,19 @@
 {
- "updated_utc": "2026-11-04T02:06:05Z",
+ "updated_utc": "2026-11-04T02:21:05Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
    "D": 4,
-   "R": 2,
+   "R": 3,
    "I": 0,
-   "uncalled": 29
+   "uncalled": 28
   },
   "Governor": {
-   "D": 2,
+   "D": 3,
    "R": 1,
    "I": 0,
-   "uncalled": 33
+   "uncalled": 32
   }
  },
  "chambers": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T02:05:49Z"
+   "source_revised": "2026-11-04T02:12:31Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T02:04:42Z"
+   "source_revised": "2026-11-04T02:21:02Z"
   }
  },
  "senate_not_up": {
@@ -184,20 +184,20 @@
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 1443167,
-     "pct": 59.4,
+     "votes": 2417452,
+     "pct": 59.0,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 950469,
-     "pct": 39.1,
+     "votes": 1619829,
+     "pct": 39.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T01:36:33Z"
+   "source_revised": "2026-11-04T02:07:21Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -210,20 +210,20 @@
     {
      "name": "Annie Andrews",
      "party": "Democratic Party (United States)",
-     "votes": 578646,
-     "pct": 51.6,
+     "votes": 802550,
+     "pct": 52.4,
      "party_code": "D"
     },
     {
-     "name": "Darline Graham (replacing Lindsey Graham)",
+     "name": "Darline Graham",
      "party": "Republican Party (United States)",
-     "votes": 522049,
-     "pct": 46.6,
+     "votes": 699597,
+     "pct": 45.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T01:53:36Z"
+   "source_revised": "2026-11-04T02:16:13Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -254,28 +254,28 @@
   "Nebraska|Senate": {
    "state": "Nebraska",
    "office": "Senate",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Pete Ricketts",
-     "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
-    },
-    {
      "name": "Dan Osborn",
      "party": "Independent politician",
-     "votes": null,
-     "pct": null,
+     "votes": 111636,
+     "pct": 58.7,
      "party_code": "I"
+    },
+    {
+     "name": "Pete Ricketts",
+     "party": "Republican Party (United States)",
+     "votes": 69035,
+     "pct": 36.3,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-03T20:36:54Z"
+   "source_revised": "2026-11-04T02:14:28Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -977,9 +977,9 @@
   "Wyoming|Senate": {
    "state": "Wyoming",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Harriet Hageman",
+   "winner_party": "R",
    "pending_winner": null,
    "candidates": [
     {
@@ -998,7 +998,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
-   "source_revised": "2026-11-03T12:07:26Z"
+   "source_revised": "2026-11-04T02:16:48Z"
   },
   "Nevada|Governor": {
    "state": "Nevada",
@@ -1058,25 +1058,25 @@
    "status": "counting",
    "winner": null,
    "winner_party": null,
-   "pending_winner": null,
+   "pending_winner": "Keisha Lance Bottoms",
    "candidates": [
     {
      "name": "Keisha Lance Bottoms",
      "party": "Democratic Party of Georgia",
-     "votes": 1549504,
-     "pct": 58.92,
+     "votes": 1800965,
+     "pct": 55.8,
      "party_code": "D"
     },
     {
      "name": "Rick Jackson",
      "party": "Georgia Republican Party",
-     "votes": 1080214,
-     "pct": 41.08,
+     "votes": 1423744,
+     "pct": 44.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-04T01:29:48Z"
+   "source_revised": "2026-11-04T02:20:40Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1199,28 +1199,28 @@
   "Texas|Governor": {
    "state": "Texas",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
    "candidates": [
     {
-     "name": "Greg Abbott",
-     "party": "Republican Party of Texas",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
-    },
-    {
      "name": "Gina Hinojosa",
      "party": "Texas Democratic Party",
-     "votes": null,
-     "pct": null,
+     "votes": 2444456,
+     "pct": 56.1,
      "party_code": "D"
+    },
+    {
+     "name": "Greg Abbott",
+     "party": "Republican Party of Texas",
+     "votes": 1861331,
+     "pct": 42.7,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-03T14:27:32Z"
+   "source_revised": "2026-11-04T02:11:15Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1527,7 +1527,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
-   "source_revised": "2026-11-03T16:02:06Z"
+   "source_revised": "2026-11-04T02:19:01Z"
   },
   "Alabama|Governor": {
    "state": "Alabama",
@@ -1690,7 +1690,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
-   "source_revised": "2026-11-04T01:27:59Z"
+   "source_revised": "2026-11-04T02:17:34Z"
   },
   "Oklahoma|Governor": {
    "state": "Oklahoma",
@@ -1721,35 +1721,35 @@
   "Rhode Island|Governor": {
    "state": "Rhode Island",
    "office": "Governor",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Helena Foulkes",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
      "name": "Helena Foulkes",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 184664,
+     "pct": 57.48,
      "party_code": "D"
-    },
-    {
-     "name": "Aaron Guckian",
-     "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "R"
     },
     {
      "name": "Ken Block",
      "party": "Independent politician",
-     "votes": null,
-     "pct": null,
+     "votes": 87759,
+     "pct": 27.77,
      "party_code": "I"
+    },
+    {
+     "name": "Aaron Guckian",
+     "party": "Republican Party (United States)",
+     "votes": 42317,
+     "pct": 13.39,
+     "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
-   "source_revised": "2026-11-03T15:18:21Z"
+   "source_revised": "2026-11-04T02:08:11Z"
   },
   "Pennsylvania|Governor": {
    "state": "Pennsylvania",
