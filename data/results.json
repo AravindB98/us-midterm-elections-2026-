@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T17:44:32Z",
+ "updated_utc": "2026-11-04T17:59:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T17:41:30Z"
+   "source_revised": "2026-11-04T17:44:51Z"
   }
  },
  "control": {
@@ -144,7 +144,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
-   "source_revised": "2026-11-04T14:40:54Z"
+   "source_revised": "2026-11-04T17:54:02Z"
   },
   "Ohio|Senate": {
    "state": "Ohio",
@@ -533,20 +533,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 462821,
+     "votes": 462857,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 462778,
+     "votes": 462792,
      "pct": 48.94,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T16:56:34Z",
+   "source_revised": "2026-11-04T17:58:24Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1239,7 +1239,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-04T16:22:16Z"
+   "source_revised": "2026-11-04T17:56:09Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1549,7 +1549,7 @@
     {
      "name": "Kathy Hochul",
      "party": "Democratic Party (United States)",
-     "votes": 3550354,
+     "votes": 3552397,
      "pct": 60.1,
      "party_code": "D"
     },
@@ -1562,7 +1562,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
-   "source_revised": "2026-11-04T17:18:41Z"
+   "source_revised": "2026-11-04T17:56:38Z"
   },
   "Alabama|Governor": {
    "state": "Alabama",
@@ -1940,7 +1940,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election",
-   "source_revised": "2026-11-03T05:40:04Z",
+   "source_revised": "2026-11-04T17:55:12Z",
    "call_source": {
     "by": "NBC News",
     "url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
