@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T19:14:32Z",
+ "updated_utc": "2026-11-04T19:27:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T18:58:01Z"
+   "source_revised": "2026-11-04T19:14:56Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T19:13:47Z"
+   "source_revised": "2026-11-04T19:24:18Z"
   }
  },
  "control": {
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-04T18:33:56Z"
+   "source_revised": "2026-11-04T19:15:58Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -279,7 +279,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-04T19:10:36Z"
+   "source_revised": "2026-11-04T19:27:22Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -344,20 +344,20 @@
     {
      "name": "Abdul El-Sayed",
      "party": "Democratic Party (United States)",
-     "votes": 2500450,
+     "votes": 2506985,
      "pct": 52.5,
      "party_code": "D"
     },
     {
      "name": "Mike Rogers",
      "party": "Republican Party (United States)",
-     "votes": 2164450,
+     "votes": 2171951,
      "pct": 45.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T19:12:28Z"
+   "source_revised": "2026-11-04T19:16:14Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -468,7 +468,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-04T18:51:27Z"
+   "source_revised": "2026-11-04T19:22:17Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -1150,20 +1150,20 @@
     {
      "name": "Cindy Holscher",
      "party": "Democratic Party (United States)",
-     "votes": 546587,
-     "pct": 50.26,
+     "votes": 546648,
+     "pct": 50.3,
      "party_code": "D"
     },
     {
      "name": "Ty Masterson",
      "party": "Republican Party (United States)",
-     "votes": 541030,
-     "pct": 49.74,
+     "votes": 541070,
+     "pct": 49.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-04T16:23:47Z",
+   "source_revised": "2026-11-04T19:16:33Z",
    "too_close": {
     "note": "Too close to call as of Wednesday morning per AP; mail ballots still arriving. Holscher leads narrowly.",
     "source": "https://www.kwch.com/2026/11/04/holscher-holds-narrow-lead-over-masterson-uncalled-kansas-governors-race/",
@@ -1265,7 +1265,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-04T19:04:05Z"
+   "source_revised": "2026-11-04T19:24:53Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1447,7 +1447,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-04T18:53:52Z"
+   "source_revised": "2026-11-04T19:20:12Z"
   },
   "Maine|Governor": {
    "state": "Maine",
