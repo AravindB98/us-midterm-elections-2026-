@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T08:52:58Z",
+ "updated_utc": "2026-11-04T09:07:57Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T08:46:00Z"
+   "source_revised": "2026-11-04T08:59:44Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T08:50:28Z"
+   "source_revised": "2026-11-04T09:03:51Z"
   }
  },
  "senate_not_up": {
@@ -327,7 +327,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-04T07:51:20Z"
+   "source_revised": "2026-11-04T09:03:28Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -464,7 +464,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
-   "source_revised": "2026-11-04T07:06:46Z"
+   "source_revised": "2026-11-04T08:59:54Z"
   },
   "Georgia|Senate": {
    "state": "Georgia",
@@ -503,20 +503,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 462779,
-     "pct": 48.95,
+     "votes": 462821,
+     "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 462751,
+     "votes": 462778,
      "pct": 48.94,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-04T08:19:20Z"
+   "source_revised": "2026-11-04T09:05:09Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -1050,7 +1050,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-04T07:43:02Z"
+   "source_revised": "2026-11-04T08:54:54Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1373,24 +1373,10 @@
      "votes": null,
      "pct": null,
      "party_code": "D"
-    },
-    {
-     "name": "Brett Lindstrom",
-     "party": "America First",
-     "votes": null,
-     "pct": null,
-     "party_code": "O"
-    },
-    {
-     "name": "Rick Beard",
-     "party": "Legal Marijuana NOW",
-     "votes": null,
-     "pct": null,
-     "party_code": "O"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
-   "source_revised": "2026-11-03T21:37:59Z"
+   "source_revised": "2026-11-04T09:05:39Z"
   },
   "Oregon|Governor": {
    "state": "Oregon",
