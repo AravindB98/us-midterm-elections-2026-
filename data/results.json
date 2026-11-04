@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04T04:51:30Z",
+ "updated_utc": "2026-11-04T05:06:31Z",
  "source_note": "Unofficial. Winners appear only after Wikipedia editors record a call by AP or major networks. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-04T04:51:28Z"
+   "source_revised": "2026-11-04T05:04:21Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-04T04:46:34Z"
+   "source_revised": "2026-11-04T04:58:40Z"
   }
  },
  "senate_not_up": {
@@ -79,7 +79,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-04T04:36:00Z"
+   "source_revised": "2026-11-04T05:03:49Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -92,14 +92,14 @@
     {
      "name": "Josh Turek",
      "party": "Democratic",
-     "votes": 647490,
+     "votes": 687410,
      "pct": 50.8,
      "party_code": "D"
     },
     {
      "name": "Ashley Hinson",
      "party": "Republican Party (United States)",
-     "votes": 687410,
+     "votes": 647490,
      "pct": 46.13,
      "party_code": "R"
     },
@@ -112,7 +112,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
-   "source_revised": "2026-11-04T04:45:49Z"
+   "source_revised": "2026-11-04T04:59:11Z"
   },
   "Ohio|Senate": {
    "state": "Ohio",
@@ -223,7 +223,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T04:20:59Z"
+   "source_revised": "2026-11-04T05:03:55Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -1076,7 +1076,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-04T03:15:43Z"
+   "source_revised": "2026-11-04T04:56:28Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1403,25 +1403,25 @@
     {
      "name": "Tina Kotek",
      "party": "Democratic Party of Oregon",
-     "votes": 531988,
-     "pct": 54.98,
+     "votes": 658979,
+     "pct": 52.56,
      "party_code": "D"
     },
     {
      "name": "Christine Drazan",
      "party": "Oregon Republican Party",
-     "votes": 410896,
-     "pct": 42.47,
+     "votes": 561602,
+     "pct": 44.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-04T04:48:39Z"
+   "source_revised": "2026-11-04T05:03:11Z"
   },
   "Maine|Governor": {
    "state": "Maine",
    "office": "Governor",
-   "status": "awaiting",
+   "status": "counting",
    "winner": null,
    "winner_party": null,
    "pending_winner": null,
@@ -1429,27 +1429,27 @@
     {
      "name": "Hannah Pingree",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 240950,
+     "pct": 53.0,
      "party_code": "D"
     },
     {
      "name": "Bobby Charles",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 176728,
+     "pct": 38.9,
      "party_code": "R"
     },
     {
      "name": "Rick Bennett",
      "party": "Independent",
-     "votes": null,
-     "pct": null,
+     "votes": 36551,
+     "pct": 8.0,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
-   "source_revised": "2026-11-04T04:49:53Z"
+   "source_revised": "2026-11-04T05:03:49Z"
   },
   "New Mexico|Governor": {
    "state": "New Mexico",
