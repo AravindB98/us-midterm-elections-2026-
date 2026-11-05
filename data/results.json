@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-05T21:47:51Z",
+ "updated_utc": "2026-11-05T22:02:52Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -10,10 +10,10 @@
    "uncalled": 2
   },
   "Governor": {
-   "D": 22,
+   "D": 23,
    "R": 12,
    "I": 0,
-   "uncalled": 2
+   "uncalled": 1
   }
  },
  "chambers": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-05T21:41:40Z"
+   "source_revised": "2026-11-05T21:55:24Z"
   },
   "House": {
    "parties": {
@@ -1059,7 +1059,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
-   "source_revised": "2026-11-05T11:20:30Z"
+   "source_revised": "2026-11-05T22:01:17Z"
   },
   "Ohio|Governor": {
    "state": "Ohio",
@@ -1142,9 +1142,9 @@
   "Kansas|Governor": {
    "state": "Kansas",
    "office": "Governor",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Cindy Holscher",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -1163,12 +1163,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-05T21:32:06Z",
-   "too_close": {
-    "note": "Too close to call as of Wednesday morning per AP; mail ballots still arriving. Holscher leads narrowly.",
-    "source": "https://www.kwch.com/2026/11/04/holscher-holds-narrow-lead-over-masterson-uncalled-kansas-governors-race/",
-    "hold_until_utc": "2026-11-04T19:00:00Z"
-   }
+   "source_revised": "2026-11-05T21:52:13Z"
   },
   "Alaska|Governor": {
    "state": "Alaska",
