@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-05T22:46:50Z",
+  "updated_utc": "2026-11-05T23:01:51Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -143,7 +143,7 @@
       "url": "https://www.predictit.org/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "senate": 94.0,
+      "senate": 96.0,
       "house": 90.0,
       "as_of": "2026-11-05"
     },
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 91.5,
     "house_n": 9,
-    "senate_dem": 78.5,
+    "senate_dem": 78.7,
     "senate_n": 9
   },
   "senate_projection": {
@@ -229,7 +229,7 @@
       ]
     },
     "senate": {
-      "value": 78.5,
+      "value": 78.7,
       "median": 78.0,
       "n": 9,
       "min": {
@@ -241,10 +241,10 @@
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 13.2,
+      "stdev": 13.4,
       "by_type": {
         "forecast_model": 69.5,
-        "prediction_market": 89.7,
+        "prediction_market": 90.3,
         "crowd_forecast": 89.9
       },
       "sources": [
@@ -261,7 +261,7 @@
     },
     "conclusion": [
       "House: Democrats strongly favored (weighted average 92% Democratic across 9 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 100% (Polymarket).",
-      "Senate: Democrats favored (weighted average 78% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
+      "Senate: Democrats favored (weighted average 79% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
   }
