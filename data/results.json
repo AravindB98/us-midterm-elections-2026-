@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-05T04:00:36Z",
+ "updated_utc": "2026-11-05T04:16:37Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-05T03:46:28Z"
+   "source_revised": "2026-11-05T04:11:50Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-05T03:50:33Z"
+   "source_revised": "2026-11-05T04:15:30Z"
   }
  },
  "control": {
@@ -183,20 +183,20 @@
     {
      "name": "Mary Peltola",
      "party": "Democratic Party (United States)",
-     "votes": 102701,
+     "votes": 102962,
      "pct": 48.18,
      "party_code": "D"
     },
     {
      "name": "Dan S. Sullivan",
      "party": "Republican Party (United States)",
-     "votes": 102075,
+     "votes": 102325,
      "pct": 47.88,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-05T00:48:25Z",
+   "source_revised": "2026-11-05T04:12:45Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-05T03:58:03Z"
+   "source_revised": "2026-11-05T04:08:41Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -370,27 +370,27 @@
     {
      "name": "Kurt Alme",
      "party": "Republican Party (United States)",
-     "votes": 223086,
-     "pct": 48.8,
+     "votes": 230117,
+     "pct": 48.6,
      "party_code": "R"
     },
     {
      "name": "Seth Bodnar",
      "party": "Independent politician",
-     "votes": 170948,
-     "pct": 37.4,
+     "votes": 177762,
+     "pct": 37.5,
      "party_code": "I"
     },
     {
      "name": "Alani Bankhead",
      "party": "Democratic Party (United States)",
-     "votes": 54875,
-     "pct": 12.0,
+     "votes": 57089,
+     "pct": 12.1,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-05T02:27:59Z"
+   "source_revised": "2026-11-05T04:09:56Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -1558,7 +1558,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
-   "source_revised": "2026-11-04T17:56:38Z"
+   "source_revised": "2026-11-05T04:03:32Z"
   },
   "Alabama|Governor": {
    "state": "Alabama",
