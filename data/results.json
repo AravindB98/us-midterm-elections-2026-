@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-05T20:17:50Z",
+ "updated_utc": "2026-11-05T20:32:50Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-05T20:15:25Z"
+   "source_revised": "2026-11-05T20:21:17Z"
   }
  },
  "control": {
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-05T20:10:52Z"
+   "source_revised": "2026-11-05T20:22:52Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -266,20 +266,20 @@
     {
      "name": "Troy Jackson (replacing Graham Platner)",
      "party": "Democratic Party (United States)",
-     "votes": 371255,
+     "votes": 372238,
      "pct": 53.3,
      "party_code": "D"
     },
     {
      "name": "Susan Collins",
      "party": "Republican Party (United States)",
-     "votes": 325082,
+     "votes": 326151,
      "pct": 46.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-05T20:12:25Z"
+   "source_revised": "2026-11-05T20:19:57Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -1085,7 +1085,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-05T19:11:26Z"
+   "source_revised": "2026-11-05T20:21:37Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1111,7 +1111,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-05T18:25:05Z"
+   "source_revised": "2026-11-05T20:29:06Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1265,7 +1265,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-05T20:12:19Z"
+   "source_revised": "2026-11-05T20:22:36Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1480,7 +1480,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
-   "source_revised": "2026-11-04T23:35:24Z"
+   "source_revised": "2026-11-05T20:21:21Z"
   },
   "New Mexico|Governor": {
    "state": "New Mexico",
@@ -2039,7 +2039,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
-   "source_revised": "2026-11-05T11:14:57Z"
+   "source_revised": "2026-11-05T20:30:10Z"
   }
  }
 }
