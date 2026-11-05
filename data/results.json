@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-05T01:16:35Z",
+ "updated_utc": "2026-11-05T01:31:36Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 19,
+   "D": 20,
    "R": 13,
    "I": 0,
-   "uncalled": 3
+   "uncalled": 2
   },
   "Governor": {
    "D": 22,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-05T01:15:17Z"
+   "source_revised": "2026-11-05T01:24:53Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-05T00:24:09Z"
+   "source_revised": "2026-11-05T01:21:38Z"
   }
  },
  "control": {
@@ -416,7 +416,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-05T01:15:46Z"
+   "source_revised": "2026-11-05T01:25:10Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -442,15 +442,15 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-05T00:31:52Z"
+   "source_revised": "2026-11-05T01:23:08Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
-   "pending_winner": "Chris Pappas",
+   "status": "called",
+   "winner": "Chris Pappas",
+   "winner_party": "D",
+   "pending_winner": null,
    "candidates": [
     {
      "name": "Chris Pappas",
@@ -520,7 +520,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-05T01:04:20Z"
+   "source_revised": "2026-11-05T01:26:59Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-05T01:13:15Z",
+   "source_revised": "2026-11-05T01:21:27Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -655,7 +655,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
-   "source_revised": "2026-11-04T20:49:58Z"
+   "source_revised": "2026-11-05T01:16:42Z"
   },
   "Illinois|Senate": {
    "state": "Illinois",
@@ -929,7 +929,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-   "source_revised": "2026-11-04T19:03:50Z"
+   "source_revised": "2026-11-05T01:31:14Z"
   },
   "Oregon|Senate": {
    "state": "Oregon",
