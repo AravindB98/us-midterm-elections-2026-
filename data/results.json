@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-05T16:47:22Z",
+ "updated_utc": "2026-11-05T17:02:22Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-05T16:39:14Z"
+   "source_revised": "2026-11-05T17:02:13Z"
   }
  },
  "control": {
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-05T16:45:53Z"
+   "source_revised": "2026-11-05T16:55:03Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -253,7 +253,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-05T15:59:13Z"
+   "source_revised": "2026-11-05T16:49:49Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -533,20 +533,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 464926,
+     "votes": 466226,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 463788,
-     "pct": 48.89,
+     "votes": 464502,
+     "pct": 48.86,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-05T16:40:59Z",
+   "source_revised": "2026-11-05T16:59:52Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -629,7 +629,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
-   "source_revised": "2026-11-05T02:44:46Z"
+   "source_revised": "2026-11-05T16:50:25Z"
   },
   "Arkansas|Senate": {
    "state": "Arkansas",
@@ -1669,7 +1669,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-   "source_revised": "2026-11-05T16:32:22Z"
+   "source_revised": "2026-11-05T16:55:50Z"
   },
   "Vermont|Governor": {
    "state": "Vermont",
