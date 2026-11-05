@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-05T01:13:04Z",
+ "updated_utc": "2026-11-05T01:16:35Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 20,
+   "D": 19,
    "R": 13,
    "I": 0,
-   "uncalled": 2
+   "uncalled": 3
   },
   "Governor": {
    "D": 22,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-05T01:11:04Z"
+   "source_revised": "2026-11-05T01:15:17Z"
   },
   "House": {
    "parties": {
@@ -416,7 +416,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-04T19:50:00Z"
+   "source_revised": "2026-11-05T01:15:46Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -447,13 +447,13 @@
   "New Hampshire|Senate": {
    "state": "New Hampshire",
    "office": "Senate",
-   "status": "called",
-   "winner": "Abigail Emmons",
-   "winner_party": "D",
-   "pending_winner": null,
+   "status": "counting",
+   "winner": null,
+   "winner_party": null,
+   "pending_winner": "Chris Pappas",
    "candidates": [
     {
-     "name": "Abigail Emmons",
+     "name": "Chris Pappas",
      "party": "Democratic Party (United States)",
      "votes": 341737,
      "pct": 56.1,
@@ -468,7 +468,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-05T00:53:24Z"
+   "source_revised": "2026-11-05T01:15:34Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-05T01:06:56Z",
+   "source_revised": "2026-11-05T01:13:15Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
