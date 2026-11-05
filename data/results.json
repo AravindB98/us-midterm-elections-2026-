@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-05T11:17:00Z",
+ "updated_utc": "2026-11-05T11:31:00Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-05T10:49:10Z"
+   "source_revised": "2026-11-05T11:28:09Z"
   }
  },
  "control": {
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-05T10:44:26Z"
+   "source_revised": "2026-11-05T11:20:21Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-05T10:21:49Z",
+   "source_revised": "2026-11-05T11:19:14Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1046,20 +1046,20 @@
     {
      "name": "Aaron Ford",
      "party": "Democratic Party (United States)",
-     "votes": 506653,
-     "pct": 51.7,
+     "votes": 530510,
+     "pct": 51.53,
      "party_code": "D"
     },
     {
      "name": "Joe Lombardo",
      "party": "Republican Party (United States)",
-     "votes": 432732,
-     "pct": 44.15,
+     "votes": 455302,
+     "pct": 44.22,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
-   "source_revised": "2026-11-05T10:37:32Z"
+   "source_revised": "2026-11-05T11:20:30Z"
   },
   "Ohio|Governor": {
    "state": "Ohio",
@@ -1125,19 +1125,19 @@
      "name": "Byron Donalds",
      "party": "Republican Party (United States)",
      "votes": 4132275,
-     "pct": 50.0,
+     "pct": 50.02,
      "party_code": "R"
     },
     {
      "name": "David Jolly",
      "party": "Democratic Party (United States)",
      "votes": 4024554,
-     "pct": 48.7,
+     "pct": 48.71,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-05T03:54:43Z"
+   "source_revised": "2026-11-05T11:22:59Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1239,7 +1239,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-04T22:27:54Z"
+   "source_revised": "2026-11-05T11:18:48Z"
   },
   "Texas|Governor": {
    "state": "Texas",
