@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-05T02:31:37Z",
+ "updated_utc": "2026-11-05T02:45:37Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-05T02:18:39Z"
+   "source_revised": "2026-11-05T02:44:21Z"
   }
  },
  "control": {
@@ -99,19 +99,19 @@
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
      "votes": 556477,
-     "pct": 50.9,
+     "pct": 50.99,
      "party_code": "D"
     },
     {
      "name": "Roger Marshall",
      "party": "Republican Party (United States)",
      "votes": 503268,
-     "pct": 46.1,
+     "pct": 45.99,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-05T02:19:19Z"
+   "source_revised": "2026-11-05T02:43:05Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -170,7 +170,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-05T00:34:39Z"
+   "source_revised": "2026-11-05T02:38:50Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -241,19 +241,19 @@
      "name": "Annie Andrews",
      "party": "Democratic Party (United States)",
      "votes": 1042362,
-     "pct": 51.1,
+     "pct": 51.13,
      "party_code": "D"
     },
     {
      "name": "Darline Graham",
      "party": "Republican Party (United States)",
      "votes": 951165,
-     "pct": 46.7,
+     "pct": 46.65,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-04T18:44:43Z"
+   "source_revised": "2026-11-05T02:43:18Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -442,7 +442,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-05T01:23:08Z"
+   "source_revised": "2026-11-05T02:37:39Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-05T02:27:33Z",
+   "source_revised": "2026-11-05T02:44:33Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -629,7 +629,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
-   "source_revised": "2026-11-05T00:33:07Z"
+   "source_revised": "2026-11-05T02:44:46Z"
   },
   "Arkansas|Senate": {
    "state": "Arkansas",
@@ -707,7 +707,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
-   "source_revised": "2026-11-05T02:05:34Z"
+   "source_revised": "2026-11-05T02:32:02Z"
   },
   "New Mexico|Senate": {
    "state": "New Mexico",
@@ -733,7 +733,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
-   "source_revised": "2026-11-05T01:43:43Z"
+   "source_revised": "2026-11-05T02:32:46Z"
   },
   "Virginia|Senate": {
    "state": "Virginia",
@@ -929,7 +929,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-   "source_revised": "2026-11-05T01:32:39Z"
+   "source_revised": "2026-11-05T02:39:40Z"
   },
   "Oregon|Senate": {
    "state": "Oregon",
@@ -955,7 +955,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-04T22:24:04Z"
+   "source_revised": "2026-11-05T02:41:07Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -981,7 +981,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
-   "source_revised": "2026-11-04T21:07:44Z"
+   "source_revised": "2026-11-05T02:41:57Z"
   },
   "West Virginia|Senate": {
    "state": "West Virginia",
@@ -1085,7 +1085,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-05T01:02:56Z"
+   "source_revised": "2026-11-05T02:45:26Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1747,7 +1747,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
-   "source_revised": "2026-11-05T02:30:54Z"
+   "source_revised": "2026-11-05T02:31:57Z"
   },
   "Rhode Island|Governor": {
    "state": "Rhode Island",
