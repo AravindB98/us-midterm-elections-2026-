@@ -43,18 +43,18 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-05 23:01 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-05 23:16 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
 - House: Democrats strongly favored (weighted average 92% Democratic across 9 fresh sources; every source favors Democrats). Range: 83% (ForbesPredict) to 100% (Polymarket).
-- Senate: Democrats favored (weighted average 79% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.
+- Senate: Democrats favored (weighted average 78% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.
 - Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
 
 | Consensus (weighted) | Democrats | Republicans | Fresh sources | Range across sources | Verdict |
 |---|---|---|---|---|---|
 | **House control** | 91.5% | 8.5% | 9 | 83% to 100% | Democrats strongly favored |
-| **Senate control** | 78.7% | 21.3% | 9 | 60% to 100% | Democrats favored |
+| **Senate control** | 78.5% | 21.5% | 9 | 60% to 100% | Democrats favored |
 | **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race odds | - | 51 needed |
 
 **Forecasts in the consensus**
@@ -70,7 +70,7 @@ _Last automatic update: **2026-11-05 23:01 UTC**. Markets refresh every minute, 
 | [Polymarket](https://polymarket.com/) | Prediction markets | 100.0% | 100.0% | 2026-11-04 |
 | [PredictIt](https://www.predictit.org/) | Prediction markets | 90.0% | 96.0% | 2026-11-05 |
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | 83.0% | 84.0% | 2026-11-01 |
-| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 98.7% | 95.8% | 2026-11-05 |
+| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 98.7% | 92.1% | 2026-11-05 |
 
 All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, social, academic, AI, repos): **[docs/09](docs/09-all-sources-consensus.md)**.
 
@@ -91,11 +91,11 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 
 **Latest midterm headlines (auto-updated)**
 
-- [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
 - [2026 U.S. Midterm Elections: What the Results Mean for Business](https://news.google.com/rss/articles/CBMiakFVX3lxTFBUNDk4ZWltZ1NQSVR0dHl0SFNXR0JlQ1hJUlhlQmhrbG5MQzhnMnZqNTMtV3hfNVdTQ0Zlc3hXYWZWYjlnQ1Nld05pc01rOVJqNG5HeVo0REE2aDlUbWk4QnpXRVdwYzRIckE?oc=5) (Edelman)
 - [How Trump and Republicans lost the 2026 midterm elections, according to AP Voter Poll](https://news.google.com/rss/articles/CBMivwFBVV95cUxQS19UUVpOVnlua2hDVjBiTDdKV1JQT2d2UDBwcl9SNWZoek9iQVVRTVF3Z3k4R21yckkzSndPZVJPTE5sdTFMS25YYkRuOFpVQ2JZRlZNdk1MbnFDVGVENmlubmp2TlRBYXk0dW9sXzR2Y1hpLTRGcV9XNUp6bzcxTzdqeFFGTFZBc1NtbWkzUjRrd3lZU0VyN09VZHpUMU1yNnFOVGVoT2RHQmc4S0RJR2FKUjQ4dmp5RzdqUnNoTdIBxAFBVV95cUxQd0lYX3k4cV9CRUlWU1QxMjdqQ1Y4U2tfREdIdGZ2SWZPeDY4OHZSR1RadjI4N0F5bHJ2QkxVeEFsVmV6UW1NTXFxLTZ2ZGhHMlFMbXlUZ21lT29OWWVEYk9wempVcDAwSFlWS1MyZXpTLUtJUFNkY1hSNGRzVlNhNmhVbzUyLW5xWXoyYVJwT2NvQmhjcWdGbFZaQVRHaDJfZGMwMUU1Ym1tSm5ibVZFMzNmX2lfVFRRSG92NWU0blRLUnUy?oc=5) (PBS)
 - [US midterm elections 2026: Live results in maps and charts](https://news.google.com/rss/articles/CBMibEFVX3lxTE12Mi1QTmlodnNSUVpld0kxTktqTTJYSmNMT2NWRXRaWW5yTXFJTnQ4MTlaOVQ5aTllb0tPRDJpZ3Q2MFpXTjR1N2ltVXhSbjRreVpxWkZoRjNFMk5Ma1hXcmZBaGE0UkRab2s4YQ?oc=5) (Al Jazeera)
 - [Top takeaways from the US midterm elections](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JZaU9CbWhKTzJFQWhvUW0zVFE2VnhVTWNJV2I5dlVlSlNQMVdtSW12UUhsMER2UnRYSUJzSWhnWFZxMExoTWZ4Ri1udHdrN0lZWkdCVWJ5OEp1cG1oN3dxZUY0REU5cUIzRnRmQ3F3SjJFdU9GQ2cycElXUHdoX1lEQkhJOFNURG5HZThSYklDS2s?oc=5) (Reuters)
+- [WATCH: Sen. Chuck Schumer speaks after Democrats win control of Senate](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFRCSGMwS0c3akoxRjF1Wk9oc2VzVkZwekJIV01CQzVqSndNRmtTSGUzUWZESTdpYzE3QldGamlTbHBQcFFwS3VuOTVmem1CQVdsWC1BTW54eVhndUN6VkNtN21wNUx1Yld0dVYzOTJMdlR3VWJhcDlsU2N6N1E4SUh1UGpHX2hFUV9nVEt3ME5kbk0xTHpHcGdoeHhkcDBjcWpoN0lfSTNhQdIBrwFBVV95cUxNM29lcG5EbHIwTi11UFFLX0h0YnlwcHA1bXFHc0JGN0c5YnlHNVBpX0d1V1BiMENpQUpOOWFGTzRQTFdyQjBTdjdHTXVrZ0pqajF2M0c2VjF3QUdZdVU3ZFN1aVFXSnN0b2xKMlRDYlotakFoTDQxMnBCd295Skhyam5xZW9VMk95U2hMbWlZVzV4UTQwVkt3alVvbEpfUko1MDREa2lWMmJHbkxRSnI4?oc=5) (PBS)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 

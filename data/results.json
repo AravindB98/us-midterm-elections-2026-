@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-05T23:02:52Z",
+ "updated_utc": "2026-11-05T23:17:52Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -196,7 +196,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-05T16:27:05Z",
+   "source_revised": "2026-11-05T23:12:12Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -292,20 +292,20 @@
     {
      "name": "Pete Ricketts",
      "party": "Republican Party (United States)",
-     "votes": 368798,
-     "pct": 50.3,
+     "votes": 373160,
+     "pct": 50.4,
      "party_code": "R"
     },
     {
      "name": "Dan Osborn",
      "party": "Independent politician",
-     "votes": 320562,
-     "pct": 43.7,
+     "votes": 322646,
+     "pct": 43.6,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-05T21:11:56Z"
+   "source_revised": "2026-11-05T23:12:53Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -1403,20 +1403,20 @@
     {
      "name": "Jim Pillen",
      "party": "Republican",
-     "votes": 371775,
-     "pct": 50.6,
+     "votes": 376285,
+     "pct": 50.8,
      "party_code": "R"
     },
     {
      "name": "Lynne Walz",
      "party": "Democratic",
-     "votes": 310774,
-     "pct": 42.3,
+     "votes": 312653,
+     "pct": 42.2,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
-   "source_revised": "2026-11-04T22:37:40Z"
+   "source_revised": "2026-11-05T23:09:29Z"
   },
   "Oregon|Governor": {
    "state": "Oregon",
