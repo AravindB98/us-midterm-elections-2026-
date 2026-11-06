@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06T17:34:44Z",
+ "updated_utc": "2026-11-06T17:49:44Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-06T17:23:50Z"
+   "source_revised": "2026-11-06T17:38:17Z"
   }
  },
  "control": {
@@ -253,7 +253,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-06T17:30:33Z"
+   "source_revised": "2026-11-06T17:49:11Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -279,7 +279,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-06T15:29:22Z"
+   "source_revised": "2026-11-06T17:43:00Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -533,20 +533,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 466959,
+     "votes": 467066,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 465023,
-     "pct": 48.85,
+     "votes": 465056,
+     "pct": 48.84,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-06T16:47:13Z",
+   "source_revised": "2026-11-06T17:47:21Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1669,7 +1669,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-   "source_revised": "2026-11-06T01:23:39Z"
+   "source_revised": "2026-11-06T17:41:37Z"
   },
   "Vermont|Governor": {
    "state": "Vermont",
