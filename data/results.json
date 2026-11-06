@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06T21:19:44Z",
+ "updated_utc": "2026-11-06T21:34:44Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -196,7 +196,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-06T17:07:12Z",
+   "source_revised": "2026-11-06T21:25:06Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -416,7 +416,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-06T15:15:21Z"
+   "source_revised": "2026-11-06T21:34:06Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -533,20 +533,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 467086,
+     "votes": 467829,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 465077,
+     "votes": 465336,
      "pct": 48.84,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-06T20:28:23Z",
+   "source_revised": "2026-11-06T21:27:08Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1232,7 +1232,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-06T21:19:13Z"
+   "source_revised": "2026-11-06T21:27:57Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1310,7 +1310,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
-   "source_revised": "2026-11-06T21:16:39Z"
+   "source_revised": "2026-11-06T21:20:44Z"
   },
   "South Carolina|Governor": {
    "state": "South Carolina",
