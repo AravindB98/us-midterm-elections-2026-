@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-06T06:17:48Z",
+ "updated_utc": "2026-11-06T06:32:48Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 20,
+   "D": 21,
    "R": 13,
    "I": 0,
-   "uncalled": 2
+   "uncalled": 1
   },
   "Governor": {
    "D": 22,
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-06T05:30:07Z"
+   "source_revised": "2026-11-06T06:19:29Z"
   }
  },
  "control": {
@@ -253,7 +253,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-06T00:36:35Z"
+   "source_revised": "2026-11-06T06:19:35Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -525,9 +525,9 @@
   "Mississippi|Senate": {
    "state": "Mississippi",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Scott Colom",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -546,12 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-06T04:45:14Z",
-   "too_close": {
-    "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
-    "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
-    "hold_until_utc": "2026-11-04T19:00:00Z"
-   }
+   "source_revised": "2026-11-06T06:29:33Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -1137,7 +1132,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-05T23:40:05Z"
+   "source_revised": "2026-11-06T06:30:21Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1480,7 +1475,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
-   "source_revised": "2026-11-05T21:11:53Z"
+   "source_revised": "2026-11-06T06:26:44Z"
   },
   "New Mexico|Governor": {
    "state": "New Mexico",
@@ -1845,20 +1840,20 @@
     {
      "name": "Xavier Becerra",
      "party": "Democratic Party (United States)",
-     "votes": 4960174,
-     "pct": 64.04,
+     "votes": 5671949,
+     "pct": 64.6,
      "party_code": "D"
     },
     {
      "name": "Steve Hilton",
      "party": "Republican",
-     "votes": 2784695,
-     "pct": 35.96,
+     "votes": 3103607,
+     "pct": 35.4,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-06T00:19:17Z"
+   "source_revised": "2026-11-06T06:20:22Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
