@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06T19:49:44Z",
+ "updated_utc": "2026-11-06T20:04:44Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-06T19:49:28Z"
+   "source_revised": "2026-11-06T20:02:04Z"
   }
  },
  "control": {
@@ -533,20 +533,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 467066,
+     "votes": 467086,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 465056,
+     "votes": 465077,
      "pct": 48.84,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-06T19:15:09Z",
+   "source_revised": "2026-11-06T19:57:03Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -896,7 +896,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-06T19:46:56Z"
+   "source_revised": "2026-11-06T19:52:36Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
@@ -1000,7 +1000,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia",
-   "source_revised": "2026-11-05T10:56:50Z"
+   "source_revised": "2026-11-06T19:55:46Z"
   },
   "Wyoming|Senate": {
    "state": "Wyoming",
@@ -1104,7 +1104,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-06T16:12:04Z"
+   "source_revised": "2026-11-06T20:03:31Z"
   },
   "Florida|Governor": {
    "state": "Florida",
