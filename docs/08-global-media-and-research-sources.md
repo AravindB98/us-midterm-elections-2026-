@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-06T04:46:20Z**.
+> Latest headlines refreshed: **2026-11-06T05:01:20Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -143,9 +143,9 @@ _Note: Dawn's Washington correspondent provides regular midterm coverage._
 **Latest headlines (auto-updated):**
 - [Democrats win US Congress in midterm rout of Trump](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRMENoN0lYd3k1NTcwYmEyU2tMWXZ3OWxrbF9OVElTSVZmOTNzTFhidTB1STF6X3VKZmJhcFlTWlNhdU10SDZLQw?oc=5) (Dawn)
 - [What will historic US midterm results mean for the future of Democrats and Republicans?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEZpLWJnU1A5VVJZY3RRY0FIMHRNaVpXckp2cnZRTVoxdTlrNWRlUmIzeE9UTFVNZWh4NzdSMVc3Vk80U0szOEpNMlBBellmbnlsNUhOMUhGZzJ1N2Z0OWdZbVVTcWhwWlF5ZmRFNjlUX0F1OEI0OXVZdC1uZ05ENUVsSjFYNjduLWJ4S3FjaVc2YzEtcC1IRENLTFQtaV9JLWk1ZmZBYU1SMzdMNDZwVElB?oc=5) (Chatham House)
+- [US midterm elections 2026: Live results in maps and charts](https://news.google.com/rss/articles/CBMibEFVX3lxTE12Mi1QTmlodnNSUVpld0kxTktqTTJYSmNMT2NWRXRaWW5yTXFJTnQ4MTlaOVQ5aTllb0tPRDJpZ3Q2MFpXTjR1N2ltVXhSbjRreVpxWkZoRjNFMk5Ma1hXcmZBaGE0UkRab2s4YQ?oc=5) (Al Jazeera)
 - [US midterm elections: live results tracker](https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1NENEJIQklMNTBmTkc4UWJiRTdjSkRuVXE1NjFkWWdLYW4xSlZtSWdSTEpSN3VWX3FrNGFzX09KeWFxbzZjZXdHc1V6RXJBalU3YVltNnVVZHFtdkVLSFlWYlhwNXdjX0Q5REs4SndsNnk3ZGpNYS03RHpTYm5NVEt3?oc=5) (The Conversation)
 - [The US Midterm Elections: Views From China](https://news.google.com/rss/articles/CBMif0FVX3lxTE9hY0hBTC1hc2dlRTFFc0R0dnFvUnI0bjctU2p2aWpuNHN3bndoYUZLNTlrcU40Ukhrb0JaU2ZsZG1OTXpCLVBsZXI0bUtGUjg0ZHRDd0l1U1VDNGxMcHlXc2toaHJrdzhrWDdHaXFiVmNJbnN0dWI2dzVqenBpNkk?oc=5) (The Diplomat – Asia-Pacific Current Affairs Magazine)
-- [What US midterm election results mean for the region](https://news.google.com/rss/articles/CBMimAFBVV95cUxNYU9lVU5HYWNIU0szY2Y1cjl3Z2RtM3VwWTBmbHMzLUhZNG1FMGxkMjc4czA2NVRZcnNiajBVZVBVcGxHQUprUE81Z1FwOTZibmhzTWJySjAzMmR2VzlUM1RYamg1OU5UZ2VwdEhxOHVSTnUteE5rNDZRTzVQR3o2c3dyRDdwaXZXNDRJZkQwbXZQSkdlYWx5WQ?oc=5) (Arab News)
 
 
 ## Nigeria
@@ -166,7 +166,7 @@ _Note: Interest centers on US visa policy, travel restrictions and Nigerian-Amer
 - [Seen And Heard At The US Midterm Elections](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWdaa25fbzFyLWF1NVZuVmVlWTNBWUVLNng5aERKeC1UOF9pMXBQQndPY1pRLXBCY3BQUElYT0VpM1IyY1kzTjFUUHpGenJiczkycGhMMmVaV0pjb3VId2l0QUVPVnF2eW5aaGhUYTBYdnV3UTdRanRtX0xNcGVKOFcyd19yRGtU?oc=5) (Channels Television)
 - [UPDATED: 14 Nigerian-Americans secure victories in US midterm elections](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmFpNXk3bkZ3aUt3Wmc5R0NLekVJWEN6aHhrS09pQVJKbG45aURQMEZsZTcyckhpeXBxUEczM0dXcWZ1VzVHSlpRSmpHc3FES09qU0lNUW0zZk5RWUJQZ3lRUG5jU1pvaEc0UHlFLVVKcXF1R2J5elkxX1pySDhpUWtGN2V2VzAtNldraFhhWlhNTjh6ZHF2S2s1N0VKQXBZSGxLSThBcXJ2Z0Q2dkhQdFpncTdWSTIzSFo4djNMUVVBVEhtWVAwZmxQaElabDJ2?oc=5) (Premium Times Nigeria)
 - [What will historic US midterm results mean for the future of Democrats and Republicans?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEZpLWJnU1A5VVJZY3RRY0FIMHRNaVpXckp2cnZRTVoxdTlrNWRlUmIzeE9UTFVNZWh4NzdSMVc3Vk80U0szOEpNMlBBellmbnlsNUhOMUhGZzJ1N2Z0OWdZbVVTcWhwWlF5ZmRFNjlUX0F1OEI0OXVZdC1uZ05ENUVsSjFYNjduLWJ4S3FjaVc2YzEtcC1IRENLTFQtaV9JLWk1ZmZBYU1SMzdMNDZwVElB?oc=5) (Chatham House)
-- [FULL LIST: Nigerian-Americans who won in US midterm elections](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVm1MaDBTSkNYd25MaGVVT2F3RmNPZldwb0ZmdDBGejE5ZUp4cHpYUnlkNlJ0YTNHUDAtUVJiZWpyVDZOdjNjTkl5M25RZlB1M2JmX21zcVloaFN5ME1FUlQyNHRYc3BMblI5VU9xd3JNang4czZ6YjhEUkpod213LTBHTkYyN2ZH?oc=5) (Punch Newspapers)
+- [Who will win the midterms? How the US elections will be won and lost](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qeHZpUU1lTm12dDU5M2dQUzU5M3FEbFRlRnkybWtkRFl4aHEwLVh6N3hmbDRwdG9BU2ZFYVFhSFZ4cTBLbk4tR1gtMjZXcUREUGNOd0huNEJ4T1k?oc=5) (BBC)
 - [Winners and losers of 2026 US Midterms](https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1FmYnFvd0pQQXJLSFY5NTFVeVZMTWZkX3ZxTGRMRl9aYzBRRnlIVC1IQVdlOGwyckd2c1FOWi1rMFh1ajlJcW1IbnYtRTBNTkVUTjhPZkFaN0d3Uk1ISmtLTnV1dDdGQ0lQV1F4a2ZSeTRDV1o4cEE1ZDBQc09ncWxCMTFlem45QmU1RjAxZzJVM0hVcl9UX2R0RzE?oc=5) (Premium Times Nigeria)
 
 
@@ -206,10 +206,10 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 
 **Latest headlines (auto-updated):**
 - [2026 U.S. Midterm Elections: What the Results Mean for Business](https://news.google.com/rss/articles/CBMiakFVX3lxTFBUNDk4ZWltZ1NQSVR0dHl0SFNXR0JlQ1hJUlhlQmhrbG5MQzhnMnZqNTMtV3hfNVdTQ0Zlc3hXYWZWYjlnQ1Nld05pc01rOVJqNG5HeVo0REE2aDlUbWk4QnpXRVdwYzRIckE?oc=5) (Edelman)
-- [Democrats win control of U.S. House, in major rebuke to Trump](https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGd4OUI2RHhaUWlxWXJ5aEtNUDRwNnBiWFMwamdnSmVhdVZWd3lkc2ZxcGx0T0V1N0VzMGtpUHhhTzhoWEFVWUpVRkpZcG95czZqNVBwVDRqYTJjYUstT3ZJeWltekxucUFnazhRM0ZYWXVkdXEybmhNdkhpcHFXOWl30gGHAUFVX3lxTE9RM0NEa3JxeVNYZ3NDMS14Zjc5emJoTmRjMUxyNzJqZkhfRFBONURNZWZnZFA1WUtQd0lvc1E2OWpEVGlLWEhOZ3NsWVJNdHVYZktIaWpPVVN5V1l6cE5rT3RWSDJPSlF1X1JISzNFcl90V0ZLRi1vdkc5SWRKTG9ORTN6akdPUQ?oc=5) (PBS)
+- [WATCH: Sen. Chuck Schumer speaks after Democrats win control of Senate](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFRCSGMwS0c3akoxRjF1Wk9oc2VzVkZwekJIV01CQzVqSndNRmtTSGUzUWZESTdpYzE3QldGamlTbHBQcFFwS3VuOTVmem1CQVdsWC1BTW54eVhndUN6VkNtN21wNUx1Yld0dVYzOTJMdlR3VWJhcDlsU2N6N1E4SUh1UGpHX2hFUV9nVEt3ME5kbk0xTHpHcGdoeHhkcDBjcWpoN0lfSTNhQdIBrwFBVV95cUxNM29lcG5EbHIwTi11UFFLX0h0YnlwcHA1bXFHc0JGN0c5YnlHNVBpX0d1V1BiMENpQUpOOWFGTzRQTFdyQjBTdjdHTXVrZ0pqajF2M0c2VjF3QUdZdVU3ZFN1aVFXSnN0b2xKMlRDYlotakFoTDQxMnBCd295Skhyam5xZW9VMk95U2hMbWlZVzV4UTQwVkt3alVvbEpfUko1MDREa2lWMmJHbkxRSnI4?oc=5) (PBS)
 - [What will historic US midterm results mean for the future of Democrats and Republicans?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEZpLWJnU1A5VVJZY3RRY0FIMHRNaVpXckp2cnZRTVoxdTlrNWRlUmIzeE9UTFVNZWh4NzdSMVc3Vk80U0szOEpNMlBBellmbnlsNUhOMUhGZzJ1N2Z0OWdZbVVTcWhwWlF5ZmRFNjlUX0F1OEI0OXVZdC1uZ05ENUVsSjFYNjduLWJ4S3FjaVc2YzEtcC1IRENLTFQtaV9JLWk1ZmZBYU1SMzdMNDZwVElB?oc=5) (Chatham House)
 - [Top takeaways from the US midterm elections](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JZaU9CbWhKTzJFQWhvUW0zVFE2VnhVTWNJV2I5dlVlSlNQMVdtSW12UUhsMER2UnRYSUJzSWhnWFZxMExoTWZ4Ri1udHdrN0lZWkdCVWJ5OEp1cG1oN3dxZUY0REU5cUIzRnRmQ3F3SjJFdU9GQ2cycElXUHdoX1lEQkhJOFNURG5HZThSYklDS2s?oc=5) (Reuters)
-- [WATCH: Sen. Chuck Schumer speaks after Democrats win control of Senate](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFRCSGMwS0c3akoxRjF1Wk9oc2VzVkZwekJIV01CQzVqSndNRmtTSGUzUWZESTdpYzE3QldGamlTbHBQcFFwS3VuOTVmem1CQVdsWC1BTW54eVhndUN6VkNtN21wNUx1Yld0dVYzOTJMdlR3VWJhcDlsU2N6N1E4SUh1UGpHX2hFUV9nVEt3ME5kbk0xTHpHcGdoeHhkcDBjcWpoN0lfSTNhQdIBrwFBVV95cUxNM29lcG5EbHIwTi11UFFLX0h0YnlwcHA1bXFHc0JGN0c5YnlHNVBpX0d1V1BiMENpQUpOOWFGTzRQTFdyQjBTdjdHTXVrZ0pqajF2M0c2VjF3QUdZdVU3ZFN1aVFXSnN0b2xKMlRDYlotakFoTDQxMnBCd295Skhyam5xZW9VMk95U2hMbWlZVzV4UTQwVkt3alVvbEpfUko1MDREa2lWMmJHbkxRSnI4?oc=5) (PBS)
+- [Democrats win control of U.S. House, in major rebuke to Trump](https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGd4OUI2RHhaUWlxWXJ5aEtNUDRwNnBiWFMwamdnSmVhdVZWd3lkc2ZxcGx0T0V1N0VzMGtpUHhhTzhoWEFVWUpVRkpZcG95czZqNVBwVDRqYTJjYUstT3ZJeWltekxucUFnazhRM0ZYWXVkdXEybmhNdkhpcHFXOWl30gGHAUFVX3lxTE9RM0NEa3JxeVNYZ3NDMS14Zjc5emJoTmRjMUxyNzJqZkhfRFBONURNZWZnZFA1WUtQd0lvc1E2OWpEVGlLWEhOZ3NsWVJNdHVYZktIaWpPVVN5V1l6cE5rT3RWSDJPSlF1X1JISzNFcl90V0ZLRi1vdkc5SWRKTG9ORTN6akdPUQ?oc=5) (PBS)
 
 
 ## Russia
@@ -300,8 +300,8 @@ _Note: Nikkei Asia frames midterms around tariffs, China policy and markets._
 - [米中間選挙の激戦地ミシガンで民主党内紛 トランプ氏「大きな動き」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FcW0xVVRRN0hhNlo0eGV0X3M4ZUtMUUZxUXgwMmVHR2xlX1JjNVc2Y2VLbkdrUGxLYUZKZDNfX2dYV2VuZXMzMmxsbzdmQkcwQ1o5SDMyaW9Ta3BoY1pmbDJ1OWROMlk?oc=5) (朝日新聞)
 - [米国：中間選挙アップデート（2026年11月） ～期日前投票でも民主党に勢い～ | 前田 和馬 | 第一ライフ資産運用経済研究所](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtRTZLQWdCTUM2TkZKb29ZZG8ySy0waHA3Z05MLURwUXZVWUtQcVpFcWdBLUN1TVdVRkxqUHlrOHpGNzRvcmtJTDFMaHdodE5QU3BkZ1NQYkxObnM?oc=5) (第一ライフ資産運用経済研究所)
 - [【米中間選挙2026】 民主党、上下両院で主導権を奪う　トランプ政権を有権者が否定](https://news.google.com/rss/articles/CBMiYEFVX3lxTE80bW5UT2VtejFsS3UtbWVvWEJLQkpuTDhUX2xaekxBSFRobzFFMlo2SWE4anByLU40d2UtQnVkUWRYOFJFQU1qc0E2ZjJmZ2pEd0hIVUpHcFdtakoxdnRZV9IBZkFVX3lxTE83SnczdHZYY2ZQSnN0WW54bkFoNl9zaTBYMWUtTVZheGRVRndkeWtnWUw4RlF4YzdjUmNBNm1LZGl6TWpSTy0zaFYwZnh4N2JDY3pmeHZrU3JxajY1MDF1dlNrS0UzUQ?oc=5) (BBC)
-- [米中間選挙、民主党が上下両院で多数派奪還 トランプ共和党は大敗](https://news.google.com/rss/articles/CBMibEFVX3lxTFBWb3lkTnVTbnBOVTRvRVhJT0d2eW1WMjZhZjVlTEtoOWNDd01PNVJ1bWxKWnF4OE96eWFoN0d6UFFaOTdEYzlkaFRrdkdSQ3NqRHVuS1BqdDl0SFNnWVdDVXZuWTV4dG1wV2ZrRA?oc=5) (日本経済新聞)
 - [米国中間選挙で民主党躍進 経済政策、2028年大統領選挙、対外政策への影響 野村證券・吉本元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cDY0REVBMHcyTXhMbWdVNno0NnIyY1RENVZWVGZzWTBpbTRHOHhRbWlsN1lxZWdvSkZKV1FubnN2U3dKNjFGT1JrbmF5SjFxSXQ0MjJXVWpKMXFOcXBj?oc=5) (野村證券)
+- [米中間選挙、民主党が上下両院で多数派奪還 トランプ共和党は大敗](https://news.google.com/rss/articles/CBMibEFVX3lxTFBWb3lkTnVTbnBOVTRvRVhJT0d2eW1WMjZhZjVlTEtoOWNDd01PNVJ1bWxKWnF4OE96eWFoN0d6UFFaOTdEYzlkaFRrdkdSQ3NqRHVuS1BqdDl0SFNnWVdDVXZuWTV4dG1wV2ZrRA?oc=5) (日本経済新聞)
 
 
 ## United Kingdom
@@ -385,9 +385,9 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 **Latest headlines (auto-updated):**
 - [Tariff relief for Canada not guaranteed after Democrats sweep U.S. midterm elections](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNemZlakFFV3J6b0owUlo1UW16cXAxZ3B3N3BVbHZWWXUzendPbEtyUHB1aDByTFZNdVVGZjlZd2hDaG5vTTA5aVB6M200UW84TlVnZFVhbC0zREtRX2VDX21RTGNjLUwtbU5kNXJPTnZ1d3o2NXNyamhidVRycmlrSGhJNF9RUXhSa1lEMlNRaFZPSFNUYV9VZmYyZjZBTXdJbmY4X3pqMm5hZkNVN1A4MnlKZjNMV0NURDlsWEVFNXdSY2N4VWM3RHhtR09ad2kt?oc=5) (CTV News)
 - [Here’s how Trump and Republicans lost the U.S. midterms: AP poll](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMjdiUF9nOHctVlhUQU5KS05oMHc4Z3A5N1N6VHlCUDY5ajNBVjZ1Nl94Y3M1Mm9JQkZ2S3Uxd1A4RWJ5STdUTEk2S1pLcW1IRnpYMVZ4c25sRUNLUGtnVFQzNXRDSUY1ZVFzN0xES0NrZVhJamFsX2Y3SFVKZmVyaXZpYi1BSTkyZ182a09n?oc=5) (Global News)
-- [US midterm elections: live results tracker](https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1NENEJIQklMNTBmTkc4UWJiRTdjSkRuVXE1NjFkWWdLYW4xSlZtSWdSTEpSN3VWX3FrNGFzX09KeWFxbzZjZXdHc1V6RXJBalU3YVltNnVVZHFtdkVLSFlWYlhwNXdjX0Q5REs4SndsNnk3ZGpNYS03RHpTYm5NVEt3?oc=5) (The Conversation)
 - [‘Cartwheels’ in Canada after Trump punished in US midterm elections](https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXl0RG9oOUJld0xCR2tyS2JuVTctdmVnZTdFM0h2aWZxQXRaWnNiNTJOMzZtOTVlQnNFTmVlNzZPUVFYLXp0UkxvS19sVjVwMl9KU0RNb1JCRW1HbW5LampiRTZfYXNyZHJkSk1OczVidThvQm5qLTRQR3gxSHUxZGNNVGU?oc=5) (Financial Times)
-- [Democrats flip Congress from GOP control in 2026 U.S. midterm elections](https://news.google.com/rss/articles/CBMirAFBVV95cUxPSW1LQU12S19iaTNQdVFZb0VpUzhRZEpHYXE4OHdPc0dWN0JVTVl5dVhpZ1BOSmhfU1AzZTRGZUktTHpfVExWNWpmWUZTU0Zsd2dodjZnN1B2QklGTUNfLVpPMENreEl3VzVYc0FyOW5SWVpVbXhTalZMZExFVnBUVUIwcmxVdG5zS0J1Uk9YSDJNMmJmdDhHMkFxdmo5ZFNwRHVucEpOS09WblFw?oc=5) (Global News)
+- [US midterm elections: live results tracker](https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1NENEJIQklMNTBmTkc4UWJiRTdjSkRuVXE1NjFkWWdLYW4xSlZtSWdSTEpSN3VWX3FrNGFzX09KeWFxbzZjZXdHc1V6RXJBalU3YVltNnVVZHFtdkVLSFlWYlhwNXdjX0Q5REs4SndsNnk3ZGpNYS03RHpTYm5NVEt3?oc=5) (The Conversation)
+- [Stock markets surging after U.S. midterm election as oil prices plummet](https://news.google.com/rss/articles/CBMif0FVX3lxTE9nOGFBallnWXFmQTlfc21UaGhFd19NRE1jSnFsUnRxaHBjcFRKZ1NQWFRaSXBZaGhrbEF1VHdjS21JYm96OUYzd2F3WXRwVGg1cUpMYVl1VmpCZWcyUEFMdDRyamdXUnVUbndoS0tQVDRWRHc1S25JY2R0MElONzg?oc=5) (Global News)
 
 
 ## Live topic feeds
@@ -425,8 +425,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [How Texas Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jT3l2eVZicnkxNjNzWW9QcDlmR0NneThvdWNvSUZtUHV1dDhUWGlGYmtEdnZ2cTY4MVNhcFNsM2tFYzhKUWVhRGQxd1pmM3B2NkhtNUxJandadHNCSDllTWtpT3QwREhvWXdCcEJwWGdCN2FKLXVZSDg4TklpUTg?oc=5) (The New York Times)
 - [US midterm election results in graphics and charts](https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5) (Reuters)
 - [How Democrats Swept Wisconsin Up and Down the Ballot](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHlrTEZqTDJWXzR6YXlYdEw4VXVTelE1VkVpYmhOYmo5NjN3SnZPdDdfSlc1djI3UmZRWUNWU3RTT3F0bDNsUUR6cVMtbVAtalFoTXlqR1QyRjZmWGtPWG9EQ3I5cmVXZE50d3A5TU5hdnRDeUlVbGR5cTFCWS13SWxiZUJEd3RlUUtvM3ZuLUNEc19ydGp2SlhaSUo0UERW?oc=5) (Marquette Law School)
-- [2026 Texas Midterm Election Results](https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ekZMQkpEN0tQTUl1N0o5UXBMWXVSWHV4aG1ZYnNuT2lCRllyUlhTV3JmeHdaMnY1d3lQZ0xsR1Q0LXhmNlNKTUdxeVhrMWgtZXlwRTQtQXZQbExjUUZENXFId3Z0dy1O?oc=5) (AP News)
 - [Where Trump and Republicans lost the midterms – a visual analysis of the key states](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXRweUlZaFhVWmR6c0l2VzdxcXNrX2ZkRGRxQ25IRW16dmJNZUgtbDVDR21HYTVJejdNd28xdGY0YW9La2pKS3pxc0lHc1g0ZExZZWVXdlhxcXVPTi13WUc0eHpSa1hSb2hWa242ZzJFU1haM09GOXB6c2tzYTFGQkNJUzAzcHpYZjJ4N1AyallMRE91b2xEQUFGNnl6dzA?oc=5) (The Guardian)
+- [2026 Texas Midterm Election Results](https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ekZMQkpEN0tQTUl1N0o5UXBMWXVSWHV4aG1ZYnNuT2lCRllyUlhTV3JmeHdaMnY1d3lQZ0xsR1Q0LXhmNlNKTUdxeVhrMWgtZXlwRTQtQXZQbExjUUZENXFId3Z0dy1O?oc=5) (AP News)
 
 ---
 
