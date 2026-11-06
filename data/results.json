@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06T16:04:17Z",
+ "updated_utc": "2026-11-06T16:18:17Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -196,7 +196,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-06T13:39:50Z",
+   "source_revised": "2026-11-06T16:09:00Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -533,20 +533,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 466775,
+     "votes": 467233,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 464962,
-     "pct": 48.85,
+     "votes": 465146,
+     "pct": 48.84,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-06T16:01:32Z",
+   "source_revised": "2026-11-06T16:12:35Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1098,20 +1098,20 @@
     {
      "name": "Keisha Lance Bottoms",
      "party": "Democratic Party of Georgia",
-     "votes": 2268462,
+     "votes": 2271433,
      "pct": 54.3,
      "party_code": "D"
     },
     {
      "name": "Rick Jackson",
      "party": "Georgia Republican Party",
-     "votes": 1908261,
+     "votes": 1909170,
      "pct": 45.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-06T03:16:05Z"
+   "source_revised": "2026-11-06T16:12:04Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1252,20 +1252,20 @@
     {
      "name": "Gina Hinojosa",
      "party": "Texas Democratic Party",
-     "votes": 5230908,
+     "votes": 5230929,
      "pct": 52.8,
      "party_code": "D"
     },
     {
      "name": "Greg Abbott",
      "party": "Republican Party of Texas",
-     "votes": 4524948,
+     "votes": 4524955,
      "pct": 45.67,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-06T12:53:59Z"
+   "source_revised": "2026-11-06T16:17:59Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
