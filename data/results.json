@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06T05:18:20Z",
+ "updated_utc": "2026-11-06T05:33:19Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-06T03:35:14Z"
+   "source_revised": "2026-11-06T05:30:07Z"
   }
  },
  "control": {
@@ -279,7 +279,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-06T01:37:40Z"
+   "source_revised": "2026-11-06T05:29:09Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -1623,20 +1623,20 @@
     {
      "name": "Ned Lamont",
      "party": "Democratic Party (United States)",
-     "votes": 718126,
-     "pct": 58.8,
+     "votes": 770539,
+     "pct": 59.51,
      "party_code": "D"
     },
     {
      "name": "Ryan Fazio",
      "party": "Republican Party (United States)",
-     "votes": 503032,
-     "pct": 41.2,
+     "votes": 524135,
+     "pct": 40.48,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Connecticut_gubernatorial_election",
-   "source_revised": "2026-11-04T22:20:51Z"
+   "source_revised": "2026-11-06T05:31:03Z"
   },
   "Tennessee|Governor": {
    "state": "Tennessee",
@@ -1832,7 +1832,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_South_Dakota_gubernatorial_election",
-   "source_revised": "2026-11-05T10:55:07Z"
+   "source_revised": "2026-11-06T05:31:43Z"
   },
   "California|Governor": {
    "state": "California",
@@ -2002,7 +2002,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election",
-   "source_revised": "2026-11-04T19:36:22Z"
+   "source_revised": "2026-11-06T05:22:54Z"
   },
   "Wyoming|Governor": {
    "state": "Wyoming",
