@@ -1,0 +1,63 @@
+{
+  "_about": "Sources polled by scripts/update_live.py. Each source is fetched, converted to plain text, and the regexes below pull the Democratic chance of controlling each chamber. If a regex stops matching (site redesign), the last good value is kept and marked stale. Edit regexes here, not in code.",
+  "election_date": "2026-11-03",
+  "chamber_sources": [
+    {
+      "id": "ddhq",
+      "name": "Decision Desk HQ",
+      "type": "model",
+      "url": "https://votes.decisiondeskhq.com/forecast/2026",
+      "house_regex": "Democrats\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+to\\s+win\\s+the\\s+House",
+      "senate_regex": "Democrats\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+to\\s+win\\s+the\\s+Senate"
+    },
+    {
+      "id": "silver",
+      "name": "Silver Bulletin (FLIPR)",
+      "type": "model",
+      "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "house_regex": "Democrats\\s+have\\s+(?:about\\s+)?an?\\s+(\\d{1,3}(?:\\.\\d)?)\\s*(?:percent|%)\\s+chance\\s+of\\s+(?:re)?taking\\s+the\\s+House",
+      "senate_regex": "Democrats\\s+have\\s+(?:about\\s+)?an?\\s+(\\d{1,3}(?:\\.\\d)?)\\s*(?:percent|%)\\s+chance\\s+of\\s+(?:winning|taking|controlling)\\s+the\\s+Senate"
+    },
+    {
+      "id": "poliwave",
+      "name": "Poliwave",
+      "type": "model",
+      "url": "https://www.poliwave.com/us/fed/projection",
+      "house_regex": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+of\\s+controlling\\s+the\\s+House",
+      "senate_regex": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+of\\s+controlling\\s+the\\s+Senate"
+    },
+    {
+      "id": "midtermforecast",
+      "name": "midtermforecast.com",
+      "type": "model",
+      "url": "https://midtermforecast.com/",
+      "house_regex": "(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+to\\s+win\\s+the\\s+House",
+      "senate_regex": "Democrats\\s+have\\s+an?\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+to\\s+win\\s+the\\s+Senate"
+    },
+    {
+      "id": "kalshi",
+      "name": "Kalshi (market)",
+      "type": "market",
+      "url": "https://news.kalshi.com/p/2026-midterm-predictions",
+      "house_regex": "Democrats\\s+an?\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+of\\s+winning\\s+the\\s+House",
+      "senate_regex": "and\\s+an?\\s+(\\d{1,3}(?:\\.\\d)?)%\\s+chance\\s+of\\s+controlling\\s+the\\s+Senate"
+    }
+  ],
+  "race_sources": {
+    "senate": {
+      "name": "Decision Desk HQ Senate forecast",
+      "url": "https://votes.decisiondeskhq.com/forecast/2026/senate"
+    },
+    "governor": {
+      "name": "Decision Desk HQ Governor forecast",
+      "url": "https://votes.decisiondeskhq.com/forecast/2026/governor"
+    }
+  },
+  "context_sources": [
+    {"name": "Cook Political Report ratings", "url": "https://www.cookpolitical.com/ratings"},
+    {"name": "Fox News Power Rankings (Senate rated Toss-up, Nov 1)", "url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing"},
+    {"name": "NYT/Siena final Senate polls (via Political Wire)", "url": "https://politicalwire.com/2026/11/01/democrats-lead-in-every-key-senate-race/"},
+    {"name": "RealClearPolling Senate polls", "url": "https://www.realclearpolling.com/latest-polls/senate"},
+    {"name": "270toWin consensus maps", "url": "https://www.270towin.com/2026-senate-election-predictions"}
+  ]
+}

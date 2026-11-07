@@ -1,0 +1,192 @@
+{
+ "note": "Race calls and chamber control verified by hand from news reports of AP / network projections, used only where the race's Wikipedia page has not yet recorded the winner. Unofficial until states certify.",
+ "checked_utc": "2026-11-04T13:45:00Z",
+ "races": {
+  "Alabama|Governor": {
+   "winner": "Tommy Tuberville",
+   "party": "R",
+   "called_by": "AP",
+   "source": "https://www.wbhm.org/local-news/2026-11-04/tuberville-wins-election-for-alabama-governor"
+  },
+  "Nebraska|Senate": {
+   "winner": "Pete Ricketts",
+   "party": "R",
+   "called_by": "AP",
+   "source": "https://www.wvva.com/2026/11/04/republican-pete-ricketts-wins-reelection-us-senate-over-independent-challenger-nebraska/"
+  },
+  "Nebraska|Governor": {
+   "winner": "Jim Pillen",
+   "party": "R",
+   "called_by": "AP",
+   "source": "https://www.newsfromthestates.com/article/nebraska-gov-jim-pillen-wins-reelection"
+  },
+  "New Hampshire|Governor": {
+   "winner": "Kelly Ayotte",
+   "party": "R",
+   "called_by": "AP",
+   "source": "https://www.cbsnews.com/boston/news/new-hampshire-governor-election-results-kelly-ayotte/"
+  },
+  "Hawaii|Governor": {
+   "winner": "Josh Green",
+   "party": "D",
+   "called_by": "NBC News",
+   "source": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+  },
+  "New Jersey|Senate": {
+   "winner": "Cory Booker",
+   "party": "D",
+   "called_by": "ABC News",
+   "source": "https://abc7ny.com/live-updates/election-day-2026-what-voters-need-know-ny-nj-ct/20008999/entry/20013549/"
+  },
+  "Delaware|Senate": {
+   "winner": "Chris Coons",
+   "party": "D",
+   "called_by": "Networks (CNN tally: D 54, R 44, only AK and MS uncalled)",
+   "source": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+  },
+  "Oregon|Senate": {
+   "winner": "Jeff Merkley",
+   "party": "D",
+   "called_by": "Networks (CNN tally: D 54, R 44, only AK and MS uncalled)",
+   "source": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+  },
+  "Rhode Island|Senate": {
+   "winner": "Jack Reed",
+   "party": "D",
+   "called_by": "Networks (CNN tally: D 54, R 44, only AK and MS uncalled)",
+   "source": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+  },
+  "Arkansas|Senate": {
+   "winner": "Tom Cotton",
+   "party": "R",
+   "called_by": "Networks (CNN tally: D 54, R 44, only AK and MS uncalled)",
+   "source": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+  },
+  "Tennessee|Senate": {
+   "winner": "Bill Hagerty",
+   "party": "R",
+   "called_by": "Networks (CNN tally: D 54, R 44, only AK and MS uncalled)",
+   "source": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+  },
+  "New York|Governor": {
+   "winner": "Kathy Hochul",
+   "party": "D",
+   "called_by": "ABC News",
+   "source": "https://abc7ny.com/live-updates/election-day-2026-what-voters-need-know-ny-nj-ct/20008999/entry/20013549/"
+  },
+  "Colorado|Governor": {
+   "winner": "Phil Weiser",
+   "party": "D",
+   "called_by": "ABC News",
+   "source": "https://abc7ny.com/live-updates/election-day-2026-what-voters-need-know-ny-nj-ct/20008999/entry/20013549/"
+  },
+  "Connecticut|Governor": {
+   "winner": "Ned Lamont",
+   "party": "D",
+   "called_by": "ABC News",
+   "source": "https://abc7ny.com/live-updates/election-day-2026-what-voters-need-know-ny-nj-ct/20008999/entry/20013549/"
+  },
+  "Massachusetts|Governor": {
+   "winner": "Maura Healey",
+   "party": "D",
+   "called_by": "ABC News",
+   "source": "https://abc7news.com/live-updates/midterm-elections-2026-live-updates-election-results-key-races-us/20001292/entry/20013366/"
+  },
+  "Pennsylvania|Governor": {
+   "winner": "Josh Shapiro",
+   "party": "D",
+   "called_by": "ABC News",
+   "source": "https://abc7news.com/live-updates/midterm-elections-2026-live-updates-election-results-key-races-us/20001292/entry/20013366/"
+  },
+  "Michigan|Governor": {
+   "winner": "Jocelyn Benson",
+   "party": "D",
+   "called_by": "NBC News",
+   "source": "https://www.nbcnews.com/politics/2026-elections/michigan-governor-results"
+  },
+  "Minnesota|Governor": {
+   "winner": "Amy Klobuchar",
+   "party": "D",
+   "called_by": "Projected (results aggregator)",
+   "source": "https://au.atlasbig.com/government/midterm-elections-2026"
+  },
+  "New Mexico|Governor": {
+   "winner": "Deb Haaland",
+   "party": "D",
+   "called_by": "Projected (results aggregator)",
+   "source": "https://au.atlasbig.com/government/midterm-elections-2026"
+  },
+  "Maine|Governor": {
+   "winner": "Hannah Pingree",
+   "party": "D",
+   "called_by": "Projected (results aggregator)",
+   "source": "https://au.atlasbig.com/government/midterm-elections-2026"
+  },
+  "Idaho|Governor": {
+   "winner": "Brad Little",
+   "party": "R",
+   "called_by": "Projected (results aggregator)",
+   "source": "https://au.atlasbig.com/government/midterm-elections-2026"
+  },
+  "South Dakota|Governor": {
+   "winner": "Larry Rhoden",
+   "party": "R",
+   "called_by": "Projected (results aggregator)",
+   "source": "https://au.atlasbig.com/government/midterm-elections-2026"
+  }
+ },
+ "too_close": {
+  "Alaska|Senate": {
+   "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
+   "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
+   "hold_until_utc": "2026-11-04T19:00:00Z"
+  },
+  "Mississippi|Senate": {
+   "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
+   "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
+   "hold_until_utc": "2026-11-04T19:00:00Z"
+  },
+  "Kansas|Governor": {
+   "note": "Too close to call as of Wednesday morning per AP; mail ballots still arriving. Holscher leads narrowly.",
+   "source": "https://www.kwch.com/2026/11/04/holscher-holds-narrow-lead-over-masterson-uncalled-kansas-governors-race/",
+   "hold_until_utc": "2026-11-04T19:00:00Z"
+  },
+  "Alaska|Governor": {
+   "note": "Not yet called; absentee ballots and ranked-choice tabulation pending.",
+   "source": "https://alaskabeacon.com/2026/11/03/jonathan-kreiss-tomkins-leading-in-alaskas-gubernatorial-race-in-early-results/",
+   "hold_until_utc": "2026-11-04T19:00:00Z"
+  }
+ },
+ "control": {
+  "Senate": {
+   "party": "D",
+   "called_by": "AP, CBS, NBC, CNN",
+   "detail": "Democrats projected to win the Senate majority. Alaska and Mississippi still too close to call.",
+   "sources": [
+    [
+     "AP via Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    ]
+   ]
+  },
+  "House": {
+   "party": "D",
+   "called_by": "AP, CBS, NBC, CNN",
+   "detail": "Democrats projected to win the House majority (218 needed). NBC News projects about 258 Democratic seats; counting continues.",
+   "sources": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+    ]
+   ]
+  }
+ }
+}

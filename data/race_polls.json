@@ -1,0 +1,310 @@
+{
+ "_about": "Pre-election polls and averages per competitive Senate race (final week), as reported by the linked sources. Margin = Democratic minus Republican, in points. Snapshot, not auto-updated.",
+ "turnout_source": {
+  "name": "University of Florida Election Lab, 2022 General Election Turnout Rates v1.2",
+  "url": "https://election.lab.ufl.edu/dataset/2022-general-election-turnout-rates-v1-2/",
+  "csv": "https://election.lab.ufl.edu/data-downloads/turnoutdata/Turnout_2022G_v1.2.csv"
+ },
+ "rules": {
+  "Alaska": "Ranked-choice: winner needs a majority after rounds are tallied.",
+  "Maine": "Ranked-choice in federal races: majority after tallying rounds.",
+  "Georgia": "Runoff if no candidate gets 50% + 1.",
+  "Louisiana": "Majority required; runoff if no one passes 50%."
+ },
+ "polls": {
+  "Texas": [
+   {
+    "source": "NYT/Siena",
+    "dem": 50,
+    "rep": 43,
+    "date": "Nov 1",
+    "url": "https://politicalwire.com/2026/11/01/democrats-lead-in-every-key-senate-race/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 7
+   },
+   {
+    "source": "YouGov",
+    "dem": 51,
+    "rep": 47,
+    "date": "Nov 1",
+    "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 4
+   },
+   {
+    "source": "ActiVote",
+    "dem": 52.1,
+    "rep": 47.9,
+    "date": "Oct 28",
+    "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+    "lean": "Nonpartisan / unrated",
+    "kind": "Poll",
+    "margin": 4.2
+   },
+   {
+    "source": "RealClearPolitics average",
+    "dem": null,
+    "rep": null,
+    "date": "late Oct",
+    "url": "https://www.uspresidentialelectionnews.com/2026-senate-polls/",
+    "lean": "Center-right (per AllSides: Lean Right)",
+    "kind": "Average",
+    "margin": 1.4
+   }
+  ],
+  "Kansas": [
+   {
+    "source": "NYT/Siena",
+    "dem": 49,
+    "rep": 44,
+    "date": "Nov 1",
+    "url": "https://politicalwire.com/2026/11/01/democrats-lead-in-every-key-senate-race/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 5
+   },
+   {
+    "source": "YouGov",
+    "dem": 50,
+    "rep": 49,
+    "date": "Nov 1",
+    "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 1
+   },
+   {
+    "source": "Emerson College / Nexstar",
+    "dem": 48.7,
+    "rep": 45.2,
+    "date": "Oct 28",
+    "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 3.5
+   },
+   {
+    "source": "RealClearPolitics average",
+    "dem": null,
+    "rep": null,
+    "date": "late Oct",
+    "url": "https://www.uspresidentialelectionnews.com/2026-senate-polls/",
+    "lean": "Center-right (per AllSides: Lean Right)",
+    "kind": "Average",
+    "margin": 2.6
+   }
+  ],
+  "Maine": [
+   {
+    "source": "NYT/Siena",
+    "dem": 51,
+    "rep": 45,
+    "date": "Nov 1",
+    "url": "https://politicalwire.com/2026/11/01/democrats-lead-in-every-key-senate-race/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 6
+   },
+   {
+    "source": "YouGov",
+    "dem": 52,
+    "rep": 47,
+    "date": "Nov 1",
+    "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 5
+   },
+   {
+    "source": "CNN/SSRS",
+    "dem": 49,
+    "rep": 45,
+    "date": "Oct 26",
+    "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 4
+   },
+   {
+    "source": "Fox News Poll",
+    "dem": 49,
+    "rep": 49,
+    "date": "late Oct",
+    "url": "https://www.foxnews.com/elections/2026/midterm-results/senate",
+    "lean": "Nonpartisan (bipartisan team)",
+    "kind": "Poll",
+    "margin": 0
+   },
+   {
+    "source": "RealClearPolitics average",
+    "dem": null,
+    "rep": null,
+    "date": "late Oct",
+    "url": "https://www.uspresidentialelectionnews.com/2026-senate-polls/",
+    "lean": "Center-right (per AllSides: Lean Right)",
+    "kind": "Average",
+    "margin": 1.7
+   }
+  ],
+  "Ohio": [
+   {
+    "source": "NYT/Siena",
+    "dem": 49,
+    "rep": 44,
+    "date": "Nov 1",
+    "url": "https://politicalwire.com/2026/11/01/democrats-lead-in-every-key-senate-race/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 5
+   },
+   {
+    "source": "YouGov",
+    "dem": 50,
+    "rep": 48,
+    "date": "Nov 1",
+    "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 2
+   },
+   {
+    "source": "Suffolk University",
+    "dem": 47,
+    "rep": 44,
+    "date": "Oct 26",
+    "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 3
+   },
+   {
+    "source": "RealClearPolitics average",
+    "dem": null,
+    "rep": null,
+    "date": "late Oct",
+    "url": "https://www.uspresidentialelectionnews.com/2026-senate-polls/",
+    "lean": "Center-right (per AllSides: Lean Right)",
+    "kind": "Average",
+    "margin": 2.6
+   }
+  ],
+  "Alaska": [
+   {
+    "source": "NYT/Siena",
+    "dem": 48,
+    "rep": 46,
+    "date": "Nov 1",
+    "url": "https://politicalwire.com/2026/11/01/democrats-lead-in-every-key-senate-race/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 2
+   },
+   {
+    "source": "NBC tracker (latest poll)",
+    "dem": 51,
+    "rep": 49,
+    "date": "late Oct",
+    "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 2
+   },
+   {
+    "source": "RealClearPolitics average",
+    "dem": null,
+    "rep": null,
+    "date": "late Oct",
+    "url": "https://www.uspresidentialelectionnews.com/2026-senate-polls/",
+    "lean": "Center-right (per AllSides: Lean Right)",
+    "kind": "Average",
+    "margin": 1.2
+   }
+  ],
+  "Iowa": [
+   {
+    "source": "NYT/Siena",
+    "dem": 48,
+    "rep": 47,
+    "date": "Nov 1",
+    "url": "https://politicalwire.com/2026/11/01/democrats-lead-in-every-key-senate-race/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 1
+   },
+   {
+    "source": "YouGov",
+    "dem": 50,
+    "rep": 49,
+    "date": "Nov 1",
+    "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 1
+   },
+   {
+    "source": "Echelon Insights (NetChoice)",
+    "dem": 45,
+    "rep": 43,
+    "date": "Oct 23",
+    "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+    "lean": "Republican-aligned firm",
+    "kind": "Poll",
+    "margin": 2
+   },
+   {
+    "source": "RealClearPolitics average",
+    "dem": null,
+    "rep": null,
+    "date": "late Oct",
+    "url": "https://www.uspresidentialelectionnews.com/2026-senate-polls/",
+    "lean": "Center-right (per AllSides: Lean Right)",
+    "kind": "Average",
+    "margin": -0.5
+   }
+  ],
+  "Michigan": [
+   {
+    "source": "NYT/Siena",
+    "dem": 53,
+    "rep": 42,
+    "date": "Nov 1",
+    "url": "https://politicalwire.com/2026/11/01/democrats-lead-in-every-key-senate-race/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 11
+   },
+   {
+    "source": "YouGov",
+    "dem": 51,
+    "rep": 47,
+    "date": "Nov 1",
+    "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 4
+   },
+   {
+    "source": "Mitchell Research (CBS Detroit)",
+    "dem": 51,
+    "rep": 44,
+    "date": "Oct 27",
+    "url": "https://www.nbcnews.com/politics/2026-elections/senate-battleground-polls",
+    "lean": "Nonpartisan",
+    "kind": "Poll",
+    "margin": 7
+   },
+   {
+    "source": "RealClearPolitics average",
+    "dem": null,
+    "rep": null,
+    "date": "late Oct",
+    "url": "https://www.uspresidentialelectionnews.com/2026-senate-polls/",
+    "lean": "Center-right (per AllSides: Lean Right)",
+    "kind": "Average",
+    "margin": 3.5
+   }
+  ]
+ }
+}

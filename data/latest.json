@@ -1,0 +1,268 @@
+{
+  "updated_utc": "2026-11-07T19:03:29Z",
+  "chambers": {
+    "ddhq": {
+      "house": 84.0,
+      "senate": 64.0,
+      "as_of": "2026-11-02",
+      "status": "stale",
+      "type": "forecast_model",
+      "name": "Decision Desk HQ / The Hill",
+      "url": "https://votes.decisiondeskhq.com/forecast/2026",
+      "lean": "Nonpartisan / unrated"
+    },
+    "silver": {
+      "house": 95.0,
+      "senate": null,
+      "as_of": "2026-11-02",
+      "status": "stale",
+      "note": "Model page states a 'meaningful edge' for Democrats in the Senate; Senate number parsed when published in page text.",
+      "type": "forecast_model",
+      "name": "Silver Bulletin (Nate Silver) FLIPR",
+      "url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "lean": "Nonpartisan / unrated"
+    },
+    "poliwave": {
+      "house": 89.0,
+      "senate": 78.0,
+      "as_of": "2026-11-02",
+      "status": "stale",
+      "type": "forecast_model",
+      "name": "Poliwave",
+      "url": "https://www.poliwave.com/us/fed/projection",
+      "lean": "Nonpartisan / unrated"
+    },
+    "midtermforecast": {
+      "house": 91.0,
+      "senate": 76.0,
+      "as_of": "2026-11-07",
+      "status": "live",
+      "type": "forecast_model",
+      "name": "midtermforecast.com",
+      "url": "https://midtermforecast.com/",
+      "lean": "Nonpartisan / unrated"
+    },
+    "kalshi": {
+      "house": 94.1,
+      "senate": 75.0,
+      "as_of": "2026-11-07",
+      "status": "live",
+      "type": "prediction_market",
+      "name": "Kalshi",
+      "url": "https://news.kalshi.com/p/2026-midterm-predictions",
+      "lean": "Nonpartisan / unrated"
+    },
+    "economist": {
+      "name": "The Economist midterm model",
+      "type": "forecast_model",
+      "url": "https://theeconomistoffthecharts.substack.com/p/our-prediction-model-for-americas",
+      "lean": "Lean Left (outlet, per AllSides)",
+      "house": 90,
+      "senate": 49,
+      "as_of": "2026-06-15",
+      "status": "stale",
+      "note": "Paywalled; last public figures reported mid-2026, so excluded from consensus until refreshed."
+    },
+    "splitticket": {
+      "name": "Split Ticket / The Argument",
+      "type": "forecast_model",
+      "url": "https://www.theargumentmag.com/p/split-ticket-2026-midterms-model",
+      "lean": "Nonpartisan / unrated",
+      "house": 89,
+      "senate": 65,
+      "as_of": "2026-10-20",
+      "status": "stale",
+      "note": "Figures as reported by Channel 4 / The New Republic in October."
+    },
+    "fiftyplusone": {
+      "name": "FiftyPlusOne / Strength In Numbers (G. Elliott Morris)",
+      "type": "forecast_model",
+      "url": "https://fiftyplusone.news/",
+      "lean": "Nonpartisan / unrated",
+      "house": 84,
+      "senate": null,
+      "as_of": "2026-10-15",
+      "status": "stale"
+    },
+    "votehub": {
+      "name": "VoteHub",
+      "type": "forecast_model",
+      "url": "https://votehub.com/",
+      "lean": "Nonpartisan / unrated",
+      "house": null,
+      "senate": 60,
+      "as_of": "2026-10-24",
+      "status": "stale",
+      "note": "Senate figure from Newsweek (10 days out)."
+    },
+    "racetothewh": {
+      "name": "Race to the WH (Logan Phillips)",
+      "type": "forecast_model",
+      "url": "https://www.racetothewh.com/senate24",
+      "lean": "Nonpartisan / unrated",
+      "status": "unavailable"
+    },
+    "jhk": {
+      "name": "JHK Forecasts",
+      "type": "forecast_model",
+      "url": "https://jhkforecasts.com/",
+      "lean": "Nonpartisan / unrated",
+      "note": "Open-methodology model; numbers not machine-readable.",
+      "status": "not machine-readable"
+    },
+    "quantus": {
+      "name": "Quantus Insights Senate forecast",
+      "type": "forecast_model",
+      "url": "https://quantus.substack.com/",
+      "lean": "Lean Right (pollster, commonly characterized)",
+      "note": "Republican-leaning pollster that also publishes a Senate model.",
+      "status": "not machine-readable"
+    },
+    "cnn_enten": {
+      "name": "CNN data analysis (Harry Enten)",
+      "type": "forecast_model",
+      "url": "https://www.cnn.com/politics",
+      "lean": "Lean Left (outlet, per AllSides)",
+      "note": "TV analysis; noted the GOP is 'very much in the ball game' (Mediaite, late Oct).",
+      "status": "not machine-readable"
+    },
+    "polymarket": {
+      "name": "Polymarket",
+      "type": "prediction_market",
+      "url": "https://polymarket.com/",
+      "lean": "Nonpartisan / unrated",
+      "house": 100.0,
+      "senate": 100.0,
+      "as_of": "2026-11-04",
+      "status": "stale",
+      "note": "Crypto-based global market; user base often described as right-leaning."
+    },
+    "predictit": {
+      "name": "PredictIt",
+      "type": "prediction_market",
+      "url": "https://www.predictit.org/",
+      "lean": "Nonpartisan / unrated",
+      "status": "live",
+      "senate": 97.0,
+      "house": 1.0,
+      "as_of": "2026-11-07"
+    },
+    "manifold": {
+      "name": "Manifold Markets",
+      "type": "crowd_forecast",
+      "url": "https://manifold.markets/",
+      "lean": "Nonpartisan / unrated",
+      "status": "live",
+      "house": 98.7,
+      "senate": 81.9,
+      "as_of": "2026-11-07"
+    },
+    "metaculus": {
+      "name": "Metaculus",
+      "type": "crowd_forecast",
+      "url": "https://www.metaculus.com/questions/34484/us-congress-control-after-2026-midterms/",
+      "lean": "Nonpartisan / unrated",
+      "note": "Low participation on 2026 questions.",
+      "status": "not machine-readable"
+    },
+    "forbespredict": {
+      "name": "ForbesPredict",
+      "type": "crowd_forecast",
+      "url": "https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/",
+      "lean": "Center (outlet)",
+      "house": 83,
+      "senate": 84,
+      "as_of": "2026-11-01",
+      "status": "seed"
+    }
+  },
+  "ensemble": {
+    "house_dem": 81.6,
+    "house_n": 9,
+    "senate_dem": 78.0,
+    "senate_n": 9
+  },
+  "senate_projection": {
+    "expected_d": 52.0,
+    "expected_r": 48.0,
+    "counts": {
+      "Safe D": 9,
+      "Likely D": 5,
+      "Lean D": 3,
+      "Toss Up": 3,
+      "Lean R": 2,
+      "Likely R": 4,
+      "Safe R": 9
+    }
+  },
+  "disclaimer": "This is only a collection of publicly available resources and forecasts. The creator is neutral and does not support any political party, candidate or ideology.",
+  "consensus": {
+    "house": {
+      "value": 81.6,
+      "median": 91.0,
+      "n": 9,
+      "min": {
+        "value": 1.0,
+        "source": "PredictIt"
+      },
+      "max": {
+        "value": 100.0,
+        "source": "Polymarket"
+      },
+      "share_favoring_dem": 89,
+      "stdev": 29.1,
+      "by_type": {
+        "forecast_model": 89.8,
+        "prediction_market": 65.0,
+        "crowd_forecast": 90.8
+      },
+      "sources": [
+        "ddhq",
+        "silver",
+        "poliwave",
+        "midtermforecast",
+        "kalshi",
+        "polymarket",
+        "predictit",
+        "manifold",
+        "forbespredict"
+      ]
+    },
+    "senate": {
+      "value": 78.0,
+      "median": 78.0,
+      "n": 9,
+      "min": {
+        "value": 60,
+        "source": "VoteHub"
+      },
+      "max": {
+        "value": 100.0,
+        "source": "Polymarket"
+      },
+      "share_favoring_dem": 100,
+      "stdev": 12.5,
+      "by_type": {
+        "forecast_model": 69.5,
+        "prediction_market": 90.7,
+        "crowd_forecast": 83.0
+      },
+      "sources": [
+        "ddhq",
+        "poliwave",
+        "midtermforecast",
+        "kalshi",
+        "votehub",
+        "polymarket",
+        "predictit",
+        "manifold",
+        "forbespredict"
+      ]
+    },
+    "conclusion": [
+      "House: Democrats favored (weighted average 82% Democratic across 9 fresh sources; 89% of sources favor Democrats). Range: 1% (PredictIt) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
+      "Senate: Democrats favored (weighted average 78% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
+      "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
+    ]
+  }
+}
