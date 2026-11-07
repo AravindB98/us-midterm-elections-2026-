@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-07T05:49:35Z",
+ "updated_utc": "2026-11-07T06:04:34Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-07T02:29:30Z"
+   "source_revised": "2026-11-07T06:01:09Z"
   },
   "House": {
    "parties": {
@@ -318,20 +318,20 @@
     {
      "name": "Ashley Moody",
      "party": "Republican Party (United States)",
-     "votes": 4208022,
+     "votes": 4210242,
      "pct": 50.88,
      "party_code": "R"
     },
     {
      "name": "Angie Nixon",
      "party": "Democratic Party (United States)",
-     "votes": 3969303,
+     "votes": 3972095,
      "pct": 47.98,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-   "source_revised": "2026-11-06T20:47:36Z"
+   "source_revised": "2026-11-07T05:57:53Z"
   },
   "Michigan|Senate": {
    "state": "Michigan",
@@ -507,20 +507,20 @@
     {
      "name": "Jon Ossoff",
      "party": "Democratic Party (United States)",
-     "votes": 2466207,
+     "votes": 2466422,
      "pct": 59.0,
      "party_code": "D"
     },
     {
      "name": "Mike Collins",
      "party": "Republican Party (United States)",
-     "votes": 1711747,
+     "votes": 1712444,
      "pct": 41.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-07T02:02:39Z"
+   "source_revised": "2026-11-07T06:00:22Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -642,20 +642,20 @@
     {
      "name": "Tom Cotton",
      "party": "Republican Party (United States)",
-     "votes": 480576,
+     "votes": 480627,
      "pct": 54.3,
      "party_code": "R"
     },
     {
      "name": "Hallie Shoffner",
      "party": "Democratic Party (United States)",
-     "votes": 375620,
+     "votes": 375647,
      "pct": 42.4,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
-   "source_revised": "2026-11-05T21:46:15Z"
+   "source_revised": "2026-11-07T05:51:23Z"
   },
   "Illinois|Senate": {
    "state": "Illinois",
@@ -772,20 +772,20 @@
     {
      "name": "John Hickenlooper",
      "party": "Democratic Party (United States)",
-     "votes": 1425835,
-     "pct": 59.8,
+     "votes": 1600935,
+     "pct": 60.4,
      "party_code": "D"
     },
     {
      "name": "Mark Baisley",
      "party": "Republican Party (United States)",
-     "votes": 855067,
-     "pct": 35.9,
+     "votes": 930787,
+     "pct": 35.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
-   "source_revised": "2026-11-05T19:08:54Z"
+   "source_revised": "2026-11-07T05:55:49Z"
   },
   "Tennessee|Senate": {
    "state": "Tennessee",
@@ -824,27 +824,27 @@
     {
      "name": "Jim Risch",
      "party": "Republican Party (United States)",
-     "votes": 401731,
+     "votes": 401788,
      "pct": 56.5,
      "party_code": "R"
     },
     {
      "name": "Todd Achilles",
      "party": "Independent politician",
-     "votes": 238348,
+     "votes": 238352,
      "pct": 33.5,
      "party_code": "I"
     },
     {
      "name": "Natalie Fleming",
      "party": "Independent politician",
-     "votes": 49927,
+     "votes": 70609,
      "pct": 7.0,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-   "source_revised": "2026-11-07T04:53:03Z"
+   "source_revised": "2026-11-07T06:03:03Z"
   },
   "Delaware|Senate": {
    "state": "Delaware",
