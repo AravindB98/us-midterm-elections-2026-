@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-07T07:34:35Z",
+ "updated_utc": "2026-11-07T07:49:35Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -196,7 +196,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-07T07:34:21Z",
+   "source_revised": "2026-11-07T07:37:57Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -1427,20 +1427,20 @@
     {
      "name": "Tina Kotek",
      "party": "Democratic Party of Oregon",
-     "votes": 916643,
-     "pct": 52.6,
+     "votes": 999912,
+     "pct": 53.3,
      "party_code": "D"
     },
     {
      "name": "Christine Drazan",
      "party": "Oregon Republican Party",
-     "votes": 776279,
-     "pct": 44.5,
+     "votes": 819516,
+     "pct": 43.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-06T19:10:11Z"
+   "source_revised": "2026-11-07T07:47:20Z"
   },
   "Maine|Governor": {
    "state": "Maine",
