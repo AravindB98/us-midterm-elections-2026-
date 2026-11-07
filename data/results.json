@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-07T03:49:14Z",
+ "updated_utc": "2026-11-07T04:04:14Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-07T03:25:51Z"
+   "source_revised": "2026-11-07T03:59:15Z"
   }
  },
  "control": {
@@ -1401,20 +1401,20 @@
     {
      "name": "Jim Pillen",
      "party": "Republican",
-     "votes": 376285,
-     "pct": 50.8,
+     "votes": 380604,
+     "pct": 50.41,
      "party_code": "R"
     },
     {
      "name": "Lynne Walz",
      "party": "Democratic",
-     "votes": 312653,
-     "pct": 42.2,
+     "votes": 321061,
+     "pct": 42.53,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
-   "source_revised": "2026-11-05T23:09:29Z"
+   "source_revised": "2026-11-07T03:54:08Z"
   },
   "Oregon|Governor": {
    "state": "Oregon",
@@ -1877,7 +1877,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
-   "source_revised": "2026-11-07T03:22:56Z"
+   "source_revised": "2026-11-07T03:59:20Z"
   },
   "Maryland|Governor": {
    "state": "Maryland",
