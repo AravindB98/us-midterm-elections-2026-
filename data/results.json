@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-08T20:08:09Z",
+ "updated_utc": "2026-11-08T20:23:09Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -170,7 +170,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-08T11:17:42Z"
+   "source_revised": "2026-11-08T20:08:22Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -193,17 +193,10 @@
      "votes": null,
      "pct": null,
      "party_code": "R"
-    },
-    {
-     "name": "Dan J. Sullivan",
-     "party": "Independent",
-     "votes": null,
-     "pct": null,
-     "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-08T19:27:56Z",
+   "source_revised": "2026-11-08T20:21:25Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -234,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-08T19:05:19Z"
+   "source_revised": "2026-11-08T20:22:07Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -260,7 +253,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-08T16:28:06Z"
+   "source_revised": "2026-11-08T20:13:39Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -364,7 +357,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-08T19:31:05Z"
+   "source_revised": "2026-11-08T20:22:46Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -553,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-08T19:51:26Z",
+   "source_revised": "2026-11-08T20:20:35Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -636,7 +629,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
-   "source_revised": "2026-11-08T14:59:30Z"
+   "source_revised": "2026-11-08T20:14:13Z"
   },
   "Arkansas|Senate": {
    "state": "Arkansas",
@@ -818,7 +811,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
-   "source_revised": "2026-11-07T11:56:07Z"
+   "source_revised": "2026-11-08T20:16:58Z"
   },
   "Idaho|Senate": {
    "state": "Idaho",
@@ -929,7 +922,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-   "source_revised": "2026-11-07T22:32:38Z"
+   "source_revised": "2026-11-08T20:09:01Z"
   },
   "Oregon|Senate": {
    "state": "Oregon",
@@ -955,7 +948,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-08T14:57:08Z"
+   "source_revised": "2026-11-08T20:11:07Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -981,7 +974,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
-   "source_revised": "2026-11-05T16:29:56Z"
+   "source_revised": "2026-11-08T20:12:10Z"
   },
   "West Virginia|Senate": {
    "state": "West Virginia",
@@ -1085,7 +1078,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-08T15:40:38Z"
+   "source_revised": "2026-11-08T20:17:00Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
