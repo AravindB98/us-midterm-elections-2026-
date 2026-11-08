@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-08T19:23:09Z",
+ "updated_utc": "2026-11-08T19:37:08Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -193,10 +193,17 @@
      "votes": null,
      "pct": null,
      "party_code": "R"
+    },
+    {
+     "name": "Dan J. Sullivan",
+     "party": "Independent",
+     "votes": null,
+     "pct": null,
+     "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-08T18:52:27Z",
+   "source_revised": "2026-11-08T19:27:56Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -279,7 +286,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-08T16:14:52Z"
+   "source_revised": "2026-11-08T19:25:16Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -357,7 +364,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-08T19:13:49Z"
+   "source_revised": "2026-11-08T19:31:05Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -416,7 +423,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-08T15:05:37Z"
+   "source_revised": "2026-11-08T19:31:46Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -603,7 +610,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-   "source_revised": "2026-11-08T19:17:07Z"
+   "source_revised": "2026-11-08T19:29:12Z"
   },
   "South Dakota|Senate": {
    "state": "South Dakota",
@@ -896,7 +903,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-06T19:52:36Z"
+   "source_revised": "2026-11-08T19:26:27Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
