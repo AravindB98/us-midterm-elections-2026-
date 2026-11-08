@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-08T14:51:43Z",
+ "updated_utc": "2026-11-08T15:06:43Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -111,7 +111,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-08T00:01:09Z"
+   "source_revised": "2026-11-08T15:04:33Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -144,7 +144,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
-   "source_revised": "2026-11-07T22:41:23Z"
+   "source_revised": "2026-11-08T15:06:02Z"
   },
   "Ohio|Senate": {
    "state": "Ohio",
@@ -227,7 +227,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-08T06:21:02Z"
+   "source_revised": "2026-11-08T14:56:12Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -292,20 +292,20 @@
     {
      "name": "Pete Ricketts",
      "party": "Republican Party (United States)",
-     "votes": 373160,
-     "pct": 50.4,
+     "votes": 378281,
+     "pct": 50.1,
      "party_code": "R"
     },
     {
      "name": "Dan Osborn",
      "party": "Independent politician",
-     "votes": 322646,
-     "pct": 43.6,
+     "votes": 331268,
+     "pct": 43.9,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-08T06:08:00Z"
+   "source_revised": "2026-11-08T15:01:08Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -416,7 +416,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-   "source_revised": "2026-11-07T13:34:01Z"
+   "source_revised": "2026-11-08T15:05:37Z"
   },
   "North Carolina|Senate": {
    "state": "North Carolina",
@@ -616,20 +616,20 @@
     {
      "name": "Mike Rounds",
      "party": "Republican Party (United States)",
-     "votes": 184572,
+     "votes": 184589,
      "pct": 60.5,
      "party_code": "R"
     },
     {
      "name": "Brian Bengs",
      "party": "Independent politician",
-     "votes": 120490,
+     "votes": 120509,
      "pct": 39.5,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
-   "source_revised": "2026-11-06T16:21:12Z"
+   "source_revised": "2026-11-08T14:59:30Z"
   },
   "Arkansas|Senate": {
    "state": "Arkansas",
@@ -642,20 +642,24 @@
     {
      "name": "Tom Cotton",
      "party": "Republican Party (United States)",
-     "votes": 480627,
-     "pct": 54.3,
+     "votes": 280627,
+     "pct": 49.3,
      "party_code": "R"
     },
     {
      "name": "Hallie Shoffner",
      "party": "Democratic Party (United States)",
-     "votes": 375647,
-     "pct": 42.4,
+     "votes": 285647,
+     "pct": 50.4,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
-   "source_revised": "2026-11-07T05:51:23Z"
+   "source_revised": "2026-11-08T15:00:24Z",
+   "call_source": {
+    "by": "Networks (CNN tally: D 54, R 44, only AK and MS uncalled)",
+    "url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+   }
   },
   "Illinois|Senate": {
    "state": "Illinois",
@@ -720,20 +724,20 @@
     {
      "name": "Ben Ray Luj\u00e1n",
      "party": "Democratic Party (United States)",
-     "votes": 458007,
-     "pct": 63.2,
+     "votes": 458756,
+     "pct": 63.3,
      "party_code": "D"
     },
     {
      "name": "Larry Marker",
      "party": "Republican Party (United States)",
-     "votes": 266260,
-     "pct": 36.8,
+     "votes": 266434,
+     "pct": 36.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
-   "source_revised": "2026-11-06T02:35:54Z"
+   "source_revised": "2026-11-08T15:03:37Z"
   },
   "Virginia|Senate": {
    "state": "Virginia",
@@ -772,20 +776,20 @@
     {
      "name": "John Hickenlooper",
      "party": "Democratic Party (United States)",
-     "votes": 1600935,
+     "votes": 1609163,
      "pct": 60.4,
      "party_code": "D"
     },
     {
      "name": "Mark Baisley",
      "party": "Republican Party (United States)",
-     "votes": 930787,
-     "pct": 35.1,
+     "votes": 932741,
+     "pct": 35.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
-   "source_revised": "2026-11-07T05:55:49Z"
+   "source_revised": "2026-11-08T15:02:34Z"
   },
   "Tennessee|Senate": {
    "state": "Tennessee",
@@ -844,7 +848,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-   "source_revised": "2026-11-07T06:03:03Z"
+   "source_revised": "2026-11-08T14:57:41Z"
   },
   "Delaware|Senate": {
    "state": "Delaware",
@@ -948,7 +952,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-07T07:50:14Z"
+   "source_revised": "2026-11-08T14:57:08Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -1026,7 +1030,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
-   "source_revised": "2026-11-05T04:47:50Z"
+   "source_revised": "2026-11-08T14:58:27Z"
   },
   "Nevada|Governor": {
    "state": "Nevada",
@@ -1258,7 +1262,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-08T14:13:08Z"
+   "source_revised": "2026-11-08T14:58:00Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1851,7 +1855,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-08T14:49:33Z"
+   "source_revised": "2026-11-08T14:54:51Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
