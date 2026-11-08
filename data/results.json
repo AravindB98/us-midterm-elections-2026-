@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-08T21:52:40Z",
+ "updated_utc": "2026-11-08T22:07:40Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -520,7 +520,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-08T18:58:55Z"
+   "source_revised": "2026-11-08T22:06:35Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -546,7 +546,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-08T20:20:35Z",
+   "source_revised": "2026-11-08T21:58:28Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1156,7 +1156,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-08T02:37:11Z",
+   "source_revised": "2026-11-08T22:00:11Z",
    "too_close": {
     "note": "Too close to call as of Wednesday morning per AP; mail ballots still arriving. Holscher leads narrowly.",
     "source": "https://www.kwch.com/2026/11/04/holscher-holds-narrow-lead-over-masterson-uncalled-kansas-governors-race/",
@@ -1453,27 +1453,27 @@
     {
      "name": "Hannah Pingree",
      "party": "Democratic Party (United States)",
-     "votes": 379914,
-     "pct": 54.8,
+     "votes": 387226,
+     "pct": 54.47,
      "party_code": "D"
     },
     {
      "name": "Bobby Charles",
      "party": "Republican Party (United States)",
-     "votes": 257847,
-     "pct": 37.2,
+     "votes": 265982,
+     "pct": 37.41,
      "party_code": "R"
     },
     {
      "name": "Rick Bennett",
      "party": "Independent",
-     "votes": 55697,
-     "pct": 8.0,
+     "votes": 57478,
+     "pct": 8.08,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
-   "source_revised": "2026-11-08T15:51:41Z"
+   "source_revised": "2026-11-08T21:58:35Z"
   },
   "New Mexico|Governor": {
    "state": "New Mexico",
