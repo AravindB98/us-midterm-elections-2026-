@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-07T23:50:48Z",
+  "updated_utc": "2026-11-08T00:05:47Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -35,7 +35,7 @@
     "midtermforecast": {
       "house": 91.0,
       "senate": 76.0,
-      "as_of": "2026-11-07",
+      "as_of": "2026-11-08",
       "status": "live",
       "type": "forecast_model",
       "name": "midtermforecast.com",
@@ -45,7 +45,7 @@
     "kalshi": {
       "house": 94.1,
       "senate": 75.0,
-      "as_of": "2026-11-07",
+      "as_of": "2026-11-08",
       "status": "live",
       "type": "prediction_market",
       "name": "Kalshi",
@@ -145,7 +145,7 @@
       "status": "live",
       "senate": 96.0,
       "house": 1.0,
-      "as_of": "2026-11-07"
+      "as_of": "2026-11-08"
     },
     "manifold": {
       "name": "Manifold Markets",
@@ -155,7 +155,7 @@
       "status": "live",
       "house": 98.7,
       "senate": 98.4,
-      "as_of": "2026-11-07"
+      "as_of": "2026-11-08"
     },
     "metaculus": {
       "name": "Metaculus",
@@ -179,8 +179,8 @@
   "ensemble": {
     "house_dem": 81.6,
     "house_n": 9,
-    "senate_dem": 78.9,
-    "senate_n": 9
+    "senate_dem": 81.9,
+    "senate_n": 8
   },
   "senate_projection": {
     "expected_d": 52.0,
@@ -229,21 +229,21 @@
       ]
     },
     "senate": {
-      "value": 78.9,
-      "median": 78.0,
-      "n": 9,
+      "value": 81.9,
+      "median": 81.0,
+      "n": 8,
       "min": {
-        "value": 60,
-        "source": "VoteHub"
+        "value": 64.0,
+        "source": "Decision Desk HQ / The Hill"
       },
       "max": {
         "value": 100.0,
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 13.7,
+      "stdev": 12.2,
       "by_type": {
-        "forecast_model": 69.5,
+        "forecast_model": 72.7,
         "prediction_market": 90.3,
         "crowd_forecast": 91.2
       },
@@ -252,7 +252,6 @@
         "poliwave",
         "midtermforecast",
         "kalshi",
-        "votehub",
         "polymarket",
         "predictit",
         "manifold",
@@ -261,7 +260,7 @@
     },
     "conclusion": [
       "House: Democrats favored (weighted average 82% Democratic across 9 fresh sources; 89% of sources favor Democrats). Range: 1% (PredictIt) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
-      "Senate: Democrats favored (weighted average 79% Democratic across 9 fresh sources; every source favors Democrats). Range: 60% (VoteHub) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
+      "Senate: Democrats favored (weighted average 82% Democratic across 8 fresh sources; every source favors Democrats). Range: 64% (Decision Desk HQ / The Hill) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
   }
