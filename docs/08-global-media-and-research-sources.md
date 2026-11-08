@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-08T05:50:22Z**.
+> Latest headlines refreshed: **2026-11-08T06:05:22Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -95,11 +95,11 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 **Verified 2026 midterm coverage:** [CGTN: Voters focused on economy, U.S. global conflicts ahead of midterms (May 1, 2026)](https://newsus.cgtn.com/news/2026-05-01/Voters-focused-on-economy-U-S-conflicts-ahead-of-Midterm-elections-1MMcEg8ZI2Y/share_amp.html)
 
 **Latest headlines (auto-updated):**
+- [美国举行中期选举投票 特朗普政府迎来“期中考试”](https://news.google.com/rss/articles/CBMid0FVX3lxTFB6X1JXTkkydjhjaWt3ejJ4d3lvNkdxZDZwS2lDSVBXRHF6aEFYX2RzNEN1ZmkzaDVqX3BLM0JJa3pPbGRVUHhENGxkdDlmQUJkUnRQV1p3azloU0FVN3Y4NG1hOE1yaWZ6MU8tSXRBZ3lEeGlIaEtN?oc=5) (新华网)
 - [2026年美国中期选举结果实时更新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zX2pqQWw2eFpIbF9oX3huVUNvNTJMRDVianRLZFNPOUpDTmdDc2pFT1p0Zy1NVjBpaVkwaWtVVDZwY2hudjBmQ1B4WUx5R0szLVIxaEpJSXhJTGlNZXJXUFRYWTg3WkHSAWxBVV95cUxPbjgwWEJ0RXZIUGM4SWtZZXU2NjJRcHNjN1kwLXlTcnJSLUtkY0o2aFVwbEcySWlYVlNEdjV4RFY2a0gtWXhrUUZzaDZiUTAzQWhtUFJyYmZpby1nOE9vUlBBYVlKb2RMNUNWRFY?oc=5) (BBC)
 - [美国选举官员继续计票，部分州中期选举结果仍未揭晓](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX18tYkRYRmloN0c1VWhxb19OWmdoQzB0R1pJRFoyMUN3WDdSbkNDSHBPQmFOUUlrVEJsWHZWUUl1TFpieXdyV2pRMnlQTEwtb0VkbGJmcjZzRXBHVHI3S2VudmNfTC11ZVdKUDdVdmY2WnNTOFJyWWZNUDRPTFdGNlhzOU1DSWVHLUJtNmFadDc0TFA1X2NXVEZqTGF6Z3ZiQ3U1R0U0dTV2Q29IM2RqSW5va3FyY25JXzJRbnlfTGxlSzF6ZUtZZU41end1LU8xT2xrQ1NB0gHYAUFVX3lxTFB0QVJ3cHBSZnZReVJGUHY2VC1PQXNLQWdjRk44c3E4VXRoNF82VnVCTDB4ek81bnQyamxZMy03MXJsMkFqc1dKMlBNZkRLVnYySURFX2p0UFE5dE9jMWZhYmpZWWFKaWthZmxNSHhGdUtScHZzTVBuZFpISjNWdnVFc3oxVkwzbUFiMVVSLUYwOGpTYWtsY2ZhY2h2VnlWWDFQNUlWMng2X0VEWll2Zm1qb3Z3UTYzQmhoQUozcXVFelR0RTRNczUyQVJZMENDN0pXQWlzOG95ZQ?oc=5) (美国之音)
 - [美国共和党人展开了最后冲刺，试图避免在美国中期选举中遭遇惨败](https://news.google.com/rss/articles/CBMixwNBVV95cUxOUUlxUV9xRWhaQzl4SkgydGhVYzhIU2ZLam53dWFjMG5LcVVhdWIxNF9WbFZiNUhqbk0xZDI4WGpzdWM3QUl2SlVEdndhTHd3N0NudzJfSU40RTZOQmpONk9iRWZNTjgtZzZkV0RuRlNqb0ozY0ZFZ3oxVWVZQ3dnS0VBcllLbUR0STB0YUEzdjkxMGd3UjdDWTctbHcyOXF6TlNYcVdXOEtoaUxuaTNqWEZUbVlZb0hwY1FIOVo3djZ4aWJOc25xUmY2S2Z5T2pPZzhFVDVwNGczREVVQ3NxVzBLVnh2dnlqWFhXeEtyMUZLUkU4VDZZdFpZRHFPU0p5R045b0hJYlBGMk1IR1dzX0xWcF9Eb2JiNmI2cUY0MkNmdHJSalVHRXVSdlJNQTg2UWV5aHFVMnFweTVwdUpNOVhkYTZSUlAwUHZqUjdhSmE3U3Y3dWNmb09BVGtucUJHSl84UzdfbzE0OHJzNzVYVFdaT3dMenZFSDBIdk9Ud3BhSDVwS0x3d1JqQk9hZldkd3FWem5LWTBnMjR2TmVpbmJkcVIzT3hEMmRfTXZIT3hvYlozSmVQQzRhM2ZQa1FLQXJ3ZmhUYw?oc=5) (RFI)
-- [美国举行中期选举投票 特朗普政府迎来“期中考试”](https://news.google.com/rss/articles/CBMifEFVX3lxTFBpXzNHczRJM2tKdXJHQVBQMVFtd25xVHhtOUMtQlJCbkE0UjRTeDBFNnJoMDI2aGYtaGVLWlQ2OWVDaHJCbHp6R1o5SXRzMkV4OW1jTGFLRGhFQXRtckloeVJFOFVhazgyYTBjbGtiU1VHWkVzcGl3WlRsX2o?oc=5) (求是)
-- [一文读懂｜美国中期选举的四个“意外”](https://news.google.com/rss/articles/CBMid0FVX3lxTE14ZElLX3d5NEdTWFNhRGU2WjdOWFpSZlNkbndSc0ZkMnBPMDdJdmdvTHRMNjFuSk91b3NmUmZEcWcxc0pDdmR1US1nTk9ac1FueENOLWZaemNTY29vZDRpQVB5ZmljbUpSOXpJdE1XRFlRbmQwSEd3?oc=5) (新华网)
+- [美国中期选举：共和党失去两院，对华政策与对台军售会转向吗？](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtZWxpMklMLVlnTjViR3VvU2V5czJ3MG53ZzBIbGpveElnSmpYMHVzU0szRV9IbnJPY2tid0VmNTJMRWxwOWxmQV9uMUxDWFJKQ190NC0xOEtEUDVUNEtyUlNIamZaclHSAWxBVV95cUxOR3ZjUHd6RXV2SzNJRmV2MFBGeU5qX3FBUFhhTXpGZzBtczFxZlU1SGxwdExVazBGVDFvbndKMkJSSXAwR3J0QjZyb1hTaG03ZzNsaEpHcXlEMjNScUZ0ZU9XZnZkdFFfTm5Vdlc?oc=5) (BBC)
 
 
 ## Indonesia
@@ -141,11 +141,11 @@ _Note: Dawn's Washington correspondent provides regular midterm coverage._
 **Verified 2026 midterm coverage:** [Dawn: Democrats hold early lead ahead of mid-terms (Jun 8, 2026)](https://www.dawn.com/news/2006017)
 
 **Latest headlines (auto-updated):**
+- [Who will win the midterms? How the US elections will be won and lost](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qeHZpUU1lTm12dDU5M2dQUzU5M3FEbFRlRnkybWtkRFl4aHEwLVh6N3hmbDRwdG9BU2ZFYVFhSFZ4cTBLbk4tR1gtMjZXcUREUGNOd0huNEJ4T1k?oc=5) (BBC)
 - [Democrats win US Congress in midterm rout of Trump](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRMENoN0lYd3k1NTcwYmEyU2tMWXZ3OWxrbF9OVElTSVZmOTNzTFhidTB1STF6X3VKZmJhcFlTWlNhdU10SDZLQw?oc=5) (Dawn)
 - [US midterm elections 2026: Live results in maps and charts](https://news.google.com/rss/articles/CBMibEFVX3lxTE12Mi1QTmlodnNSUVpld0kxTktqTTJYSmNMT2NWRXRaWW5yTXFJTnQ4MTlaOVQ5aTllb0tPRDJpZ3Q2MFpXTjR1N2ltVXhSbjRreVpxWkZoRjNFMk5Ma1hXcmZBaGE0UkRab2s4YQ?oc=5) (Al Jazeera)
 - [What will historic US midterm results mean for the future of Democrats and Republicans?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEZpLWJnU1A5VVJZY3RRY0FIMHRNaVpXckp2cnZRTVoxdTlrNWRlUmIzeE9UTFVNZWh4NzdSMVc3Vk80U0szOEpNMlBBellmbnlsNUhOMUhGZzJ1N2Z0OWdZbVVTcWhwWlF5ZmRFNjlUX0F1OEI0OXVZdC1uZ05ENUVsSjFYNjduLWJ4S3FjaVc2YzEtcC1IRENLTFQtaV9JLWk1ZmZBYU1SMzdMNDZwVElB?oc=5) (Chatham House)
 - [The US Midterm Elections: Views From China](https://news.google.com/rss/articles/CBMif0FVX3lxTE9hY0hBTC1hc2dlRTFFc0R0dnFvUnI0bjctU2p2aWpuNHN3bndoYUZLNTlrcU40Ukhrb0JaU2ZsZG1OTXpCLVBsZXI0bUtGUjg0ZHRDd0l1U1VDNGxMcHlXc2toaHJrdzhrWDdHaXFiVmNJbnN0dWI2dzVqenBpNkk?oc=5) (The Diplomat – Asia-Pacific Current Affairs Magazine)
-- [Can US midterm results save the Gulf states from war?](https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEttTHpiYWxuNFFTYXBiWUxsWUphTzRxMThBSnRGdXRoRk9QXzJ2REY2d0NQeUlPRGpUMEdVQkdYSnJsdkQ2TDFPVTFlNEJPS1BLUEZGSWlLbWR4LVdTWTlhNEtNcWFfYU9reVIyQm9Fb2N3cWc1czJlR2x1Z1lUaDhwbWZtb29teWxPeUxZTzlfV2ZkSFFsT2t0WUpBUGl3a1HSAaIBQVVfeXFMTlZFRVcxZ1ZKaHVkdDZfQ3ZPNDlxazVsendlSDFJRGNSd1JNbkxPMWhncWVyV2ZOM2p0X1UyTHlUaWRYcWhVM0pqalVuOFNvdVRfenkwZ2NDQjFSU1dRSWE2dHVMWmd1YlQ3Yy16dGtabExHbGo3cHhhcUFDckVZNkZMbTBYZ3h2MU94bVdiUHlJTVBmU1pFZmlacDNOcV8wWnVB?oc=5) (DW.com)
 
 
 ## Nigeria
@@ -163,11 +163,11 @@ _Note: Interest centers on US visa policy, travel restrictions and Nigerian-Amer
 **Research and think tanks:** [Nigerian Institute of International Affairs (NIIA)](https://niia.gov.ng/) · [Centre for Democracy and Development (CDD West Africa)](https://www.cddwestafrica.org/)
 
 **Latest headlines (auto-updated):**
+- [Who will win the midterms? How the US elections will be won and lost](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qeHZpUU1lTm12dDU5M2dQUzU5M3FEbFRlRnkybWtkRFl4aHEwLVh6N3hmbDRwdG9BU2ZFYVFhSFZ4cTBLbk4tR1gtMjZXcUREUGNOd0huNEJ4T1k?oc=5) (BBC)
 - [Midterm to long-term analysis of US election. What’s next?](https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVBDWTh0MkZNTDlFYUVnOW03LUdMcU9vc25nWEJVS0lYaFRJU1c5WVFHSTV4NmdDcmdsQzRQRk9RX25XcV85VEJYbjB3bkJxM1FHYUs4WW54VUNKM2hZZU5tTUNoY1pfVnFVbmY0TjYtQURyTWdKNHFQOWd6MmhHY241MEF3R0dJdkNEbVRiWQ?oc=5) (Chatham House)
 - [Seen And Heard At The US Midterm Elections](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWdaa25fbzFyLWF1NVZuVmVlWTNBWUVLNng5aERKeC1UOF9pMXBQQndPY1pRLXBCY3BQUElYT0VpM1IyY1kzTjFUUHpGenJiczkycGhMMmVaV0pjb3VId2l0QUVPVnF2eW5aaGhUYTBYdnV3UTdRanRtX0xNcGVKOFcyd19yRGtU?oc=5) (Channels Television)
 - [UPDATED: 14 Nigerian-Americans secure victories in US midterm elections](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmFpNXk3bkZ3aUt3Wmc5R0NLekVJWEN6aHhrS09pQVJKbG45aURQMEZsZTcyckhpeXBxUEczM0dXcWZ1VzVHSlpRSmpHc3FES09qU0lNUW0zZk5RWUJQZ3lRUG5jU1pvaEc0UHlFLVVKcXF1R2J5elkxX1pySDhpUWtGN2V2VzAtNldraFhhWlhNTjh6ZHF2S2s1N0VKQXBZSGxLSThBcXJ2Z0Q2dkhQdFpncTdWSTIzSFo4djNMUVVBVEhtWVAwZmxQaElabDJ2?oc=5) (Premium Times Nigeria)
 - [US midterm elections 2026: Live results in maps and charts](https://news.google.com/rss/articles/CBMibEFVX3lxTE12Mi1QTmlodnNSUVpld0kxTktqTTJYSmNMT2NWRXRaWW5yTXFJTnQ4MTlaOVQ5aTllb0tPRDJpZ3Q2MFpXTjR1N2ltVXhSbjRreVpxWkZoRjNFMk5Ma1hXcmZBaGE0UkRab2s4YQ?oc=5) (Al Jazeera)
-- [FULL LIST: Nigerian-Americans who won in US midterm elections](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVm1MaDBTSkNYd25MaGVVT2F3RmNPZldwb0ZmdDBGejE5ZUp4cHpYUnlkNlJ0YTNHUDAtUVJiZWpyVDZOdjNjTkl5M25RZlB1M2JmX21zcVloaFN5ME1FUlQyNHRYc3BMblI5VU9xd3JNang4czZ6YjhEUkpod213LTBHTkYyN2ZH?oc=5) (Punch Newspapers)
 
 
 ## Brazil
@@ -323,8 +323,8 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 **Latest headlines (auto-updated):**
 - [Everything you need to know from the US midterm elections](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fZ1lZRnI1T3dGVjNmLS12b2hLTXdkMzdQOUtlczRyLWFRQUZaTkZHcUR3R1ZHMDMzSjVtbWdubjZHZ0ZIUlp5LVpLLTZ0LXJ2OHk5c0lRb3FCQ2poU1E?oc=5) (BBC)
 - [What just happened? Eight takeaways from our event on the US midterm elections](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDZmUEMxdzlxS2k4MFpmQVFydWNBWU9KME1LQjAtOW5OYXFmTDlZdmc4NFRhOXlJRXlta1A0QVIxd0hTbGgtbDRjZGY1bEhZYVIzR0NEYjJjaXduRHdudW9Bc2liLTlPQUlWcHFyVzlYRDBvY1JfQWVmSkZGZGVCeHZ3el9TcjJBR3UzMlVnb2FLYWRRdXJuR3Zia19jTXZ1UWQtdjlhaGExZVhIdXdRZ0Yycw?oc=5) (reutersinstitute.politics.ox.ac.uk)
-- [What will historic US midterm results mean for the future of Democrats and Republicans?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEZpLWJnU1A5VVJZY3RRY0FIMHRNaVpXckp2cnZRTVoxdTlrNWRlUmIzeE9UTFVNZWh4NzdSMVc3Vk80U0szOEpNMlBBellmbnlsNUhOMUhGZzJ1N2Z0OWdZbVVTcWhwWlF5ZmRFNjlUX0F1OEI0OXVZdC1uZ05ENUVsSjFYNjduLWJ4S3FjaVc2YzEtcC1IRENLTFQtaV9JLWk1ZmZBYU1SMzdMNDZwVElB?oc=5) (Chatham House)
 - [Live US midterm elections results tracker 2026](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG5qZnpaSFIxMGs4a3pKbXFtZzRxSW9VYWNxd0FkdXZNN2E0R0ZsODZfZ2JxRHhaM2RhU3hHaUJFSnFoa2pGMGtjY0tIczc3Tk14Umx1MjB5MVNxVjR4dXprTlJ1SmRBQ25hcS1vUWduWWxZNXk3Nm1BMVBDSHZHcVEzdEE?oc=5) (Financial Times)
+- [What will historic US midterm results mean for the future of Democrats and Republicans?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEZpLWJnU1A5VVJZY3RRY0FIMHRNaVpXckp2cnZRTVoxdTlrNWRlUmIzeE9UTFVNZWh4NzdSMVc3Vk80U0szOEpNMlBBellmbnlsNUhOMUhGZzJ1N2Z0OWdZbVVTcWhwWlF5ZmRFNjlUX0F1OEI0OXVZdC1uZ05ENUVsSjFYNjduLWJ4S3FjaVc2YzEtcC1IRENLTFQtaV9JLWk1ZmZBYU1SMzdMNDZwVElB?oc=5) (Chatham House)
 - [Who will win the midterms? How the US elections will be won and lost](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qeHZpUU1lTm12dDU5M2dQUzU5M3FEbFRlRnkybWtkRFl4aHEwLVh6N3hmbDRwdG9BU2ZFYVFhSFZ4cTBLbk4tR1gtMjZXcUREUGNOd0huNEJ4T1k?oc=5) (BBC)
 
 
@@ -412,11 +412,11 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 
 ### International students and visa workers
 
-- [This Week in Immigration: November 6, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
 - [From H-1B Curbs To Racism: What Shaped The Indian-American Vote In Midterms](https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHZTY1VmdGZ6Wkk4OTgzZ2RRZVhua3YwSDB3RUEyVXA5SG9OdHlJdjNCN21NX3FnTGV5WDgzeE04WTFkVkNpWl9wRVZMTk5CWVpqOHVLOXIwMHlpRmY4S1hSVjgyaHpCNlYtU2FnTDJDZ3R4aDNidXZPSEZyZFM3andSMkdXRGV2U0hWQkQwN0Q2cF9QOUxYOGRYNnVfMDhjUEtwZzFFS1ZjRXBWbkZrdUprc3paSDF2VEJXS2doSTlucnRPWnl6OGtfUzPSAdQBQVVfeXFMT0k3YzBGRzNvemMxUjBwcXBvWXgwQm9zalZfR3dGUXpHYldQMzJJR0RyVTg5UjYzMkNXOFpqRFZUOUx2ekNXSVJMY00tUUg4MTV1VFJXdHMtZEtSQTVjSVMtbm05aEFqejNVVlpMWjl5WmdqVGJ2b1prM2VWUjJvM0NWLUUwOG02Q2ptRHNhTEZYcEphNm82dXhCb2tVbzROQzRkSXBXYmVBdzB4OEY4N05lME5zUXg4Q0NicFN2TmVMaWJUUEdwQ0xIaHNiQU9RRDdUQjI?oc=5) (NDTV)
 - [Stephen Miller Becomes White House Chief of Staff: What It Means for Legal Immigrants](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaUIwMHA4N0FUSllsbk94NGdYSFp0enI4WjcxU21Sck9kVlFCV0dVNkt2RENneHlRZkQtS3owaXlHTHFBUklxSE10WlBMNkw0dXBRa2VpSnUzT2xDZ1dWWUVja0NHYnU0cUl5RFJGc2RVVFFCX3NoTHZieHV5OFhYWmNhSVBjbnpVR1A0ZU1BajRUdUdwaU4ybkpocHJBQk5uRmhSY3ZrTzVhUHlLaEtFQWtn?oc=5) (Reddy Neumann Brown PC)
 - [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
 - [Celebrities head to the polls for 2026 Midterms](https://news.google.com/rss/articles/CBMingFBVV95cUxONW1IT0tXTkY4VnR0d194aFVoNzBETFN3X3hqdi1kYTBlVjlZbG1kLUc0el9YTDZGTFhFWEVEdFNBN0NDMlJqUTN2Y1BYTkFKTkxKTU9PdUNmVDdvd1Zma0hEV21DRDIxLTI5RHozZXczRzA1Wk52bFFuMEUyaXFNYTRyaFNjSHc0STI2bzNPWFhqRnR6NGxvV1ZBUU02UQ?oc=5) (NBC News)
+- [Women make history in governor, congressional races in 2026 midterms](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3FEMmRMNzh4amc2Z3gwbUV0S3dwUkRPenpCcFh3aTZ2QUgzNlNraDZuSzVNaDJDQTgyWlJGMEFFeFpFSUtURDNRa0hvQ3lPMndDMTFiOXF0Ukhuc1kycVk1MHoxV3J0ZXZURmFwa1VnNkQzRHhNb09ZQXBNTVkxbm9wMVY2N01pRXl1eWdzWlF4OF84ak5xMmdrRlQ5Slp5U1JDS2tHcV9QLXJNaWfSAbMBQVVfeXFMTUZOd19XV0RjN0Z1WnZtdWxkckozQlN4VG5zTE15b2JCaEJMYkl1RTB1Z1RRN0pqRG1Ub0ZheUE2TFVST01UWWVHcDFfM1NycFFDelFTLUEzLU1CdVp1Ukc1QUtlcmlrS2ZxZ2tXazJiOE5Qam1NcFQxdEJ2NWlLQ0pacUdqcDM4NDhkY2ZkUXlTTk51eW14MHlzQV9xbUdRWDNoU216TXJHWHlhVlo1UGwtUHc?oc=5) (ABC News - Breaking News, Latest News and Videos)
 - [‘A Watergate-level repudiation’: Ted Cruz weighs in on midterm wave](https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGRRajRYRzJtZ2RUaG1sblcwaVZTQ3ExWkpmdEhyeWFCZ3NZLTdDY3VnUTZnX0djTkRTQlBtQ0tRV1VCTE9BUWVvQ3h1X2dSWjFNTjkyZTdqSDhuOUJqNlJMbjNPdlZnR1pXZV9wQjJGR09tYTZwa3RsWWEzQ3FkQ28tdVAxQlN0VUl4QVRJOUFXYm1xMFVlRERaWHdQNXNRLVVSNWszOWVjRndfNDVacU83UEFiZw?oc=5) (NBC News)
 
 ### Census and election data
