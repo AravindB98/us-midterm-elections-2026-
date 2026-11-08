@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-08T03:50:54Z",
+ "updated_utc": "2026-11-08T04:03:54Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -541,12 +541,19 @@
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
      "votes": 465356,
-     "pct": 48.81,
+     "pct": 48.813,
      "party_code": "R"
+    },
+    {
+     "name": "Ty Pinkins",
+     "party": "Independent (United States)",
+     "votes": 20028,
+     "pct": 2.1,
+     "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-08T03:36:51Z",
+   "source_revised": "2026-11-08T04:01:01Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
