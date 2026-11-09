@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-09T19:24:04Z",
+ "updated_utc": "2026-11-09T19:39:04Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-09T18:54:33Z"
+   "source_revised": "2026-11-09T19:33:35Z"
   }
  },
  "control": {
@@ -124,20 +124,20 @@
     {
      "name": "Josh Turek",
      "party": "Democratic",
-     "votes": 688232,
+     "votes": 688302,
      "pct": 50.55,
      "party_code": "D"
     },
     {
      "name": "Ashley Hinson",
      "party": "Republican Party (United States)",
-     "votes": 631174,
+     "votes": 631232,
      "pct": 46.36,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
-   "source_revised": "2026-11-09T04:17:46Z"
+   "source_revised": "2026-11-09T19:33:06Z"
   },
   "Ohio|Senate": {
    "state": "Ohio",
@@ -1212,20 +1212,20 @@
     {
      "name": "Rob Sand",
      "party": "Iowa Democratic Party",
-     "votes": 757326,
+     "votes": 759238,
      "pct": 55.5,
      "party_code": "D"
     },
     {
      "name": "Zach Lahn",
      "party": "Republican Party of Iowa",
-     "votes": 607415,
+     "votes": 607981,
      "pct": 44.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-09T13:22:51Z"
+   "source_revised": "2026-11-09T19:28:53Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1570,7 +1570,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
-   "source_revised": "2026-11-08T21:49:51Z"
+   "source_revised": "2026-11-09T19:36:38Z"
   },
   "Colorado|Governor": {
    "state": "Colorado",
