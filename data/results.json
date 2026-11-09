@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-09T20:25:40Z",
+ "updated_utc": "2026-11-09T20:39:41Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-09T19:50:09Z",
+   "source_revised": "2026-11-09T20:36:52Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-09T20:25:18Z",
+   "source_revised": "2026-11-09T20:29:24Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1238,20 +1238,20 @@
     {
      "name": "Gina Hinojosa",
      "party": "Texas Democratic Party",
-     "votes": 5230929,
+     "votes": 5232679,
      "pct": 52.82,
      "party_code": "D"
     },
     {
      "name": "Greg Abbott",
      "party": "Republican Party of Texas",
-     "votes": 4524955,
-     "pct": 45.67,
+     "votes": 4525947,
+     "pct": 45.68,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-09T07:55:33Z"
+   "source_revised": "2026-11-09T20:32:18Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1290,20 +1290,20 @@
     {
      "name": "David Crowley",
      "party": "Democratic Party (United States)",
-     "votes": 1438721,
-     "pct": 54.1,
+     "votes": 1440993,
+     "pct": 54.0,
      "party_code": "D"
     },
     {
      "name": "Tom Tiffany",
      "party": "Republican Party (United States)",
-     "votes": 1221668,
-     "pct": 45.9,
+     "votes": 1227676,
+     "pct": 46.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
-   "source_revised": "2026-11-09T03:10:08Z"
+   "source_revised": "2026-11-09T20:39:31Z"
   },
   "South Carolina|Governor": {
    "state": "South Carolina",
@@ -1518,7 +1518,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
-   "source_revised": "2026-11-09T20:10:31Z"
+   "source_revised": "2026-11-09T20:31:49Z"
   },
   "New York|Governor": {
    "state": "New York",
@@ -1635,27 +1635,27 @@
     {
      "name": "Marsha Blackburn",
      "party": "Republican Party (United States)",
-     "votes": 957136,
-     "pct": 45.52,
+     "votes": 955298,
+     "pct": 45.49,
      "party_code": "R"
     },
     {
      "name": "Jerri Green",
      "party": "Democratic Party (United States)",
-     "votes": 902953,
-     "pct": 42.95,
+     "votes": 902615,
+     "pct": 42.98,
      "party_code": "D"
     },
     {
      "name": "David Hatley",
      "party": "Independent politician",
-     "votes": 195564,
+     "votes": 195288,
      "pct": 9.3,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-   "source_revised": "2026-11-09T19:55:23Z"
+   "source_revised": "2026-11-09T20:30:23Z"
   },
   "Vermont|Governor": {
    "state": "Vermont",
@@ -1668,20 +1668,20 @@
     {
      "name": "Phil Scott",
      "party": "Republican Party (United States)",
-     "votes": 163153,
-     "pct": 52.6,
+     "votes": 162050,
+     "pct": 52.5,
      "party_code": "R"
     },
     {
      "name": "Amanda Janoo",
      "party": "Democratic Party (United States)",
-     "votes": 141572,
-     "pct": 45.65,
+     "votes": 141618,
+     "pct": 45.88,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election",
-   "source_revised": "2026-11-09T02:31:57Z"
+   "source_revised": "2026-11-09T20:35:53Z"
   },
   "Illinois|Governor": {
    "state": "Illinois",
