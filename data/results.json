@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-09T04:08:07Z",
+ "updated_utc": "2026-11-09T04:23:06Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -111,7 +111,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-08T20:23:08Z"
+   "source_revised": "2026-11-09T04:19:40Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -124,27 +124,20 @@
     {
      "name": "Josh Turek",
      "party": "Democratic",
-     "votes": 686641,
-     "pct": 50.5,
+     "votes": 688232,
+     "pct": 50.55,
      "party_code": "D"
     },
     {
      "name": "Ashley Hinson",
      "party": "Republican Party (United States)",
-     "votes": 630808,
-     "pct": 46.43,
+     "votes": 631174,
+     "pct": 46.36,
      "party_code": "R"
-    },
-    {
-     "name": "Thomas Laehn",
-     "party": "Libertarian Party (United States)",
-     "votes": null,
-     "pct": null,
-     "party_code": "O"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
-   "source_revised": "2026-11-08T20:23:26Z"
+   "source_revised": "2026-11-09T04:17:46Z"
   },
   "Ohio|Senate": {
    "state": "Ohio",
@@ -319,19 +312,19 @@
      "name": "Ashley Moody",
      "party": "Republican Party (United States)",
      "votes": 4210242,
-     "pct": 50.88,
+     "pct": 50.87,
      "party_code": "R"
     },
     {
      "name": "Angie Nixon",
      "party": "Democratic Party (United States)",
      "votes": 3972095,
-     "pct": 47.98,
+     "pct": 47.99,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
-   "source_revised": "2026-11-08T18:56:39Z"
+   "source_revised": "2026-11-09T04:08:23Z"
   },
   "Michigan|Senate": {
    "state": "Michigan",
@@ -508,19 +501,19 @@
      "name": "Jon Ossoff",
      "party": "Democratic Party (United States)",
      "votes": 2466422,
-     "pct": 59.0,
+     "pct": 59.02,
      "party_code": "D"
     },
     {
      "name": "Mike Collins",
      "party": "Republican Party (United States)",
      "votes": 1712444,
-     "pct": 41.0,
+     "pct": 40.98,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-09T02:40:49Z"
+   "source_revised": "2026-11-09T04:10:15Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -825,26 +818,26 @@
      "name": "Jim Risch",
      "party": "Republican Party (United States)",
      "votes": 401788,
-     "pct": 56.5,
+     "pct": 56.53,
      "party_code": "R"
     },
     {
      "name": "Todd Achilles",
      "party": "Independent politician",
      "votes": 238352,
-     "pct": 33.5,
+     "pct": 33.54,
      "party_code": "I"
     },
     {
      "name": "Natalie Fleming",
      "party": "Independent politician",
-     "votes": 70609,
-     "pct": 7.0,
+     "votes": 49932,
+     "pct": 7.02,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
-   "source_revised": "2026-11-08T19:09:02Z"
+   "source_revised": "2026-11-09T04:13:54Z"
   },
   "Delaware|Senate": {
    "state": "Delaware",
@@ -1052,7 +1045,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
-   "source_revised": "2026-11-08T07:36:42Z"
+   "source_revised": "2026-11-09T04:14:28Z"
   },
   "Ohio|Governor": {
    "state": "Ohio",
