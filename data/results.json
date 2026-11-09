@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-09T11:38:34Z",
+ "updated_utc": "2026-11-09T11:53:35Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -163,7 +163,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-09T02:51:32Z"
+   "source_revised": "2026-11-09T11:49:58Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -246,7 +246,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-09T09:16:11Z"
+   "source_revised": "2026-11-09T11:51:02Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -337,20 +337,20 @@
     {
      "name": "Abdul El-Sayed",
      "party": "Democratic Party (United States)",
-     "votes": 2517819,
-     "pct": 52.55,
+     "votes": 2520388,
+     "pct": 52.5,
      "party_code": "D"
     },
     {
      "name": "Mike Rogers",
      "party": "Republican Party (United States)",
-     "votes": 2177618,
-     "pct": 45.45,
+     "votes": 2180541,
+     "pct": 45.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
-   "source_revised": "2026-11-08T20:22:46Z"
+   "source_revised": "2026-11-09T11:48:12Z"
   },
   "Montana|Senate": {
    "state": "Montana",
@@ -513,7 +513,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-09T08:21:50Z"
+   "source_revised": "2026-11-09T11:49:38Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-09T10:43:42Z",
+   "source_revised": "2026-11-09T11:41:47Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -661,20 +661,20 @@
     {
      "name": "Juliana Stratton",
      "party": "Democratic Party (United States)",
-     "votes": 2499776,
-     "pct": 61.3,
+     "votes": 2501456,
+     "pct": 61.4,
      "party_code": "D"
     },
     {
      "name": "Don Tracy",
      "party": "Republican Party (United States)",
-     "votes": 1510621,
+     "votes": 1510968,
      "pct": 37.1,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
-   "source_revised": "2026-11-08T19:10:07Z"
+   "source_revised": "2026-11-09T11:49:26Z"
   },
   "New Jersey|Senate": {
    "state": "New Jersey",
@@ -739,20 +739,20 @@
     {
      "name": "Mark Warner",
      "party": "Democratic Party (United States)",
-     "votes": 2169536,
-     "pct": 61.1,
+     "votes": 2188657,
+     "pct": 61.2,
      "party_code": "D"
     },
     {
      "name": "Bert Mizusawa",
      "party": "Republican Party (United States)",
-     "votes": 1374151,
-     "pct": 38.7,
+     "votes": 1378325,
+     "pct": 38.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
-   "source_revised": "2026-11-08T20:25:04Z"
+   "source_revised": "2026-11-09T11:51:59Z"
   },
   "Colorado|Senate": {
    "state": "Colorado",
@@ -863,7 +863,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
-   "source_revised": "2026-11-09T08:51:24Z"
+   "source_revised": "2026-11-09T11:52:53Z"
   },
   "Massachusetts|Senate": {
    "state": "Massachusetts",
@@ -1071,7 +1071,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-09T02:53:44Z"
+   "source_revised": "2026-11-09T11:43:32Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
@@ -1513,7 +1513,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
-   "source_revised": "2026-11-09T03:48:22Z"
+   "source_revised": "2026-11-09T11:43:16Z"
   },
   "New York|Governor": {
    "state": "New York",
