@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-09T06:38:01.548400</dc:date>
+    <dc:date>2026-11-09T06:53:00.345894</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 288 270
 L 288 86.4 
 L 28.8 86.4 
 z
-" clip-path="url(#pa2d1f2e4a1)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
+" clip-path="url(#p77109af876)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 46.8 226.8 
@@ -43,7 +43,7 @@ L 227.4912 226.8
 L 227.4912 206.64 
 L 46.8 206.64 
 z
-" clip-path="url(#pa2d1f2e4a1)" style="fill: #1d4ed8; stroke: #1d4ed8; stroke-linejoin: miter"/>
+" clip-path="url(#p77109af876)" style="fill: #1d4ed8; stroke: #1d4ed8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 230.3712 226.8 
@@ -51,7 +51,7 @@ L 270 226.8
 L 270 206.64 
 L 230.3712 206.64 
 z
-" clip-path="url(#pa2d1f2e4a1)" style="fill: #b91c1c; stroke: #b91c1c; stroke-linejoin: miter"/>
+" clip-path="url(#p77109af876)" style="fill: #b91c1c; stroke: #b91c1c; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 302.4 270 
@@ -59,7 +59,7 @@ L 561.6 270
 L 561.6 86.4 
 L 302.4 86.4 
 z
-" clip-path="url(#pa2d1f2e4a1)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
+" clip-path="url(#p77109af876)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 320.4 226.8 
@@ -67,7 +67,7 @@ L 501.7608 226.8
 L 501.7608 206.64 
 L 320.4 206.64 
 z
-" clip-path="url(#pa2d1f2e4a1)" style="fill: #1d4ed8; stroke: #1d4ed8; stroke-linejoin: miter"/>
+" clip-path="url(#p77109af876)" style="fill: #1d4ed8; stroke: #1d4ed8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
     <path d="M 504.6408 226.8 
@@ -75,7 +75,7 @@ L 543.6 226.8
 L 543.6 206.64 
 L 504.6408 206.64 
 z
-" clip-path="url(#pa2d1f2e4a1)" style="fill: #b91c1c; stroke: #b91c1c; stroke-linejoin: miter"/>
+" clip-path="url(#p77109af876)" style="fill: #b91c1c; stroke: #b91c1c; stroke-linejoin: miter"/>
    </g>
    <g id="patch_8">
     <path d="M 576 270 
@@ -83,13 +83,13 @@ L 835.2 270
 L 835.2 86.4 
 L 576 86.4 
 z
-" clip-path="url(#pa2d1f2e4a1)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
+" clip-path="url(#p77109af876)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #111827" x="28.8" y="32.4" transform="rotate(-0 28.8 32.4)">2026 US MIDTERMS: LIVE FORECAST AVERAGE</text>
    </g>
    <g id="text_2">
-    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7280" x="28.8" y="61.2" transform="rotate(-0 28.8 61.2)">Election held Nov 3, 2026: check official results   |   updated 2026-11-09 06:38 UTC</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7280" x="28.8" y="61.2" transform="rotate(-0 28.8 61.2)">Election held Nov 3, 2026: check official results   |   updated 2026-11-09 06:53 UTC</text>
    </g>
    <g id="text_3">
     <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #111827" x="46.8" y="115.2" transform="rotate(-0 46.8 115.2)">Chance of controlling the HOUSE</text>
@@ -142,7 +142,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pa2d1f2e4a1">
+  <clipPath id="p77109af876">
    <rect x="0" y="0" width="864" height="302.4"/>
   </clipPath>
  </defs>
