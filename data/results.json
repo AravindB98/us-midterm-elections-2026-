@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-09T19:39:04Z",
+ "updated_utc": "2026-11-09T19:54:05Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-09T10:59:44Z",
+   "source_revised": "2026-11-09T19:50:09Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -259,20 +259,20 @@
     {
      "name": "Troy Jackson (replacing Graham Platner)",
      "party": "Democratic Party (United States)",
-     "votes": 375516,
+     "votes": 376956,
      "pct": 53.1,
      "party_code": "D"
     },
     {
      "name": "Susan Collins",
      "party": "Republican Party (United States)",
-     "votes": 330994,
+     "votes": 332623,
      "pct": 46.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-09T16:08:01Z"
+   "source_revised": "2026-11-09T19:41:52Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-09T13:56:05Z",
+   "source_revised": "2026-11-09T19:51:46Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1084,20 +1084,20 @@
     {
      "name": "Keisha Lance Bottoms",
      "party": "Democratic Party of Georgia",
-     "votes": 2271433,
-     "pct": 54.3,
+     "votes": 2273305,
+     "pct": 54.33,
      "party_code": "D"
     },
     {
      "name": "Rick Jackson",
      "party": "Georgia Republican Party",
-     "votes": 1909170,
-     "pct": 45.7,
+     "votes": 1910706,
+     "pct": 45.67,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-09T16:30:16Z"
+   "source_revised": "2026-11-09T19:53:58Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1110,20 +1110,20 @@
     {
      "name": "Byron Donalds",
      "party": "Republican Party (United States)",
-     "votes": 4132275,
-     "pct": 50.02,
+     "votes": 4135701,
+     "pct": 50.01,
      "party_code": "R"
     },
     {
      "name": "David Jolly",
      "party": "Democratic Party (United States)",
-     "votes": 4024554,
-     "pct": 48.71,
+     "votes": 4029461,
+     "pct": 48.72,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
-   "source_revised": "2026-11-09T16:30:06Z"
+   "source_revised": "2026-11-09T19:51:45Z"
   },
   "Kansas|Governor": {
    "state": "Kansas",
@@ -1936,26 +1936,26 @@
      "name": "Sarah Huckabee Sanders",
      "party": "Republican Party (United States)",
      "votes": 477304,
-     "pct": 53.9,
+     "pct": 53.87,
      "party_code": "R"
     },
     {
      "name": "Fredrick Love",
      "party": "Democratic Party (Arkansas)",
      "votes": 341842,
-     "pct": 38.6,
+     "pct": 38.58,
      "party_code": "D"
     },
     {
      "name": "Colt Shelby",
      "party": "Libertarian Party (United States)",
      "votes": 66913,
-     "pct": 7.6,
+     "pct": 7.55,
      "party_code": "O"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Arkansas_gubernatorial_election",
-   "source_revised": "2026-11-09T18:37:16Z"
+   "source_revised": "2026-11-09T19:41:23Z"
   },
   "Idaho|Governor": {
    "state": "Idaho",
