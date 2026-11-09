@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-09T00:37:34Z",
+  "updated_utc": "2026-11-09T00:52:33Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -143,7 +143,7 @@
       "url": "https://www.predictit.org/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "senate": 96.0,
+      "senate": 97.0,
       "house": 1.0,
       "as_of": "2026-11-09"
     },
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 81.6,
     "house_n": 9,
-    "senate_dem": 81.9,
+    "senate_dem": 82.1,
     "senate_n": 8
   },
   "senate_projection": {
@@ -229,7 +229,7 @@
       ]
     },
     "senate": {
-      "value": 81.9,
+      "value": 82.1,
       "median": 81.0,
       "n": 8,
       "min": {
@@ -241,10 +241,10 @@
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 12.3,
+      "stdev": 12.4,
       "by_type": {
         "forecast_model": 72.7,
-        "prediction_market": 90.3,
+        "prediction_market": 90.7,
         "crowd_forecast": 91.5
       },
       "sources": [
