@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-10T05:25:06Z",
+ "updated_utc": "2026-11-10T05:40:06Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-10T04:37:27Z"
+   "source_revised": "2026-11-10T05:30:36Z"
   },
   "House": {
    "parties": {
@@ -928,20 +928,20 @@
     {
      "name": "Jeff Merkley",
      "party": "Democratic Party (United States)",
-     "votes": 1085808,
-     "pct": 58.1,
+     "votes": 1096431,
+     "pct": 58.0,
      "party_code": "D"
     },
     {
      "name": "David Brock Smith",
      "party": "Republican Party (United States)",
-     "votes": 722073,
-     "pct": 38.6,
+     "votes": 731820,
+     "pct": 38.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-09T23:34:03Z"
+   "source_revised": "2026-11-10T05:25:36Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -1303,7 +1303,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
-   "source_revised": "2026-11-10T04:32:32Z"
+   "source_revised": "2026-11-10T05:28:31Z"
   },
   "South Carolina|Governor": {
    "state": "South Carolina",
