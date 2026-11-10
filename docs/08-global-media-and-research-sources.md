@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T00:23:41Z**.
+> Latest headlines refreshed: **2026-11-10T00:38:40Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -229,9 +229,9 @@ _Note: State media present the official Russian government view; independent out
 **Latest headlines (auto-updated):**
 - [Провал республиканцев на промежуточных выборах в США: президентство Трампа закончилось?](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Na0JUdG9BQnpZUEl5N3VpbEJoTUN0ZnBSSUZMTzk0VGE2VUEzR3c3R3hVaWM2b1ZqbHJ6c3BHeVBYOGFxVW0ySmNseUg1d9IBS0FVX3lxTE9OM1dwVGU1UU5yLW55VXdTUllCaVhzQ1BrTHk5dlNkbEdseVFfTnF0a0VxYmZIRG1oNnZVRWpLSGw2YmdhSExGMHV1dw?oc=5) (Интерфакс)
 - [Промежуточные выборы в США. Демократы одержали уверенную победу — и получили контроль над конгрессом](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS1ItV3MwNy1mNnJCMGZPaHpQS0xDS0JTeFRFcUMxY2MzVUpvTnhGNzgybkdxVE01UXRoTXdEV3dIRjQzaTY0Zkt4Q1VnaFM2Y0VBQkl2TklONzd6aXFFSFpIWHhRYTJHN0hMUF9kZ3dkeHFiblA5cHNHckMxcnNuUHVjc3FaekFpZ3dqLUIxQzYtakJGMUlqN3FOTVp6LWpNY0FmMERVc0JMclBfU3hiemN1ZWJ6SDJjWHJ3X3Z5dTQ1NGRkcHhKcXF1emlkVWUzajFNbjJR0gHbAUFVX3lxTE9zMTF2SExHYlo2anI3NHprMEN3dmRGVEp6VFBxQjN6Nng3WHpqMTM4c1lBbDNNYnoxYXlwX0JCeVFJcENMdlF0dWZVYWk5dTdkWkFlajhFM3gtaEp6dmNVTTNYWWxIS2V3cG1xREhETU8yOEpDVjIyb3ROMThvNFByWGkzaml3ak5rOWlISmd5WEg1VXltRHJ6NG1fWm5xcmF6RUNETUhoOUhlcUZWRTVkSmNXb0l2YnJtRGpMUFZFWkZoRF9aSWxINjk1eklWWXhIMUlUQmFVZUFnOA?oc=5) (Meduza)
-- [Хромая утка или бешеный пёс? Итоги промежуточных выборов в США пугают Европу](https://news.google.com/rss/articles/CBMia0FVX3lxTFB5QUkwY2NEZWI5NDlSVHRMb1JaWDNDRDd1WlVFRjRVajgyd0YyNXlYcS1qTFhPbEwyRzgtTTBYQkZHR2hMRFkwUVFYUlNQdWdHY2wzZmcwS1ZrZGRON3daa1EyZFdXZmVaWE5r?oc=5) (Euronews.com)
 - [После промежуточных выборов президент США Трамп может лишиться поддержки Конгресса](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjRFNlBOWTJwa3RQOVhmQTNrQXZYUE9GZkJnSmUwUmx2MlNTd0FJQ3pDWmxCTUUwZ214cUpfaGpXaVVYc2llVmJEUmR0V01ObTRqWDB1U3ROQjhOY0c1TU9JTVdwQzFyclhZX0g1SDllQThqc3F1WDROQmp4cjBlRWxrY05qSmVGekc5TndkUERCdFNwQXJRSVBuMDhyVVo4UDBlWmt5N3ZObWVTcE45T3U0WURzNEF1X3dvVFRwTVRzUDByT1huY0hkUGQxc2p5ZVJlaDNtZlnSAdgBQVVfeXFMT0o2QThobTVmSW9iU05DNndUWDVPdDY0M3FrTWdzcG9VMnduRTdFVWNOTjVSWkVPcUhoY1VneU1jb3dFMElGaS1yWERtaG16S0I0bnZ3NERWUjJoYlF4ckJNdnIxUmJjSmVWVGxzaGtaNEUzb2FEX0NmTjBKVkktY0g0UFlRSjNMM25jV1hmSkVuNlVpMFR3T0FnSFVoUXZuQlp6b1oyeE5JVmlqTVEtcFk2ZWRxd0drcm9SMlJoX2lnN2lYc1VGVDBCZGYyeGtjWnhJeVdxWWxC?oc=5) (DW.com)
 - [В США проходят промежуточные выборы в Конгресс](https://news.google.com/rss/articles/CBMilAFBVV95cUxOVURTM3BYZWpxWVdjcVluSG5PNUlsV25MY2l2Y0R4ZGs3RldrZFdvNmZUSm5YYzZDbG5QSlZrRGF6UFBsMHpmdjFiWmthZGxoZ25ZcDA0SGVIOExWYlptX1AwakhxX0djSlF2OFNkbTYta0pEcEVxNFBmajQ4d1dsc29scGtLLVQwNEZOaDQ1cHdBQWo30gGXAUFVX3lxTE82QVVZUkluY2dVcXNUOTUzb0JQWWZfWVJHdjFvaVBPLWJCRUVFTFd3OXM5ZnNZSG5yM1NBOHRSXzh0RjlmdXU0dW1oa1lkRE1kLThRaTJ5YlBXLU53cXZUdEVBZEhaU3dqcHdZMy1BZEk2SXVjX2U1TFpiQ0ZtRDhRVjB6eGc2SllJaV92djZTWjdLS0F2MEU?oc=5) (Радио Свобода)
+- [В США завершаются промежуточные выборы в Конгресс. Когда и чего от них ждать](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uc2xvUmRNdTE3MUZDSXBTVHFjQ3ZkOE4tTGtaNmFOMHdNOUM3SXlHMVA1SFJPWFZhd1NYSjdWUXpoMkhIcm9OSjJ4YzlsZlhZd1FDU1JLV2I4V3Q4ZW040gFkQVVfeXFMTjd6MDhDem8zLWlnQ0VUeFB5TTF1U2NJSWtOZVg2U2Q5X2Y5aUVGQ1FUdHZPTUNfRWVVTEx4MDJ6Z0dnVWtmWUtkSHlGNDZtY2NnbFE5UTZVVTM2RUoweW85WVlweg?oc=5) (BBC)
 
 
 ## Ethiopia
@@ -297,11 +297,11 @@ _Note: Nikkei Asia frames midterms around tariffs, China policy and markets._
 **Verified 2026 midterm coverage:** [Nikkei Asia: China issues fade in US as midterm voters focus on prices (Oct 29, 2026)](https://asia.nikkei.com/politics/u.s.-midterm-elections/china-issues-fade-in-us-as-midterm-voters-focus-on-prices)
 
 **Latest headlines (auto-updated):**
-- [米中間選挙で民主党が大勝 ～出口調査からみる共和党の敗因～ | 前田 和馬 | 第一ライフ資産運用経済研究所](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oRXJLWkFJTnctdUZtaE4yOGkwWGp0dUZzY294bUJYN2NXSkhyaHdDdVVHOE1LUmVFdjdsQ1RLcU40dzNPWHhLbWV6SUpqWXJES1U5cmR5Q3RDc3c?oc=5) (第一ライフ資産運用経済研究所)
 - [米国中間選挙で民主党躍進 経済政策、2028年大統領選挙、対外政策への影響 野村證券・吉本元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cDY0REVBMHcyTXhMbWdVNno0NnIyY1RENVZWVGZzWTBpbTRHOHhRbWlsN1lxZWdvSkZKV1FubnN2U3dKNjFGT1JrbmF5SjFxSXQ0MjJXVWpKMXFOcXBj?oc=5) (野村證券)
 - [【米中間選挙2026】 民主党、上下両院で主導権を奪う　トランプ政権を有権者が否定](https://news.google.com/rss/articles/CBMiYEFVX3lxTE80bW5UT2VtejFsS3UtbWVvWEJLQkpuTDhUX2xaekxBSFRobzFFMlo2SWE4anByLU40d2UtQnVkUWRYOFJFQU1qc0E2ZjJmZ2pEd0hIVUpHcFdtakoxdnRZV9IBZkFVX3lxTE83SnczdHZYY2ZQSnN0WW54bkFoNl9zaTBYMWUtTVZheGRVRndkeWtnWUw4RlF4YzdjUmNBNm1LZGl6TWpSTy0zaFYwZnh4N2JDY3pmeHZrU3JxajY1MDF1dlNrS0UzUQ?oc=5) (BBC)
 - [米中間選挙、民主党が上下両院で多数派奪還 トランプ共和党は大敗](https://news.google.com/rss/articles/CBMibEFVX3lxTFBWb3lkTnVTbnBOVTRvRVhJT0d2eW1WMjZhZjVlTEtoOWNDd01PNVJ1bWxKWnF4OE96eWFoN0d6UFFaOTdEYzlkaFRrdkdSQ3NqRHVuS1BqdDl0SFNnWVdDVXZuWTV4dG1wV2ZrRA?oc=5) (日本経済新聞)
 - [米中間選挙結果に各国が続々反応 「戦争にノー」「民主主義の勝利」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tUGhoRlVzbVZhU1dBQXFBN1Q1SnBJUVVHaXV6LU4zSFRVTzFoNlZycVlpcVIzbWtxdjYzaW1IbG0wTlZfVFdieDkzcXo0Q05ybEJuQ2g4aFo0YWFUUmp2N3plbEJfTUE?oc=5) (朝日新聞)
+- [米中間選挙、共和大敗 民主、上下両院で多数派奪還―トランプ氏の求心力低下](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zNW40TUFacnhnRDZMM1BPWkhBXzBwcF80ZFpyb1Q0TVIwWUhJUFVfRkRyeWkyUE9jaW8tZkRrUUFhMlJyZl8yRXhzWkFzamdwNllQWFRLTDNzVTVwWWlnSlF3Yw?oc=5) (時事ドットコム)
 
 
 ## United Kingdom
@@ -408,7 +408,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [Democrats win control of U.S. House, in major rebuke to Trump](https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGd4OUI2RHhaUWlxWXJ5aEtNUDRwNnBiWFMwamdnSmVhdVZWd3lkc2ZxcGx0T0V1N0VzMGtpUHhhTzhoWEFVWUpVRkpZcG95czZqNVBwVDRqYTJjYUstT3ZJeWltekxucUFnazhRM0ZYWXVkdXEybmhNdkhpcHFXOWl30gGHAUFVX3lxTE9RM0NEa3JxeVNYZ3NDMS14Zjc5emJoTmRjMUxyNzJqZkhfRFBONURNZWZnZFA1WUtQd0lvc1E2OWpEVGlLWEhOZ3NsWVJNdHVYZktIaWpPVVN5V1l6cE5rT3RWSDJPSlF1X1JISzNFcl90V0ZLRi1vdkc5SWRKTG9ORTN6akdPUQ?oc=5) (PBS)
 - [2026 midterm elections: Democrats projected to gain control of House and Senate](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmE3YUE5LWMxNTl3dVFnenhuV0pkVzFrSFFmXzRJNkVEUjN3Z1hILVVneDhETkkxSURLcXpod2JfX2xSZ3NCV3M1dU1CYnluXy1tdy1NQVhQYmE5Q1Fka3AtemU0TjNQQ3YyRHVUejEzMmhoc2dCbXBvQ2EzakkydHdTM0F6aUdGNUJteTFWTXBiVDlmdW1TY1VBdWxORzRyTU8xWk13VW54NGtNT2lXRzdNcnZIdw?oc=5) (ABC7 Bay Area)
 - [Views on the Trump Administration’s Health Care Policies - Health Care in the 2026 Midterm Election](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDMxcVNYU2o5alF3NTU5eU5xTE1kZUEtZHdiOHVlY3ZxdmZ3cHlLQ1lfUXRfYUw3ZFVmdXA3OHBFcmZpSFhodkxsc1RORkZxTjh4R041UkFZMURQcHZPbndBdGpGcGxVNGt3V0NGZ2ZYVU95OXlpNmN6VURfVmltV3pOTVlILUY0andNeTR0UTh4eGx1TWJQRXlFWEFnaF9QdGxSRGxPZFZCdTlXSV82UjF3X18?oc=5) (KFF)
-- [Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5) (AP News)
+- [Latest Senate Polls: Midterm Elections 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE5Kem1zNEtLLXJhQndGWG1LTlI2UWtfWGlqdzJwTGFhV2c1ZUpYYTlNQnNaMW9HUGlHN281RzZpTktsSXVEVXhnS1diRndPbzQwYmtnM2NQSkY5VUstWFAta2ZuVlpRYkhMZk5hNEZrN0Vpdw?oc=5) (The New York Times)
 
 ### International students and visa workers
 
@@ -425,7 +425,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [See how Latinos, young voters and other demographic groups fueled Democrats' big wins](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd29ncDlIbmNIYzFHRWhGd215LTQ2eXpIUWZkOFFITGhKYi1UOUFpYkdVempuS0diSms3TF9ZUkgzRUhsUGRiOFNfamFfNHBXVGhMeFVwNl9iYVNJOF9lZU1hZGh0VTdxVEtucVllR1k5Ni1QWFBOQXJKemFNNFQzZmx3eWw?oc=5) (NPR)
 - [US midterm results in maps and charts](https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5) (Reuters)
 - [How Texas Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jT3l2eVZicnkxNjNzWW9QcDlmR0NneThvdWNvSUZtUHV1dDhUWGlGYmtEdnZ2cTY4MVNhcFNsM2tFYzhKUWVhRGQxd1pmM3B2NkhtNUxJandadHNCSDllTWtpT3QwREhvWXdCcEJwWGdCN2FKLXVZSDg4TklpUTg?oc=5) (The New York Times)
-- [How Democrats Swept Wisconsin Up and Down the Ballot](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHlrTEZqTDJWXzR6YXlYdEw4VXVTelE1VkVpYmhOYmo5NjN3SnZPdDdfSlc1djI3UmZRWUNWU3RTT3F0bDNsUUR6cVMtbVAtalFoTXlqR1QyRjZmWGtPWG9EQ3I5cmVXZE50d3A5TU5hdnRDeUlVbGR5cTFCWS13SWxiZUJEd3RlUUtvM3ZuLUNEc19ydGp2SlhaSUo0UERW?oc=5) (Marquette Law School)
+- [Alaska Votes 2026](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tOVBBRGItbEN4ODdkX21RRXktaFFYdWx0cEYwQXVkU1NkUmlIdHRpWnlmX2RiS2NMaTQwOUZidEZpYS12bmhKNzIxd1RyRGFqbHdmYw?oc=5) (Alaska Public Media)
 
 ---
 
