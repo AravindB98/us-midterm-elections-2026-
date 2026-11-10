@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T00:08:41Z**.
+> Latest headlines refreshed: **2026-11-10T00:23:41Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -96,9 +96,9 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 
 **Latest headlines (auto-updated):**
 - [2026年美国中期选举结果实时更新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zX2pqQWw2eFpIbF9oX3huVUNvNTJMRDVianRLZFNPOUpDTmdDc2pFT1p0Zy1NVjBpaVkwaWtVVDZwY2hudjBmQ1B4WUx5R0szLVIxaEpJSXhJTGlNZXJXUFRYWTg3WkHSAWxBVV95cUxPbjgwWEJ0RXZIUGM4SWtZZXU2NjJRcHNjN1kwLXlTcnJSLUtkY0o2aFVwbEcySWlYVlNEdjV4RFY2a0gtWXhrUUZzaDZiUTAzQWhtUFJyYmZpby1nOE9vUlBBYVlKb2RMNUNWRFY?oc=5) (BBC)
-- [美国中期选举今日投票：国会控制权之争有哪些关键看点？](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZTJCbWFCT1RtaWd0ZUoxb1hnZW1mNU9MY0RTSDFGYjl3NHJXTjZSaGkxTFJFSmJSNnl4dE9obW1mQ2ZoMFN6R1pKWkNvWmJwV09QOGNzaWZlSWRxa2VsVmZoaXRhVTBKTVkxWW0tV2hNN2RVaXh6NUt4MFhjOFR5YzNVTGMtMlMtZW0tdldmVXhEZHgycUtPXzZnV0JXNFdNb0s2SHVhUEtTcGo3c2fSAbABQVVfeXFMTW05Sjlhd0hITEkxaEs1Q2tRM2N6MzZDdlBZXzExUWNXOWNTZWE1RXQxQ01yZzlsb001Sk5kM0daS040UmVQSi1rM2lNNEkzR1BySGtWVGZxQklVeGVvdURnZzFiUUg0RU9TOU5GNnNBQkFxZHMyc1RYMHJFcVRqNHA3cGdDRjU1UlpNa3IzejZoZEtLVkpCeGVGVG1jS0U4VXFVcnJuZkNuX2x5U2RFSHI?oc=5) (美国之音)
-- [美国举行中期选举投票 特朗普政府迎来“期中考试”](https://news.google.com/rss/articles/CBMifEFVX3lxTFBpXzNHczRJM2tKdXJHQVBQMVFtd25xVHhtOUMtQlJCbkE0UjRTeDBFNnJoMDI2aGYtaGVLWlQ2OWVDaHJCbHp6R1o5SXRzMkV4OW1jTGFLRGhFQXRtckloeVJFOFVhazgyYTBjbGtiU1VHWkVzcGl3WlRsX2o?oc=5) (求是)
+- [美国中期选举今日投票：国会控制权之争有哪些关键看点？](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZTJCbWFCT1RtaWd0ZUoxb1hnZW1mNU9MY0RTSDFGYjl3NHJXTjZSaGkxTFJFSmJSNnl4dE9obW1mQ2ZoMFN6R1pKWkNvWmJwV09QOGNzaWZlSWRxa2VsVmZoaXRhVTBKTVkxWW0tV2hNN2RVaXh6NUt4MFhjOFR5YzNVTGMtMlMtZW0tdldmVXhEZHgycUtPXzZnV0JXNFdNb0s2SHVhUEtTcGo3c2c?oc=5) (美国之音)
 - [一文读懂｜美国中期选举的四个“意外”](https://news.google.com/rss/articles/CBMid0FVX3lxTE14ZElLX3d5NEdTWFNhRGU2WjdOWFpSZlNkbndSc0ZkMnBPMDdJdmdvTHRMNjFuSk91b3NmUmZEcWcxc0pDdmR1US1nTk9ac1FueENOLWZaemNTY29vZDRpQVB5ZmljbUpSOXpJdE1XRFlRbmQwSEd3?oc=5) (新华网)
+- [美国举行中期选举投票 特朗普政府迎来“期中考试”](https://news.google.com/rss/articles/CBMifEFVX3lxTFBpXzNHczRJM2tKdXJHQVBQMVFtd25xVHhtOUMtQlJCbkE0UjRTeDBFNnJoMDI2aGYtaGVLWlQ2OWVDaHJCbHp6R1o5SXRzMkV4OW1jTGFLRGhFQXRtckloeVJFOFVhazgyYTBjbGtiU1VHWkVzcGl3WlRsX2o?oc=5) (求是)
 - [要闻解说 - 美国中期选举：民主党实现“蓝色浪潮”夺回国会控制权？](https://news.google.com/rss/articles/CBMitANBVV95cUxQdTJGaDBRMXFmNGNWWEp2MTlUNmM2MTMwaU1UM2tNel9zXzB1MXl5ZnNqbEkxdkt4MWNZTEdGYVlQUWVqTlFOTjVDRE9NU3ZUWktqaHpUMExmdFg4R3BpZ3hRbklUX2Q4MzgzanZ1alNfSUF4YkpkZlBBV1NjcWZlZ1lSV2FiUWhYSHdYX09BVGpCN0Y3NDZYQTI5RjRqb1FkS1JOTzhSaUZHZk54TmV2bGxvVlpWV0xvNE5vMUpkNWtFYTNsRE1KTnlfTks4YXRVbDlxeG92dnVjWm1QY1RvUWNpOXc5NzljWFE2ZEVWU3VuZGU5Wlo3djMyOW9iZXpWRV9VT2lHeWxqLVFveE85TDNOMVVwQVhqRHhkdG5oTnozV3l0RFNkdWtYWk52WkIyMXFHNFpfSzItM3BUeGhOZTBTTTktMkh4b18tVHRGUnhqX2hsTE1JVG9yMjlJdzFsNkVORU9xTnRWdWZYRUpxY1Y5aDlHVk81Ykx2RXFpVkNSQjhidncxVmJON1JMZUNkMlNaTGxoSkVFdWVsaS1hby1XY0pWd3RZQlZKMG93Q3drOVdX?oc=5) (RFI)
 
 
@@ -322,8 +322,8 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 
 **Latest headlines (auto-updated):**
 - [Everything you need to know from the US midterm elections](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fZ1lZRnI1T3dGVjNmLS12b2hLTXdkMzdQOUtlczRyLWFRQUZaTkZHcUR3R1ZHMDMzSjVtbWdubjZHZ0ZIUlp5LVpLLTZ0LXJ2OHk5c0lRb3FCQ2poU1E?oc=5) (BBC)
-- [Trump Says in Interview That He Will Accept Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5) (The New York Times)
 - [What just happened? Eight takeaways from our event on the US midterm elections](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDZmUEMxdzlxS2k4MFpmQVFydWNBWU9KME1LQjAtOW5OYXFmTDlZdmc4NFRhOXlJRXlta1A0QVIxd0hTbGgtbDRjZGY1bEhZYVIzR0NEYjJjaXduRHdudW9Bc2liLTlPQUlWcHFyVzlYRDBvY1JfQWVmSkZGZGVCeHZ3el9TcjJBR3UzMlVnb2FLYWRRdXJuR3Zia19jTXZ1UWQtdjlhaGExZVhIdXdRZ0Yycw?oc=5) (reutersinstitute.politics.ox.ac.uk)
+- [Trump Says in Interview That He Will Accept Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5) (The New York Times)
 - [Live US midterm elections results tracker 2026](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG5qZnpaSFIxMGs4a3pKbXFtZzRxSW9VYWNxd0FkdXZNN2E0R0ZsODZfZ2JxRHhaM2RhU3hHaUJFSnFoa2pGMGtjY0tIczc3Tk14Umx1MjB5MVNxVjR4dXprTlJ1SmRBQ25hcS1vUWduWWxZNXk3Nm1BMVBDSHZHcVEzdEE?oc=5) (Financial Times)
 - [Who will win the midterms? How the US elections will be won and lost](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qeHZpUU1lTm12dDU5M2dQUzU5M3FEbFRlRnkybWtkRFl4aHEwLVh6N3hmbDRwdG9BU2ZFYVFhSFZ4cTBLbk4tR1gtMjZXcUREUGNOd0huNEJ4T1k?oc=5) (BBC)
 
@@ -413,8 +413,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 ### International students and visa workers
 
 - [This Week in Immigration: November 6, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
+- [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
 - [Celebrities head to the polls for 2026 Midterms](https://news.google.com/rss/articles/CBMingFBVV95cUxONW1IT0tXTkY4VnR0d194aFVoNzBETFN3X3hqdi1kYTBlVjlZbG1kLUc0el9YTDZGTFhFWEVEdFNBN0NDMlJqUTN2Y1BYTkFKTkxKTU9PdUNmVDdvd1Zma0hEV21DRDIxLTI5RHozZXczRzA1Wk52bFFuMEUyaXFNYTRyaFNjSHc0STI2bzNPWFhqRnR6NGxvV1ZBUU02UQ?oc=5) (NBC News)
-- [7 charts that illustrate the scope of Democrats’ big 2026 wave](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVo0VGtwVEYyUl9pNE9rV0VicEJtZnlSZVFvQTVvb1ZuWnV3ZEdrVjkyVENUUHQyU0tTZVN2TnMzYUdQcjY3Q3N0UktwNE1DSHlKbm41MjRNd2FLMWdhSG9iYzBsV3RkMlY4dlJYRlFtZ1AyaGwyQTFTbEZWXzB5Ykp3WGlYVmdDd0lEd0NvOFUxT2VaUWFQUmczNGdmRXN1OHBGRUphZjNSM2c?oc=5) (NBC News)
 - [Trump says deportations were ‘too tough' and hurt him during the midterms](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbW5hV2xlck9jNzFqQUt1WHlMdWY1emZlWmF0RTZtMm5QTFlHRmI3YUl0WnZxTlZjM0Zha2ZXb0hlUFExS1JCLTFJUDlhd2xZRlhiR0NaeTdXSHRWckNkNnM1SHZZcnFBS3QtejFURE5TQ09GSllDc0d6VUdhVFVTUC1aR3licWxZQTZGbWVvdjU3OGhTSzZKVUMySm1ZcXPSAacBQVVfeXFMTmd5U3dXOGJJUm5yYmhoZlBlaVJCMVZEY2FNWU9iZVN4dFpwbWdBWk40cnlVTUV4TFFqX0N3ZHQ1UEpERDZsQzRfU2pxT18wb1drbVNkaThkeWtkNlRjYWk3eW9Bd1AyQ25wRkVEYmJSalQ5S3NGWjF2Yl9lbERHMUNDTGplWTdYQXJkT3FKNTV3RF9DRkJMQXlJTnJoNTVmakxITXVhbnc?oc=5) (NBC New York)
 - [National Opinion: Accountability should be an imperative for new Congress](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1dYVVhFRnJMX0pFMS1DcU5iWm91aEtPLXVYRmxJTDhwRnJybHNUVXR0cUpBMXV3T0FCMnR5bU5OaEIySkJoZTYtUFFXcFBxNVlJenFGMmVIeEdzV0RHZ0FGR0g5S0praXYzcC12V29zMXNtR2Iyd2p0all5SU5QRS1mSFB4ek1YcVB5NW9EZmNseFdsRXBvUFRXNFhUWGJCc3A2amIydw?oc=5) (Chattanooga Times Free Press)
 
