@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T04:09:06Z**.
+> Latest headlines refreshed: **2026-11-10T04:24:06Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -423,7 +423,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [From party control to voter turnout: These charts explain the 2026 midterm election results](https://news.google.com/rss/articles/CBMid0FVX3lxTFBIdHAwS1kzU0VDUUtXN2UxVnNsZTJ6N0xqMVFXRUtPZll1VjAzQlY2b2s2Zk42UXoyNUdLUUFaWFEyaU04QTBzX19pZ25EYzM3eUloVzVPQ2JMTkFmZ2JzYno1YlVDYVpxbFhhZFNUamRFVFFQZ0xB?oc=5) (KCRA)
 - [See how Latinos, young voters and other demographic groups fueled Democrats' big wins](https://news.google.com/rss/articles/CBMihAFBVV95cUxNd29ncDlIbmNIYzFHRWhGd215LTQ2eXpIUWZkOFFITGhKYi1UOUFpYkdVempuS0diSms3TF9ZUkgzRUhsUGRiOFNfamFfNHBXVGhMeFVwNl9iYVNJOF9lZU1hZGh0VTdxVEtucVllR1k5Ni1QWFBOQXJKemFNNFQzZmx3eWw?oc=5) (NPR)
 - [US midterm results in maps and charts](https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5) (Reuters)
-- [How Texas Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMif0FVX3lxTE5jT3l2eVZicnkxNjNzWW9QcDlmR0NneThvdWNvSUZtUHV1dDhUWGlGYmtEdnZ2cTY4MVNhcFNsM2tFYzhKUWVhRGQxd1pmM3B2NkhtNUxJandadHNCSDllTWtpT3QwREhvWXdCcEJwWGdCN2FKLXVZSDg4TklpUTg?oc=5) (The New York Times)
+- [How Florida Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ1pnanBUZTI1b3dZOHM5X0gwRWVxZDI5VWttbVVaZUc5bDRnWDFyNkNLNzBVMnlqLUhTcjl6NWJ2Uk03QW92aEVnV0gwNXB3cGJXM3pqWDY1akFKakNnV0ZMajA4TjJWQkNGUHp5TjExRENHaU1MT3RVYURmbG1CekJn?oc=5) (The New York Times)
 - [How Democrats Swept Wisconsin Up and Down the Ballot](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHlrTEZqTDJWXzR6YXlYdEw4VXVTelE1VkVpYmhOYmo5NjN3SnZPdDdfSlc1djI3UmZRWUNWU3RTT3F0bDNsUUR6cVMtbVAtalFoTXlqR1QyRjZmWGtPWG9EQ3I5cmVXZE50d3A5TU5hdnRDeUlVbGR5cTFCWS13SWxiZUJEd3RlUUtvM3ZuLUNEc19ydGp2SlhaSUo0UERW?oc=5) (Marquette Law School)
 
 ---
