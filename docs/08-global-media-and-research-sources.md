@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T13:34:39Z**.
+> Latest headlines refreshed: **2026-11-10T13:40:06Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -51,7 +51,7 @@ _Note: Mix of commercial networks (left-, right- and center-leaning) and public 
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [Top takeaways from the US midterm elections](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JZaU9CbWhKTzJFQWhvUW0zVFE2VnhVTWNJV2I5dlVlSlNQMVdtSW12UUhsMER2UnRYSUJzSWhnWFZxMExoTWZ4Ri1udHdrN0lZWkdCVWJ5OEp1cG1oN3dxZUY0REU5cUIzRnRmQ3F3SjJFdU9GQ2cycElXUHdoX1lEQkhJOFNURG5HZThSYklDS2s?oc=5) (Reuters)
 - [Midterm election video highlights for your students](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkpnMzNlZlRUV2YwTnA1UVd2UGltQ3ByaEtVSFdwNDlrWElfRjdMeF92YnhZbVNwellPeFpUb0lpQWo0VVl4RmYxY181WXIxcmVOZWMtYU9yMzFFUWcxOU9CTlhWbUpHYVlGSHhlY2NWVEpuemQ1Y3lIVURLb25jUVNyMWdIQ0c5U2pnMXFreU84ZzJWTVFtMkI5R2hjdEJkZERBTFc3eEJCUGZoRWY3Q3ptdzBtaDQ0?oc=5) (PBS)
-- [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
+- [Takeaways: Voters punish Trump, and the GOP suffers historic losses](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjkyWmJqMU9FSGNlZDU1XzEzZ2IzTUNlZ25OV1BuYmxTREU5NE41R0tldnU4Z3lCclBGYzltRFJySF9jMldXMDZxTTBaaGtYTU4tbHVJcXNCemdqblJfUXY3QTk0alF6VmJtWjBBS3kwaWVZOV9GTzdrM05aVXFRSlpjZTBPcWY2RHlDbnF6b21kRUVQZDNsUk5ZOUpwNnN0VkNENlhzWnBwQzdzTDkycVpyM1hJa3VYRC1SUWdWbGlGdw?oc=5) (AP News)
 
 
 ## India
@@ -97,8 +97,8 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 **Latest headlines (auto-updated):**
 - [2026年美国中期选举结果实时更新](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zX2pqQWw2eFpIbF9oX3huVUNvNTJMRDVianRLZFNPOUpDTmdDc2pFT1p0Zy1NVjBpaVkwaWtVVDZwY2hudjBmQ1B4WUx5R0szLVIxaEpJSXhJTGlNZXJXUFRYWTg3WkHSAWxBVV95cUxPbjgwWEJ0RXZIUGM4SWtZZXU2NjJRcHNjN1kwLXlTcnJSLUtkY0o2aFVwbEcySWlYVlNEdjV4RFY2a0gtWXhrUUZzaDZiUTAzQWhtUFJyYmZpby1nOE9vUlBBYVlKb2RMNUNWRFY?oc=5) (BBC)
 - [美国中期选举火热进行中，结果将决定国会控制权](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZUJtdURfWkR6aXk3Q0R3U3dNLW9sT0Q5c2lmN3RGYmNwbnhmblV2NER5dlpfcEp2ajlSYU9odFZ6UE02US1FOTJRdVRDZTZXLUVkeGVhcnQ1OUZCekJrRW03dkNJa1loMGNrODFHam5PSzZ5aWVybzBlV2taYkZnQ3kwek1UYWQ5SzlTcXBvYnB1bGFEeURDS3l4ZVBvMnZFcFM2aHA4b0hrcFlsVUhwUzRoREN6UTVaRFVPWjRreEZBRGU3SmlOUnJR0gHMAUFVX3lxTFBuanZqMEdpRXZDemdRM0E4bTJoWndHWDcwamp1RTg1OWZuaS1RLVBQZnlfRExLem1TcW5FLVhrdU1Qcks2SmRram0xNU01NERWSjBXNWVFWGxJQjRKNms5eXJ5RmdOR3N4cFNHeEFBN1RtTTM0UzVCR1FMZ0I3dWVYdFU1a19xLVFTbjFOajdQalRPYks3X3ZlTHZ4YjZ0cmp6bzZUVmh1cnc1d0d0RTE0YUZGRmpXQXVyNnRXcm80dDlENDRrUVc2aE0xag?oc=5) (美国之音)
-- [一文读懂｜美国中期选举的四个“意外”](https://news.google.com/rss/articles/CBMid0FVX3lxTE14ZElLX3d5NEdTWFNhRGU2WjdOWFpSZlNkbndSc0ZkMnBPMDdJdmdvTHRMNjFuSk91b3NmUmZEcWcxc0pDdmR1US1nTk9ac1FueENOLWZaemNTY29vZDRpQVB5ZmljbUpSOXpJdE1XRFlRbmQwSEd3?oc=5) (新华网)
 - [美国举行中期选举投票 特朗普政府迎来“期中考试”](https://news.google.com/rss/articles/CBMifEFVX3lxTFBpXzNHczRJM2tKdXJHQVBQMVFtd25xVHhtOUMtQlJCbkE0UjRTeDBFNnJoMDI2aGYtaGVLWlQ2OWVDaHJCbHp6R1o5SXRzMkV4OW1jTGFLRGhFQXRtckloeVJFOFVhazgyYTBjbGtiU1VHWkVzcGl3WlRsX2o?oc=5) (求是)
+- [一文读懂｜美国中期选举的四个“意外”](https://news.google.com/rss/articles/CBMid0FVX3lxTE14ZElLX3d5NEdTWFNhRGU2WjdOWFpSZlNkbndSc0ZkMnBPMDdJdmdvTHRMNjFuSk91b3NmUmZEcWcxc0pDdmR1US1nTk9ac1FueENOLWZaemNTY29vZDRpQVB5ZmljbUpSOXpJdE1XRFlRbmQwSEd3?oc=5) (新华网)
 - [要闻解说 - 美国中期选举民主党大胜 重塑特朗普最后两年任期格局](https://news.google.com/rss/articles/CBMiygNBVV95cUxQUU5fOGMwbERXa3JsRks0b2ZVcVhIUzA4QXVyNGNYTVBsNDAybWhwZDk2UENsU2JpWFo5VjhRbFZxY3c4N0hzSTlwaWVXVlljNVg5RzdFU0NaSDBLb2dieDcyNmlIdzNmNUdpMExrV3ZVNlFWQW03dmNGbkpWbTNWSUx0LXZTemRHZkpSVFpId2ZSWE84UXI4cHkxNjBZamN6S0Z4Z2NOZVlXSFpCeldEQ3FsNzJGVXl4dzBxQTFVMEVDQURNWmU5T3RxbWcxemFWN1FHUXNzUWxzRnNxcmk2alZFbzdHYmZKRzU0dnhUU3Z2YlRTbXdWRDBDY3dwTUVrdzVSdEVScS12U1p6VlVsTWtUQURsWm5XOFEwVmtCSFFDd2FPWmdxdUw0bmE0OTRMak5VZzNLclpOMUpVRmtBX2p4ZUxiZWw2cE5CN21CMlFpcXFQUXpuZ3VWWVNNVGRfWG5LS0V5WkF3VVJqa01CUGFqSHdyelgzcmlrUEhUQk1TZ1dFbDEwM1pYVVVnZU80WEpMQnA2Z3FsWFEtWEppNGV4cUl2b2J1WlRUUUtHOXhTdXhvUlFsTUdZX01wS1RkVmRGeWdvemR6dw?oc=5) (RFI)
 
 
@@ -249,11 +249,11 @@ _Note: US election coverage is limited; international wires (Reuters, AP, AFP, B
 **Research and think tanks:** [Institute for Security Studies (Addis Ababa office)](https://issafrica.org/) · [Policy Studies Institute (Ethiopia)](https://psi.gov.et/)
 
 **Latest headlines (auto-updated):**
+- [US midterm elections: live results tracker](https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1NENEJIQklMNTBmTkc4UWJiRTdjSkRuVXE1NjFkWWdLYW4xSlZtSWdSTEpSN3VWX3FrNGFzX09KeWFxbzZjZXdHc1V6RXJBalU3YVltNnVVZHFtdkVLSFlWYlhwNXdjX0Q5REs4SndsNnk3ZGpNYS03RHpTYm5NVEt3?oc=5) (The Conversation)
 - [World reactions to US midterm elections](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXBrMGpadmlBRlk2dUpLcGVLSWFfVTNZOC15eDZ4TDU2Ymx2aHl3WjNBTVZRVDV2RDNjY0ZfaXdwNUdOMkswM1BaVkZsRF9LMXFRX25iWUhVMjJSX3JoRUt4V0s3MGFfSmF5SzVQNTRrLVJxTV81bWlBbUt0ZGxPd05vTl9XT1FUU0dhOVVxTHBXcmZZci1WOHlPdmRkaTFod242dkNIdHQyRl8tYmZIRVl6WQ?oc=5) (Le Monde.fr)
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [Trump reverses stance, alleges fraud in recent US midterm elections](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnZ0UGV3RFQ2OWZpeVZQSlk0NkJTMmNfNks2T05zcGV0SjgtUEZXZXJIUDJEaVdjYjVia2YtaXRiS3lOaFh0ajVucVNkWDQ4akVXckU3RWx6NzZyT3pCQnhqYUhmS0pSQURpXzFabVhncXZTTlZFYjNnZVZWUDRROHFPM0NxenlRZVhUYTd2QVQ0c1B3VWsyUTRkcWlhOGtVcXk4OHl6TkVjenPSAbABQVVfeXFMT1UyRWYtbVdYZVF1VTB1LWdHS0dHMno5MlpwaGFnbHVuRy0tZW1CZ0JNSTlFVFZyMk5aQmlmbGF3V2VRWEMxQmNRVlc1aWtLNlZzWVVGWDFUMmVOUk04RFBGRVhLMVo1bm8xRE9vZFZwQ2NrSFBmLTFzaUdhSUlFZVhhOWtGX3VydFdGN3BFTFJOaTlQcWY2MURZaFJoUDNubE9oeGFMSS1ERlNHcG9EVGk?oc=5) (Al Jazeera)
 - [Top takeaways from the US midterm elections](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JZaU9CbWhKTzJFQWhvUW0zVFE2VnhVTWNJV2I5dlVlSlNQMVdtSW12UUhsMER2UnRYSUJzSWhnWFZxMExoTWZ4Ri1udHdrN0lZWkdCVWJ5OEp1cG1oN3dxZUY0REU5cUIzRnRmQ3F3SjJFdU9GQ2cycElXUHdoX1lEQkhJOFNURG5HZThSYklDS2s?oc=5) (Reuters)
-- [A weakened Trump could mean more volatile US policy for Africa](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1hYWVhSazhtWmcwT2I5QnBQR2Nud1VRai10V1B5S1JON2xBbTRoLVFXVFpNTmRhV0k3UWFiRWxrZmp1TGQ3b0xveVRDVEtYN2daM2s0NnVsZmJFUDNiTUQtSU5nd0lNb1FvbHhTZXZ4TmhyTnNzRm15a09qV0pVeHlReEF4TUdmZVV6bTd2OUtHRnBDYUlHVURR?oc=5) (ISS Africa)
 
 
 ## Germany
@@ -420,11 +420,11 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 ### Census and election data
 
 - [Surprising Turnout Rates in 2026 Midterms](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2tMNDNZaGJIZkU0QVQ2Q0N2djNjSVpWUGRRSDdKWHYyak1WbFJGMG1pSjRfaG9oNWZjUTRkbHlYYzF6ZHFuZ2VNeUljeURZZkY4NERLOUp0dGhncWpuenVnb19SZUdyNm5FSkEwOGxVYzg1T2V6cXBDTFJqVlRaTk9TQUhlYjJGbGVhMHdIZnlOb3Y3Qnc0elhB?oc=5) (Brennan Center for Justice)
-- [How Americans Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
 - [From party control to voter turnout: These charts explain the 2026 midterm election results](https://news.google.com/rss/articles/CBMid0FVX3lxTFBIdHAwS1kzU0VDUUtXN2UxVnNsZTJ6N0xqMVFXRUtPZll1VjAzQlY2b2s2Zk42UXoyNUdLUUFaWFEyaU04QTBzX19pZ25EYzM3eUloVzVPQ2JMTkFmZ2JzYno1YlVDYVpxbFhhZFNUamRFVFFQZ0xB?oc=5) (KCRA)
+- [How Americans Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
 - [US midterm results in maps and charts](https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5) (Reuters)
-- [Alaska Votes 2026](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tOVBBRGItbEN4ODdkX21RRXktaFFYdWx0cEYwQXVkU1NkUmlIdHRpWnlmX2RiS2NMaTQwOUZidEZpYS12bmhKNzIxd1RyRGFqbHdmYw?oc=5) (Alaska Public Media)
 - [How Democrats Swept Wisconsin Up and Down the Ballot](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHlrTEZqTDJWXzR6YXlYdEw4VXVTelE1VkVpYmhOYmo5NjN3SnZPdDdfSlc1djI3UmZRWUNWU3RTT3F0bDNsUUR6cVMtbVAtalFoTXlqR1QyRjZmWGtPWG9EQ3I5cmVXZE50d3A5TU5hdnRDeUlVbGR5cTFCWS13SWxiZUJEd3RlUUtvM3ZuLUNEc19ydGp2SlhaSUo0UERW?oc=5) (Marquette Law School)
+- [Young voters swung toward Democrats in House races, fueling midterms sweep](https://news.google.com/rss/articles/CBMivwFBVV95cUxOclY5YjZkbFJpMjF1VklYTld0OHhqNndlSnQ0M2h0YjZkaXJJclJteldNdjlDb0JqMUdscEx3aG9UXzZkM1l3WlBjOXc1MmpIQlRZa09LSC1fOVIwZVVaeGZKODZvNTM1RXE1T2xYSHRWTGZKc21sZE9iV2JKZDVac09RbGpJZGVKSzQ0UE9Cd2pHYWFVZVdMc3A1VUtqUHRXMnMtLU1RX3hRV20xZjZ4SGFWS0wtN29uRzRYRkVRQQ?oc=5) (The Washington Post)
 
 ---
 
