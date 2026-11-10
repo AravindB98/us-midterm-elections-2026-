@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T03:54:06Z**.
+> Latest headlines refreshed: **2026-11-10T04:09:06Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -343,8 +343,8 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 **Latest headlines (auto-updated):**
 - [Midterms : tout savoir sur les élections américaines du 3 novembre](https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpuTllLaHlFRnIwY3ZZcHNDbEp3bXNmbGN5TmhQYk5tUUNEcGNGUjA4WDJUUmx0LVRfdndGUkRrSFZZQm1HWVNRLVdJc0ZDQ0lCSTV5dXVuNkxqWEJmWVlFblVUX29ZWkVOa3M1OUxfNGJHS01CeWYyNWo5MkRfbVNkbWVrNVBzbEJNN2prVmZqbkZOTUtnNEdZbDBuRjM1dHpac1MwRTAxUjhfbEZJMVd3?oc=5) (Touteleurope.eu)
 - [Moments clés des élections de mi-mandat américaines](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4LVBoMnBxT2MxM1l4dDNlUHFDVmg1Uy1EZW1OR2xzWUFCOUxTbVo5bXFPOFVtbFdHd2d5QVdVdDE1RjNlMmhLVTdjbVItMXI3OWJOZzZwQlhobzFjckpr0gFkQVVfeXFMUGFmMmVZVzJfaTF3UTIzc2hZWTYzRE8tTWk0SGJQN0xNdU9ReEVkVUV2bVo4bWdHVUczTXBzSzA1Mlg4ZzM3MWVqSm1IUzhKM0xZVlR5eEFVRUhDRTF2RjdmblhOYg?oc=5) (BBC)
-- [Programmation spéciale autour des Midterms aux Etats-Unis](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zYjRfNzZNc1RlZXRaS0hnbnpJeTVPZVpoenU2U1c3MVZJZlNhblBENnFiUlV4dlIzNC04UDVmVWVnY09SdHBGajBDVkgySEhURmNjVWtob3JsbnFqbTJmM0pERQ?oc=5) (FranceTvPro.fr)
 - [Élections de mi-mandat américaines 2026 : résultats en direct, cartes et graphiques](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmZiY3lyOHZNYmdVLTJBdWZhaUZxTzRzdThqRjZSRzJOUVlHQW1IVVZLTGlDOEJxQ3ZMOXhscmFUNlNLWExyS1BHNGZmRktlSzZicTByQnRVZHZhVFM4dE91Tkhjakl1TXpFMTk1bXNURUZ6bVRsWFlvQ0luUEY4ZmhfSnplc3lDOVRYLUltdHFPSzQ1U0d3SzB5T2FYX2NLXzMyZDBJREx1Zk9WOWRFZ3NQMUM0QQ?oc=5) (Euronews.com)
+- [Programmation spéciale autour des Midterms aux Etats-Unis](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zYjRfNzZNc1RlZXRaS0hnbnpJeTVPZVpoenU2U1c3MVZJZlNhblBENnFiUlV4dlIzNC04UDVmVWVnY09SdHBGajBDVkgySEhURmNjVWtob3JsbnFqbTJmM0pERQ?oc=5) (FranceTvPro.fr)
 - [Coup d’œil sur les élections de mi-mandat en quelques graphiques](https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGNxYXNXTGFFRFZqaEtybXpWZDU2cVM4WDJTNGNrT1dvQ0F0NWE5NlE0ODlkbUswV3hxR1htN3haWGNSNDg3TG9IZXFrUkJmMjFZWkJGeUQ2SFhsblJKNnVXbng1MFlFVTNfMTdXMXVZam15R0xEczFzX3VUV3hvSEMzT1dlU2w1alZhTXY3dzBHS3RfR3BoUzhxU3M5dEVE?oc=5) (Le Devoir)
 
 
