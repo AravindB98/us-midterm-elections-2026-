@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T04:24:06Z**.
+> Latest headlines refreshed: **2026-11-10T04:39:06Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -298,8 +298,8 @@ _Note: Nikkei Asia frames midterms around tariffs, China policy and markets._
 
 **Latest headlines (auto-updated):**
 - [米中間選挙で民主党が大勝 ～出口調査からみる共和党の敗因～ | 前田 和馬 | 第一ライフ資産運用経済研究所](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oRXJLWkFJTnctdUZtaE4yOGkwWGp0dUZzY294bUJYN2NXSkhyaHdDdVVHOE1LUmVFdjdsQ1RLcU40dzNPWHhLbWV6SUpqWXJES1U5cmR5Q3RDc3c?oc=5) (第一ライフ資産運用経済研究所)
+- [【米中間選挙2026】 トランプ氏、公正性に疑問呈す　結果受け入れると表明後](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BY285eHlobG44UktseWk4RXRDSFVUVHR3OEJFU2F5SklwZWZtWm5qcHpEaUxYTTE3NE40MHIzb1RXMnBLWVlKeG5qd1AzSVZEUzB2cEpDRnYxaFlNN0V5cdIBZkFVX3lxTE9vNnljLW9IWl9HYUowemN4MHQtcU45YU9ibXQ5MGhRNDhxYzg3aXoweHd5Umh6Um9KTXJLTnl3UEpMLXV1dHZnSW9MTjRCQmVvYUktUnI2djEwQ1N3V1dBYWNCT0tOZw?oc=5) (BBC)
 - [米国中間選挙で民主党躍進 経済政策、2028年大統領選挙、対外政策への影響 野村證券・吉本元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cDY0REVBMHcyTXhMbWdVNno0NnIyY1RENVZWVGZzWTBpbTRHOHhRbWlsN1lxZWdvSkZKV1FubnN2U3dKNjFGT1JrbmF5SjFxSXQ0MjJXVWpKMXFOcXBj?oc=5) (野村證券)
-- [【米中間選挙2026】 民主党、上下両院で主導権を奪う　トランプ政権を有権者が否定](https://news.google.com/rss/articles/CBMiYEFVX3lxTE80bW5UT2VtejFsS3UtbWVvWEJLQkpuTDhUX2xaekxBSFRobzFFMlo2SWE4anByLU40d2UtQnVkUWRYOFJFQU1qc0E2ZjJmZ2pEd0hIVUpHcFdtakoxdnRZV9IBZkFVX3lxTE83SnczdHZYY2ZQSnN0WW54bkFoNl9zaTBYMWUtTVZheGRVRndkeWtnWUw4RlF4YzdjUmNBNm1LZGl6TWpSTy0zaFYwZnh4N2JDY3pmeHZrU3JxajY1MDF1dlNrS0UzUQ?oc=5) (BBC)
 - [米中間選挙、民主党が上下両院で多数派奪還 トランプ共和党は大敗](https://news.google.com/rss/articles/CBMibEFVX3lxTFBWb3lkTnVTbnBOVTRvRVhJT0d2eW1WMjZhZjVlTEtoOWNDd01PNVJ1bWxKWnF4OE96eWFoN0d6UFFaOTdEYzlkaFRrdkdSQ3NqRHVuS1BqdDl0SFNnWVdDVXZuWTV4dG1wV2ZrRA?oc=5) (日本経済新聞)
 - [米中間選挙結果に各国が続々反応 「戦争にノー」「民主主義の勝利」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tUGhoRlVzbVZhU1dBQXFBN1Q1SnBJUVVHaXV6LU4zSFRVTzFoNlZycVlpcVIzbWtxdjYzaW1IbG0wTlZfVFdieDkzcXo0Q05ybEJuQ2g4aFo0YWFUUmp2N3plbEJfTUE?oc=5) (朝日新聞)
 
@@ -325,7 +325,7 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 - [What just happened? Eight takeaways from our event on the US midterm elections](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDZmUEMxdzlxS2k4MFpmQVFydWNBWU9KME1LQjAtOW5OYXFmTDlZdmc4NFRhOXlJRXlta1A0QVIxd0hTbGgtbDRjZGY1bEhZYVIzR0NEYjJjaXduRHdudW9Bc2liLTlPQUlWcHFyVzlYRDBvY1JfQWVmSkZGZGVCeHZ3el9TcjJBR3UzMlVnb2FLYWRRdXJuR3Zia19jTXZ1UWQtdjlhaGExZVhIdXdRZ0Yycw?oc=5) (reutersinstitute.politics.ox.ac.uk)
 - [Trump Says in Interview That He Will Accept Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5) (The New York Times)
 - [Live US midterm elections results tracker 2026](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG5qZnpaSFIxMGs4a3pKbXFtZzRxSW9VYWNxd0FkdXZNN2E0R0ZsODZfZ2JxRHhaM2RhU3hHaUJFSnFoa2pGMGtjY0tIczc3Tk14Umx1MjB5MVNxVjR4dXprTlJ1SmRBQ25hcS1vUWduWWxZNXk3Nm1BMVBDSHZHcVEzdEE?oc=5) (Financial Times)
-- [Who will win the midterms? How the US elections will be won and lost](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qeHZpUU1lTm12dDU5M2dQUzU5M3FEbFRlRnkybWtkRFl4aHEwLVh6N3hmbDRwdG9BU2ZFYVFhSFZ4cTBLbk4tR1gtMjZXcUREUGNOd0huNEJ4T1k?oc=5) (BBC)
+- [US midterm elections 2026: live results from Senate, House and governor races in all 50 states](https://news.google.com/rss/articles/CBMivgFBVV95cUxQck4xLUVTd045d1pGNG5LRFU2VUF0MWVLd1pWZFVGVEpaNnMwNjZ1YzY1bERvYThoQ3J0VllzVTIwMVA1WFUtRXV0emJDSVBqLWNLaXh5ellZRS10clEtcEZNbHJvbUQzdnlqZjNPZmt2Z2lXYkEzVm0tQ0pvenpqRGh0c2tzUi1YaFBUTlJUMWFDU2c3eFNMX3lpV0s0ZFduUWNMMG9QQms1OGZBNlhxamt3TFVmdXc5VGdZZnpR?oc=5) (The Guardian)
 
 
 ## France
@@ -413,6 +413,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 ### International students and visa workers
 
 - [This Week in Immigration: November 6, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
+- [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
 - [Celebrities head to the polls for 2026 Midterms](https://news.google.com/rss/articles/CBMingFBVV95cUxONW1IT0tXTkY4VnR0d194aFVoNzBETFN3X3hqdi1kYTBlVjlZbG1kLUc0el9YTDZGTFhFWEVEdFNBN0NDMlJqUTN2Y1BYTkFKTkxKTU9PdUNmVDdvd1Zma0hEV21DRDIxLTI5RHozZXczRzA1Wk52bFFuMEUyaXFNYTRyaFNjSHc0STI2bzNPWFhqRnR6NGxvV1ZBUU02UQ?oc=5) (NBC News)
 - [Trump says deportations were ‘too tough' and hurt him during the midterms](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbW5hV2xlck9jNzFqQUt1WHlMdWY1emZlWmF0RTZtMm5QTFlHRmI3YUl0WnZxTlZjM0Zha2ZXb0hlUFExS1JCLTFJUDlhd2xZRlhiR0NaeTdXSHRWckNkNnM1SHZZcnFBS3QtejFURE5TQ09GSllDc0d6VUdhVFVTUC1aR3licWxZQTZGbWVvdjU3OGhTSzZKVUMySm1ZcXPSAacBQVVfeXFMTmd5U3dXOGJJUm5yYmhoZlBlaVJCMVZEY2FNWU9iZVN4dFpwbWdBWk40cnlVTUV4TFFqX0N3ZHQ1UEpERDZsQzRfU2pxT18wb1drbVNkaThkeWtkNlRjYWk3eW9Bd1AyQ25wRkVEYmJSalQ5S3NGWjF2Yl9lbERHMUNDTGplWTdYQXJkT3FKNTV3RF9DRkJMQXlJTnJoNTVmakxITXVhbnc?oc=5) (NBC New York)
 - [National Opinion: Accountability should be an imperative for new Congress](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1dYVVhFRnJMX0pFMS1DcU5iWm91aEtPLXVYRmxJTDhwRnJybHNUVXR0cUpBMXV3T0FCMnR5bU5OaEIySkJoZTYtUFFXcFBxNVlJenFGMmVIeEdzV0RHZ0FGR0g5S0praXYzcC12V29zMXNtR2Iyd2p0all5SU5QRS1mSFB4ek1YcVB5NW9EZmNseFdsRXBvUFRXNFhUWGJCc3A2amIydw?oc=5) (Chattanooga Times Free Press)
