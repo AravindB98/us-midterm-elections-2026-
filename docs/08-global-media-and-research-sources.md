@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T03:09:06Z**.
+> Latest headlines refreshed: **2026-11-10T03:24:06Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -74,8 +74,8 @@ _Note: Heavy focus on H-1B, OPT, green-card backlogs and Indian-American candida
 - [Why are the U.S. midterm elections significant?](https://news.google.com/rss/articles/CBMirAFBVV95cUxQaGk3NmQ3eDZDT0tmcDV3SUF4SWlhalNDVW5EWTJBVVNjcE1xLTJ0aFFzb21hdEppQUhTVmZ6Rk5mTF9SWmoyYmJvdXZ3RUFxa2FlZmowTnB4dWRkblZ3ajBPLUR1SHBfcFZ4dGgwS19CUlhqSmNCX0dIbVZhay1UOXB2YUxTQlZyV0VTbFMtLW5LUFU4RzlkVGlfZ0hET1ZKNG9EaHcySHdNZm5r0gGzAUFVX3lxTE84dUlrcjFZUmJVTFRqTVZ5ODAtUTRERXJGZnU0Y1BPTjV4ZHdPVURrSEhhQ25Ya3dkU0tiYlRET0M0N1U0ZWJPdVVRNjNYSkpJNkxKT0ZLU0lxOUNZOGhOSFZ4YnNNSnctc1Q0R3ZtZWliMUhTc3o2RXh6NnZYV0JEdUVMR0V6Y0FocmlSTTc3M0NaRm5DekowVHRSRm80TVJ3OFRNaUZkNTdpcmNoVGo2Q25F?oc=5) (The Hindu)
 - [Trump Says in Interview That He Will Accept Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5) (The New York Times)
 - [US midterm elections 2026: Live results in maps and charts](https://news.google.com/rss/articles/CBMibEFVX3lxTE12Mi1QTmlodnNSUVpld0kxTktqTTJYSmNMT2NWRXRaWW5yTXFJTnQ4MTlaOVQ5aTllb0tPRDJpZ3Q2MFpXTjR1N2ltVXhSbjRreVpxWkZoRjNFMk5Ma1hXcmZBaGE0UkRab2s4YQ?oc=5) (Al Jazeera)
-- [Live US midterm elections results tracker 2026](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG5qZnpaSFIxMGs4a3pKbXFtZzRxSW9VYWNxd0FkdXZNN2E0R0ZsODZfZ2JxRHhaM2RhU3hHaUJFSnFoa2pGMGtjY0tIczc3Tk14Umx1MjB5MVNxVjR4dXprTlJ1SmRBQ25hcS1vUWduWWxZNXk3Nm1BMVBDSHZHcVEzdEE?oc=5) (Financial Times)
 - [What you need to know about the 2026 US midterm elections](https://news.google.com/rss/articles/CBMimwFBVV95cUxNVV9EUFB6Ym9UZ0FYeEo2eXZJak1XY1pqbVFybE54azlJcWl1eDU5QmpRcWF1U280enIwWUFaak1samxPMVdpYmxCNlFEVU0zTGlSN19XTldIaUZEZTgtNXgxRE5WN2NPWnJRSHRVMktxMTFwanJ5d1hQT2RIRy11Qk1TSTV5QUtXc1hIU2RwZk9LeTQyVU9OUTBZdw?oc=5) (Reuters)
+- [Live US midterm elections results tracker 2026](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG5qZnpaSFIxMGs4a3pKbXFtZzRxSW9VYWNxd0FkdXZNN2E0R0ZsODZfZ2JxRHhaM2RhU3hHaUJFSnFoa2pGMGtjY0tIczc3Tk14Umx1MjB5MVNxVjR4dXprTlJ1SmRBQ25hcS1vUWduWWxZNXk3Nm1BMVBDSHZHcVEzdEE?oc=5) (Financial Times)
 
 
 ## China

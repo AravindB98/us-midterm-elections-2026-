@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-10T03:10:06Z",
+ "updated_utc": "2026-11-10T03:25:05Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-10T01:31:16Z"
+   "source_revised": "2026-11-10T03:11:19Z"
   },
   "House": {
    "parties": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-10T01:31:42Z",
+   "source_revised": "2026-11-10T03:21:32Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -246,7 +246,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-10T00:46:09Z"
+   "source_revised": "2026-11-10T03:22:27Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -1225,7 +1225,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-10T02:36:56Z"
+   "source_revised": "2026-11-10T03:10:58Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1433,7 +1433,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-09T23:30:35Z"
+   "source_revised": "2026-11-10T03:24:50Z"
   },
   "Maine|Governor": {
    "state": "Maine",
@@ -1635,27 +1635,27 @@
     {
      "name": "Marsha Blackburn",
      "party": "Republican Party (United States)",
-     "votes": 955298,
-     "pct": 45.49,
+     "votes": 957136,
+     "pct": 45.52,
      "party_code": "R"
     },
     {
      "name": "Jerri Green",
      "party": "Democratic Party (United States)",
-     "votes": 902615,
-     "pct": 42.98,
+     "votes": 902953,
+     "pct": 42.95,
      "party_code": "D"
     },
     {
      "name": "David Hatley",
      "party": "Independent politician",
-     "votes": 195288,
+     "votes": 195564,
      "pct": 9.3,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-   "source_revised": "2026-11-09T20:30:23Z"
+   "source_revised": "2026-11-10T03:14:34Z"
   },
   "Vermont|Governor": {
    "state": "Vermont",
@@ -1831,20 +1831,20 @@
     {
      "name": "Xavier Becerra",
      "party": "Democratic Party (United States)",
-     "votes": 6773781,
-     "pct": 65.5,
+     "votes": 7451961,
+     "pct": 65.8,
      "party_code": "D"
     },
     {
      "name": "Steve Hilton",
      "party": "Republican",
-     "votes": 3575025,
-     "pct": 34.5,
+     "votes": 3879315,
+     "pct": 34.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-08T18:39:11Z"
+   "source_revised": "2026-11-10T03:23:19Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
