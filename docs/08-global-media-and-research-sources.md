@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T21:25:37Z**.
+> Latest headlines refreshed: **2026-11-10T21:40:37Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -205,11 +205,11 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 **Research and think tanks:** [Bangladesh Institute of International and Strategic Studies (BIISS)](https://biiss.org/) · [Centre for Policy Dialogue (CPD)](https://cpd.org.bd/)
 
 **Latest headlines (auto-updated):**
+- [Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5) (AP News)
 - [Trump Says in Interview That He Will Accept Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5) (The New York Times)
 - [Top takeaways from the US midterm elections](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JZaU9CbWhKTzJFQWhvUW0zVFE2VnhVTWNJV2I5dlVlSlNQMVdtSW12UUhsMER2UnRYSUJzSWhnWFZxMExoTWZ4Ri1udHdrN0lZWkdCVWJ5OEp1cG1oN3dxZUY0REU5cUIzRnRmQ3F3SjJFdU9GQ2cycElXUHdoX1lEQkhJOFNURG5HZThSYklDS2s?oc=5) (Reuters)
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
-- [4 takeaways from election night](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdllNNXQ2Nl9GMnJDQ0tJWkhhX0EzV0lzM3kyNFJ3S1pvODN5eFlWc1ptZVBhUWlGRlNaMDRXMzYwZ09ZNkZKTlFQTTF5MXVqRWJBRl8tT0tqR3dwUG1IR1BFb0RyNHBhT0xLQVhucWFXQXhaUWN4QWZMczdkOGw0NEZYZm9rZEtURVExQUxPNGZuMnlOMURjMHY3TmtrOVBMdkZSMU5YUzJjWXBvcHVwejBzYjE4dzliV3B2ZTJyaExuRHZjY1dvX1plNWNpMW0xTjBBVmFibHZoSkFhMlBOMEZNbGZ0Tk3SAewBQVVfeXFMTXV0UF9JWHVGZ3YtTFhBeTZyQ0lGNmdsY0czVjA3WWcwQ0VLZmtrdDh3dHlNM29ESndHT05VLTNFa1R1dHZGNzl3OFVWNV9ra0xqZl9GZnRoSHFlN3lwRzB4bzFFU0tnTjJmaFYxbjdoUXgzSy1ES3lTbEhkcHJEX0djOHV0Tlg3eHN5X1JINjBYM1VRNnhlQ3pTYnY1a1RuY0s3cldUQ0o5NEVFR2xuRFFPOEMxeHBoYmZBS3RSQkJXcURmNkZXSEJidFgwc2xlZk5hM0FCQXNuR0l2dTBOSTVPUmxXcEJ1VHNNcnA?oc=5) (PBS)
-- [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
+- [Congress returns to a changed Washington after GOP’s election wipeout](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNUVCNERLb24tNnZmclJZZThDOXZhRkp6bnpLV1pYbVV3RWI1QUVrU1E0QWFWUkVtUEppS2tWZzFYV082Yk5NZWtKMHphdFBwMmRGSWdibWhseDZodUsyVnpWeXF2SFEybzBwcllHeVVkLWJZMnBtLWhNdFpJa204ZU5CLWl6TUdkbXlZLW56S3VzX3VMc3RWS0NmOFRMSkFxbUE?oc=5) (AP News)
 
 
 ## Russia
@@ -387,19 +387,19 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [World reactions to US midterm elections](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXBrMGpadmlBRlk2dUpLcGVLSWFfVTNZOC15eDZ4TDU2Ymx2aHl3WjNBTVZRVDV2RDNjY0ZfaXdwNUdOMkswM1BaVkZsRF9LMXFRX25iWUhVMjJSX3JoRUt4V0s3MGFfSmF5SzVQNTRrLVJxTV81bWlBbUt0ZGxPd05vTl9XT1FUU0dhOVVxTHBXcmZZci1WOHlPdmRkaTFod242dkNIdHQyRl8tYmZIRVl6WQ?oc=5) (Le Monde.fr)
 - [What the Democrats’ blue wave means for Canada](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWpWQVIzWmUyUmtmX0JzRjRLeVVueEVuMWJHN1hNcVU3cl92aFBJNlI0SGp6SXBFUkllcEhxSF9pcndJOXdKcmQ4TjVGOVRRM0Eta1ktRVRZMGwwb0F6NlZrbTQwYnRRMlYwZFU2MU8zZUNCWS1OZDIxdGF1dHo4dHcwd3M1TUtQR29Kel9vaWZpNWRQekZPSWpWMFdzUGZqaEw2TlFvNWNoYmRIYkJJ?oc=5) (CTV News)
 - [Stock markets surging after U.S. midterm election as oil prices plummet](https://news.google.com/rss/articles/CBMif0FVX3lxTE9nOGFBallnWXFmQTlfc21UaGhFd19NRE1jSnFsUnRxaHBjcFRKZ1NQWFRaSXBZaGhrbEF1VHdjS21JYm96OUYzd2F3WXRwVGg1cUpMYVl1VmpCZWcyUEFMdDRyamdXUnVUbndoS0tQVDRWRHc1S25JY2R0MElONzg?oc=5) (Global News)
-- [Top takeaways from the US midterm elections](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JZaU9CbWhKTzJFQWhvUW0zVFE2VnhVTWNJV2I5dlVlSlNQMVdtSW12UUhsMER2UnRYSUJzSWhnWFZxMExoTWZ4Ri1udHdrN0lZWkdCVWJ5OEp1cG1oN3dxZUY0REU5cUIzRnRmQ3F3SjJFdU9GQ2cycElXUHdoX1lEQkhJOFNURG5HZThSYklDS2s?oc=5) (Reuters)
+- [‘Cartwheels’ in Canada after Trump punished in US midterm elections](https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXl0RG9oOUJld0xCR2tyS2JuVTctdmVnZTdFM0h2aWZxQXRaWnNiNTJOMzZtOTVlQnNFTmVlNzZPUVFYLXp0UkxvS19sVjVwMl9KU0RNb1JCRW1HbW5LampiRTZfYXNyZHJkSk1OczVidThvQm5qLTRQR3gxSHUxZGNNVGU?oc=5) (Financial Times)
 
 
 ## Live topic feeds
 
 ### Research, studies and surveys
 
+- [Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5) (AP News)
 - [Views on the Trump Administration’s Health Care Policies - Health Care in the 2026 Midterm Election](https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0wydDRjN0V3anlweWxvMDJTbU5fQXlMU3V4LTdRd0lXMGN1X3V6T19IU0syTF9FNXhnRzljbFR2cGNvc19TY2ZYT1I4cTlkaE1HRTd5cS0zOEJSbVVoeUxqcWFEUGV4dkhndlBmZE1MOE1iVUsweHlWc25hWUNpOGxn?oc=5) (KFF)
 - [Opinion | The 2026 Midterm Elections: Live Analysis and Commentary](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3dFXzhYLUxGdFV4OGVJbGR5em9oR2M5bm5aNzhWOS1mMUJQNEJLSlhtNzY5T29GNkttb0tlSjJjSmtqMjRIbGpNNVk3M3hNM1NlclBYUVlGSWNhcmFFWnBzS3l1bl9iaFVpbUliRUlxVmZGSDhvUDFJN0oyTmh6ektTRU1sbG01U1Q5ZkkxRGwxbGxKT2tN?oc=5) (WSJ)
 - [2026 midterm election results: Who won the key House and Senate races?](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVS1mMWRlZ18wVENidVdlX0QxR3FIV2NqWGctbVJfclJXc2UwY0dqT29USGt6MGRzbjN4dkNKMTZ1ZzBNVkt4M2VBT3lkV2ZvQ1lyRXRIVWpVT1ZVSXphRDRIMmNTLWZ2RTEzanY3WHJVZ3ZZYXA4WUZGTGVEZjJycU1nNjRsbXc?oc=5) (Northeastern Global News)
 - [Top takeaways from the US midterm elections](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JZaU9CbWhKTzJFQWhvUW0zVFE2VnhVTWNJV2I5dlVlSlNQMVdtSW12UUhsMER2UnRYSUJzSWhnWFZxMExoTWZ4Ri1udHdrN0lZWkdCVWJ5OEp1cG1oN3dxZUY0REU5cUIzRnRmQ3F3SjJFdU9GQ2cycElXUHdoX1lEQkhJOFNURG5HZThSYklDS2s?oc=5) (Reuters)
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
-- [AP Voter Poll: How key demographic groups voted in the 2026 midterms](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjBuUzdXNzJUYy1QYzRSRnhVN1F1Znc1SUdZb0F3bkxMTWxnVEM5SWFoMzJJOFctRC1vYzlsXzhfSUxBYlBaUnB3N0cyZ09IbktYa0E3XzdqTVRfakoyeUNlZTRRSUNmdGRnbUxPaGItdTJ4UjJWZWRmV1pkYmw3NzdsUFUyR3h6OWl3R2RuM3VqNW9ad0lkQ24tRmVldkdqbFRXSExsVWPSAa4BQVVfeXFMUFFVN3FHcmR5LVhtcFB6UGtua3dFV2VsOGpmeDFBQnUwUGVkTEl2R3pxaG8xcGdOLTZMZkluTFVkSHpXVVZxLWJQYi0zaWN0NVEtemJob2ptT2hvRWs2QURRZkZwR1lSbXRFM2FnRnhjMC02SE12aENmN2UyR05DaWxmRlFVVFgtcHVPWnVHTk9wSlBkMjBFMWhlMno1X0JqWXFoamlEWEc1WUhSWE1B?oc=5) (PBS)
 
 ### Polls and forecasts
 
@@ -417,6 +417,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
 - [Democrats capture full control of Congress, NBC News projects, fueled by victories in deeply Republican states](https://news.google.com/rss/articles/CBMixwFBVV95cUxQblNkM3JkNUxnaktEamVjSG1zVlUyeHgzUVc1b3V4SVc1TW5DZDhaV1lvOC1RMDNsMVJPQkVCYm1QaWFQOUJ2WkJuMnY5aS1kTTlsaTUxUkpBemdpMldKSlBYcVFjNFlpdUx1VEc5eUF0dVFwVkRibG5PLXpBS25rOXJjNDNCSWhPTnhzNlN5cFZReUdSTmRTWWFVSnVRTDhPTHpodWJ0dkVCNzgwZjlPbTFja25QZnQtZzNFSXpsOWdVWHA4ejVz?oc=5) (NBC News)
 - [Celebrities head to the polls for 2026 Midterms](https://news.google.com/rss/articles/CBMingFBVV95cUxONW1IT0tXTkY4VnR0d194aFVoNzBETFN3X3hqdi1kYTBlVjlZbG1kLUc0el9YTDZGTFhFWEVEdFNBN0NDMlJqUTN2Y1BYTkFKTkxKTU9PdUNmVDdvd1Zma0hEV21DRDIxLTI5RHozZXczRzA1Wk52bFFuMEUyaXFNYTRyaFNjSHc0STI2bzNPWFhqRnR6NGxvV1ZBUU02UQ?oc=5) (NBC News)
+- [Trump says deportations were ‘too tough’ and hurt him during the midterms](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWtoZDBXbnpoZTUtTDV3X2lzYjhuY0ZXdmZnVlNkSmN0RnpjUVhQcTJaeGFLWmVYRHNNQlIzSTZKSlJLU01uM1RrVnpkSUlqWDJZaW03Yy1sYTZXTVI4OVlrOU4wTy11OXVkdmdmTGQwYWJuSW83V3ZQUngtdjAwUGV3Si1SQUxVVS03X1BZYkgtWHpDR3VEZVEzMFBSbFVsbzRFa0hteHJpbVlS?oc=5) (NBC News)
 
 ### Census and election data
 
