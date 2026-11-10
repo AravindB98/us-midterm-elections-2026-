@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-10T21:12:37Z",
+ "updated_utc": "2026-11-10T21:26:36Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -246,7 +246,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-10T13:40:55Z"
+   "source_revised": "2026-11-10T21:24:08Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -272,7 +272,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-10T21:06:30Z"
+   "source_revised": "2026-11-10T21:20:53Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -363,27 +363,27 @@
     {
      "name": "Kurt Alme",
      "party": "Republican Party (United States)",
-     "votes": 230117,
-     "pct": 48.6,
+     "votes": 235549,
+     "pct": 48.16,
      "party_code": "R"
     },
     {
      "name": "Seth Bodnar",
      "party": "Independent politician",
-     "votes": 177762,
-     "pct": 37.5,
+     "votes": 184551,
+     "pct": 37.74,
      "party_code": "I"
     },
     {
      "name": "Alani Bankhead",
      "party": "Democratic Party (United States)",
-     "votes": 57089,
-     "pct": 12.1,
+     "votes": 59950,
+     "pct": 12.26,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-10T19:40:37Z"
+   "source_revised": "2026-11-10T21:17:47Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -739,20 +739,20 @@
     {
      "name": "Mark Warner",
      "party": "Democratic Party (United States)",
-     "votes": 2188657,
-     "pct": 61.2,
+     "votes": 2212571,
+     "pct": 61.34,
      "party_code": "D"
     },
     {
      "name": "Bert Mizusawa",
      "party": "Republican Party (United States)",
-     "votes": 1378325,
-     "pct": 38.5,
+     "votes": 1384680,
+     "pct": 38.39,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
-   "source_revised": "2026-11-09T11:51:59Z"
+   "source_revised": "2026-11-10T21:21:22Z"
   },
   "Colorado|Senate": {
    "state": "Colorado",
@@ -1006,20 +1006,20 @@
     {
      "name": "Harriet Hageman",
      "party": "Republican Party (United States)",
-     "votes": 122157,
-     "pct": 65.2,
+     "votes": 122174,
+     "pct": 64.88,
      "party_code": "R"
     },
     {
      "name": "James W. Byrd",
      "party": "Democratic Party (United States)",
-     "votes": 65097,
-     "pct": 34.8,
+     "votes": 65105,
+     "pct": 34.57,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
-   "source_revised": "2026-11-08T20:25:42Z"
+   "source_revised": "2026-11-10T21:24:20Z"
   },
   "Nevada|Governor": {
    "state": "Nevada",
@@ -2001,27 +2001,27 @@
     {
      "name": "Eric Barlow",
      "party": "Republican Party (United States)",
-     "votes": 128480,
-     "pct": 68.6,
+     "votes": 128496,
+     "pct": 68.12,
      "party_code": "R"
     },
     {
      "name": "Rebecca Bextel",
      "party": "Constitution Party (United States)",
-     "votes": 31430,
-     "pct": 16.8,
+     "votes": 31444,
+     "pct": 16.67,
      "party_code": "O"
     },
     {
      "name": "Kenneth Casner",
      "party": "Democratic Party (United States)",
-     "votes": 27469,
-     "pct": 14.7,
+     "votes": 27472,
+     "pct": 14.57,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
-   "source_revised": "2026-11-09T06:39:52Z"
+   "source_revised": "2026-11-10T21:12:37Z"
   }
  }
 }
