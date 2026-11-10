@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-10T19:11:07Z",
+  "updated_utc": "2026-11-10T19:24:09Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -154,7 +154,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "house": 98.7,
-      "senate": 86.8,
+      "senate": 85.9,
       "as_of": "2026-11-10"
     },
     "metaculus": {
@@ -245,7 +245,7 @@
       "by_type": {
         "forecast_model": 72.7,
         "prediction_market": 90.3,
-        "crowd_forecast": 85.4
+        "crowd_forecast": 85.0
       },
       "sources": [
         "ddhq",

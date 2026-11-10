@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T19:10:07Z**.
+> Latest headlines refreshed: **2026-11-10T19:20:07Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -250,9 +250,9 @@ _Note: US election coverage is limited; international wires (Reuters, AP, AFP, B
 
 **Latest headlines (auto-updated):**
 - [Watch: Key moments from the US midterm election results](https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6N25HRlFLMXpES3Y4ZGVOUHlfVDcxZnpSU2RrNk1tWmZTelZIOEQ2MWpvR0hFVFItV1RMei1qbHA3bGNiX193dlZGUFNoelhZNVZJV3VJVTE?oc=5) (BBC)
-- [Trump Says in Interview That He Will Accept Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5) (The New York Times)
 - [World reactions to US midterm elections](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXBrMGpadmlBRlk2dUpLcGVLSWFfVTNZOC15eDZ4TDU2Ymx2aHl3WjNBTVZRVDV2RDNjY0ZfaXdwNUdOMkswM1BaVkZsRF9LMXFRX25iWUhVMjJSX3JoRUt4V0s3MGFfSmF5SzVQNTRrLVJxTV81bWlBbUt0ZGxPd05vTl9XT1FUU0dhOVVxTHBXcmZZci1WOHlPdmRkaTFod242dkNIdHQyRl8tYmZIRVl6WQ?oc=5) (Le Monde.fr)
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
+- [Trump Says in Interview That He Will Accept Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5) (The New York Times)
 - [The US Midterm Elections: Views From China](https://news.google.com/rss/articles/CBMif0FVX3lxTE9hY0hBTC1hc2dlRTFFc0R0dnFvUnI0bjctU2p2aWpuNHN3bndoYUZLNTlrcU40Ukhrb0JaU2ZsZG1OTXpCLVBsZXI0bUtGUjg0ZHRDd0l1U1VDNGxMcHlXc2toaHJrdzhrWDdHaXFiVmNJbnN0dWI2dzVqenBpNkk?oc=5) (The Diplomat – Asia-Pacific Current Affairs Magazine)
 
 
@@ -325,7 +325,7 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 - [What just happened? Eight takeaways from our event on the US midterm elections](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDZmUEMxdzlxS2k4MFpmQVFydWNBWU9KME1LQjAtOW5OYXFmTDlZdmc4NFRhOXlJRXlta1A0QVIxd0hTbGgtbDRjZGY1bEhZYVIzR0NEYjJjaXduRHdudW9Bc2liLTlPQUlWcHFyVzlYRDBvY1JfQWVmSkZGZGVCeHZ3el9TcjJBR3UzMlVnb2FLYWRRdXJuR3Zia19jTXZ1UWQtdjlhaGExZVhIdXdRZ0Yycw?oc=5) (reutersinstitute.politics.ox.ac.uk)
 - [Ten historic firsts: the winning US midterm candidates making waves](https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzRSSzNjRHVENjBqVWhYdjctYVppYjBDV3hvV3JpNjNUNWRYaEtTQ3dFWHhtYU5naEM2M1dWQkdGbXFYZkFRNUcyMk9iNWVDWE5HSnhXbS1pRVpSWlYtazAxbENyeU1HVjRhd1l1ci1nQlpON1lQdFBpQTRubkJSMw?oc=5) (The Guardian)
 - [Did a data centre revolt affect the US midterm election results?](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kandoSW1feUh6QmltT08tT3JsTzVBWkxPcVJLWm5Lay1JX0VZUjhGN2tZSGg4RFRsR1k4cmo3TUFpbF9DSWF6dmNLX2drMzlwTVJnUmUyekR3OFk?oc=5) (BBC)
-- [Top takeaways from the US midterm elections](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2JZaU9CbWhKTzJFQWhvUW0zVFE2VnhVTWNJV2I5dlVlSlNQMVdtSW12UUhsMER2UnRYSUJzSWhnWFZxMExoTWZ4Ri1udHdrN0lZWkdCVWJ5OEp1cG1oN3dxZUY0REU5cUIzRnRmQ3F3SjJFdU9GQ2cycElXUHdoX1lEQkhJOFNURG5HZThSYklDS2s?oc=5) (Reuters)
+- [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiXkFVX3lxTE83bUptaW96WnVSNmZVb0g5SW9XSUZmRDNCcmJudE1OQXkyQlZMWjBrbndWWDZsWmNGeFo3Qm41TVhyTXE0QXFGd3ViT3dwcXhaTk5RUGd5aFNBcWp2Tnc?oc=5) (BBC)
 
 
 ## France
@@ -414,9 +414,9 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 
 - [This Week in Immigration: November 6, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
 - [Holland & Knight Health Dose: November 10, 2026](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTB2ekpKaGxoeGtjRF9taHA4Q01TRlo4Yk1RbGkwVWlnMENXZjJJR3RPN2k3RmVLbjFsYmM4ZURnN0ViTGgtbG45cmhsX1B5WkxPOHVsQWVrbWotRkVKYjN2UjZkX05TSENQMDlTRG1naGdkbGJ2blNablFoMVp0a3BocUtOWS01anFUMWZQTXZVZ3BOdGRGWXNDLTQyR1BjSHpGdw?oc=5) (Holland & Knight)
-- [Democrats in Congress now have the power to fix or end tax credit program for school choice](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDJTQ3BSbjktYWJEUGx0eVgyN0lRODFaRXNkaGdCam5YZG1aZDBhWDQyTndvR0xOcU1wM1k5QnY2VUpleTNxaS1LdE4zTzZxeUtYVmtoeExvRXZ5RWdtR0FaNUlKb3k2Wm9iYjdoWlg0dExXZHQ5aWdtdFNEb1VDNW1saTItY08wWlByS1lfUGFEN1dwcVdXdkhMa0RDUXp6MHBmQUdYZHhxemFKQWVtMTRnOGZ0clN4VE5QcXI0UFRWZ9IBygFBVV95cUxNSWQzR3pucnBuWXMwT0tibTlSMXYwbC11VFpoUDBfSl9Qd0N2ekJ4Wl9VMTNUZXBQMzUzQUZsUTgwaXBVS1RDMHUxTEt1UUhxTE1hdXlidldYSHZpckp4WDFYaG1yRUNhLTRjeVBsa3lXZVFjOFlzbmsySnNvQTRVb1ZsWkQ4NUJOVUJGczVjbGNXaDNUXzF2b3o5b3QxODRzSDVQMTZqNTFFem1ENmFpYUFSQ0FUM1pjRDREYmNKV3NIYThMQnpCTXh3?oc=5) (EdSource)
 - [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
 - [Celebrities head to the polls for 2026 Midterms](https://news.google.com/rss/articles/CBMingFBVV95cUxONW1IT0tXTkY4VnR0d194aFVoNzBETFN3X3hqdi1kYTBlVjlZbG1kLUc0el9YTDZGTFhFWEVEdFNBN0NDMlJqUTN2Y1BYTkFKTkxKTU9PdUNmVDdvd1Zma0hEV21DRDIxLTI5RHozZXczRzA1Wk52bFFuMEUyaXFNYTRyaFNjSHc0STI2bzNPWFhqRnR6NGxvV1ZBUU02UQ?oc=5) (NBC News)
+- [National Opinion: Accountability should be an imperative for new Congress](https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1dYVVhFRnJMX0pFMS1DcU5iWm91aEtPLXVYRmxJTDhwRnJybHNUVXR0cUpBMXV3T0FCMnR5bU5OaEIySkJoZTYtUFFXcFBxNVlJenFGMmVIeEdzV0RHZ0FGR0g5S0praXYzcC12V29zMXNtR2Iyd2p0all5SU5QRS1mSFB4ek1YcVB5NW9EZmNseFdsRXBvUFRXNFhUWGJCc3A2amIydw?oc=5) (Chattanooga Times Free Press)
 
 ### Census and election data
 
