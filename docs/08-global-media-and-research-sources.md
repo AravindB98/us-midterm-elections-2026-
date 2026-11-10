@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-10T04:39:06Z**.
+> Latest headlines refreshed: **2026-11-10T04:54:06Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -298,8 +298,8 @@ _Note: Nikkei Asia frames midterms around tariffs, China policy and markets._
 
 **Latest headlines (auto-updated):**
 - [米中間選挙で民主党が大勝 ～出口調査からみる共和党の敗因～ | 前田 和馬 | 第一ライフ資産運用経済研究所](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oRXJLWkFJTnctdUZtaE4yOGkwWGp0dUZzY294bUJYN2NXSkhyaHdDdVVHOE1LUmVFdjdsQ1RLcU40dzNPWHhLbWV6SUpqWXJES1U5cmR5Q3RDc3c?oc=5) (第一ライフ資産運用経済研究所)
-- [【米中間選挙2026】 トランプ氏、公正性に疑問呈す　結果受け入れると表明後](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BY285eHlobG44UktseWk4RXRDSFVUVHR3OEJFU2F5SklwZWZtWm5qcHpEaUxYTTE3NE40MHIzb1RXMnBLWVlKeG5qd1AzSVZEUzB2cEpDRnYxaFlNN0V5cdIBZkFVX3lxTE9vNnljLW9IWl9HYUowemN4MHQtcU45YU9ibXQ5MGhRNDhxYzg3aXoweHd5Umh6Um9KTXJLTnl3UEpMLXV1dHZnSW9MTjRCQmVvYUktUnI2djEwQ1N3V1dBYWNCT0tOZw?oc=5) (BBC)
 - [米国中間選挙で民主党躍進 経済政策、2028年大統領選挙、対外政策への影響 野村證券・吉本元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE13cDY0REVBMHcyTXhMbWdVNno0NnIyY1RENVZWVGZzWTBpbTRHOHhRbWlsN1lxZWdvSkZKV1FubnN2U3dKNjFGT1JrbmF5SjFxSXQ0MjJXVWpKMXFOcXBj?oc=5) (野村證券)
+- [【米中間選挙2026】 トランプ氏、公正性に疑問呈す　結果受け入れると表明後](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BY285eHlobG44UktseWk4RXRDSFVUVHR3OEJFU2F5SklwZWZtWm5qcHpEaUxYTTE3NE40MHIzb1RXMnBLWVlKeG5qd1AzSVZEUzB2cEpDRnYxaFlNN0V5cdIBZkFVX3lxTE9vNnljLW9IWl9HYUowemN4MHQtcU45YU9ibXQ5MGhRNDhxYzg3aXoweHd5Umh6Um9KTXJLTnl3UEpMLXV1dHZnSW9MTjRCQmVvYUktUnI2djEwQ1N3V1dBYWNCT0tOZw?oc=5) (BBC)
 - [米中間選挙、民主党が上下両院で多数派奪還 トランプ共和党は大敗](https://news.google.com/rss/articles/CBMibEFVX3lxTFBWb3lkTnVTbnBOVTRvRVhJT0d2eW1WMjZhZjVlTEtoOWNDd01PNVJ1bWxKWnF4OE96eWFoN0d6UFFaOTdEYzlkaFRrdkdSQ3NqRHVuS1BqdDl0SFNnWVdDVXZuWTV4dG1wV2ZrRA?oc=5) (日本経済新聞)
 - [米中間選挙結果に各国が続々反応 「戦争にノー」「民主主義の勝利」](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tUGhoRlVzbVZhU1dBQXFBN1Q1SnBJUVVHaXV6LU4zSFRVTzFoNlZycVlpcVIzbWtxdjYzaW1IbG0wTlZfVFdieDkzcXo0Q05ybEJuQ2g4aFo0YWFUUmp2N3plbEJfTUE?oc=5) (朝日新聞)
 
@@ -325,7 +325,7 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 - [What just happened? Eight takeaways from our event on the US midterm elections](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDZmUEMxdzlxS2k4MFpmQVFydWNBWU9KME1LQjAtOW5OYXFmTDlZdmc4NFRhOXlJRXlta1A0QVIxd0hTbGgtbDRjZGY1bEhZYVIzR0NEYjJjaXduRHdudW9Bc2liLTlPQUlWcHFyVzlYRDBvY1JfQWVmSkZGZGVCeHZ3el9TcjJBR3UzMlVnb2FLYWRRdXJuR3Zia19jTXZ1UWQtdjlhaGExZVhIdXdRZ0Yycw?oc=5) (reutersinstitute.politics.ox.ac.uk)
 - [Trump Says in Interview That He Will Accept Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnh6NEFhTFFSOFpKQ2ZaTkVfYk8wblJidGZJSGs5R0kzYmo4UlBQYXJVRDhhRFVrc09zUUMyQXBHWkJ2RGJ4UnI3WXpsTkU3VnZNeGRtd0tRckljMms0THYxZHdLbklueS1vRFZhNERXTnpZaW10dTZuUGJiZzQ1SDBadFdJN2M2cVE?oc=5) (The New York Times)
 - [Live US midterm elections results tracker 2026](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRG5qZnpaSFIxMGs4a3pKbXFtZzRxSW9VYWNxd0FkdXZNN2E0R0ZsODZfZ2JxRHhaM2RhU3hHaUJFSnFoa2pGMGtjY0tIczc3Tk14Umx1MjB5MVNxVjR4dXprTlJ1SmRBQ25hcS1vUWduWWxZNXk3Nm1BMVBDSHZHcVEzdEE?oc=5) (Financial Times)
-- [US midterm elections 2026: live results from Senate, House and governor races in all 50 states](https://news.google.com/rss/articles/CBMivgFBVV95cUxQck4xLUVTd045d1pGNG5LRFU2VUF0MWVLd1pWZFVGVEpaNnMwNjZ1YzY1bERvYThoQ3J0VllzVTIwMVA1WFUtRXV0emJDSVBqLWNLaXh5ellZRS10clEtcEZNbHJvbUQzdnlqZjNPZmt2Z2lXYkEzVm0tQ0pvenpqRGh0c2tzUi1YaFBUTlJUMWFDU2c3eFNMX3lpV0s0ZFduUWNMMG9QQms1OGZBNlhxamt3TFVmdXc5VGdZZnpR?oc=5) (The Guardian)
+- [Who will win the midterms? How the US elections will be won and lost](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qeHZpUU1lTm12dDU5M2dQUzU5M3FEbFRlRnkybWtkRFl4aHEwLVh6N3hmbDRwdG9BU2ZFYVFhSFZ4cTBLbk4tR1gtMjZXcUREUGNOd0huNEJ4T1k?oc=5) (BBC)
 
 
 ## France
