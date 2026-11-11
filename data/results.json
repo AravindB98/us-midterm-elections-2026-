@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-11T20:13:33Z",
+ "updated_utc": "2026-11-11T20:28:33Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -526,20 +526,20 @@
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 471012,
+     "votes": 471757,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 467229,
-     "pct": 48.75,
+     "votes": 467353,
+     "pct": 48.72,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-11T19:44:32Z",
+   "source_revised": "2026-11-11T20:16:13Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -700,7 +700,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
-   "source_revised": "2026-11-11T20:12:00Z"
+   "source_revised": "2026-11-11T20:14:58Z"
   },
   "New Mexico|Senate": {
    "state": "New Mexico",
@@ -902,20 +902,20 @@
     {
      "name": "Kevin Hern",
      "party": "Republican Party (United States)",
-     "votes": 639510,
-     "pct": 57.2,
+     "votes": 639860,
+     "pct": 57.19,
      "party_code": "R"
     },
     {
      "name": "N'Kiyla Jasmine Thomas",
      "party": "Democratic Party (United States)",
-     "votes": 439109,
-     "pct": 39.28,
+     "votes": 439522,
+     "pct": 39.29,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-   "source_revised": "2026-11-09T09:08:29Z"
+   "source_revised": "2026-11-11T20:27:12Z"
   },
   "Oregon|Senate": {
    "state": "Oregon",
@@ -954,20 +954,20 @@
     {
      "name": "Jack Reed",
      "party": "Democratic Party (United States)",
-     "votes": 240069,
-     "pct": 66.8,
+     "votes": 240686,
+     "pct": 66.79,
      "party_code": "D"
     },
     {
      "name": "Raymond McKay",
      "party": "Republican Party (United States)",
-     "votes": 105346,
-     "pct": 29.3,
+     "votes": 105453,
+     "pct": 29.26,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
-   "source_revised": "2026-11-09T11:55:11Z"
+   "source_revised": "2026-11-11T20:17:49Z"
   },
   "West Virginia|Senate": {
    "state": "West Virginia",
@@ -1655,7 +1655,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
-   "source_revised": "2026-11-11T20:10:55Z"
+   "source_revised": "2026-11-11T20:17:43Z"
   },
   "Vermont|Governor": {
    "state": "Vermont",
@@ -1720,20 +1720,20 @@
     {
      "name": "Mike Mazzei",
      "party": "Republican Party (United States)",
-     "votes": 581706,
+     "votes": 582039,
      "pct": 51.93,
      "party_code": "R"
     },
     {
      "name": "Cyndi Munson",
      "party": "Democratic Party (United States)",
-     "votes": 514342,
+     "votes": 514776,
      "pct": 45.92,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
-   "source_revised": "2026-11-10T18:52:13Z"
+   "source_revised": "2026-11-11T20:23:41Z"
   },
   "Rhode Island|Governor": {
    "state": "Rhode Island",
@@ -1746,27 +1746,27 @@
     {
      "name": "Helena Foulkes",
      "party": "Democratic Party (United States)",
-     "votes": 205117,
-     "pct": 57.57,
+     "votes": 207580,
+     "pct": 57.89,
      "party_code": "D"
     },
     {
      "name": "Ken Block",
      "party": "Independent politician",
-     "votes": 99269,
-     "pct": 27.86,
+     "votes": 99828,
+     "pct": 27.84,
      "party_code": "I"
     },
     {
      "name": "Aaron Guckian",
      "party": "Republican Party (United States)",
-     "votes": 47106,
+     "votes": 47401,
      "pct": 13.22,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
-   "source_revised": "2026-11-08T01:50:46Z"
+   "source_revised": "2026-11-11T20:20:37Z"
   },
   "Pennsylvania|Governor": {
    "state": "Pennsylvania",
