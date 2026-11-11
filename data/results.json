@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-11T04:42:01Z",
+ "updated_utc": "2026-11-11T04:57:01Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-10T22:53:42Z"
+   "source_revised": "2026-11-11T04:53:44Z"
   },
   "House": {
    "parties": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-11T04:31:37Z",
+   "source_revised": "2026-11-11T04:46:39Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -220,7 +220,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-10T18:05:22Z"
+   "source_revised": "2026-11-11T04:51:28Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-11T04:35:55Z",
+   "source_revised": "2026-11-11T04:50:57Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -928,20 +928,20 @@
     {
      "name": "Jeff Merkley",
      "party": "Democratic Party (United States)",
-     "votes": 1096431,
+     "votes": 1126652,
      "pct": 58.0,
      "party_code": "D"
     },
     {
      "name": "David Brock Smith",
      "party": "Republican Party (United States)",
-     "votes": 731820,
+     "votes": 751594,
      "pct": 38.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-10T05:25:36Z"
+   "source_revised": "2026-11-11T04:52:57Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -1420,20 +1420,20 @@
     {
      "name": "Tina Kotek",
      "party": "Democratic Party of Oregon",
-     "votes": 1013693,
+     "votes": 1041511,
      "pct": 53.2,
      "party_code": "D"
     },
     {
      "name": "Christine Drazan",
      "party": "Oregon Republican Party",
-     "votes": 833259,
+     "votes": 856474,
      "pct": 43.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-11T02:10:53Z"
+   "source_revised": "2026-11-11T04:56:04Z"
   },
   "Maine|Governor": {
    "state": "Maine",
