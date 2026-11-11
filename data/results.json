@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-11T22:13:33Z",
+ "updated_utc": "2026-11-11T22:28:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 20,
+   "D": 21,
    "R": 13,
    "I": 0,
-   "uncalled": 2
+   "uncalled": 1
   },
   "Governor": {
    "D": 22,
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-11T20:46:23Z"
+   "source_revised": "2026-11-11T22:20:44Z"
   },
   "House": {
    "parties": {
@@ -518,10 +518,10 @@
   "Mississippi|Senate": {
    "state": "Mississippi",
    "office": "Senate",
-   "status": "counting",
-   "winner": null,
-   "winner_party": null,
-   "pending_winner": "Scott Colom",
+   "status": "called",
+   "winner": "Scott Colom",
+   "winner_party": "D",
+   "pending_winner": null,
    "candidates": [
     {
      "name": "Scott Colom",
@@ -539,12 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-11T22:13:00Z",
-   "too_close": {
-    "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
-    "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
-    "hold_until_utc": "2026-11-04T19:00:00Z"
-   }
+   "source_revised": "2026-11-11T22:28:06Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
