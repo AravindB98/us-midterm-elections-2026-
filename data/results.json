@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-11T21:58:33Z",
+ "updated_utc": "2026-11-11T22:13:33Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-11T21:39:51Z"
+   "source_revised": "2026-11-11T22:06:02Z"
   }
  },
  "control": {
@@ -521,25 +521,25 @@
    "status": "counting",
    "winner": null,
    "winner_party": null,
-   "pending_winner": null,
+   "pending_winner": "Scott Colom",
    "candidates": [
     {
      "name": "Scott Colom",
      "party": "Democratic Party (United States)",
-     "votes": 471757,
+     "votes": 472188,
      "pct": null,
      "party_code": "D"
     },
     {
      "name": "Cindy Hyde-Smith",
      "party": "Republican Party (United States)",
-     "votes": 467353,
-     "pct": 48.72,
+     "votes": 467603,
+     "pct": 48.71,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-11T21:55:04Z",
+   "source_revised": "2026-11-11T22:13:00Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
