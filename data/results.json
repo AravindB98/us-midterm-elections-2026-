@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-11T04:27:01Z",
+ "updated_utc": "2026-11-11T04:42:01Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-11T04:18:07Z"
+   "source_revised": "2026-11-11T04:28:25Z"
   }
  },
  "control": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-11T03:26:57Z",
+   "source_revised": "2026-11-11T04:31:37Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-11T03:32:07Z",
+   "source_revised": "2026-11-11T04:35:55Z",
    "too_close": {
     "note": "Too close to call; margin of a few dozen to a few thousand votes depending on the count.",
     "source": "https://thehill.com/homenews/campaign/6196987-mississippi-senate-race-too-close-to-call-ddhq/",
@@ -1167,34 +1167,34 @@
     {
      "name": "Jonathan Kreiss-Tomkins",
      "party": "Alaska Democratic Party",
-     "votes": 107171,
-     "pct": 49.6,
+     "votes": 119860,
+     "pct": 49.9,
      "party_code": "D"
     },
     {
      "name": "Bernadette Wilson",
      "party": "Alaska Republican Party",
-     "votes": 62501,
-     "pct": 28.9,
+     "votes": 69199,
+     "pct": 28.8,
      "party_code": "R"
     },
     {
      "name": "Dave Bronson",
      "party": "Alaska Republican Party",
-     "votes": 30488,
-     "pct": 14.1,
+     "votes": 33590,
+     "pct": 14.0,
      "party_code": "R"
     },
     {
      "name": "Treg Taylor",
      "party": "Alaska Republican Party",
-     "votes": 16077,
-     "pct": 7.4,
+     "votes": 17619,
+     "pct": 7.3,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
-   "source_revised": "2026-11-10T01:16:28Z",
+   "source_revised": "2026-11-11T04:33:35Z",
    "too_close": {
     "note": "Not yet called; absentee ballots and ranked-choice tabulation pending.",
     "source": "https://alaskabeacon.com/2026/11/03/jonathan-kreiss-tomkins-leading-in-alaskas-gubernatorial-race-in-early-results/",
