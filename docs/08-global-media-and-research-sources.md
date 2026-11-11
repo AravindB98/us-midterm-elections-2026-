@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-11T01:26:01Z**.
+> Latest headlines refreshed: **2026-11-11T01:41:02Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -364,8 +364,8 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 - [Midterm 2026: i risultati in tempo reale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IUjRYS3Y4VGNjd0ZsUjRsWUVHVkN2Q1NSd0R4OVBSaFByYUpuZlF1R0lDN3VodDRNWmljT01faGNEWmlydlZfallkdlhOMGtXcElPZUY2VU5DZzg?oc=5) (Lab24 - Sole 24 ORE)
 - [Usa, l'onda democratica alle elezioni di Midterm apre la sfida per il 2028](https://news.google.com/rss/articles/CBMitgFBVV95cUxNa0dhblprWWpISkVsR3R5RUtQNnhtZ3h6c0l4Znd0VTh3clVNbWpkY0NsdmlHV01KdGhvYW9jQ1FaS18zN3Rhd1Q1S092amxwQmp6Q19YVHVNMlE2Ny1ZUFFSSGJNS0E5VXFzQkZDYkdsSXE4YmdZMEhQUXQwU0VQZVBXNlVMUnVDSUdtWTNKaHh3TEYzZ1dXLUhMOUlXU1BuLUdUYnBpTDVscnVqM0QzVHpaU25nZw?oc=5) (Vatican News)
 - [Gli Stati Uniti hanno votato per le elezioni di metà mandato: cosa sono i Midterm e l'impatto per Trump. I temi e gli orari](https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHQySEtEYWtmUWJWVkl1eEhRYXlzdUJFd0pMcnpndGF3cFRRMjhyeWpOeVItUlpuMmdMR0RUOEp6RkRHNUhKN2wtVjZCVkF4dFlKZXNsLVRxNlpKRHk1aXBSR2M0QzdUdlVjQVpfay1ZRmI1cVJpajJTX1dzWWxlZ0xfVEZlekdqRTkzNzAyRjNlUWxGd3ppSlRmZHZPQnJqNHViaWJxTlJxazlmekNOcGJR0gG3AUFVX3lxTE9PM25JbXpPZGNfNXZENXl6Nl8tY3NFZ2Q1TGptWXVkWV9KNXBwNGl6SVNVV1RrRU03a1dPZU4wTGVRXzBzVDdDWHpOOTRXWTNjcHgwbGxnYnZsM3hIS3Z6LTg0VkJHMmpVMnppcEJvTGk2NkdGZHF1bFU4cjlyeUl4YkJKdkJVUXVxTlcxcjNXQ1o2Q2J3V2ZFdkFrekp0Q3JTelQ0WTE2bzFnUHhzNVY0M2staFJHcw?oc=5) (Corriere della Sera)
-- [Elezioni Usa Midterm 2026, chi sono gli eletti alla Camera e al Senato. FOTO](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTdKWFgtS0N6S2tZWExGTTF4Uk5FSG1wemxydERicndrMHBJZEp1UlZuSGVMenQwMWQ4aS1zaVM4bXhTalYtQ2lXVGRjdlRLY2c4TkNlU2xzdEtTSjh6OUlkOHEtWk4yWENxZUJaQUt5NlpJUVgwMG5MUDZGU1BWcVdDYTJSUkVo?oc=5) (Sky TG24)
 - [Elezioni USA, Democratici a valanga: maggioranza a Camera e Senato](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMkNad0Ewb0g1TExSbC1RaUpYeUhhOEVha0RjYkFOamljdGxOMlRsQlJ0SVh5X3NuaUwyM1M1REtaZTVZSUtJcm9oUTY4UU5MSHpDZ2Q0QktLOHg4emJ2YUZIV0dsbHdrYklEWXVITGFpTDM1TE1ETWdWTGxaUFM4aTlRZkVmUmZybnJMZVJiX21lRVNxR2FNRjNsMFVHcElLRVNnQVZOSGZxRkpqeURZMTg2WWQycmZfeWk5bFp1V0Q?oc=5) (Euronews)
+- [Elezioni di midterm 2026: i libri per capire il voto e la politica americana](https://news.google.com/rss/articles/CBMic0FVX3lxTFA1LURUM0NRdGs5UWFHdXhsc1NfSmg3M2VOSzFVaWlIblVtbXd0dU9takNNcDhkbnpSUmxOa21aRHd0WWhERGRVX2pXZTNiYUVDTkh4aXVlT0NaMUJpWEVLTU9jUzNseVpfWVl0c0xLclNPY2M?oc=5) (Libri Mondadori)
 
 
 ## Canada
@@ -424,9 +424,9 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [Surprising Turnout Rates in 2026 Midterms](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2tMNDNZaGJIZkU0QVQ2Q0N2djNjSVpWUGRRSDdKWHYyak1WbFJGMG1pSjRfaG9oNWZjUTRkbHlYYzF6ZHFuZ2VNeUljeURZZkY4NERLOUp0dGhncWpuenVnb19SZUdyNm5FSkEwOGxVYzg1T2V6cXBDTFJqVlRaTk9TQUhlYjJGbGVhMHdIZnlOb3Y3Qnc0elhB?oc=5) (Brennan Center for Justice)
 - [From party control to voter turnout: These charts explain the 2026 midterm election results](https://news.google.com/rss/articles/CBMid0FVX3lxTFBIdHAwS1kzU0VDUUtXN2UxVnNsZTJ6N0xqMVFXRUtPZll1VjAzQlY2b2s2Zk42UXoyNUdLUUFaWFEyaU04QTBzX19pZ25EYzM3eUloVzVPQ2JMTkFmZ2JzYno1YlVDYVpxbFhhZFNUamRFVFFQZ0xB?oc=5) (KCRA)
 - [US midterm results in maps and charts](https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5) (Reuters)
-- [Alaska Votes 2026](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tOVBBRGItbEN4ODdkX21RRXktaFFYdWx0cEYwQXVkU1NkUmlIdHRpWnlmX2RiS2NMaTQwOUZidEZpYS12bmhKNzIxd1RyRGFqbHdmYw?oc=5) (Alaska Public Media)
 - [How Colorado Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkNiemlEMDF2WVFoZmZmTGF1WDFxbkpubmhoN3RrWGhtTnczdDdMSWFnTGJiRldNOHhxT25EZlVnUlRHR2xqUnA3V2p1U2pxbm9wRGhhRDFNSjVzN0NhYXNuU1lyZWl0R1c5TEgyc21rNW9vU1hBTmtNR1BYSU1xdFdsdw?oc=5) (The New York Times)
 - [How Democrats Swept Wisconsin Up and Down the Ballot](https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHlrTEZqTDJWXzR6YXlYdEw4VXVTelE1VkVpYmhOYmo5NjN3SnZPdDdfSlc1djI3UmZRWUNWU3RTT3F0bDNsUUR6cVMtbVAtalFoTXlqR1QyRjZmWGtPWG9EQ3I5cmVXZE50d3A5TU5hdnRDeUlVbGR5cTFCWS13SWxiZUJEd3RlUUtvM3ZuLUNEc19ydGp2SlhaSUo0UERW?oc=5) (Marquette Law School)
+- [Young voters swung toward Democrats in House races, fueling midterms sweep](https://news.google.com/rss/articles/CBMivwFBVV95cUxOclY5YjZkbFJpMjF1VklYTld0OHhqNndlSnQ0M2h0YjZkaXJJclJteldNdjlDb0JqMUdscEx3aG9UXzZkM1l3WlBjOXc1MmpIQlRZa09LSC1fOVIwZVVaeGZKODZvNTM1RXE1T2xYSHRWTGZKc21sZE9iV2JKZDVac09RbGpJZGVKSzQ0UE9Cd2pHYWFVZVdMc3A1VUtqUHRXMnMtLU1RX3hRV20xZjZ4SGFWS0wtN29uRzRYRkVRQQ?oc=5) (The Washington Post)
 
 ---
 
