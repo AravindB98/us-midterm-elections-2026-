@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-11T21:43:24.369529</dc:date>
+    <dc:date>2026-11-11T21:58:24.298357</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 288 270
 L 288 86.4 
 L 28.8 86.4 
 z
-" clip-path="url(#p3835a17952)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
+" clip-path="url(#p0de35d0e15)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 46.8 226.8 
@@ -43,7 +43,7 @@ L 227.4912 226.8
 L 227.4912 206.64 
 L 46.8 206.64 
 z
-" clip-path="url(#p3835a17952)" style="fill: #1d4ed8; stroke: #1d4ed8; stroke-linejoin: miter"/>
+" clip-path="url(#p0de35d0e15)" style="fill: #1d4ed8; stroke: #1d4ed8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 230.3712 226.8 
@@ -51,7 +51,7 @@ L 270 226.8
 L 270 206.64 
 L 230.3712 206.64 
 z
-" clip-path="url(#p3835a17952)" style="fill: #b91c1c; stroke: #b91c1c; stroke-linejoin: miter"/>
+" clip-path="url(#p0de35d0e15)" style="fill: #b91c1c; stroke: #b91c1c; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 302.4 270 
@@ -59,23 +59,23 @@ L 561.6 270
 L 561.6 86.4 
 L 302.4 86.4 
 z
-" clip-path="url(#p3835a17952)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
+" clip-path="url(#p0de35d0e15)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 320.4 226.8 
-L 500.6448 226.8 
-L 500.6448 206.64 
+L 500.868 226.8 
+L 500.868 206.64 
 L 320.4 206.64 
 z
-" clip-path="url(#p3835a17952)" style="fill: #1d4ed8; stroke: #1d4ed8; stroke-linejoin: miter"/>
+" clip-path="url(#p0de35d0e15)" style="fill: #1d4ed8; stroke: #1d4ed8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
-    <path d="M 503.5248 226.8 
+    <path d="M 503.748 226.8 
 L 543.6 226.8 
 L 543.6 206.64 
-L 503.5248 206.64 
+L 503.748 206.64 
 z
-" clip-path="url(#p3835a17952)" style="fill: #b91c1c; stroke: #b91c1c; stroke-linejoin: miter"/>
+" clip-path="url(#p0de35d0e15)" style="fill: #b91c1c; stroke: #b91c1c; stroke-linejoin: miter"/>
    </g>
    <g id="patch_8">
     <path d="M 576 270 
@@ -83,13 +83,13 @@ L 835.2 270
 L 835.2 86.4 
 L 576 86.4 
 z
-" clip-path="url(#p3835a17952)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
+" clip-path="url(#p0de35d0e15)" style="fill: #f9fafb; stroke: #e5e7eb; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #111827" x="28.8" y="32.4" transform="rotate(-0 28.8 32.4)">2026 US MIDTERMS: LIVE FORECAST AVERAGE</text>
    </g>
    <g id="text_2">
-    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7280" x="28.8" y="61.2" transform="rotate(-0 28.8 61.2)">Election held Nov 3, 2026: check official results   |   updated 2026-11-11 21:43 UTC</text>
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7280" x="28.8" y="61.2" transform="rotate(-0 28.8 61.2)">Election held Nov 3, 2026: check official results   |   updated 2026-11-11 21:58 UTC</text>
    </g>
    <g id="text_3">
     <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #111827" x="46.8" y="115.2" transform="rotate(-0 46.8 115.2)">Chance of controlling the HOUSE</text>
@@ -107,10 +107,10 @@ z
     <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #111827" x="320.4" y="115.2" transform="rotate(-0 320.4 115.2)">Chance of controlling the SENATE</text>
    </g>
    <g id="text_8">
-    <text style="font-weight: 700; font-size: 28px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1d4ed8" x="320.4" y="190.8" transform="rotate(-0 320.4 190.8)">D 81%</text>
+    <text style="font-weight: 700; font-size: 28px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1d4ed8" x="320.4" y="190.8" transform="rotate(-0 320.4 190.8)">D 82%</text>
    </g>
    <g id="text_9">
-    <text style="font-weight: 700; font-size: 28px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #b91c1c" x="543.6" y="190.8" transform="rotate(-0 543.6 190.8)">R 19%</text>
+    <text style="font-weight: 700; font-size: 28px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #b91c1c" x="543.6" y="190.8" transform="rotate(-0 543.6 190.8)">R 18%</text>
    </g>
    <g id="text_10">
     <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7280" x="320.4" y="255.6" transform="rotate(-0 320.4 255.6)">weighted consensus of 8 fresh forecasts</text>
@@ -142,7 +142,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p3835a17952">
+  <clipPath id="p0de35d0e15">
    <rect x="0" y="0" width="864" height="302.4"/>
   </clipPath>
  </defs>
