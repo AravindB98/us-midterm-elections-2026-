@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-11T23:58:24Z",
+  "updated_utc": "2026-11-12T00:11:36Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -45,7 +45,7 @@
     "kalshi": {
       "house": 94.1,
       "senate": 75.0,
-      "as_of": "2026-11-11",
+      "as_of": "2026-11-12",
       "status": "live",
       "type": "prediction_market",
       "name": "Kalshi",
@@ -145,7 +145,7 @@
       "status": "live",
       "senate": 99.0,
       "house": 1.0,
-      "as_of": "2026-11-11"
+      "as_of": "2026-11-12"
     },
     "manifold": {
       "name": "Manifold Markets",
@@ -155,7 +155,7 @@
       "status": "live",
       "house": 98.7,
       "senate": 85.7,
-      "as_of": "2026-11-11"
+      "as_of": "2026-11-12"
     },
     "metaculus": {
       "name": "Metaculus",
