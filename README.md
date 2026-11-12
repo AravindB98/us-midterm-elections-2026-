@@ -43,18 +43,18 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-12 06:44 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-12 06:59 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
 - House: Democrats favored (weighted average 82% Democratic across 9 fresh sources; 89% of sources favor Democrats). Range: 1% (PredictIt) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.
-- Senate: Democrats favored (weighted average 81% Democratic across 8 fresh sources; every source favors Democrats). Range: 64% (Decision Desk HQ / The Hill) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.
+- Senate: Democrats favored (weighted average 82% Democratic across 8 fresh sources; every source favors Democrats). Range: 64% (Decision Desk HQ / The Hill) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.
 - Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
 
 | Consensus (weighted) | Democrats | Republicans | Fresh sources | Range across sources | Verdict |
 |---|---|---|---|---|---|
 | **House control** | 81.6% | 18.4% | 9 | 1% to 100% | Democrats favored |
-| **Senate control** | 81.3% | 18.7% | 8 | 64% to 100% | Democrats favored |
+| **Senate control** | 81.5% | 18.5% | 8 | 64% to 100% | Democrats favored |
 | **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race odds | - | 51 needed |
 
 **Forecasts in the consensus**
@@ -67,7 +67,7 @@ _Last automatic update: **2026-11-12 06:44 UTC**. Markets refresh every minute, 
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | 91.0% | 76.0% | 2026-11-12 |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | 94.1% | 75.0% | 2026-11-12 |
 | [Polymarket](https://polymarket.com/) | Prediction markets | 100.0% | 100.0% | 2026-11-04 |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | 1.0% | 98.0% | 2026-11-12 |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | 1.0% | 99.0% | 2026-11-12 |
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | 83.0% | 84.0% | 2026-11-01 |
 | [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 98.7% | 85.8% | 2026-11-12 |
 
@@ -90,11 +90,11 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 
 **Latest midterm headlines (auto-updated)**
 
+- [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [The 2026 Election by the Numbers](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vWmVLVTdGcU5xWUZEWE9iR2hjbXBDdHpibE8xYkpvbnlJS0RCeFVqSFh1cDNyUEdST1EwQjE4clpjMEUyT1pKcXo1T2lhN3NPZ2lOa2t0TFM2OWhZdjlrMG8xTC1tMlk1?oc=5) (Council on Foreign Relations)
 - [Beyond the blue wave: what the 2026 US midterms say about populism and political change in 2028](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNazNnTHpMc2RlbVpwV1dTbENfVC1TOGdjcE9JaFZPTUJuNFgyLVlMTEE2TDJXeDVVWXJlTUtsSlI2ZTlNclpNR04zWUV0bUJWODJzQ0RwUjJ4X21JaWhXREplZlRVNHBmNnVycUZzMWlDekR0aElILWlTSnY4MjZ0X3pEczhWWG92ZkM3UU9GODBnNmxfYmtxMUxHNkd4Q0JrQjVsdEswekp6OERyNGVNWW9zcUVEY0RiRVhsMHNIaEU?oc=5) (ODI: Think change)
 - [Republicans return to Washington to sift through wreckage of midterms rout](https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1hORHBQT2hsOVhualRUcTQ4ZmIyNHgxU2RHZ2c3aTNJRlJoNVpqb2NLbGpab1daX29ZbFRRaDFxbUZXOWNTQnkzTWxreVJJMC1sLXNmOVgtMGdsR2EtM3c1OGtqUHFTZk9hRXpuVm5sNzRMVlYza0RpdTZVbm1TdTRjZ3owcGxZcS1SSXRnVVEyd0QtZ09iUi13?oc=5) (The Guardian)
-- [2026 US Midterm Elections and the Impact on Philanthropy and Nonprofits](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVHJMeXhyYk96QXZ6VHphYThwODV0TWpCR1kzcElJMlh5cjV3UzVybmwtdTFJa2MyZnFKZVBmNFU0aTZvSVNHN1BWOHRPX0F5aV85OF9pUlN1MFdWOVotcWktWWNQaWhRMm11M1N5Q0pub3VQcEpCNlJKR1Fjc000NXMxUEJLbk8xOGhVaWlJVEszeTNLcFBFYWYxNUhTWEpLdV9FWS1ZN2VNZ0F4SzB0bWU4Y19iQ0dQNUVBZmUyYzdzeHJrV3YtalBfcHZUZw?oc=5) (WilmerHale)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
