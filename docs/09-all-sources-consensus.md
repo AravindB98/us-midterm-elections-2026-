@@ -2,7 +2,7 @@
 
 [Back to README](../README.md)
 
-> Regenerated automatically on every live update. Last run: **2026-11-12T14:15:08Z**.
+> Regenerated automatically on every live update. Last run: **2026-11-12T14:29:59Z**.
 
 **179 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
 
@@ -17,7 +17,7 @@
 | Source | Type | Lean (as characterized) | House (D) | Senate (D) | As of | Status | In consensus |
 |---|---|---|---|---|---|---|---|
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | Center (outlet) | 83.0% | 84.0% | 2026-11-01 | seed | yes |
-| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | Nonpartisan / unrated | 98.7% | 82.5% | 2026-11-12 | live | yes |
+| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | Nonpartisan / unrated | 98.7% | 84.3% | 2026-11-12 | live | yes |
 | [Metaculus](https://www.metaculus.com/questions/34484/us-congress-control-after-2026-midterms/) | Crowd forecasts | Nonpartisan / unrated | - | - | - | not machine-readable | no |
 | [CNN data analysis (Harry Enten)](https://www.cnn.com/politics) | Forecast models | Lean Left (outlet, per AllSides) | - | - | - | not machine-readable | no |
 | [Decision Desk HQ / The Hill](https://votes.decisiondeskhq.com/forecast/2026) | Forecast models | Nonpartisan / unrated | 84.0% | 64.0% | 2026-11-02 | stale | yes |
@@ -33,7 +33,7 @@
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 91.0% | 76.0% | 2026-11-12 | live | yes |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | Nonpartisan / unrated | 94.1% | 75.0% | 2026-11-12 | live | yes |
 | [Polymarket](https://polymarket.com/) | Prediction markets | Nonpartisan / unrated | 100.0% | 100.0% | 2026-11-04 | stale | yes |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 1.0% | 98.0% | 2026-11-12 | live | yes |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 1.0% | 99.0% | 2026-11-12 | live | yes |
 
 ## Every source, by type
 
