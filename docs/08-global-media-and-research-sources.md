@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-12T18:29:29Z**.
+> Latest headlines refreshed: **2026-11-12T18:44:29Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -121,7 +121,7 @@ _Note: Coverage typically focuses on trade, tariffs and US policy toward Southea
 - [Beda Sikap Trump Usai Kalah di Pemilu Sela](https://news.google.com/rss/articles/CBMikwFBVV95cUxORHBTV3ZRTmJKbUo5d1pJU1ViS21nLWZLYVNVWlozamktQktXYnpKMUVPNTJuRWFOS3FIZzZrWWZDc0w1NFMzMzA5RWpKdU1PWmp2MGpJMjc0YW9uMGFHUDNTMHBSOEhpS3VUSEQwZndmNjNTdlJpd29lTjMzWE5Vcm9sdGtGSzRpWkRRTXlES2IwV0XSAZgBQVVfeXFMTl91VjhmeGRab1pXWlMtbGhHNEpHNE9UblpWMUcwSHlYakhpaVR5S1Utb1dadXRuVzBORzZoMHR1ODJlNFZLZUp0VGFyRHp4WmVMYS1lQVZvUjVydXdWNTlSM2FubVdEbWdLTGxQZXVodGZtZHdUbFRweDFyejlYYlA4ckpQbUdfTV95ellpMFJFRnRzVlZMZnA?oc=5) (detikNews)
 - [Kekalahan Trump dan Tatanan Politik Dunia](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDeVlpeXRLOGE4UEQ5Q2hRNUhVSU1FdHlQb0hDN09ucjdZcDNNT2VPSWVzQ2V1a2hpMklYVGtfbHk2bzUtSXM2QXVmbnhXWVpFNE1OSENqSzZiQkFOUWE1WlQzTFh1OUtRakxTZ2NObjN4MzVVMnlUeFM5RQ?oc=5) (Kompas.id)
 - [Trump perkiirakan AS kehilangan 3 triliun dolar karena Demokrat menang pemilu](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3h2NHBfanIwMFFiTDNLR25KMDNOeFQ0ajNUUnpzOGltZklxYVluWTh4UGtpY0FZUVVJblF0R3JTWGhFb2czMmk0V0RNR1dJRHpDVTVGU0J6T3RNQldmc25KZlU0dlZvNXpfNEZBZF8wZnh2TGc1S3FrUWN0S2Rkb3pveVNVMl9JN1phZVF2d3Nkd3c0dkdzX1VleGdaWGx2X1hRV2xNekV2elN1OEdLREJfSkNTTEhoVHkzcUJB?oc=5) (ANTARA News)
-- [Mengulas Fenomena Electoral Backlash dalam Pemilu Sela Amerika Serikat](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1pLS0lkUFFyVWxmYnA2VG9QUHZ4OXNpOUVzT3ZPcmIwNThRTmt3UUY2MGwtdkRpelNZSHE2QWlXTG1TM2NXMS1VVmVSQTdkVTVKTzlIRU5GaWpKQkVXMUlrbjctMVVaZ2NyVURlVzFoOEt2M0pUWU9UU0FVWko5NERNaWR0bnprLVpDZzdib2VlRGxQYU5kdDllVWZZQWFmUXFFdEQtVWdmTkd0aDdHdUFnQXlEVFpmN0pQZTJOQW1VNlRKVHZoT080Yw?oc=5) (CNBC Indonesia)
+- [Daftar 14 Politikus Muslim Amerika yang Menang Pemilu Sela AS](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVlZQTjFxbnZMR0ZadlpDcUlyOTZSY2FkbXFqa0FGbHdlaUdjMVR0Ym8xbzE1YkVlcFVfc0J0R0UzUmpBaUd1WkhCcU1kTDU3U1FycjFQVWdGUDhDc1Z5TkdGUC1HZW8yblFiQVhWczktMFRjYWpTQldCNmhfNFYxVnJXeE9DcDBZb2hDcVRTRDM4VFZfdUJiampRUzNFQmh6eXRxdnMzSWMzSDd5T1VYN0JGQ3U2Ri11Y1FXOG5iVW5mdjBaTjJ3VGtTaw?oc=5) (CNN Indonesia)
 
 
 ## Pakistan
@@ -209,7 +209,7 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 - [What the US midterm elections mean for energy](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTdJenVreEFUZllUVVc4eXhESHlhM2lraHZJOGhpYXVqaVFybmtfS3VJNnZpTldRUU9CYVJSSFdWaW1sdXBNQ3pmaHVtelhxVm1HMjZXNE9FWGdoUUQybFZ4QmNrNE1GelpGQWtuYVVJck9FOTFsYm5GVDVDdEYxQVhiQU5hWi14XzQwR2JYZnBuVnc?oc=5) (Wood Mackenzie)
 - [US midterms: assessing the results and implications](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5) (Economist Intelligence Unit)
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
-- [Republicans return to Washington to sift through wreckage of midterms rout](https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1hORHBQT2hsOVhualRUcTQ4ZmIyNHgxU2RHZ2c3aTNJRlJoNVpqb2NLbGpab1daX29ZbFRRaDFxbUZXOWNTQnkzTWxreVJJMC1sLXNmOVgtMGdsR2EtM3c1OGtqUHFTZk9hRXpuVm5sNzRMVlYza0RpdTZVbm1TdTRjZ3owcGxZcS1SSXRnVVEyd0QtZ09iUi13?oc=5) (The Guardian)
+- [Now What?: How the Midterm Results Will Change America](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVRrcTV3emdvY0tneG9JYTFqXzliVlRGUUZoRERCZF84Y3lHUjdhbjNjTVg3cWIyNGtzckM2bTg0VFhSNFNWYWMtSUVELXJnSmlGczBhWlZkbVVaa3EzMlFCS3VkSkZBcmE5eTJudW91cXhqRDM2eDRTLWg5MGxlaU5OeTBaSlNpU1I1OFRBVEdiMFZBczAyNk9xZXRaQ0NQ?oc=5) (The New Yorker)
 
 
 ## Russia
@@ -386,8 +386,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [Republicans took big hits in the U.S. midterms. Does that mean Trump's political era is over?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenRMYnZZcWMwcWM1ejYtQkR6UTdKTFNIb1RlTXNaSzdzVGZrOTlOTVBlV1hSbV9HQXN3WTYtZm5UNERnNmZQcm85a2U5Y1ZkMmNGTmdmSEtPWV9iMVBlNjdFWU8zVmRSeXNNUUJqWUEzTndUTnBYYkZKejRwcTA3dmRBUzVGQV9G?oc=5) (CBC)
 - [U.S. Midterms 2026: What Do the Results Mean for Canada?](https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwX0VXSTlwb0VaYWJKdUtvTURMQ0xRQXZOM1NhTjRyZWV2UnBqdUdnSEc0eDZSREpRSEp2ejlYSkRtWnFtXzZ4YWlZR0YwbFNINVRrcDJuamdKWEp0aGplckFENXF5UQ?oc=5) (Leger)
 - [Send us your questions about the US midterms results and Democrats’ ‘blue wave’](https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1pCWmxTeWw4d3QyREg1T1cxdndwNWhIVjI5VXhkUTZwUmZpOUZMaXNEdkN2SXd3ckRCeHlPdDNwYkRxVlJSZndWOEJBZU5KTFNMejV4aXgzbXlzV2N1QXJSRHAtckxtNWtYMk90NllUcmhud3FxY0RNV3pMVzA3SDNyOXRUQ0pwU2JGYi0yaUROZw?oc=5) (The Guardian)
-- [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 - [Now What?: How the Midterm Results Will Change America](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVRrcTV3emdvY0tneG9JYTFqXzliVlRGUUZoRERCZF84Y3lHUjdhbjNjTVg3cWIyNGtzckM2bTg0VFhSNFNWYWMtSUVELXJnSmlGczBhWlZkbVVaa3EzMlFCS3VkSkZBcmE5eTJudW91cXhqRDM2eDRTLWg5MGxlaU5OeTBaSlNpU1I1OFRBVEdiMFZBczAyNk9xZXRaQ0NQ?oc=5) (The New Yorker)
+- [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 
 
 ## Live topic feeds
@@ -416,8 +416,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [18 State Democratic Attorneys General Urge Congress to Reject H.R. 7866, Challenging Federal Interest-Rate Exportation by Out-of-State State Banks](https://news.google.com/rss/articles/CBMioAJBVV95cUxPZmF3ZmU3UFVlN0c3TzluY2dVdVVmZk0tb2EzV1czRlV6Y0ZFVFRwc081bjFmRkxPMFJSb1ZrV0puS044QTJpVDNSekZQTHlBcGVXdi1CV09NYXRXR29GWl9pYVpWRWtYOWxPZTl0TlhSX0ppZHVDUWxKZEFBU1Vna2l6VGZwWVJTd3EtcndyQ0txanJ5OTlQMTVjd3FuMWhRTG9DU3NsTHd3NUNncFpzd3FTR1dNZFV6NEhGd3VOem13TWFzY1UxZlpEdllkc1BScnZBZGNBSmpCZDNSX1JmZHFNY3JINUlla0tQUWN6M3E5Snk4Q0ZaUC1HNks5MFFGRTdLM3oyNk52SWgyQnMwU0RScGQydmtiX1BFR2hqUGo?oc=5) (Consumer Finance Monitor)
 - [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
 - [Voters are sending senators back to DC with the most mixed-party delegations in 8 years](https://news.google.com/rss/articles/CBMidkFVX3lxTFBYT3JHY3E2eUVoZ2dhMmlPYWhFaTRyYTh2MTN4RFVlVE5aNmE0LVhSOW9BTG5KN29VMWZTN1hXX1ozbTFxek5UZzdpNjVGeVlqeUhyZzFOZEQwNjhuZDRwMV9wZDA1NUdSbHpUTVAzbU8yYWZmeHc?oc=5) (CNN)
+- [GOP Rep. Lauren Boebert will lose reelection to Democrat Eileen Laubacher in Colorado, CNN projects](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMXUySmVmMEp3YUI2TEozV0htWUhvUEI5NjNKZTZvVUluakR2OElkVmZqR0NtVmNaclMxdk5sSjBTbGU3S3cySGpNZVJRbFAxdnJyalRuTHlhVXBTcWhRTEduVDNRU0szd3VmMmEwR0R1bm4tcEJpcHR6anE1MXcyc1o4Zlk0R0liZjBWZ21qcUM?oc=5) (CNN)
 - [Republicans take an approach that defies logic after brutal midterm losses](https://news.google.com/rss/articles/CBMif0FVX3lxTE5NV2ZDakhwZjNPSzY2RFNUeGdQTG5ya0tMX1J5aTZtbnZWeHBYbnV5cmcwTEhfdlRsd2RSbVp0eXVnNXFabUstOGtzSG1LZHVfWGlNZjZCZ1c5LXJxWkZ0RGhtT3M0Wk9SbmY0MlE1eFdJU3FOSWxBelAyWUh2aVk?oc=5) (CNN)
-- [Meet the 2028 Potential Presidential Contenders – Jon Ossoff](https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUFFMWh3TVRtNy1pSndVT1dxMTJGVllYWng4cUw1OURYUUJsaVF1NGdKY0tQUl9CWnlaeXZzSE0zcXc3NDdOdzJteG1GalBENUJ5R3Z5djdFcXJpQUJoSF9TVFdxV0tsRi1LRHUtTkpWVjdQci1KczhZV2tRQnFQZW1GWGNzSDlrWVpUeEpR?oc=5) (CNN)
 
 ### Census and election data
 
