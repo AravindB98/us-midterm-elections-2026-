@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-12T01:43:57Z",
+ "updated_utc": "2026-11-12T01:58:57Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-12T01:07:36Z"
+   "source_revised": "2026-11-12T01:49:57Z"
   },
   "House": {
    "parties": {
@@ -207,20 +207,20 @@
     {
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
-     "votes": 5447069,
-     "pct": 55.06,
+     "votes": 5447080,
+     "pct": 55.09,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
-     "votes": 4250664,
-     "pct": 42.97,
+     "votes": 4250704,
+     "pct": 42.99,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-11T21:21:16Z"
+   "source_revised": "2026-11-12T01:56:47Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-12T01:40:01Z"
+   "source_revised": "2026-11-12T01:46:50Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
