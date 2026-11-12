@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-12T00:58:56Z",
+ "updated_utc": "2026-11-12T01:13:57Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -20,11 +20,11 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": 53,
+     "after": null,
      "before": 45
     },
     "R": {
-     "after": 44,
+     "after": null,
      "before": 53
     },
     "I": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-12T00:43:12Z"
+   "source_revised": "2026-11-12T01:07:36Z"
   },
   "House": {
    "parties": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-12T00:42:00Z",
+   "source_revised": "2026-11-12T01:10:33Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
