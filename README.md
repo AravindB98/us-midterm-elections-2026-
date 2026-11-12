@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-12 21:00 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-12 21:15 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -94,7 +94,7 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [The 2026 Election by the Numbers](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vWmVLVTdGcU5xWUZEWE9iR2hjbXBDdHpibE8xYkpvbnlJS0RCeFVqSFh1cDNyUEdST1EwQjE4clpjMEUyT1pKcXo1T2lhN3NPZ2lOa2t0TFM2OWhZdjlrMG8xTC1tMlk1?oc=5) (Council on Foreign Relations)
 - [The historic firsts of the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5) (Ash Center)
-- [Beyond the blue wave: what the 2026 US midterms say about populism and political change in 2028](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNazNnTHpMc2RlbVpwV1dTbENfVC1TOGdjcE9JaFZPTUJuNFgyLVlMTEE2TDJXeDVVWXJlTUtsSlI2ZTlNclpNR04zWUV0bUJWODJzQ0RwUjJ4X21JaWhXREplZlRVNHBmNnVycUZzMWlDekR0aElILWlTSnY4MjZ0X3pEczhWWG92ZkM3UU9GODBnNmxfYmtxMUxHNkd4Q0JrQjVsdEswekp6OERyNGVNWW9zcUVEY0RiRVhsMHNIaEU?oc=5) (ODI: Think change)
+- [Republicans return to Washington to sift through wreckage of midterms rout](https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1hORHBQT2hsOVhualRUcTQ4ZmIyNHgxU2RHZ2c3aTNJRlJoNVpqb2NLbGpab1daX29ZbFRRaDFxbUZXOWNTQnkzTWxreVJJMC1sLXNmOVgtMGdsR2EtM3c1OGtqUHFTZk9hRXpuVm5sNzRMVlYza0RpdTZVbm1TdTRjZ3owcGxZcS1SSXRnVVEyd0QtZ09iUi13?oc=5) (The Guardian)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
