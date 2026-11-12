@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-12T11:44:01Z**.
+> Latest headlines refreshed: **2026-11-12T11:59:02Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -121,7 +121,7 @@ _Note: Coverage typically focuses on trade, tariffs and US policy toward Southea
 - [Beda Sikap Trump Usai Kalah di Pemilu Sela](https://news.google.com/rss/articles/CBMikwFBVV95cUxORHBTV3ZRTmJKbUo5d1pJU1ViS21nLWZLYVNVWlozamktQktXYnpKMUVPNTJuRWFOS3FIZzZrWWZDc0w1NFMzMzA5RWpKdU1PWmp2MGpJMjc0YW9uMGFHUDNTMHBSOEhpS3VUSEQwZndmNjNTdlJpd29lTjMzWE5Vcm9sdGtGSzRpWkRRTXlES2IwV0XSAZgBQVVfeXFMTl91VjhmeGRab1pXWlMtbGhHNEpHNE9UblpWMUcwSHlYakhpaVR5S1Utb1dadXRuVzBORzZoMHR1ODJlNFZLZUp0VGFyRHp4WmVMYS1lQVZvUjVydXdWNTlSM2FubVdEbWdLTGxQZXVodGZtZHdUbFRweDFyejlYYlA4ckpQbUdfTV95ellpMFJFRnRzVlZMZnA?oc=5) (detikNews)
 - [Kekalahan Trump dan Tatanan Politik Dunia](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDeVlpeXRLOGE4UEQ5Q2hRNUhVSU1FdHlQb0hDN09ucjdZcDNNT2VPSWVzQ2V1a2hpMklYVGtfbHk2bzUtSXM2QXVmbnhXWVpFNE1OSENqSzZiQkFOUWE1WlQzTFh1OUtRakxTZ2NObjN4MzVVMnlUeFM5RQ?oc=5) (Kompas.id)
 - [Trump perkiirakan AS kehilangan 3 triliun dolar karena Demokrat menang pemilu](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3h2NHBfanIwMFFiTDNLR25KMDNOeFQ0ajNUUnpzOGltZklxYVluWTh4UGtpY0FZUVVJblF0R3JTWGhFb2czMmk0V0RNR1dJRHpDVTVGU0J6T3RNQldmc25KZlU0dlZvNXpfNEZBZF8wZnh2TGc1S3FrUWN0S2Rkb3pveVNVMl9JN1phZVF2d3Nkd3c0dkdzX1VleGdaWGx2X1hRV2xNekV2elN1OEdLREJfSkNTTEhoVHkzcUJB?oc=5) (ANTARA News)
-- [Daftar 14 Politikus Muslim Amerika yang Menang Pemilu Sela AS](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVlZQTjFxbnZMR0ZadlpDcUlyOTZSY2FkbXFqa0FGbHdlaUdjMVR0Ym8xbzE1YkVlcFVfc0J0R0UzUmpBaUd1WkhCcU1kTDU3U1FycjFQVWdGUDhDc1Z5TkdGUC1HZW8yblFiQVhWczktMFRjYWpTQldCNmhfNFYxVnJXeE9DcDBZb2hDcVRTRDM4VFZfdUJiampRUzNFQmh6eXRxdnMzSWMzSDd5T1VYN0JGQ3U2Ri11Y1FXOG5iVW5mdjBaTjJ3VGtTaw?oc=5) (CNN Indonesia)
+- [Mengulas Fenomena Electoral Backlash dalam Pemilu Sela Amerika Serikat](https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1pLS0lkUFFyVWxmYnA2VG9QUHZ4OXNpOUVzT3ZPcmIwNThRTmt3UUY2MGwtdkRpelNZSHE2QWlXTG1TM2NXMS1VVmVSQTdkVTVKTzlIRU5GaWpKQkVXMUlrbjctMVVaZ2NyVURlVzFoOEt2M0pUWU9UU0FVWko5NERNaWR0bnprLVpDZzdib2VlRGxQYU5kdDllVWZZQWFmUXFFdEQtVWdmTkd0aDdHdUFnQXlEVFpmN0pQZTJOQW1VNlRKVHZoT080Yw?oc=5) (CNBC Indonesia)
 
 
 ## Pakistan
@@ -141,11 +141,11 @@ _Note: Dawn's Washington correspondent provides regular midterm coverage._
 **Verified 2026 midterm coverage:** [Dawn: Democrats hold early lead ahead of mid-terms (Jun 8, 2026)](https://www.dawn.com/news/2006017)
 
 **Latest headlines (auto-updated):**
-- [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 - [Can US midterm results save the Gulf states from war?](https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEttTHpiYWxuNFFTYXBiWUxsWUphTzRxMThBSnRGdXRoRk9QXzJ2REY2d0NQeUlPRGpUMEdVQkdYSnJsdkQ2TDFPVTFlNEJPS1BLUEZGSWlLbWR4LVdTWTlhNEtNcWFfYU9reVIyQm9Fb2N3cWc1czJlR2x1Z1lUaDhwbWZtb29teWxPeUxZTzlfV2ZkSFFsT2t0WUpBUGl3a1HSAaIBQVVfeXFMTlZFRVcxZ1ZKaHVkdDZfQ3ZPNDlxazVsendlSDFJRGNSd1JNbkxPMWhncWVyV2ZOM2p0X1UyTHlUaWRYcWhVM0pqalVuOFNvdVRfenkwZ2NDQjFSU1dRSWE2dHVMWmd1YlQ3Yy16dGtabExHbGo3cHhhcUFDckVZNkZMbTBYZ3h2MU94bVdiUHlJTVBmU1pFZmlacDNOcV8wWnVB?oc=5) (DW.com)
 - [US midterm elections: what could change for international education?](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWwweVJuUlNGSGdfSWpYRWQ4akNvRDFfTmFQWEZ3eDRxSUJCU01aU25leG8zVVEwWloyR0dmX1pnbFhGblExd2FtV01taXF0U1VQcjVVY0hoRTYxX2xDazBuWE4tMy1keE1fN0NkQUo4NnhUUlZpeHJwcnRSM2xGVWI3Vy1SNjNaQjNzQVc1ajkzSWl4?oc=5) (The PIE News)
 - [The US Midterm Elections: Views From China](https://news.google.com/rss/articles/CBMif0FVX3lxTE9hY0hBTC1hc2dlRTFFc0R0dnFvUnI0bjctU2p2aWpuNHN3bndoYUZLNTlrcU40Ukhrb0JaU2ZsZG1OTXpCLVBsZXI0bUtGUjg0ZHRDd0l1U1VDNGxMcHlXc2toaHJrdzhrWDdHaXFiVmNJbnN0dWI2dzVqenBpNkk?oc=5) (The Diplomat – Asia-Pacific Current Affairs Magazine)
 - [Trump reverses stance, alleges fraud in recent US midterm elections](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnZ0UGV3RFQ2OWZpeVZQSlk0NkJTMmNfNks2T05zcGV0SjgtUEZXZXJIUDJEaVdjYjVia2YtaXRiS3lOaFh0ajVucVNkWDQ4akVXckU3RWx6NzZyT3pCQnhqYUhmS0pSQURpXzFabVhncXZTTlZFYjNnZVZWUDRROHFPM0NxenlRZVhUYTd2QVQ0c1B3VWsyUTRkcWlhOGtVcXk4OHl6TkVjenPSAbABQVVfeXFMT1UyRWYtbVdYZVF1VTB1LWdHS0dHMno5MlpwaGFnbHVuRy0tZW1CZ0JNSTlFVFZyMk5aQmlmbGF3V2VRWEMxQmNRVlc1aWtLNlZzWVVGWDFUMmVOUk04RFBGRVhLMVo1bm8xRE9vZFZwQ2NrSFBmLTFzaUdhSUlFZVhhOWtGX3VydFdGN3BFTFJOaTlQcWY2MURZaFJoUDNubE9oeGFMSS1ERlNHcG9EVGk?oc=5) (Al Jazeera)
+- [Trump casts doubt on US midterm results with new fraud claims](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nZ2tsTlNIc3hXbGV0aDMxR3g5TnJWanBDeEkzWUx5Rm9VQlgtdWtCYkp6YnU4c0FsVl9BTGI0T1dXdGZXOWRNNw?oc=5) (Dawn)
 
 
 ## Nigeria
@@ -208,8 +208,8 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 - [US Midterm Elections: Democrats Pledge to Lower Health Costs and Revive Research Funding](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnh5ZkxnQ1NvbEpFNWh6cVl3dzJWTWlGY0tsUTNkX096QjQ0Vm9XcW9iV1ZDRXB2UkE1a1hGZnFmY1g4bEZaN0hVZGZtTjFJTE1IX0dUajZQR1k4cFNfdFRJbllaNFVEOE0zclgzVDRSRlZrUTM3R0hRWHpVOHQzcVhMeGtrMHU3dGY0MVAtWEc3bnVaQnEwSVdCSlJUN0x5WkJUUjRyTjhuOHItR2xwUDdycTU0Z0czYWtJcw?oc=5) (Health Policy Watch)
 - [Midterm elections crack open political map, putting conservative states back in play | The Associated Press](https://news.google.com/rss/articles/CBMizwFBVV95cUxNNENjN3JjdExjRGsyUGFwbUVvMEk3Z3oxbVduVmFkSWl1eDFwc0M4dWtfWHZaOUhDcGVMR1ptb3gxdk5rM3Y3UkVjY2VDT0s5YTFlSk1xYjR0NTFpRmpYV3NFR1dZb0Q4TTdWOThMa0dSX2FQNzM2Mk9DWDlEMWF5R1d6bXI1bGdrel9iWGhTU1E4WDRTR2pqVEwyMWctaGlCNnFNNDZUWW44NDdFRGZIRFFvM2MtSmZRZFgxeHFNT0lZYTE1ZkZLRjVTY1hrUlU?oc=5) (www.ap.org)
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
-- [The 2026 Election by the Numbers](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vWmVLVTdGcU5xWUZEWE9iR2hjbXBDdHpibE8xYkpvbnlJS0RCeFVqSFh1cDNyUEdST1EwQjE4clpjMEUyT1pKcXo1T2lhN3NPZ2lOa2t0TFM2OWhZdjlrMG8xTC1tMlk1?oc=5) (Council on Foreign Relations)
 - [US midterms: assessing the results and implications](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5) (Economist Intelligence Unit)
+- [Republicans return to Washington to sift through wreckage of midterms rout](https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1hORHBQT2hsOVhualRUcTQ4ZmIyNHgxU2RHZ2c3aTNJRlJoNVpqb2NLbGpab1daX29ZbFRRaDFxbUZXOWNTQnkzTWxreVJJMC1sLXNmOVgtMGdsR2EtM3c1OGtqUHFTZk9hRXpuVm5sNzRMVlYza0RpdTZVbm1TdTRjZ3owcGxZcS1SSXRnVVEyd0QtZ09iUi13?oc=5) (The Guardian)
 
 
 ## Russia
@@ -412,12 +412,12 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 
 ### International students and visa workers
 
+- [This Week in Immigration: November 6, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
 - [Holland & Knight Health Dose: November 10, 2026](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTB2ekpKaGxoeGtjRF9taHA4Q01TRlo4Yk1RbGkwVWlnMENXZjJJR3RPN2k3RmVLbjFsYmM4ZURnN0ViTGgtbG45cmhsX1B5WkxPOHVsQWVrbWotRkVKYjN2UjZkX05TSENQMDlTRG1naGdkbGJ2blNablFoMVp0a3BocUtOWS01anFUMWZQTXZVZ3BOdGRGWXNDLTQyR1BjSHpGdw?oc=5) (Holland & Knight)
 - [18 State Democratic Attorneys General Urge Congress to Reject H.R. 7866, Challenging Federal Interest-Rate Exportation by Out-of-State State Banks](https://news.google.com/rss/articles/CBMioAJBVV95cUxPZmF3ZmU3UFVlN0c3TzluY2dVdVVmZk0tb2EzV1czRlV6Y0ZFVFRwc081bjFmRkxPMFJSb1ZrV0puS044QTJpVDNSekZQTHlBcGVXdi1CV09NYXRXR29GWl9pYVpWRWtYOWxPZTl0TlhSX0ppZHVDUWxKZEFBU1Vna2l6VGZwWVJTd3EtcndyQ0txanJ5OTlQMTVjd3FuMWhRTG9DU3NsTHd3NUNncFpzd3FTR1dNZFV6NEhGd3VOem13TWFzY1UxZlpEdllkc1BScnZBZGNBSmpCZDNSX1JmZHFNY3JINUlla0tQUWN6M3E5Snk4Q0ZaUC1HNks5MFFGRTdLM3oyNk52SWgyQnMwU0RScGQydmtiX1BFR2hqUGo?oc=5) (Consumer Finance Monitor)
-- [This Week in Immigration: November 6, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
 - [Democrats in Congress now have the power to fix or end tax credit program for school choice](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDJTQ3BSbjktYWJEUGx0eVgyN0lRODFaRXNkaGdCam5YZG1aZDBhWDQyTndvR0xOcU1wM1k5QnY2VUpleTNxaS1LdE4zTzZxeUtYVmtoeExvRXZ5RWdtR0FaNUlKb3k2Wm9iYjdoWlg0dExXZHQ5aWdtdFNEb1VDNW1saTItY08wWlByS1lfUGFEN1dwcVdXdkhMa0RDUXp6MHBmQUdYZHhxemFKQWVtMTRnOGZ0clN4VE5QcXI0UFRWZ9IBygFBVV95cUxNSWQzR3pucnBuWXMwT0tibTlSMXYwbC11VFpoUDBfSl9Qd0N2ekJ4Wl9VMTNUZXBQMzUzQUZsUTgwaXBVS1RDMHUxTEt1UUhxTE1hdXlidldYSHZpckp4WDFYaG1yRUNhLTRjeVBsa3lXZVFjOFlzbmsySnNvQTRVb1ZsWkQ4NUJOVUJGczVjbGNXaDNUXzF2b3o5b3QxODRzSDVQMTZqNTFFem1ENmFpYUFSQ0FUM1pjRDREYmNKV3NIYThMQnpCTXh3?oc=5) (EdSource)
-- [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
 - [Hegseth impeachment drama is first test of Trump’s eroded post-midterms power](https://news.google.com/rss/articles/CBMif0FVX3lxTE91eXNjU3ViWG1kTWczMmFYRW1LNENYQTBlTUp4RHo3dHRxTE9pXzAtRUpJZS1yNmlSOXZQN2tPay1JcFpneHZNZzZXNTNpcklFaFBGUkd5OW84V2JiNEh4eUtBUGx2LUJzWnk3MVZoRW5KU0oxTU5PV1J3cUdzcUU?oc=5) (CNN)
+- [GOP Rep. Lauren Boebert will lose reelection to Democrat Eileen Laubacher in Colorado, CNN projects](https://news.google.com/rss/articles/CBMikAFBVV95cUxPMXUySmVmMEp3YUI2TEozV0htWUhvUEI5NjNKZTZvVUluakR2OElkVmZqR0NtVmNaclMxdk5sSjBTbGU3S3cySGpNZVJRbFAxdnJyalRuTHlhVXBTcWhRTEduVDNRU0szd3VmMmEwR0R1bm4tcEJpcHR6anE1MXcyc1o4Zlk0R0liZjBWZ21qcUM?oc=5) (CNN)
 
 ### Census and election data
 
