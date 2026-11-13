@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-13T02:30:57Z",
+ "updated_utc": "2026-11-13T02:45:57Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-13T02:22:15Z"
+   "source_revised": "2026-11-13T02:34:54Z"
   }
  },
  "control": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-13T01:58:39Z",
+   "source_revised": "2026-11-13T02:35:04Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -208,19 +208,19 @@
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
      "votes": 5447080,
-     "pct": 55.09,
+     "pct": 55.06,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
      "votes": 4250704,
-     "pct": 42.99,
+     "pct": 42.97,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-12T05:25:26Z"
+   "source_revised": "2026-11-13T02:35:40Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -1027,20 +1027,20 @@
     {
      "name": "Aaron Ford",
      "party": "Democratic Party (United States)",
-     "votes": 530510,
-     "pct": 51.53,
+     "votes": 562812,
+     "pct": 51.6,
      "party_code": "D"
     },
     {
      "name": "Joe Lombardo",
      "party": "Republican Party (United States)",
-     "votes": 455302,
-     "pct": 44.22,
+     "votes": 480120,
+     "pct": 44.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
-   "source_revised": "2026-11-12T18:05:03Z"
+   "source_revised": "2026-11-13T02:44:45Z"
   },
   "Ohio|Governor": {
    "state": "Ohio",
