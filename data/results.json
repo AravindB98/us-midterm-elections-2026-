@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-13T04:15:57Z",
+ "updated_utc": "2026-11-13T04:30:58Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-13T03:56:23Z"
+   "source_revised": "2026-11-13T04:25:00Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-13T03:56:32Z"
+   "source_revised": "2026-11-13T04:23:56Z"
   }
  },
  "control": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-13T04:15:48Z",
+   "source_revised": "2026-11-13T04:19:36Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -246,7 +246,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-12T22:06:34Z"
+   "source_revised": "2026-11-13T04:28:43Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-13T03:42:37Z"
+   "source_revised": "2026-11-13T04:29:21Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -1157,34 +1157,34 @@
     {
      "name": "Jonathan Kreiss-Tomkins",
      "party": "Alaska Democratic Party",
-     "votes": 122353,
-     "pct": 49.8,
+     "votes": 126195,
+     "pct": 50.05,
      "party_code": "D"
     },
     {
      "name": "Bernadette Wilson",
      "party": "Alaska Republican Party",
-     "votes": 71231,
-     "pct": 29.0,
+     "votes": 72282,
+     "pct": 28.67,
      "party_code": "R"
     },
     {
      "name": "Dave Bronson",
      "party": "Alaska Republican Party",
-     "votes": 34188,
-     "pct": 13.9,
+     "votes": 34604,
+     "pct": 13.72,
      "party_code": "R"
     },
     {
      "name": "Treg Taylor",
      "party": "Alaska Republican Party",
-     "votes": 18012,
-     "pct": 7.3,
+     "votes": 18344,
+     "pct": 7.28,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
-   "source_revised": "2026-11-12T18:00:03Z",
+   "source_revised": "2026-11-13T04:29:31Z",
    "too_close": {
     "note": "Not yet called; absentee ballots and ranked-choice tabulation pending.",
     "source": "https://alaskabeacon.com/2026/11/03/jonathan-kreiss-tomkins-leading-in-alaskas-gubernatorial-race-in-early-results/",
@@ -1586,7 +1586,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
-   "source_revised": "2026-11-12T07:33:48Z"
+   "source_revised": "2026-11-13T04:25:32Z"
   },
   "Connecticut|Governor": {
    "state": "Connecticut",
