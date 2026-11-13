@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-13T20:17:21Z",
+ "updated_utc": "2026-11-13T20:32:21Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -111,7 +111,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-13T14:58:53Z"
+   "source_revised": "2026-11-13T20:27:55Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -238,7 +238,7 @@
      "party_code": "D"
     },
     {
-     "name": "Darline Graham (replacing Lindsey Graham)",
+     "name": "Darline Graham (replaced Lindsey Graham)",
      "party": "Republican Party (United States)",
      "votes": 952191,
      "pct": 46.64,
@@ -246,7 +246,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
-   "source_revised": "2026-11-13T19:46:17Z"
+   "source_revised": "2026-11-13T20:28:29Z"
   },
   "Maine|Senate": {
    "state": "Maine",
@@ -1144,7 +1144,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-13T20:11:30Z"
+   "source_revised": "2026-11-13T20:25:04Z"
   },
   "Alaska|Governor": {
    "state": "Alaska",
@@ -1568,20 +1568,20 @@
     {
      "name": "Phil Weiser",
      "party": "Democratic Party (United States)",
-     "votes": 1610582,
-     "pct": 61.0,
+     "votes": 1628795,
+     "pct": 61.07,
      "party_code": "D"
     },
     {
      "name": "Victor Marx",
      "party": "Republican Party (United States)",
-     "votes": 879473,
-     "pct": 33.3,
+     "votes": 887672,
+     "pct": 33.28,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
-   "source_revised": "2026-11-13T04:25:32Z"
+   "source_revised": "2026-11-13T20:31:56Z"
   },
   "Connecticut|Governor": {
    "state": "Connecticut",
@@ -1764,20 +1764,20 @@
     {
      "name": "Josh Shapiro",
      "party": "Democratic Party (United States)",
-     "votes": 3015546,
-     "pct": 60.44,
+     "votes": 3035072,
+     "pct": 60.53,
      "party_code": "D"
     },
     {
      "name": "Stacy Garrity",
      "party": "Republican Party (United States)",
-     "votes": 1909567,
-     "pct": 38.27,
+     "votes": 1913358,
+     "pct": 38.17,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
-   "source_revised": "2026-11-13T19:43:55Z"
+   "source_revised": "2026-11-13T20:24:29Z"
   },
   "South Dakota|Governor": {
    "state": "South Dakota",
