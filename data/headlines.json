@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-13T12:30:51Z",
+ "updated_utc": "2026-11-13T12:45:51Z",
  "countries": {
   "United States": [
    {
@@ -75,13 +75,6 @@
     "published": "Wed, 11 Nov 2026 23:36:52 GMT"
    },
    {
-    "title": "US midterm results in maps and charts",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com",
-    "published": "Wed, 11 Nov 2026 14:00:00 GMT"
-   },
-   {
     "title": "US midterm voters responded in a thunderous voice. This is just the beginning | Betsy Reed",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGhvY1lkN3BWdE80WUp0dUdxRHFOT1FucklWY1ZjWjExamFSblRhbEhEVHhDWjJfNF9xcjlJMXFhSHkzOGNLZWhiY2w0cWJMNzdpOGJCUXRTSnVDT1FkMWlhS2x0LWtJZ2owYTV2bVNWMXhTMEJkejJtMXFYYW52Qk9WaGY?oc=5",
     "source": "The Guardian",
@@ -115,6 +108,13 @@
     "source": "Economist Intelligence Unit",
     "source_url": "https://www.eiu.com",
     "published": "Wed, 11 Nov 2026 17:18:36 GMT"
+   },
+   {
+    "title": "What do the US midterm election results mean for HE?",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VSlptSW1WSDJvSldnU2taM2x6REd6NWJMREpTS0ZmNTVVTmRiQjNoYVplNVdGUnVIQU1uaFNNdVhiQUVxUk5vNVRxNlBTZWFUQ2k0TXphN2RoN3RaUE5EcDhlcXVXYlYtSkw4LXJnb1Z1QnZnVGhF?oc=5",
+    "source": "University World News",
+    "source_url": "https://www.universityworldnews.com",
+    "published": "Sun, 08 Nov 2026 08:44:17 GMT"
    }
   ],
   "China": [
@@ -147,13 +147,6 @@
     "published": "Wed, 11 Nov 2026 08:00:00 GMT"
    },
    {
-    "title": "特朗普质疑美中期选举结果 民主党回应：迟早的事",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UNDI5Qnd3S00tdi1jWVNReWZhT3lyVWdweWhnSnNwUEkxaGFYWGd6MFROdU96eXdER2NoRXFEaWZiMjVFVG9aQWl0dVdNWTJwd3QydlI0bVRSSDkyQk05YzBhT0Q0Wmd1blpPUm5oc0wxQ2N0R0E4LTZVbHU?oc=5",
-    "source": "中国日报网",
-    "source_url": "https://cn.chinadaily.com.cn",
-    "published": "Tue, 10 Nov 2026 05:16:48 GMT"
-   },
-   {
     "title": "美国中期选举掀“蓝色浪潮” 将怎样影响世界",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YRGpKRmRiaTk1ZlNJOUNFUGpoQWRvN0hWVDgyWVhpZG5jTFFpM2oxdmF0U0hDVE1nRjhjejV2MHplMExJbDJXWUtCbFBzYVpIeTdLUkhkcFZwR1BSTUhkQWlZNA?oc=5",
     "source": "BBC",
@@ -173,6 +166,13 @@
     "source": "中国新闻网",
     "source_url": "https://www.chinanews.com.cn",
     "published": "Thu, 12 Nov 2026 08:38:25 GMT"
+   },
+   {
+    "title": "每日消息（共同社） - 日本各界关注美国中期选举结果对经济的影响",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wTVloUzA2eUNibG9MOEViQWNCdEVCajZoZGkwalpleEFwSGFhc1UzYkFqV3lFVVdObmRhNnN6clROM19QWU4wSk5jWEhvdGdhRThIV2VVVkxmQWFQaF9iXzN6bEZ3LV81VDFmbg?oc=5",
+    "source": "客观日本",
+    "source_url": "https://www.keguanjp.com",
+    "published": "Sun, 08 Nov 2026 23:22:52 GMT"
    }
   ],
   "Indonesia": [
@@ -451,18 +451,18 @@
     "published": "Wed, 11 Nov 2026 11:00:00 GMT"
    },
    {
-    "title": "‘Trump has cost us’: After midterm losses, MAGA asks if it’s over",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTdYU2RDRkZwOVM0SXV4d2VCdExubk1wWngyTG5LOFNRVC1MWUU5NnVkS1FseU0zTlhwRXBRdW1OR2haNHNZcFM5cmVzNWI4cEhadmpDVzdVM2h4YmtuTU1TWFdtRTNMbjdnWGRQaGh2QTZrcnd6U0phWENkTVVNbFJUSWhEZXV2WVU4RWMtV0Vwc2dzQy05Ylp1cjFTZkhoZFVtY3pSTms?oc=5",
-    "source": "Reuters",
-    "source_url": "https://www.reuters.com",
-    "published": "Sun, 08 Nov 2026 11:06:00 GMT"
-   },
-   {
     "title": "‘A complete repudiation’: public health won big in US midterm elections",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjFiTTgtTXgzdVNNcUNpM2xRWUs2by1Dckx5Zk9pWjZFczRBZHBLWjJfelVtRGY4Sjc3UFRnT09UYkc4SzBkNWZwTWJDUVJZaDBVUklYYTdLdUxwVkFLYUtSTmpnUnYtcWhhLWFzRW04THN4QlhKTV82Y3BLS2NFaGNzdHRFZFl2QjBZdEo4VVg?oc=5",
     "source": "The Guardian",
     "source_url": "https://www.theguardian.com",
     "published": "Mon, 09 Nov 2026 14:11:00 GMT"
+   },
+   {
+    "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnZ0UGV3RFQ2OWZpeVZQSlk0NkJTMmNfNks2T05zcGV0SjgtUEZXZXJIUDJEaVdjYjVia2YtaXRiS3lOaFh0ajVucVNkWDQ4akVXckU3RWx6NzZyT3pCQnhqYUhmS0pSQURpXzFabVhncXZTTlZFYjNnZVZWUDRROHFPM0NxenlRZVhUYTd2QVQ0c1B3VWsyUTRkcWlhOGtVcXk4OHl6TkVjenPSAbABQVVfeXFMT1UyRWYtbVdYZVF1VTB1LWdHS0dHMno5MlpwaGFnbHVuRy0tZW1CZ0JNSTlFVFZyMk5aQmlmbGF3V2VRWEMxQmNRVlc1aWtLNlZzWVVGWDFUMmVOUk04RFBGRVhLMVo1bm8xRE9vZFZwQ2NrSFBmLTFzaUdhSUlFZVhhOWtGX3VydFdGN3BFTFJOaTlQcWY2MURZaFJoUDNubE9oeGFMSS1ERlNHcG9EVGk?oc=5",
+    "source": "Al Jazeera",
+    "source_url": "https://www.aljazeera.com",
+    "published": "Mon, 09 Nov 2026 19:10:00 GMT"
    }
   ],
   "Russia": [
@@ -539,6 +539,13 @@
     "published": "Mon, 09 Nov 2026 19:10:00 GMT"
    },
    {
+    "title": "What do the US midterm election results mean for HE?",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VSlptSW1WSDJvSldnU2taM2x6REd6NWJMREpTS0ZmNTVVTmRiQjNoYVplNVdGUnVIQU1uaFNNdVhiQUVxUk5vNVRxNlBTZWFUQ2k0TXphN2RoN3RaUE5EcDhlcXVXYlYtSkw4LXJnb1Z1QnZnVGhF?oc=5",
+    "source": "University World News",
+    "source_url": "https://www.universityworldnews.com",
+    "published": "Sun, 08 Nov 2026 08:44:17 GMT"
+   },
+   {
     "title": "What the US Midterm Elections Mean For Climate Progress",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0VhZTE1Mnh2MnZKTDczNGVQOXlEZnQ0aE0zVU9SdlliTmVtemdSNTV2NnNKMlJJUVZmZFRCQlRDcXJqaTNEaXlRQVFtdXVEa3hMaWpRRl9SdjF6MFphbll0c1dPaWpBYmYyd3VIMlZFdGdMdnVXbl96bmkyQ1hyNlRaQThBLWJwTG1DSlAtM3BjbGFPbHJv?oc=5",
     "source": "The Equation - Union of Concerned Scientists",
@@ -572,13 +579,6 @@
     "source": "International Centre for Defence and Security",
     "source_url": "https://icds.ee",
     "published": "Tue, 10 Nov 2026 11:48:19 GMT"
-   },
-   {
-    "title": "Is the US blue wave a turning point for Europe, too?",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXJZNUlsVDVkczF4MTVQZzBqNS1BbjZLTDFyWms2dHp6MXMtRlZqemlXdUVnZ1hSZVdFTnVRazF1X21Tanl2cUhWRmt0bXQ2UUVDcUkwaGNBbWtvbG1uOFNFcXN4WE1pdkxLTzZWenM1OXkwOXBJWHpRamItR1lJZVVWWTZ5YTF6ekIzZENZUi1IRGIwcllpNmlodTU?oc=5",
-    "source": "The Guardian",
-    "source_url": "https://www.theguardian.com",
-    "published": "Wed, 11 Nov 2026 15:42:00 GMT"
    }
   ],
   "Germany": [
@@ -588,13 +588,6 @@
     "source": "Deutschlandfunk",
     "source_url": "https://www.deutschlandfunk.de",
     "published": "Fri, 06 Nov 2026 15:07:00 GMT"
-   },
-   {
-    "title": "\"Historische Ausmaße\": Analyse der US-Zwischenwahlen",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3ZuVTExRVV5ajh2WVloTDd1SV9QTzI5X1F3aTIzOEozNDVVX0VWdl94S3FIYjd3M2V4aENqcHBjZ2NqaDI0T3BtMEJMbmtUaUVsN0xSUVNMcGZSTXhRTjhOS19CLS1wOW5zaFpwM2hkWU44bV9ybThKNklvTVBucnJ5MkJteTh4cGcyeWt6Y0lnTDdva0I4?oc=5",
-    "source": "SWR",
-    "source_url": "https://www.swr.de",
-    "published": "Tue, 10 Nov 2026 16:00:00 GMT"
    },
    {
     "title": "Midterms in den USA: Donald Trump zweifelt Ergebnis der Midterms nun doch an",
@@ -618,13 +611,6 @@
     "published": "Sat, 07 Nov 2026 06:07:00 GMT"
    },
    {
-    "title": "Alle Ergebnisse der Midterms: Wahlergebnisse der Zwischenwahlen in den USA im Überblick",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU1ZLQmVzeTRhUElfTDB2Wms4ajF6ZUJKNk5sdzQ4LWV0QzZjdVhDOWxRNmtnRGxUbFFmNWd6SWxLOTRkNzh3N0VnOGlLVTVaN2t4LWNyQ3ZpS2Y2WU50b1FyU0wyS195RWUwY2NORXllZ0cwR3U5Q2ZzLWpZekNCaU5HeWo1T3BVaEItYjZFSjFSc2paczBuczNwYTY5Vk1ZeVRYd0xiYnN0Yklzd0pYeTVIZlRRWkgwOWJPWUdLNElGUDJQVjBvRVdrNXFKTnpBQVhETHdTbm5zRHVTLURYU05n?oc=5",
-    "source": "T-Online",
-    "source_url": "https://www.t-online.de",
-    "published": "Wed, 11 Nov 2026 14:26:00 GMT"
-   },
-   {
     "title": "Erdbeben bei den US-Midterms: Was nun, Mr. President?",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDeXAzb2NyeC1GZUFZWVNWSU54bUFaTEpUNXpobXpyeFJZcC1nMzdFNXRuTlFjUENQanlLS1hFbGhpZk43emZQdEZIeXA1YndldGNiWEZLcXZTRXRYTGlfY25kOGtaSnZRNnVpU2sxM1REUG5hZmRrRmZNYw?oc=5",
     "source": "ESUT",
@@ -637,6 +623,20 @@
     "source": "ZDFheute",
     "source_url": "https://www.zdfheute.de",
     "published": "Fri, 06 Nov 2026 16:01:00 GMT"
+   },
+   {
+    "title": "Alle Ergebnisse der Midterms: Wahlergebnisse der Zwischenwahlen in den USA im Überblick",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU1ZLQmVzeTRhUElfTDB2Wms4ajF6ZUJKNk5sdzQ4LWV0QzZjdVhDOWxRNmtnRGxUbFFmNWd6SWxLOTRkNzh3N0VnOGlLVTVaN2t4LWNyQ3ZpS2Y2WU50b1FyU0wyS195RWUwY2NORXllZ0cwR3U5Q2ZzLWpZekNCaU5HeWo1T3BVaEItYjZFSjFSc2paczBuczNwYTY5Vk1ZeVRYd0xiYnN0Yklzd0pYeTVIZlRRWkgwOWJPWUdLNElGUDJQVjBvRVdrNXFKTnpBQVhETHdTbm5zRHVTLURYU05n?oc=5",
+    "source": "T-Online",
+    "source_url": "https://www.t-online.de",
+    "published": "Wed, 11 Nov 2026 14:26:00 GMT"
+   },
+   {
+    "title": "Trump-Niederlage bei US-Zwischenwahlen: Europas Börsengewinner und -verlierer",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkRBcU1aOUt1UGNmeE9lNmMxSzBtY21RT0NUZmhXQ2pUMjNWVVBrU2Vta0FCZ1lWc1ZreUlFb0pqdkl0UzJXeEQ1VUhwVGExNEVndnptaGo4czhXTUJDNGFqZjE5MFJVQy0zTjUyeERYSk9lU0gxajBXWmhaeWZ0LUlWMm53aXJCS21PYmZkdTRBU2c2bDVPOHVyeXdsVzZfNUxBejFJODY1T1NhbHpJ?oc=5",
+    "source": "Euronews.com",
+    "source_url": "https://de.euronews.com",
+    "published": "Mon, 09 Nov 2026 06:47:23 GMT"
    }
   ],
   "Japan": [
@@ -734,6 +734,13 @@
     "published": "Mon, 09 Nov 2026 19:10:00 GMT"
    },
    {
+    "title": "View from the markets: Financial market implications of the US midterm elections",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWRaU0ZnZ3VsU3dTS3RpMFU5T24yR0RTcHdMNGVWTmFUbDRpcGlPb0Zqby1RVm00ODlWNkpBT0lDQTg2ZHNQaFRaZmloSDZ2NW9zakh6WmhHckJrZzAxYWRaSjk5WllXOG1VYlN0SUVXdlduYS1ZXzMxcGxOeWdCNzA4RmlreXZSZWlTNXdLWmJIVjMwMVY4elVFTkFGek9VcllWaWFQZ1NnMVdfc21BS0dRdUpSUnpnQXd2NUVoOWU?oc=5",
+    "source": "BNP Paribas Asset Management",
+    "source_url": "https://www.bnpparibas-am.com",
+    "published": "Fri, 06 Nov 2026 15:18:50 GMT"
+   },
+   {
     "title": "US midterm election 2026 results in maps and charts",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGtPUWxwRmtWQkNNSVNGTWxYMFVpNkJyRW04R1E1M0dfOE5fUEFGbXEzQnk0V09heEtiQmYzQkxURjZqZVowcHRLbElQLXpTakt2Nl83elJzOUlYM196WV9HYzJwYWhWcUhzQ2R1VXFtN1kyLU1WdVBSSi1xTVJ6RnBJYTNWWWpmazlTOEF6dkR1Z2dmRlQyQWVvRUpJZGdES2xvc013QkhFZThzTGc?oc=5",
     "source": "The Times",
@@ -746,13 +753,6 @@
     "source": "LinkedIn",
     "source_url": "https://www.linkedin.com",
     "published": "Mon, 09 Nov 2026 19:24:12 GMT"
-   },
-   {
-    "title": "What do the US midterm election results mean for HE?",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VSlptSW1WSDJvSldnU2taM2x6REd6NWJMREpTS0ZmNTVVTmRiQjNoYVplNVdGUnVIQU1uaFNNdVhiQUVxUk5vNVRxNlBTZWFUQ2k0TXphN2RoN3RaUE5EcDhlcXVXYlYtSkw4LXJnb1Z1QnZnVGhF?oc=5",
-    "source": "University World News",
-    "source_url": "https://www.universityworldnews.com",
-    "published": "Sun, 08 Nov 2026 08:44:17 GMT"
    }
   ],
   "France": [
@@ -857,18 +857,18 @@
     "published": "Sun, 08 Nov 2026 19:00:00 GMT"
    },
    {
-    "title": "Dopo le elezioni Usa volano i titoli di birra e whisky. Perché gli investitori scommettono sui Democratici",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdjY5dElCZExvRTRQbk40NE5iRGVQTjY3V0dTX0hYbkMzUXlOUkhCekp4REZuNXQzdElTOGNKcVBDTUFDMllQVTYxa3J0QTQwQ0lldDNGOWdrRzVKVHJDOTcxUEJCZjV2dHd2OFdOOVdwWkJtNzRKN1hYX2tMVzMxaDJITDE5UUtJcXoxck42enNtRXZmYTZMN0J5WnlieElVNTVWTU9nVEZnZw?oc=5",
-    "source": "Gambero Rosso",
-    "source_url": "https://www.gamberorosso.it",
-    "published": "Fri, 06 Nov 2026 13:02:38 GMT"
-   },
-   {
     "title": "Crollano i titoli dei chip dopo il successo dei democratici alle midterm USA",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlNDb0JMUWlheHFxQ3BVc09LX0tzUERSSXd4OGNBcDFsbV9VMjc3UmN5YlFXQnpFN0hDblh6eEFRNXVDcWxyNTQ1cVJoZ0xuT1BhVnV2bHdoWUttekdXZHZfc1A3ZnRxd3JUSlpMQkhZemxHZDU5SGZwcjByT2kyNEFhV3g2QndW?oc=5",
     "source": "Yahoo Finanza",
     "source_url": "https://it.finance.yahoo.com",
     "published": "Mon, 09 Nov 2026 06:35:09 GMT"
+   },
+   {
+    "title": "Dopo le elezioni Usa volano i titoli di birra e whisky. Perché gli investitori scommettono sui Democratici",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdjY5dElCZExvRTRQbk40NE5iRGVQTjY3V0dTX0hYbkMzUXlOUkhCekp4REZuNXQzdElTOGNKcVBDTUFDMllQVTYxa3J0QTQwQ0lldDNGOWdrRzVKVHJDOTcxUEJCZjV2dHd2OFdOOVdwWkJtNzRKN1hYX2tMVzMxaDJITDE5UUtJcXoxck42enNtRXZmYTZMN0J5WnlieElVNTVWTU9nVEZnZw?oc=5",
+    "source": "Gambero Rosso",
+    "source_url": "https://www.gamberorosso.it",
+    "published": "Fri, 06 Nov 2026 13:02:38 GMT"
    }
   ],
   "Canada": [
@@ -915,18 +915,18 @@
     "published": "Wed, 11 Nov 2026 23:36:52 GMT"
    },
    {
-    "title": "The historic firsts of the 2026 midterm elections",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5",
-    "source": "Ash Center",
-    "source_url": "https://ash.harvard.edu",
-    "published": "Thu, 12 Nov 2026 19:16:26 GMT"
-   },
-   {
     "title": "In the News: U.S. midterm elections, Russia hockey boycott and Toronto’s overcrowded cemeteries",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2pzZGZSNHJCNlhWd1lvQ01JZXByRHMyY3ViN2dCVjJlOFYtVmZXOVdDQjZBOEROcHN4blNfRGxWUEFlaUtFRjB3R1BoeFV4R2N0Z1E3QTgtVThCSFZ0N0hsc01QbHVva1hoby1NZ3pVaWQzTmNaN0ZmeE1yZTB3Mmc5Yk5TXzBna0huaXdNUGhnbzZIVkphdVUyUlF3UzlfN09wbzZxVHk0SWlmc216TnppWnFWb01ZUVNzWmpqaXF0SEV4eXFMbw?oc=5",
     "source": "Brock University",
     "source_url": "https://brocku.ca",
     "published": "Fri, 06 Nov 2026 22:14:54 GMT"
+   },
+   {
+    "title": "The historic firsts of the 2026 midterm elections",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5",
+    "source": "Ash Center",
+    "source_url": "https://ash.harvard.edu",
+    "published": "Thu, 12 Nov 2026 19:16:26 GMT"
    }
   ]
  },
@@ -956,6 +956,13 @@
      "published": "Fri, 06 Nov 2026 20:44:32 GMT"
     },
     {
+     "title": "US midterm results in maps and charts",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mYlFQMWJNR3dHZEQ1QVZ5TEo4QnRWOHYwTE9UMGh2X2x4TV8xTk1VbWNJSWZzdkdjclZFdjBNZmE5UFhhQnU4dGh0eXloOVhCeTBkekRwQUUyTzVZNV96Uml0ZXZDbHB1RHExMkphQUtLRnl3cWNMYmwyYVE?oc=5",
+     "source": "Reuters",
+     "source_url": "https://www.reuters.com",
+     "published": "Wed, 11 Nov 2026 14:00:00 GMT"
+    },
+    {
      "title": "Colorado 2026 Midterm Election Results and Analysis",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1RHUUpIN1U1QzJMUTFzOTI1YlRlUXFLRU9naDFWY1Rqb1JVWFZBT3NHRmVxZDBKZlpTUExqcGZrYzFfbWJsblVGYWxicUFTekZMc2tGZnZSTE9mV0RkWXU1WHZ3dUN4QWNsSkVRa05sN0hTcWktaG9Fd3gwR3JwdGtWQzhtOE0y?oc=5",
      "source": "Brownstein Hyatt Farber Schreck",
@@ -982,13 +989,6 @@
      "source": "Council on Foreign Relations",
      "source_url": "https://www.cfr.org",
      "published": "Wed, 11 Nov 2026 00:36:40 GMT"
-    },
-    {
-     "title": "Young, diverse voters showed up for midterms as older, Trump voters stayed home",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWFRDeXNZTHhxNmJXV21kOEY4OWsxS1hPMTRRUE5FVG85c0Y4b3d1UFBxLWM5LWRCZ0FiQTBWMFhaNVdFR1o0c09nOTdCcHN3c0JvWXF6YnpMdDRqTldFRVJ1X1VCeHdnSVVyQzZKc3J0Uk5kTUtFX2hrYThueFpBSzRsV2lWRWVjcW9WNXZONzZ2MlJqVXJJamd1WWVUaUlUNzVxbnZjRUktMVNfYVFMTA?oc=5",
-     "source": "Stateline",
-     "source_url": "https://stateline.org",
-     "published": "Tue, 10 Nov 2026 21:26:18 GMT"
     }
    ]
   },
@@ -1017,13 +1017,6 @@
      "published": "Tue, 10 Nov 2026 19:03:09 GMT"
     },
     {
-     "title": "2026 Midterm Election Results: Senate, House and Governor Races",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
-     "source": "AP News",
-     "source_url": "https://apnews.com",
-     "published": "Tue, 10 Nov 2026 08:00:00 GMT"
-    },
-    {
      "title": "How Americans voted in the midterms, by demographic group and in key states",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEF2eDhMa0g0VEI2RHZwWkNXcXhKYUpUM3ZURWd3dVEyckQtS3lkc0NmVUZNQW1ybjNENlhVTEVHRGZrUld6X2tybWhPTnZuZUpybE5iUlZuak4yNGxZYmU5NnVsVUFrNklTalVQQmJWeXRIV0JNZXFlVHhmRDRUTUpwaHhycTJOUjdtSzZpcnl6Sm04UXp0ZTNyNEhteEpuOHJiNzlQdzh2cWR2?oc=5",
      "source": "The Washington Post",
@@ -1035,7 +1028,7 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlBRUE5XNHJwcGxBZW1xcjZoX3RZcHo1NTRYVnkzQW5xN0RzNzdBcTRaQnc3VGxlRW1HX2txN29UVTNVeHo4emlHdmhwcjJqR1pZZDhMUTBmVlR5UHQyRWlENWxCZk5RM3U4dHE0OTVYb2U3Rm1VSFpRc192bFFva1dzcDc2aVJH?oc=5",
      "source": "The New York Times",
      "source_url": "https://www.nytimes.com",
-     "published": "Thu, 12 Nov 2026 20:00:06 GMT"
+     "published": "Thu, 12 Nov 2026 20:29:06 GMT"
     },
     {
      "title": "Midterm Election Odds for 2026 – Trade on US Elections",
@@ -1050,6 +1043,13 @@
      "source": "Political Science Now",
      "source_url": "https://politicalsciencenow.com",
      "published": "Thu, 12 Nov 2026 19:43:08 GMT"
+    },
+    {
+     "title": "Citizen forecasts and the 2026 us congressional midterm elections: Do americans still expect the iron law to hold?",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdzBZUzVZcUh3M1RPczYwaFNfYy05d1JNTl9fN3VWZGhGSzlVem5iNWRTUWFnSkJLc1FTbk9QcC0wcldvUC0zNjBEN2ZqSV9rNDNhY0IxQm5OaWdhZ3hJYm9HOFpTeUNjaUQtb3RZb2pnTmVNTVRBTEo2VHVpaGtBRlQxMmE3ZDFZTTNJU3l3OENlVXZHVzF5UTRUR25rd1BrM1E1elhXZlhhR2FjbndpdFB6bzJYNmE4NURCdUxYTWFTeWwwV3FORGpuMFhYRlkzS1BLYXRtOWlUM0ZKc0E?oc=5",
+     "source": "Political Science Now",
+     "source_url": "https://politicalsciencenow.com",
+     "published": "Tue, 10 Nov 2026 20:40:35 GMT"
     }
    ]
   },
@@ -1231,6 +1231,13 @@
     "published": "Wed, 11 Nov 2026 14:45:23 GMT"
    },
    {
+    "title": "Obama headlines Democratic rally in Atlanta ahead of midterms",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZeVhHS1ItWWRFY0RLbXgyNDJ5ZktFX2RZU1F2SkZHaVFTV2N3TXlBY0dGeWRnaWR0ejV1NGFFaFRtcHBZdXlaY0pGbXloVzlUa28wYkVPdkxTQzRva0ZacDRB?oc=5",
+    "source": "El Paso Times",
+    "source_url": "https://www.elpasotimes.com",
+    "published": "Sun, 08 Nov 2026 14:02:32 GMT"
+   },
+   {
     "title": "Can Barack Obama be credited for the blue wave? Perhaps – but others fathered this success",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMW9mZEh1NFBpVkV5bnNkdG5Cc1A2VlE3R0pDWUk4bmJDN1MzRmdTNUxrM1lKdkNqWEQ5Z3duZW00djhyb25yX3JyNTBRTlFqeFh3bUluZS04M1d2NHl1TVJLM2tyd1JOZy1TUXFmNUxrWW5jNl9RR1NRUmNhR1RtSFhURGpNZ1N0b093VGo1Q181dG1TaWdocTgwSEFvTEhNT0w0?oc=5",
     "source": "The Guardian",
@@ -1243,13 +1250,6 @@
     "source": "ABC News - Breaking News, Latest News and Videos",
     "source_url": "https://abcnews.com",
     "published": "Mon, 09 Nov 2026 16:37:45 GMT"
-   },
-   {
-    "title": "Obama headlines Democratic rally in Atlanta ahead of midterms",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZeVhHS1ItWWRFY0RLbXgyNDJ5ZktFX2RZU1F2SkZHaVFTV2N3TXlBY0dGeWRnaWR0ejV1NGFFaFRtcHBZdXlaY0pGbXloVzlUa28wYkVPdkxTQzRva0ZacDRB?oc=5",
-    "source": "El Paso Times",
-    "source_url": "https://www.elpasotimes.com",
-    "published": "Sun, 08 Nov 2026 14:02:32 GMT"
    }
   ],
   "JD Vance": [
@@ -1377,18 +1377,18 @@
     "published": "Fri, 06 Nov 2026 20:37:14 GMT"
    },
    {
-    "title": "How much are candidates spending for the 2026 midterm?",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS2s2b0xnZ2tLOVk4Yk90YVNjZGstel96R21NUnJDTThsWm1PdmJPWHN2anBiTEF4Q25MMHdtS2JRamE0czFqV2IxcEx5U21SQU1rQjhaY1g3RDVCbU5NQkFfM1pRek1VaWFVdnRzcVMxMkkwNkpabjdSeFduWGVtQTN6V1liWV8zRVI2MVMzUmR3QlhhRWY1aV9Edzh0VFRUVUE?oc=5",
-    "source": "USAFacts",
-    "source_url": "https://usafacts.org",
-    "published": "Wed, 11 Nov 2026 17:08:21 GMT"
-   },
-   {
     "title": "The Democratic Party gained power across the country in the midterms. Now what?",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDF1ZVlXQkl2T1JYNVlzVlZmU2FObExhTEYtN0gtVndkcHloUnI2MzQ0bXA5TkJ5N3FQYU5OWWJKeW4yYkdacHluZm5Yd3docXBuSFFsc25OeW00VnlTRkhVV3RuMG53b3hBTlhEa2ZlSC1rUV9BM0ptWFgxZUlnR2trTFVEMldkTnJnQzYxajZUUQ?oc=5",
     "source": "NPR",
     "source_url": "https://www.npr.org",
     "published": "Tue, 10 Nov 2026 10:00:00 GMT"
+   },
+   {
+    "title": "How much are candidates spending for the 2026 midterm?",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS2s2b0xnZ2tLOVk4Yk90YVNjZGstel96R21NUnJDTThsWm1PdmJPWHN2anBiTEF4Q25MMHdtS2JRamE0czFqV2IxcEx5U21SQU1rQjhaY1g3RDVCbU5NQkFfM1pRek1VaWFVdnRzcVMxMkkwNkpabjdSeFduWGVtQTN6V1liWV8zRVI2MVMzUmR3QlhhRWY1aV9Edzh0VFRUVUE?oc=5",
+    "source": "USAFacts",
+    "source_url": "https://usafacts.org",
+    "published": "Wed, 11 Nov 2026 17:08:21 GMT"
    },
    {
     "title": "These House and Senate midterm races don't have winners yet",
@@ -1407,18 +1407,18 @@
     "published": "Wed, 11 Nov 2026 00:36:40 GMT"
    },
    {
-    "title": "Scott Colom wins Senate election in Mississippi",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnBiMWhIRkR1akFMRUFCaFYyRDdpR0RhLU54SmNISW96QmxVZ21DdlhHSE5hNUFDUDY0ckhuUWYyd3VlalFKZ1k3a0M0U2JEUVRWM0JyU2dXUzZxb0FTNXUxU0xlMlhlYkg2SjVnNEhKN0praTdfUm1QN1UwTlF1ZTAzdE04dTBEdEQ1WWpB0gGTAUFVX3lxTFBHdFlUVmU4ZXVEZC12eEk5VkZ5cDlJaGRaZC1TZmFBb1hhZHJ5eUNVa0s5SnM2MlF4OFpfNGpNMDVYZ3ZYRndES1l2NzcxQVJRMHdMOEZZTXhZZ1JFYWQzT0VmZTVwd3dOSExTMVBORU9VRkQtaU1nYndRajlDTkF4N2x0MmF1aVEyQklLNHZFWnJRYw?oc=5",
-    "source": "PBS",
-    "source_url": "https://www.pbs.org",
-    "published": "Wed, 11 Nov 2026 23:01:15 GMT"
-   },
-   {
     "title": "Democrats Seize Control of Congress as Voters Rebuke Trump",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5",
     "source": "The New York Times",
     "source_url": "https://www.nytimes.com",
     "published": "Tue, 10 Nov 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Scott Colom wins Senate election in Mississippi",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnBiMWhIRkR1akFMRUFCaFYyRDdpR0RhLU54SmNISW96QmxVZ21DdlhHSE5hNUFDUDY0ckhuUWYyd3VlalFKZ1k3a0M0U2JEUVRWM0JyU2dXUzZxb0FTNXUxU0xlMlhlYkg2SjVnNEhKN0praTdfUm1QN1UwTlF1ZTAzdE04dTBEdEQ1WWpB0gGTAUFVX3lxTFBHdFlUVmU4ZXVEZC12eEk5VkZ5cDlJaGRaZC1TZmFBb1hhZHJ5eUNVa0s5SnM2MlF4OFpfNGpNMDVYZ3ZYRndES1l2NzcxQVJRMHdMOEZZTXhZZ1JFYWQzT0VmZTVwd3dOSExTMVBORU9VRkQtaU1nYndRajlDTkF4N2x0MmF1aVEyQklLNHZFWnJRYw?oc=5",
+    "source": "PBS",
+    "source_url": "https://www.pbs.org",
+    "published": "Wed, 11 Nov 2026 23:01:15 GMT"
    },
    {
     "title": "Republicans tap Moreno and Jack to lead Senate and House campaign arms",
@@ -1497,6 +1497,13 @@
   ],
   "Roger Marshall": [
    {
+    "title": "November 3, 2026 Election Results: Adam Hamilton defeats U.S. Sen. Roger Marshall",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3VPVzZsd3dOU2FYZjZJeU9XMzZGNGdqTnhNYm45REEyWFdOVDRyUUFNWE0zX0lKazJNYnlsNUNpTTN2YmNIdDNSa3V2T2I0TU9ESGIyazQ1LU9xazdIX0VnTnRkRVdHb2lHelV5d1JETkxmckpidElXekJBa2NaS2pUdG5DQkwtYWdnanFXd1hlc3oxVzE4Ylpn?oc=5",
+    "source": "KMBC",
+    "source_url": "https://www.kmbc.com",
+    "published": "Wed, 11 Nov 2026 17:47:00 GMT"
+   },
+   {
     "title": "Kansas U.S. Senate Election Live Results 2026",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XVkVGNG9SU0VuMVdUcTVEbjdicUdlUWhFTGdxX0RyZFRKR3RiY1N3OGR0UDZEbHBSRWIwTWhEOE5qNXJlNVhHUmZPZ0F3eGRDZG5zclVxREpCMC1tX2hGQ2dRVHdjX0xtRGpkZmVaNTZsc2RjcjZB?oc=5",
     "source": "AP News",
@@ -1523,13 +1530,6 @@
     "source": "The Hill",
     "source_url": "https://thehill.com",
     "published": "Sun, 08 Nov 2026 16:48:00 GMT"
-   },
-   {
-    "title": "Pastor Adam Hamilton ousts GOP Sen. Roger Marshall, Democrats' 1st Senate win in Kansas in 94 years",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONUlmUEp3TW91YVduU3YyZGxlVmRTeUFySHhYR0NhaC1FT1BGN09qVGc0clYzQzdjNEZVUXhjWUFaVW0xd01zOG45aUxXZXFWVWhsM0h3RklDX3FxQ0dvWHQ0dVFoMVpVWUpXOUpodUZwTE1HVFVVQWtmZnhROUx0Y1dHV2JLVF9qaDZoNG54YUlzM0tPazZubVp6NlYtb0xuemVlZEE5ZHRiMHhNTXFzWjBRdW1UTldqamNmYVZSenlhTWtKeVczSVJzRWF3dlZhUFAzbzRaYWNpNHBLOENGbW5rQ19sNHc5M3dYeXdDUmZPSmMxY2ZZRkZ4MlAxUHNySG1JcTd0UTV3WjNoelE?oc=5",
-    "source": "Bluefield Daily Telegraph",
-    "source_url": "https://www.bdtonline.com",
-    "published": "Sun, 08 Nov 2026 05:35:51 GMT"
    }
   ],
   "Josh Turek": [
@@ -1733,11 +1733,11 @@
     "published": "Tue, 10 Nov 2026 15:18:00 GMT"
    },
    {
-    "title": "Peltola and JKT strengthen leads in latest Alaska election results",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3kxcGpzSFhELVk2NzZRVG9xcnZZczE0YloxTmhNSzRRY2NISnJQbVNjdVM0VGNyMXI5SkYwcTZwb1BPZnhHLWtMWF9nbFhZLW1BdFEzdWg0MGdGVVA3UXl0NWxQOHByTXlFZnA3RWhqMU5Yak10X2pGdHRhZEtyQ3VxVGl6M0VoYkd1RWVsck1jdFVWOUkza19NSVR5QWpsb0VuQm9qWnJEbTYyUUlLbkFjR3d1aGtiX1JiTkFRTzhnOU5C?oc=5",
+    "title": "Alaska’s U.S. Senate, governor’s races tighten with new ballot count",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXpyblpyZ0ZPendfLWRVTjlGMmNDeVpOcWZBT29aQUU2RWV3TVZtRzAxbzFtUGEtTEs4ZUNTaEtOUDNjYk5XWkZJd1RaYTZYQThhdFpYcUIxT0dTN0VrbFNSNExpUWZCdl9mNGhWMFpfMFJIR016bVBTdGZZVTQ2WXYxWk5lZFpLMWtNdi1VY29yeTRfR2tDX2hiNUdfRDg4RHJBLTZnTktodnNRS3RFWDRhMXlWTUNOVUhELXRleFg2dw?oc=5",
     "source": "Alaska Public Media",
     "source_url": "https://alaskapublic.org",
-    "published": "Wed, 11 Nov 2026 04:25:00 GMT"
+    "published": "Thu, 12 Nov 2026 04:28:00 GMT"
    },
    {
     "title": "Trump Claims Uncalled Alaska Senate Race Is ‘Rigged’ as Mary Peltola Leads Dan Sullivan",
@@ -1747,11 +1747,11 @@
     "published": "Tue, 10 Nov 2026 14:07:38 GMT"
    },
    {
-    "title": "Peltola leads both Sullivans combined as she appears headed to victory in Alaska contest",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkxqOGZQUkdqSzlaeXFKM3I0bjlsZ256UDJQMmlYQ2tvbnB4U0JJQVFrZFA3dlROa3VVVDVfY1N5a0VkSDZfNmRzMFBfSWtEQTlhV1NLVWdYQldpbUJ0d25KQklEVWwxdmE5cnJsR1pQQ3ppYkQzUi1SbVhfSFlEcXdmQmhhbDRBS2YyTHZyeFkyYm1CUlRhellIZHo2YlQ5bUhPS19YQkpGUXpfWDVVX2dpMFVmODdqR0llR1lvRmQ5QQ?oc=5",
-    "source": "Democracy Docket",
-    "source_url": "https://www.democracydocket.com",
-    "published": "Wed, 11 Nov 2026 20:39:00 GMT"
+    "title": "Trump told DOJ to sue to block Alaska Senate results if Republican narrowly loses",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekhpNnRhMmk3WnMteVlLeVRYT2ZMUGRnRkJmSlJxUU9TUm1GN1ZEYWp5SFRqS20tSWVtQWpUMF9VaWd3U1FFRUd1TDRBMk9UTXhpMkhHTlE4NnQzZDEyRjUxQ3lkYlVkZHAxTS05MjJkbDA2VXFNQVBhcGdmUVJ3LTRHTjBScTBucno5Y0NhazNCeWdiLWpJMUlTRjF2Uk5zRzE2SNIBqgFBVV95cUxQUEZqTzdWbGhCLTVzd1J1VlI1cUxOOWFyLXZIbDI0TnA1YXlWQXgyMTFtaXRMdE9jbTIzTXdkUmpXMzJkejdKeHlXc2lHYWVJd2t3WFVVTmNwS05BT2wzTjhkeW0tZ3FpU0Z5aUxmOFFCMWNydkk1S3hPT09xT2w1WWdjdG5ybXRhWl9FZV84TG5kOWM0YkZwNVVYWU9keUFfZWF1ZVIwRUs3UQ?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "source_url": "https://abcnews.com",
+    "published": "Thu, 12 Nov 2026 07:59:20 GMT"
    }
   ],
   "James Talarico": [
@@ -2133,13 +2133,6 @@
     "published": "Thu, 12 Nov 2026 10:00:00 GMT"
    },
    {
-    "title": "‘I didn’t expect to be a main character’: Abdul El-Sayed heads to the Senate with a mandate – and a spotlight",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTl5WTBBQ1lQVUpmaUg1WlZ2ekdQd0ZVSHVuWTh3R0locVZRNktYX1BIdmRxVkFlekVzVFZtNi1xRG5xd25EUnRPbDBmRmhxdU1pbUVaNTV2SEhHVV9XcmM0dUFKVmY3UDBtMG9XNGpxa0g4eXMyUjdLelZ3SmN4OGFaUWFtenA0dmJGbTc0ak9aS2NGM05HZlZnTW8?oc=5",
-    "source": "The Guardian",
-    "source_url": "https://www.theguardian.com",
-    "published": "Fri, 06 Nov 2026 12:46:00 GMT"
-   },
-   {
     "title": "Commentary: Abdul El-Sayed’s Michigan miracle",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5MmZhdmpoZVNMRjFELTlLR0RhdkYzTkdFX2NNUGVKRnAtaW1SMkhjRHZ0dkFWTHREcVNZLXN1ZjdwYUdRaHlsWjVqX1h6VVRmMnJhbnMydXhsdjNaaEprWFF6ZWhFOHlVWTVGY0U0TlRTSXFvUnRMeF82Z20?oc=5",
     "source": "Michigan Advance",
@@ -2159,6 +2152,13 @@
     "source": "The Arab Weekly",
     "source_url": "https://thearabweekly.com",
     "published": "Sun, 08 Nov 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Abdul El-Sayed says Democrats will work with Trump if 'he wants to act serious'",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUjJrUUVQT1F0TGtDcFBaM3lrMkNaM3oyZ1E5emo5U3NlYVZkTEhZclhqZFFyYW5xc2tUalQ0UG8wMzMxdTVQaU1zeGo4UE9qcFgwdGNSdk1ER3didFNURHRjclMwcVY1aTI0Q1RxLUNpSkRHTklPakl6UzNWRDAtNlVmS3o4eXhSZFRpRWRDaGHSAZYBQVVfeXFMUHBDLXhGTTliX3NZU2ZTOEY5dmI3RDNSXzNTUlNaWmhnUFJyQjVYM1RRbGdGR2wzck5NWXc0RFFxUDFlWlJ3T2dfaV9TNXBJNUgwWW9ZN3BGR3lQZENJS2lnbTE2RTdseTR2b1NtTUZxc3pHdkFHdGpsMW9oSEhNRWlLRW5wOHdHZWdac1FxQUhFNEtUWXZn?oc=5",
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "source_url": "https://abcnews.com",
+    "published": "Mon, 09 Nov 2026 06:29:58 GMT"
    }
   ],
   "Mike Rogers": [
@@ -2167,7 +2167,7 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlJYd3c1XzlwSnBGZVIyRDlycXViYzVYUkgtN2IwWjFkNDdHT2I3M09Kb3dZaTZtbGd6VEN1TmpiT3cyZVFIa0w0cEZWWGZPTTNFRV8wcEpyNG95ak1jVTJtQlpwTURCS0dxRzZ3ajJMUGxEMmVRaENoMWRCamQtWDVRbWlVYUdhT3BlVzVSWWwtSnZ4YXZNU2p6ZHhOOV9yVGEyLS16c9IBrAFBVV95cUxPcWtuRkpZT2FsMEtxa3hLcE5jSlg1WFp4Tkx1NjRHVFVDZlprTGRoMVpkbkhjLVVzSV83Q3p6b3pkXzdreklHTVcxZGRUSUZmNXZ5MHRqR0dZdUJvcl9XY0JPVlBvUVNRck96Q2FQWXU1Z01waW5ZbFpwVmk4a09LWHFQWmY1bXBlSW1xQTRNVk1XZnhGUDZJOExyWWJyZUlFRmQtcDBoVmZ5Z25w?oc=5",
     "source": "ABC News - Breaking News, Latest News and Videos",
     "source_url": "https://abcnews.com",
-    "published": "Fri, 13 Nov 2026 11:06:06 GMT"
+    "published": "Fri, 13 Nov 2026 05:36:21 GMT"
    },
    {
     "title": "Senator-elect El-Sayed says Rogers hasn't called to concede Senate race",
@@ -2415,6 +2415,13 @@
     "published": "Wed, 11 Nov 2026 08:00:00 GMT"
    },
    {
+    "title": "Roy Cooper Defeats Trump-Backed Michael Whatley, ending North Carolina’s Democratic Senate Drought",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0s5OTJZcE11Z0dLc2t0VVFQSER5VUVhclpyUU5BQy1vM0VaOUFVT3ZXMmJaZTNKbUJXRlo3a3JaSHIxNWlXTmJydjBaMG0zdk5DU1RHZHp5V0kzVFJ4bjhhMzJ1amh3dzgwYklWSTF5VlFlQzFOM1NDWGZacDdJR2JhcDlqN2ZUa0VSckVoU3FxX0hoQ1dsdnNEMThTcUJVcmY4bFotdUlTTkFjY1ZQeGRyVnVYcXUxX0E?oc=5",
+    "source": "NC Voices",
+    "source_url": "https://ncvoices.com",
+    "published": "Mon, 09 Nov 2026 18:17:48 GMT"
+   },
+   {
     "title": "Voter guide: North Carolina’s senate candidates on key issues",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanJ0S0RnSFlKbXFiYi1ncFhnemZnUUFOVlFmaW5rcElOM2loQmktQmdEQVU5YkRCTGhrNl9BX0MtYk5UVjlhekZaYUhpMzQ1QktyLWYtdTZ3R1pQRkFvNFVEcE1zZlFteFdWcW5KZ21hRXQ5NkZzUnh4UGlNUWgzaW9fUE9nWEllN3pRTC1yNXdDSzhfWGdDS0J0QndtdEo1OC1HRFBpa2h1MWFTd1hNbUpOZENxMnV5NE1MOWR5bWZlTFFFVmFvUnJGOG0?oc=5",
     "source": "The Daily Tar Heel",
@@ -2427,13 +2434,6 @@
     "source": "Charlotte Observer",
     "source_url": "https://www.charlotteobserver.com",
     "published": "Mon, 09 Nov 2026 19:10:58 GMT"
-   },
-   {
-    "title": "Roy Cooper Defeats Trump-Backed Michael Whatley, ending North Carolina’s Democratic Senate Drought",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0s5OTJZcE11Z0dLc2t0VVFQSER5VUVhclpyUU5BQy1vM0VaOUFVT3ZXMmJaZTNKbUJXRlo3a3JaSHIxNWlXTmJydjBaMG0zdk5DU1RHZHp5V0kzVFJ4bjhhMzJ1amh3dzgwYklWSTF5VlFlQzFOM1NDWGZacDdJR2JhcDlqN2ZUa0VSckVoU3FxX0hoQ1dsdnNEMThTcUJVcmY4bFotdUlTTkFjY1ZQeGRyVnVYcXUxX0E?oc=5",
-    "source": "NC Voices",
-    "source_url": "https://ncvoices.com",
-    "published": "Mon, 09 Nov 2026 18:17:48 GMT"
    },
    {
     "title": "ECU poll shows Cooper maintaining 7-point lead in North Carolina Senate race",
@@ -2637,13 +2637,6 @@
     "published": "Tue, 10 Nov 2026 08:00:00 GMT"
    },
    {
-    "title": "AJC’s Election Data Analysis: “Ossoff didn’t just clear that bar. He obliterated it.”",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWllIZzdqQkk3SFNyb0pJa0g5aWcwZGpzY0YzQ2QyVXBEWjRoekc4Njh2V1A4ZHdZUXZJeDlhZ1BULThWM1FTNmJ6YnRFb0xaNVdsaXlNXzVqMUoyUmZHZDhMN0ppcEhHQ21wQ082TWFTcmtoNVVXdTNlNnpsci04cWZwRkFYb2VvUmNJN3NNbklmVGJFR29qcDA3dTR2YUxWdFE?oc=5",
-    "source": "Jon Ossoff – Official Campaign Website",
-    "source_url": "https://electjon.com",
-    "published": "Fri, 06 Nov 2026 21:30:53 GMT"
-   },
-   {
     "title": "4 dozen Black Georgia lawmakers press Collins on alleged ‘white nationalist’ ties",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZSbkFRQ0NfaHNHV0EyX1FfM3JWVnltZUJycncxdURPYU02UlpsQzNBcTA2V050ZkZUZkxMdmRreUJGR3pkRVEydFVTeGpVN0FQY2cxS2g0N2lGb1FsOG1DRHR3Rm1UWm0wRUdJYWN4Q200TWJodXJfWUNoYm5BclNBb0JSbXc2eWFkcjFOTFg4cGVPQUtaaUdwdG9XWmZ3WEZQYXhpdGw0VGFfNkxKbndQd1FsQWxBVnc?oc=5",
     "source": "News From The States",
@@ -2663,6 +2656,13 @@
     "source": "USA Today",
     "source_url": "https://www.usatoday.com",
     "published": "Tue, 10 Nov 2026 09:04:00 GMT"
+   },
+   {
+    "title": "Trump to go to Georgia to rally for GOP Senate candidate Mike Collins",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMHAtdU5xV2VLRG1WbzM2bnVxNl9fdzdYbXZGUW4xYms2dWFVMWN0RGZweEdzV0h6ZlhEYVZKQU1oUm9XN2xKNlJCTzVJV2c4NzQ0Y28tOUt3YXhMZ2g5a0tYRTN3eGNzRDdTbUxoekNrNEZfdmVHYWdFRlhITTVUZGp5eThnWkxwVlRNcmVqZ210VktMNC1EQUZ2LUNIMlhwQUlEeHVhczI1eS1yQUxQd3JmT0Z3cnMyYTJTTC1EUWFJUFZ0N2U1YVB6T0ptLWcyQjVyS2hQSC12ejVqLVJtLXpiS3dpNGRKY2hIVThBZnptNjFGX3QwdlF2VnZYZw?oc=5",
+    "source": "NBC Montana",
+    "source_url": "https://nbcmontana.com",
+    "published": "Mon, 09 Nov 2026 19:33:01 GMT"
    }
   ],
   "Scott Colom": [
@@ -2685,7 +2685,7 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRTNHZFFRdHFUWjJ5Yk4xZGNtemYyR3B3UENkcHE3NG5TOUo3ai0ydnFGQ2k5YU1IbkNLdG4tNHR4dTZES01xQVlrMHN2YUdVUVJoQzNEcFdzN3N2Q1d0Z0lwZE1sM2I0dGFZY250Zk91QUtjczEtS1dsQTh0YjJ5MmpxZkltaGU0R2J3MXpqSzMxdw?oc=5",
     "source": "The New York Times",
     "source_url": "https://www.nytimes.com",
-    "published": "Wed, 11 Nov 2026 23:00:40 GMT"
+    "published": "Thu, 12 Nov 2026 09:11:00 GMT"
    },
    {
     "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
@@ -2991,11 +2991,11 @@
     "published": "Mon, 09 Nov 2026 18:00:00 GMT"
    },
    {
-    "title": "GOP’s hold on Florida could chart the future of data centers",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmRDdll3a3NBU0I5a21fVDBUdlVVSFlXMVJ2REQ0QU1mLVFyeC1qU29QRlFKSXZiVUNjdHZrcEw0UXBhYzlVZ3dFMnhNSnRmVmdES09MbkxnWTdrSFZHVTgxb25ZbkF6U1pDSDVnNDJGSW1hdUVhX0twSG41Nm1xRDEtZ0duLWU4YWktdDF3?oc=5",
+    "title": "Florida Playbook",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tMnFmOC1SV1RGYUZzTGNyRWZDRzV2WXA0WFRNT2pjVUdkLXE2UkJ3WEpqMFVWclJjSmhLdllBLUU2U1M3c29qWTctT21aZlc3YU13Q214OF95cmdMdEVJTnVn?oc=5",
     "source": "Politico",
     "source_url": "https://www.politico.com",
-    "published": "Tue, 10 Nov 2026 10:00:00 GMT"
+    "published": "Thu, 12 Nov 2026 13:45:56 GMT"
    }
   ],
   "Byron Donalds": [
@@ -3617,7 +3617,7 @@
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ITVp0Nk9Yck5FSVFtY2NGWU55QUZMdHl2VUFVRkVZTC1oeERjTnVZb0xGVS03Q29xbnExZXVvdFpXMjBmWF9CeGtNN1JHTlJIRm1DWVhZY0UyRkxubmYwamE2U3ZmQ0QwcVVrNTlDenlwT1lFTzcwNg?oc=5",
     "source": "AP News",
     "source_url": "https://apnews.com",
-    "published": "Fri, 13 Nov 2026 03:04:42 GMT"
+    "published": "Fri, 13 Nov 2026 10:53:43 GMT"
    },
    {
     "title": "New York’s Hochul launches nation’s first state AI testing program",
