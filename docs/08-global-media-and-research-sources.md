@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-13T02:14:58Z**.
+> Latest headlines refreshed: **2026-11-13T02:29:57Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -299,9 +299,9 @@ _Note: Nikkei Asia frames midterms around tariffs, China policy and markets._
 **Latest headlines (auto-updated):**
 - [【米中間選挙2026】 民主党コローム氏が歴史的勝利、ミシシッピ州の連邦上院選](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQmQ1eDdsU3JZZVZmR21EcnhROHA3VkUxdzZTTWF1aFFGRTF6MktsQVVXRmxQWTFCTVY2akszcGt2TVlWWER4dkZuMU1PeG5IYWE4LW0wYndwbHhDVkhqQdIBZkFVX3lxTE14bGRMalpxUzdqU1ozaTE1U3cxQzZxVmYtWmRJTjZ4RnFwMlJLeTR2VkJoQjd4bEc0V1BlTi05cHFud05fT1J2SjNDcWluMmtSaWhaN2xmeTBYZXZ3UjJPZXBvM202Zw?oc=5) (BBC)
 - [【米中間選挙 特別企画】米中間選挙でビットコインはどう動く？暗号資産市場の注目ポイント](https://news.google.com/rss/articles/CBMiXkFVX3lxTE81MHFNaGV5ZFcwNXcza3B4RVlfMFFxcFJkNWIyWUVoMU05YUpiVy1SSTVuazRjci1oRnozNHdZdjQ5bzJROGxqXzU1MFVQaXRrR1ViZ1h1YW1sSlhZMEE?oc=5) (SBI VCトレード)
-- [米中間選挙の結果を受けた商品市場への影響の考察](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOERhWUpqOXhrdXdjZFBKeV9FcHdINVVzb3lwUzV6eTZOenNNbmpRc1dvaHdDeU9LRXFHUWxOY2diSHBZejNqeVgyaWhuS3YyTU1VZ3Z4VmdXci1mcVJwY0FTY3hrV044Yk00MHpVSHpyZlBzUnhoVnZZUmhhZG93cGdWWFRpZHRIV0N6YzFVbVpGQVczZlBlWU1sMjlTd3pRdzVVRkc2ZVc2eHFfZU55SmV3NUl5aFRuTHBsQjc1UXAwT3FUM082TmdiVTNqa0hyNDU1bV9LLVgtOVd6MkNLanFJaHZtTG1ELTltNmhnQU10UQ?oc=5) (SBI証券)
 - [米国中間選挙後の相場急落、なぜ起きた？ 今後の4つのポイント 野村證券・池田雄之輔](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsN0FFc1pfNUphdkgxVUJkRUdrbEY3NVRIZzNZMWcxQVYtZ0txbmR5dWU1RV9BLWVURU8xTTV6U1J1a0tOa2xXb0R2MG1mV21WTnBBMmpBSXRjRHB3YU5Z?oc=5) (野村證券)
-- [「絶滅級の打撃」 中間選挙大敗で共和党に激震、影響は長期化か](https://news.google.com/rss/articles/CBMiaEFVX3lxTE81bVhNSzZHNWc0T0dscHBQVmM0c3hkOV80d1Byekxyb0tiQjRvQnN1ZmswU0tKb1hvN1hpdzhjdDhkb29GY1lTWnNNNDRIWkpGRVU5MWZvdURWS0xScUlhYlc5T0MwNVBN?oc=5) (毎日新聞)
+- [米中間選挙の結果を受けた商品市場への影響の考察](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOERhWUpqOXhrdXdjZFBKeV9FcHdINVVzb3lwUzV6eTZOenNNbmpRc1dvaHdDeU9LRXFHUWxOY2diSHBZejNqeVgyaWhuS3YyTU1VZ3Z4VmdXci1mcVJwY0FTY3hrV044Yk00MHpVSHpyZlBzUnhoVnZZUmhhZG93cGdWWFRpZHRIV0N6YzFVbVpGQVczZlBlWU1sMjlTd3pRdzVVRkc2ZVc2eHFfZU55SmV3NUl5aFRuTHBsQjc1UXAwT3FUM082TmdiVTNqa0hyNDU1bV9LLVgtOVd6MkNLanFJaHZtTG1ELTltNmhnQU10UQ?oc=5) (SBI証券)
+- [ミシシッピで民主44年ぶり勝利確実 黒人上院議員は約150年ぶり [アメリカ中間選挙]](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFSVZmelkzd29jUTQ2dnVycGxxMHR1Q3pLNjlTb19qTXNkREdoMV8xR1hVdDl3eHF5dkdickFtR1FneXpjcmJGQjE0YjZGOFp4SF83VWFDSzR4Y2gzSXM3MjZ0U1VmM2c?oc=5) (朝日新聞)
 
 
 ## United Kingdom
@@ -394,12 +394,12 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 
 ### Research, studies and surveys
 
+- [Surprising Turnout Rates in 2026 Midterms](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2tMNDNZaGJIZkU0QVQ2Q0N2djNjSVpWUGRRSDdKWHYyak1WbFJGMG1pSjRfaG9oNWZjUTRkbHlYYzF6ZHFuZ2VNeUljeURZZkY4NERLOUp0dGhncWpuenVnb19SZUdyNm5FSkEwOGxVYzg1T2V6cXBDTFJqVlRaTk9TQUhlYjJGbGVhMHdIZnlOb3Y3Qnc0elhB?oc=5) (Brennan Center for Justice)
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [What are the key takeaways from the 2026 midterm elections?](https://news.google.com/rss/articles/CBMihAFBVV95cUxObk5CeEdadVN3VmhFTjYtR1h3WVdxVFBQMGFnUzRJWTNwRG50ZnpYSDFibTZ2SVpYT00xT2JRQWhBWDRhSEc2TXJ5Y0JFcjVwTDM3d1FCNGgzZzZWQk1GNDd5bmJnQUpVQ1FGQy1kVGtPTVU3cF95dHR1cF9HanJ0TUd6a2k?oc=5) (Campaign Legal Center)
-- [Surprising Turnout Rates in 2026 Midterms](https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2tMNDNZaGJIZkU0QVQ2Q0N2djNjSVpWUGRRSDdKWHYyak1WbFJGMG1pSjRfaG9oNWZjUTRkbHlYYzF6ZHFuZ2VNeUljeURZZkY4NERLOUp0dGhncWpuenVnb19SZUdyNm5FSkEwOGxVYzg1T2V6cXBDTFJqVlRaTk9TQUhlYjJGbGVhMHdIZnlOb3Y3Qnc0elhB?oc=5) (Brennan Center for Justice)
+- [AI, Inflation, and War: The Issues Driving the 2026 Midterms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHMycmROcjRHR3RaQnl6RExCZ2xEZTlnVTJkYmZPbWZQWkc3SzdubVdqZlcyNGQxOVp4eWFzWFctTHhNTkNkdUR0SUo0Y2xEWnJJYm1Ib2pUMVdKSFV2dFA1LUNrSHNVV2ItR1hEb3ZhbDhETlVzX3RpNjVQM2cwcVRhSmxLeFMtaV9QQjh6MTJUTEtl?oc=5) (Wesleyan University)
 - [Colorado 2026 Midterm Election Results and Analysis](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1RHUUpIN1U1QzJMUTFzOTI1YlRlUXFLRU9naDFWY1Rqb1JVWFZBT3NHRmVxZDBKZlpTUExqcGZrYzFfbWJsblVGYWxicUFTekZMc2tGZnZSTE9mV0RkWXU1WHZ3dUN4QWNsSkVRa05sN0hTcWktaG9Fd3gwR3JwdGtWQzhtOE0y?oc=5) (Brownstein Hyatt Farber Schreck)
 - [2026 Midterm Election Recap](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2QydzhCWktxSGltRm1zZTlSVG5USzRWOXdhaF9HWEVRUnliVTdOOGhiYzYzZ3A3RmFhZzY1Z0RtQkZLMlNYaUNPSXpLZVowa0s1QTVMTzE1YzJWbGM1VExCWE1xRXRQQm9YUndvQUl4OE1pcldjYVUyOFBGRlBQVi1Bemsydw?oc=5) (MUFG Research)
-- [AI, Inflation, and War: The Issues Driving the 2026 Midterms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHMycmROcjRHR3RaQnl6RExCZ2xEZTlnVTJkYmZPbWZQWkc3SzdubVdqZlcyNGQxOVp4eWFzWFctTHhNTkNkdUR0SUo0Y2xEWnJJYm1Ib2pUMVdKSFV2dFA1LUNrSHNVV2ItR1hEb3ZhbDhETlVzX3RpNjVQM2cwcVRhSmxLeFMtaV9QQjh6MTJUTEtl?oc=5) (Wesleyan University)
 
 ### Polls and forecasts
 
