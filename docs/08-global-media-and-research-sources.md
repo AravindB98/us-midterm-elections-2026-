@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-13T22:11:24Z**.
+> Latest headlines refreshed: **2026-11-13T22:16:53Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -97,8 +97,8 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 **Latest headlines (auto-updated):**
 - [美国中期选举——对特朗普最后两年任期及之后的影响| 牛津经济研究院](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXQ0emsxa2NWck1RUTBzelpEenFSU0FsWUI1TEhtUDF5VzJEWk1sZHZvY2xuTzhQenNtOEp1a1dUTEhhRUphS3piaVV4UGZYbnRQeFpFaEpfUmQ0RE5LR3pwandzamhaN0c2OUZCSWtSUEJBNHhlQV9CRGFwd0gtby1nLTRtaG1IbU9oZDJSeDlkMkhFVUtWTHVfX0MtOEF2UWItLU5tSzA0RmhPWkUxQV9hMVhLQQ?oc=5) (Oxford Economics)
 - [中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税](https://news.google.com/rss/articles/CBMiSEFVX3lxTE42RjZHWU1Jd2JsZE1JVThUZHhOZHhabkZhWmM5NXJwdGNIVDEwNzVsRUM0QXdkX1BlTkw2UUZ3WkJ4Ym5YYnJiRw?oc=5) (财联社)
-- [特朗普质疑美中期选举结果 民主党回应：迟早的事](https://news.google.com/rss/articles/CBMifEFVX3lxTE5UNDI5Qnd3S00tdi1jWVNReWZhT3lyVWdweWhnSnNwUEkxaGFYWGd6MFROdU96eXdER2NoRXFEaWZiMjVFVG9aQWl0dVdNWTJwd3QydlI0bVRSSDkyQk05YzBhT0Q0Wmd1blpPUm5oc0wxQ2N0R0E4LTZVbHU?oc=5) (中国日报网)
 - [美国中期选举刚落幕 国会与白宫新一轮交锋已浮现](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHBMWUJPNmItZnhydjA4a0pTWTdFeWVfdFNhNi1PdnpkZHowT3hNb0pjWHVKMFRTSHZWMUlBdG1TN1VLUjExbWotNkMyakpETURxNl81YXhwOXhRVVRJM1hzeGZlbmVBQmo0c3JZVk12TmZhY3JqTFByMHNXVFMzNTJ2QnNoT0hvMzFpSHotRQ?oc=5) (21财经)
+- [特朗普质疑美中期选举结果 民主党回应：迟早的事](https://news.google.com/rss/articles/CBMifEFVX3lxTE5UNDI5Qnd3S00tdi1jWVNReWZhT3lyVWdweWhnSnNwUEkxaGFYWGd6MFROdU96eXdER2NoRXFEaWZiMjVFVG9aQWl0dVdNWTJwd3QydlI0bVRSSDkyQk05YzBhT0Q0Wmd1blpPUm5oc0wxQ2N0R0E4LTZVbHU?oc=5) (中国日报网)
 - [美国有史以来最贵的中期选举](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeVhnVjR5WGlfUi1lZzlfU3QtUTFKal9TR09oSVBjTGFlLV9mWlNWSXdRMGpSQlowLU9idFJxTElYTk42M3hnUVg3Xy01dDJBa1VpSV9KYVhqeTJwcVJRUGpHRUJfNzlH?oc=5) (中国新闻网)
 
 
@@ -275,7 +275,7 @@ _Note: ARD, ZDF and DW are public broadcasters._
 **Latest headlines (auto-updated):**
 - [US-Midterms | die woche](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qakFBazlJdXVDd0p2NW5DWVdISVA5dkxwdC1ob3RaMWZnWVU0T1dxakxVd1Y4UDBGd1dEb19FbjhNTW5ORDhDR3ZjTFZ1Q0g0a1czczBvbUU1dnFaM2xQRHU2NnlRanNoZjFmOENR?oc=5) (Phoenix.de)
 - [US-Midterms: Das Blame Game hat begonnen](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSk5nZk8xUENnUUtrLS0zeFdaUF96YzQ4UjQxSmhaNEJJRktmYmVYN0xadzNXRi1hc1ZHNWIyTEdvZFp5VzZ1UlRZaFo3VDBtV2EtSnhHTzRldVM1aTI5dzJjV3Y3OGJvWFZ1TFNTTUV1TGhubHQxODJYMmkwVl9PTFVrNjNfdFZjeHNF?oc=5) (DIE ZEIT)
-- [Midterms 2026: Hat bei den US-Zwischenwahlen auch Europa gewonnen? - Politik - SZ.de](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYll5dm5SdlBuTlVmZ1BOcFUzZ05ya0VTWnpmemRLcmdnME8tYW9TbnJ0M3JZWE40UmJ6UG1JX3E1aFF5R3M1ZzhBU0JxRk5pUkRoRnNfNmUxR3dZakU1YmhLaXB2WENPMDNIdk9lLXlhbGcyQ25pbGRlY2xWcGxBcmlvNm5hczRKYkg1RERuWjRmZw?oc=5) (SZ.de)
+- [Hat bei den US-Midterms auch Europa gewonnen?](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYll5dm5SdlBuTlVmZ1BOcFUzZ05ya0VTWnpmemRLcmdnME8tYW9TbnJ0M3JZWE40UmJ6UG1JX3E1aFF5R3M1ZzhBU0JxRk5pUkRoRnNfNmUxR3dZakU1YmhLaXB2WENPMDNIdk9lLXlhbGcyQ25pbGRlY2xWcGxBcmlvNm5hczRKYkg1RERuWjRmZw?oc=5) (SZ.de)
 - [28 Minuten - Yannick Haenel / US-Zwischenwahlen: Test für die Demokratie? (04.11.2026) - Komplette Sendung](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZUstLTM0T25Dc21LMlNHSEVLQmxTdGhLbkdfb2oyUkdmMXgwSU5iaV9Oa1NVUWlmbUJVQW0tWUNlQ3VlTzFoZUZ6Vm9FUHNHTVNhLUlITWI1Tmo1b1l3MjVWdVI?oc=5) (Arte.tv)
 - [Erdbeben bei den US-Midterms: Was nun, Mr. President?](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDeXAzb2NyeC1GZUFZWVNWSU54bUFaTEpUNXpobXpyeFJZcC1nMzdFNXRuTlFjUENQanlLS1hFbGhpZk43emZQdEZIeXA1YndldGNiWEZLcXZTRXRYTGlfY25kOGtaSnZRNnVpU2sxM1REUG5hZmRrRmZNYw?oc=5) (ESUT)
 
@@ -399,7 +399,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [2026 Midterm Election Recap](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2QydzhCWktxSGltRm1zZTlSVG5USzRWOXdhaF9HWEVRUnliVTdOOGhiYzYzZ3A3RmFhZzY1Z0RtQkZLMlNYaUNPSXpLZVowa0s1QTVMTzE1YzJWbGM1VExCWE1xRXRQQm9YUndvQUl4OE1pcldjYVUyOFBGRlBQVi1Bemsydw?oc=5) (MUFG Research)
 - [AI, Inflation, and War: The Issues Driving the 2026 Midterms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHMycmROcjRHR3RaQnl6RExCZ2xEZTlnVTJkYmZPbWZQWkc3SzdubVdqZlcyNGQxOVp4eWFzWFctTHhNTkNkdUR0SUo0Y2xEWnJJYm1Ib2pUMVdKSFV2dFA1LUNrSHNVV2ItR1hEb3ZhbDhETlVzX3RpNjVQM2cwcVRhSmxLeFMtaV9QQjh6MTJUTEtl?oc=5) (Wesleyan University)
 - [Colorado 2026 Midterm Election Results and Analysis](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1RHUUpIN1U1QzJMUTFzOTI1YlRlUXFLRU9naDFWY1Rqb1JVWFZBT3NHRmVxZDBKZlpTUExqcGZrYzFfbWJsblVGYWxicUFTekZMc2tGZnZSTE9mV0RkWXU1WHZ3dUN4QWNsSkVRa05sN0hTcWktaG9Fd3gwR3JwdGtWQzhtOE0y?oc=5) (Brownstein Hyatt Farber Schreck)
-- [‘Behind the Blue’: UK experts examine 2026 midterm elections, what comes next for Kentucky](https://news.google.com/rss/articles/CBMisgFBVV95cUxONm1xMUVKc0UtZWRGNE1yN1laUUZRQ2Z0b08xb09FTmlfNGsteVVvLXBhNG1URnFwRnRleHpwc1JyenFnRmhDS2pJQmZfc01uZ0ZXTnFmRlJvc19zU2pRNjdzZS1iaHFLRGwwSWFoakNicTQ2clVxcC05ajEtdmdhM2pwSUtsal9UNE1XTGZVejZHbklLRWliTGNvbW1zc2RRYi1FTmNQZmpkUEp6TmcxYUFB?oc=5) (UKNow)
+- [Midterm election results set up divided government and a lame duck agenda for counties](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDZVMlhVeEdKRll3eTk2TXlLcjV1Q0pCbmpyX183d1RJZmc3RkN6ckI1MjQ2d2ZGVXZBSzU0SVlmWU9BcHBCdkQwSjNuN0RtQWpsR2VoMFV2ekRqQnJxTHFXMGI2R2c4SFRDc3RaTGRUTDVTbFRka0FxM3RMN0JLY1FGWWdXMGhlUkRSekRfRVpsaWJDVUJ4OGp6R0xFQ2tobFlTTE13?oc=5) (National Association of Counties)
 
 ### Polls and forecasts
 
