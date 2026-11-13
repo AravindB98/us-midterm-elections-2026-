@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-13T02:45:53Z",
+  "updated_utc": "2026-11-13T03:00:54Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -154,7 +154,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "house": 98.7,
-      "senate": 74.4,
+      "senate": 77.6,
       "as_of": "2026-11-13"
     },
     "metaculus": {
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 81.6,
     "house_n": 9,
-    "senate_dem": 80.7,
+    "senate_dem": 80.9,
     "senate_n": 8
   },
   "senate_projection": {
@@ -229,8 +229,8 @@
       ]
     },
     "senate": {
-      "value": 80.7,
-      "median": 77.0,
+      "value": 80.9,
+      "median": 77.8,
       "n": 8,
       "min": {
         "value": 64.0,
@@ -241,11 +241,11 @@
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 11.7,
+      "stdev": 11.5,
       "by_type": {
         "forecast_model": 72.7,
         "prediction_market": 91.3,
-        "crowd_forecast": 79.2
+        "crowd_forecast": 80.8
       },
       "sources": [
         "ddhq",
