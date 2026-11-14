@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-14T23:03:38Z**.
+> Latest headlines refreshed: **2026-11-14T23:18:38Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -275,9 +275,9 @@ _Note: ARD, ZDF and DW are public broadcasters._
 **Latest headlines (auto-updated):**
 - [US-Midterms | die woche](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qakFBazlJdXVDd0p2NW5DWVdISVA5dkxwdC1ob3RaMWZnWVU0T1dxakxVd1Y4UDBGd1dEb19FbjhNTW5ORDhDR3ZjTFZ1Q0g0a1czczBvbUU1dnFaM2xQRHU2NnlRanNoZjFmOENR?oc=5) (Phoenix.de)
 - [US-Midterms: Das Blame Game hat begonnen](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSk5nZk8xUENnUUtrLS0zeFdaUF96YzQ4UjQxSmhaNEJJRktmYmVYN0xadzNXRi1hc1ZHNWIyTEdvZFp5VzZ1UlRZaFo3VDBtV2EtSnhHTzRldVM1aTI5dzJjV3Y3OGJvWFZ1TFNTTUV1TGhubHQxODJYMmkwVl9PTFVrNjNfdFZjeHNF?oc=5) (DIE ZEIT)
-- [Alle Ergebnisse der Midterms: Wahlergebnisse der Zwischenwahlen in den USA im Überblick](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU1ZLQmVzeTRhUElfTDB2Wms4ajF6ZUJKNk5sdzQ4LWV0QzZjdVhDOWxRNmtnRGxUbFFmNWd6SWxLOTRkNzh3N0VnOGlLVTVaN2t4LWNyQ3ZpS2Y2WU50b1FyU0wyS195RWUwY2NORXllZ0cwR3U5Q2ZzLWpZekNCaU5HeWo1T3BVaEItYjZFSjFSc2paczBuczNwYTY5Vk1ZeVRYd0xiYnN0Yklzd0pYeTVIZlRRWkgwOWJPWUdLNElGUDJQVjBvRVdrNXFKTnpBQVhETHdTbm5zRHVTLURYU05n?oc=5) (T-Online)
 - [28 Minuten - Yannick Haenel / US-Zwischenwahlen: Test für die Demokratie? (04.11.2026) - Komplette Sendung](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZUstLTM0T25Dc21LMlNHSEVLQmxTdGhLbkdfb2oyUkdmMXgwSU5iaV9Oa1NVUWlmbUJVQW0tWUNlQ3VlTzFoZUZ6Vm9FUHNHTVNhLUlITWI1Tmo1b1l3MjVWdVI?oc=5) (Arte.tv)
-- [Erdbeben bei den US-Midterms: Was nun, Mr. President?](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDeXAzb2NyeC1GZUFZWVNWSU54bUFaTEpUNXpobXpyeFJZcC1nMzdFNXRuTlFjUENQanlLS1hFbGhpZk43emZQdEZIeXA1YndldGNiWEZLcXZTRXRYTGlfY25kOGtaSnZRNnVpU2sxM1REUG5hZmRrRmZNYw?oc=5) (ESUT)
+- [Das Ende des Trumpismus?](https://news.google.com/rss/articles/CBMibEFVX3lxTFAtTDNGRUtCTkVXbDYxcnFVWjhmZzVPd2VlSnVFaDFkVUxlQnQ2cDRUdzlFeEhoSzJWb3JNOTNqNlY2eVJTalNnWVRheEE4T1Rxa05kemd2Q1F6ZmJQU21jT0tTSkdRTEhReS1PdQ?oc=5) (taz.de)
+- [US-Midterms 2026 und Deutschland: Ein Vibe-Shift nach links ist das nicht](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXNMb1U5WGRMei15OEFUQlNRdVRacGxrS2Z6QU5zTVdfbF9kbk9hRGtLb3BkUFgyLWF5WEVxQmRuTmhjaFA3MXhRenAtQkI3LUxXZDVEVkw5RWdTMk5WSGZUdXJlc09kcWtGVXJvZmNlaWFSOG1WU3pHV0Q5cS1vOU9CVzlvbzVjQW1pd19yTWZkRUFqNFM0NklZdV91SWFuZE5penBtQkR6WHdmc2Y3QVZybmRwS0o5X3JCNzVOb3Y4QnFic0RNdzRHcWlqUmtN?oc=5) (FAZ)
 
 
 ## Japan
@@ -398,8 +398,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [AI, Inflation, and War: The Issues Driving the 2026 Midterms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHMycmROcjRHR3RaQnl6RExCZ2xEZTlnVTJkYmZPbWZQWkc3SzdubVdqZlcyNGQxOVp4eWFzWFctTHhNTkNkdUR0SUo0Y2xEWnJJYm1Ib2pUMVdKSFV2dFA1LUNrSHNVV2ItR1hEb3ZhbDhETlVzX3RpNjVQM2cwcVRhSmxLeFMtaV9QQjh6MTJUTEtl?oc=5) (Wesleyan University)
 - [Colorado 2026 Midterm Election Results and Analysis](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1RHUUpIN1U1QzJMUTFzOTI1YlRlUXFLRU9naDFWY1Rqb1JVWFZBT3NHRmVxZDBKZlpTUExqcGZrYzFfbWJsblVGYWxicUFTekZMc2tGZnZSTE9mV0RkWXU1WHZ3dUN4QWNsSkVRa05sN0hTcWktaG9Fd3gwR3JwdGtWQzhtOE0y?oc=5) (Brownstein Hyatt Farber Schreck)
+- [Midterm election results set up divided government and a lame duck agenda for counties](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDZVMlhVeEdKRll3eTk2TXlLcjV1Q0pCbmpyX183d1RJZmc3RkN6ckI1MjQ2d2ZGVXZBSzU0SVlmWU9BcHBCdkQwSjNuN0RtQWpsR2VoMFV2ekRqQnJxTHFXMGI2R2c4SFRDc3RaTGRUTDVTbFRka0FxM3RMN0JLY1FGWWdXMGhlUkRSekRfRVpsaWJDVUJ4OGp6R0xFQ2tobFlTTE13?oc=5) (National Association of Counties)
 - [‘Behind the Blue’: UK experts examine 2026 midterm elections, what comes next for Kentucky](https://news.google.com/rss/articles/CBMisgFBVV95cUxONm1xMUVKc0UtZWRGNE1yN1laUUZRQ2Z0b08xb09FTmlfNGsteVVvLXBhNG1URnFwRnRleHpwc1JyenFnRmhDS2pJQmZfc01uZ0ZXTnFmRlJvc19zU2pRNjdzZS1iaHFLRGwwSWFoakNicTQ2clVxcC05ajEtdmdhM2pwSUtsal9UNE1XTGZVejZHbklLRWliTGNvbW1zc2RRYi1FTmNQZmpkUEp6TmcxYUFB?oc=5) (UKNow)
-- [News - Government Faculty Unpack 2026 Midterm Election Results](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUhFbFNOTWlDUmVLM1M1M29aOHhudGw5ckJqZ0ZRcVpQNkhIVWM1Y2hjNlRiTFkwRENrenF4REVLdlBmVnRYY0ltWDRIMUZZY3V4LUtrd2paeGpQcWk4Ti1yRGthVWR3MFdLaDIwXzJpTTFBZV9MZ3Zjd0hyLVVqOS1QYw?oc=5) (Hamilton College)
 
 ### Polls and forecasts
 
@@ -424,9 +424,9 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [How Americans Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
 - [Midterm turnout neared record nationally, but pull weaker in MD](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbF9jOU1maEdZWkJ6ejZRVW5naVZyWmhNTGhoWnlHR0ZFb0dOUUF4eDYtVENWOFlTSG15RmZaRGJFNnQyd1hQNmlxcXl6d0gxRHAwVmdFeUVhZVVaclNCQ1pEOVVUcjBfeGREa0tLbVhuS3RiZUY2dUs0RlFUczZoTGJkYkl3UExfU25fcm1HWFlxT0otS0RjMW1ETHlTNjgzSVFn?oc=5) (Maryland Daily Record)
 - [2026 midterm election voter turnout exceeded expectations of experts and clerks](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTF9mNG5CalBvelhUYjFsUHJKU01qUWFPTlBTbGxIeHM3SEZpeUlsYnZWY3ZmVG94TTdZYnJNYmhIT09hM2xRMl9WU2J6N0tJSUdGdXJZUXdVWmpuLXQ1cTdDM2ZDQUVKOHB6eW1WZVQ2THJJWlFCX1ZmMWEwekZjeHdEdmhlMmtkbFFKMkhPZElhQWpoN25SbHJwVXFrb2o5alBhWkFMQlDSAbwBQVVfeXFMT1RGQ1N3aXpqWXNocTVUVklzY2hBWUY5eDl1MWZlMGJrNnBIeVBGRDA5UE5uRjI1UURKcm1zQW9MdkFPSkhQbzNYOWFDZ2JYMTc1Z3hsaGJJX1VJdjNuQ21ldzhMdzBVa194S1NQM0gyaUdEQUNvWEJDQ1lDMkhoT0xSOE9TVVZlS0VINkZtWEdvOHdsdENKQnFuMXVDelp2VHh1d055R0pXZThtZW4yYU5uVHhKZm1jOHNkWHY?oc=5) (WILX)
-- [Alaska Votes 2026](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tOVBBRGItbEN4ODdkX21RRXktaFFYdWx0cEYwQXVkU1NkUmlIdHRpWnlmX2RiS2NMaTQwOUZidEZpYS12bmhKNzIxd1RyRGFqbHdmYw?oc=5) (Alaska Public Media)
 - [5 things we learned from Michigan's historic voter turnout in 2026 midterm election](https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGR5ZEl2V19hWnBrd0F0ODNSZ0kxRE9lejZyN1RzTW8yV1ZxOUh2OWY5YnhPck0wWU5SWU9zSmpISmRZY2JTNWo1NVVJdW9mVDk0STZVcUtFTnFPQ00xLXlUQ1hkS2I1Wjd0ZnVScHlZNy0wRHlTekJ3YlVJcFlfYVIzRG81MVpHb2VpOWxzTEhtZVY2WWF3?oc=5) (Michigan Public)
 - [2026 Michigan Midterm Election Results](https://news.google.com/rss/articles/CBMibEFVX3lxTFAzdVd0QWRXZVllV2lQR0pxamw0TWZ2ZjhBNlY4aGh2TmVETUhGSHlQdm1nV2pqVkhyZmZzWVJaUTNUdmttZXM0VF96OHFMR0dQdEdrNnhBSHVlTDZISHd4c0s3aE9MQU1BdEdoOQ?oc=5) (AP News)
+- [Midterms advance county officials, Florida property tax cut](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXhhQjJYc19OYjdJbGxmWGM3VUR3ZUMzX3JaQVYzSm54YjJaNlFvcXpHOW1zSTJ2LVlYUHdQSXhSMTFIWlZpdDNQa0JNenpuUDRuVXFCeDRJUUFZaGZibk1tQ1hvOGFDeWNJOHUxdXg2TE5hRTdFaU5mYmxrUXJwd1pZZTBaMWREVFgzQQ?oc=5) (National Association of Counties)
 
 ---
 
