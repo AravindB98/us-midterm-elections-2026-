@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-14T04:18:22Z",
+ "updated_utc": "2026-11-14T04:33:21Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-14T01:37:42Z"
+   "source_revised": "2026-11-14T04:32:36Z"
   },
   "House": {
    "parties": {
@@ -513,7 +513,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-13T19:43:55Z"
+   "source_revised": "2026-11-14T04:30:33Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-14T04:17:37Z"
+   "source_revised": "2026-11-14T04:21:13Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -923,20 +923,20 @@
     {
      "name": "Jeff Merkley",
      "party": "Democratic Party (United States)",
-     "votes": 1132682,
-     "pct": 58.0,
+     "votes": 1138894,
+     "pct": 58.1,
      "party_code": "D"
     },
     {
      "name": "David Brock Smith",
      "party": "Republican Party (United States)",
-     "votes": 753657,
+     "votes": 757034,
      "pct": 38.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-13T23:23:38Z"
+   "source_revised": "2026-11-14T04:29:22Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -1405,20 +1405,20 @@
     {
      "name": "Tina Kotek",
      "party": "Democratic Party of Oregon",
-     "votes": 1046933,
+     "votes": 1051936,
      "pct": 53.3,
      "party_code": "D"
     },
     {
      "name": "Christine Drazan",
      "party": "Oregon Republican Party",
-     "votes": 859025,
+     "votes": 862989,
      "pct": 43.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-13T05:17:56Z"
+   "source_revised": "2026-11-14T04:26:17Z"
   },
   "Maine|Governor": {
    "state": "Maine",
