@@ -2,7 +2,7 @@
 
 [Back to README](../README.md)
 
-> Regenerated automatically on every live update. Last run: **2026-11-13T23:47:41Z**.
+> Regenerated automatically on every live update. Last run: **2026-11-14T00:02:42Z**.
 
 **179 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
 
@@ -17,7 +17,7 @@
 | Source | Type | Lean (as characterized) | House (D) | Senate (D) | As of | Status | In consensus |
 |---|---|---|---|---|---|---|---|
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | Center (outlet) | 83.0% | 84.0% | 2026-11-01 | seed | yes |
-| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | Nonpartisan / unrated | 98.7% | 79.7% | 2026-11-13 | live | yes |
+| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | Nonpartisan / unrated | 98.7% | 79.7% | 2026-11-14 | live | yes |
 | [Metaculus](https://www.metaculus.com/questions/34484/us-congress-control-after-2026-midterms/) | Crowd forecasts | Nonpartisan / unrated | - | - | - | not machine-readable | no |
 | [CNN data analysis (Harry Enten)](https://www.cnn.com/politics) | Forecast models | Lean Left (outlet, per AllSides) | - | - | - | not machine-readable | no |
 | [Decision Desk HQ / The Hill](https://votes.decisiondeskhq.com/forecast/2026) | Forecast models | Nonpartisan / unrated | 84.0% | 64.0% | 2026-11-02 | stale | yes |
@@ -30,10 +30,10 @@
 | [Split Ticket / The Argument](https://www.theargumentmag.com/p/split-ticket-2026-midterms-model) | Forecast models | Nonpartisan / unrated | 89.0% | 65.0% | 2026-10-20 | stale | no |
 | [The Economist midterm model](https://theeconomistoffthecharts.substack.com/p/our-prediction-model-for-americas) | Forecast models | Lean Left (outlet, per AllSides) | 90.0% | 49.0% | 2026-06-15 | stale | no |
 | [VoteHub](https://votehub.com/) | Forecast models | Nonpartisan / unrated | - | 60.0% | 2026-10-24 | stale | no |
-| [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 91.0% | 76.0% | 2026-11-13 | live | yes |
-| [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | Nonpartisan / unrated | 94.1% | 75.0% | 2026-11-13 | live | yes |
+| [midtermforecast.com](https://midtermforecast.com/) | Forecast models | Nonpartisan / unrated | 91.0% | 76.0% | 2026-11-14 | live | yes |
+| [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | Nonpartisan / unrated | 94.1% | 75.0% | 2026-11-14 | live | yes |
 | [Polymarket](https://polymarket.com/) | Prediction markets | Nonpartisan / unrated | 100.0% | 100.0% | 2026-11-04 | stale | yes |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 1.0% | 99.0% | 2026-11-13 | live | yes |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | Nonpartisan / unrated | 1.0% | 99.0% | 2026-11-14 | live | yes |
 
 ## Every source, by type
 
