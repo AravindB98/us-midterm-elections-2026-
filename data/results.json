@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-14T17:34:12Z",
+ "updated_utc": "2026-11-14T17:49:11Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -111,7 +111,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-14T14:23:17Z"
+   "source_revised": "2026-11-14T17:34:44Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -163,7 +163,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-14T14:34:26Z"
+   "source_revised": "2026-11-14T17:48:59Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -171,7 +171,7 @@
    "status": "awaiting",
    "winner": null,
    "winner_party": null,
-   "pending_winner": null,
+   "pending_winner": "Mary Peltola",
    "candidates": [
     {
      "name": "Mary Peltola",
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-14T10:53:42Z",
+   "source_revised": "2026-11-14T17:48:24Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -272,7 +272,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-14T02:06:49Z"
+   "source_revised": "2026-11-14T17:40:24Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -513,7 +513,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-14T16:51:17Z"
+   "source_revised": "2026-11-14T17:47:00Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-14T16:51:45Z"
+   "source_revised": "2026-11-14T17:45:36Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -565,7 +565,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
-   "source_revised": "2026-11-10T05:40:12Z"
+   "source_revised": "2026-11-14T17:39:33Z"
   },
   "Kentucky|Senate": {
    "state": "Kentucky",
