@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-14T07:17:22Z**.
+> Latest headlines refreshed: **2026-11-14T07:32:22Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -274,10 +274,10 @@ _Note: ARD, ZDF and DW are public broadcasters._
 
 **Latest headlines (auto-updated):**
 - [US-Midterms | die woche](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qakFBazlJdXVDd0p2NW5DWVdISVA5dkxwdC1ob3RaMWZnWVU0T1dxakxVd1Y4UDBGd1dEb19FbjhNTW5ORDhDR3ZjTFZ1Q0g0a1czczBvbUU1dnFaM2xQRHU2NnlRanNoZjFmOENR?oc=5) (Phoenix.de)
+- [Nach US-Zwischenwahlen: Neue Migranten-Karawane auf dem Weg Richtung USA](https://news.google.com/rss/articles/CBMie0FVX3lxTE1iT2xWSUhwb0xFY29YTmtzOGQ4M1p5QW5fbjl3ODdkLWJMMHB0Y0E0MVVxbndHZzFWQUhPMmhVbmVpbE5YZ09rc3lJbm5qOVV4eHVUSnBWcXpxa01MVDYwd2U2VjFiRHZGS0JQb3NuZExVaFFGUjhuYlEybw?oc=5) (tagesschau.de)
 - [US-Midterms: Das Blame Game hat begonnen](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSk5nZk8xUENnUUtrLS0zeFdaUF96YzQ4UjQxSmhaNEJJRktmYmVYN0xadzNXRi1hc1ZHNWIyTEdvZFp5VzZ1UlRZaFo3VDBtV2EtSnhHTzRldVM1aTI5dzJjV3Y3OGJvWFZ1TFNTTUV1TGhubHQxODJYMmkwVl9PTFVrNjNfdFZjeHNF?oc=5) (DIE ZEIT)
 - [28 Minuten - Yannick Haenel / US-Zwischenwahlen: Test für die Demokratie? (04.11.2026) - Komplette Sendung](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZUstLTM0T25Dc21LMlNHSEVLQmxTdGhLbkdfb2oyUkdmMXgwSU5iaV9Oa1NVUWlmbUJVQW0tWUNlQ3VlTzFoZUZ6Vm9FUHNHTVNhLUlITWI1Tmo1b1l3MjVWdVI?oc=5) (Arte.tv)
 - [Erdbeben bei den US-Midterms: Was nun, Mr. President?](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDeXAzb2NyeC1GZUFZWVNWSU54bUFaTEpUNXpobXpyeFJZcC1nMzdFNXRuTlFjUENQanlLS1hFbGhpZk43emZQdEZIeXA1YndldGNiWEZLcXZTRXRYTGlfY25kOGtaSnZRNnVpU2sxM1REUG5hZmRrRmZNYw?oc=5) (ESUT)
-- [Die Bilder einer historischen Wahlnacht](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjZIZHVqMkRQa1VqNTFXRDAwYlpQeXYyZzQzOHphVjFJcHJmX0JROW5teHZmZm9NQmNhaXpZUjg4YTBPRVFFZmlzblJhbG1GY0QtdERXb3EtRTJVdFBScnI5ZkZuNEh4b0lDczFTUTJpenlxcVp5STVic3hCT0N2Wm43R3NGQU84cWVtdFI0OVhPTmczT1o5RDFhdk5UbV9SSV9faGhzNkFUelpEa3k0?oc=5) (STERN.de)
 
 
 ## Japan
@@ -415,8 +415,9 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [FAIR Submits Public Comments in Support of OPT Fees and Ending the 60-Day Grace Period](https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEFoT2ltWVgyOE5zMTFEMTQzSVQ0Qnp1TzBZT2ZBOFo0Z2p0SnhUZXZVQmoyTi1pRUdSVkhLVmJCSFdhZUJ2V285TTJRcjRaLVE5WjFGckxyeENJVUZNMU9hNl8tdkxPNEpXY2FoeFdISUtfU05LSTRsazRrSW5UVVJNeUVRSE9DdmczUVlsWG16VEx4OHF6YTJIZmExZG5GLUJCbXhHeXJhX1Vuc2VZY1lfMmU?oc=5) (Federation for American Immigration Reform)
 - [This Week in Immigration: November 13, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
 - [18 State Democratic Attorneys General Urge Congress to Reject H.R. 7866, Challenging Federal Interest-Rate Exportation by Out-of-State State Banks](https://news.google.com/rss/articles/CBMioAJBVV95cUxPZmF3ZmU3UFVlN0c3TzluY2dVdVVmZk0tb2EzV1czRlV6Y0ZFVFRwc081bjFmRkxPMFJSb1ZrV0puS044QTJpVDNSekZQTHlBcGVXdi1CV09NYXRXR29GWl9pYVpWRWtYOWxPZTl0TlhSX0ppZHVDUWxKZEFBU1Vna2l6VGZwWVJTd3EtcndyQ0txanJ5OTlQMTVjd3FuMWhRTG9DU3NsTHd3NUNncFpzd3FTR1dNZFV6NEhGd3VOem13TWFzY1UxZlpEdllkc1BScnZBZGNBSmpCZDNSX1JmZHFNY3JINUlla0tQUWN6M3E5Snk4Q0ZaUC1HNks5MFFGRTdLM3oyNk52SWgyQnMwU0RScGQydmtiX1BFR2hqUGo?oc=5) (Consumer Finance Monitor)
+- [Here’s how big Democrats won in the Senate in 2026](https://news.google.com/rss/articles/CBMiekFVX3lxTE5DbzA4R09YSVlwdDkyVURIcDJEdF9NczZaZ3B0bWxSWk1GYzg3cEw2SVh0dXFUVmJOZTFjeTk0VG9kZllrSDVnWGFmb2hWQkgwcFc4NEltNTA3Z1dpcldQMzBqeXpmR3Z1amkyeFN6QllHTGliSEd3SFd3?oc=5) (CNN)
 - [State Attorneys General Push Congress To Keep Their Lending Rate Opt-Out](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmM2NnhBU0h6WGdWLWxDTE02OFh1T2Rra0VMLVpLRkNLUEJZNk1hVE5kY25sZHVPYlJzelVyU1F1cEEyMHJLdjA0NVFpSGRCYkJzUmhJeUp4R1d0NTNRdUkwakVxdVhnai1laTl5M0ZPaXFoNnl6WXRaT0oyMWhxVGlvakQ0RFdCRkJaUVpGZ3Qzc0Q2cmFpWU1rS3E1LTNGVkhPSUo1Umx2bGZJYVV5ckdUU1VzcXJBcHpXZnZ4VUdZdw?oc=5) (Forbes)
-- [18 State Attorneys General Urge Congress to Preserve States’ Lending Rate Opt-Out](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFY2cjRVN1RJVkdvX0xaSjBKVnNIV09BWmkza2FPMnBMNHVGVndhQWI4bGpvYmIydEFEMFhYM3lBcW9iaW10YWNzV2pwbEh0dV8ydEV6WkxxUVpfb2h6VGRldkJBOERsUlNTUUJVVF84cTRmUDA4Z1ZjaHRzZXA3dFJBTk5IdkNqWGtSZXhaSUVON2xMQUdJUGVUOGRQaGRhX3c4RHRFVlgzd2ZpaF9z0gG0AUFVX3lxTE81d25SSlVCeWQxZWp3eHZLdEtVZG1mY2V6cDZtNTkwS2JsaTVsSVd0WWg1TXFPYlZOb1c4WXluUDR1OXkzaENQU3lFby1xYnBuWEowZjRfYUlJeU14dnFPMlBiZm8wMGd5NjE0YzJuTFBwQms3S1h6dGU1QUF5a0J2M000R0hKd3lhZWJ1UnliOHhDS21hMXh3OUhlcjA3VDhYeDZ4T1hmQk1IZUVFX3hFTEVDcA?oc=5) (The National Law Review)
+- [Meet the 2028 Potential Presidential Contenders – Jon Ossoff](https://news.google.com/rss/articles/CBMijgFBVV95cUxOaUFFMWh3TVRtNy1pSndVT1dxMTJGVllYWng4cUw1OURYUUJsaVF1NGdKY0tQUl9CWnlaeXZzSE0zcXc3NDdOdzJteG1GalBENUJ5R3Z5djdFcXJpQUJoSF9TVFdxV0tsRi1LRHUtTkpWVjdQci1KczhZV2tRQnFQZW1GWGNzSDlrWVpUeEpR?oc=5) (CNN)
 
 ### Census and election data
 
