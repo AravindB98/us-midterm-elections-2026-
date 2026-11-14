@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-14T18:18:12Z**.
+> Latest headlines refreshed: **2026-11-14T18:33:13Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -227,7 +227,7 @@ _Note: State media present the official Russian government view; independent out
 **Research and think tanks:** [Russian International Affairs Council (RIAC)](https://russiancouncil.ru/en/) · [Valdai Discussion Club](https://valdaiclub.com/) · [Carnegie Russia Eurasia Center (Berlin)](https://carnegieendowment.org/russia-eurasia)
 
 **Latest headlines (auto-updated):**
-- [Исторический триумф: демократ Скотт Колом стал первым темнокожим сенатором от штата Миссисипи с XIX века](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmdhTVlxbWF4YVotMWRZeEIzQV95clY3eHRtTUNON0FaRGtycWhFcHhjUzB6XzBsWEVPRjh1TmJGN1RvblhqbE5ER0pxcnhibTdBdFNCMUg0aUxGNjhkcFM0MjhJYXUycWV0d0Q5VkxYZm92bXFwMkYxdnRWcDJCMGZhbkhnRnRndFFxYWdGMVprXzlFSUpnN1JrSF9CcktJSEF6dFVYM0o?oc=5) (Euronews.com)
+- [Исторический триумф: демократ Скотт Колом стал первым темнокожим сенатором от штата Миссисипи с XIX века](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmdhTVlxbWF4YVotMWRZeEIzQV95clY3eHRtTUNON0FaRGtycWhFcHhjUzB6XzBsWEVPRjh1TmJGN1RvblhqbE5ER0pxcnhibTdBdFNCMUg0aUxGNjhkcFM0MjhJYXUycWV0d0Q5VkxYZm92bXFwMkYxdnRWcDJCMGZhbkhnRnRndFFxYWdGMVprXzlFSUpnN1JrSF9CcktJSEF6dFVYM0o?oc=5) (Euronews)
 - [Трамп усомнился в честности выборов в Конгресс](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjQ3daTUNTTkRNUFpnelpZazdGcU1YQ2NtOFo2VTlKeEVQUE9Pemc0a0haeGVfcEhQSnZZNC1tRWtwMmFNSFdEb1FYM2ZNd9IBS0FVX3lxTE8zMjFWT3BVbnVHZnlha2RqRW5XMHhhb1hFLUxmSWJYZDdvRG0xd3JkSkV4aTMyWUhOUHloYkFKUzNiU3oxUzBqZWVPZw?oc=5) (Интерфакс)
 - [Рубио: промежуточные выборы не повлияют на внешнюю политику США](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTExSlBqWVhqU2pid1EySHpVQXVtWG9sUF9DRVM4S0hIQzg0ZWxxR192Q19idmpaSGhSVGtJNm1JelY3a1ljSEdtUHMtQ1NmcjRpVkZZZ0dOYXYtcF91OHJGcjYxV0dpNUkxOUljalZTaHlocFFEQ3Q5R25JMG5GbEZOTDhsWEhKbzBrNmNjM2pnVEVxLU9GcVV3?oc=5) (Ведомости)
 - [«Кто-то верит, что выборы были честными?» Трамп поставил под сомнение поражение республиканцев](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDFYRmZzRk96T3JlSE9jczNuOFdsbVYzcHFGMzBpeVFIOXZzYVBTZjRkRkRwOTZ5X1pMazh2bEg2TlNrLTliTDR6NW55d2xFYWZUalJUZ3Z0dU5EUlI3dDM3V2p3U1FRSkJXdzZ2N2thR2RqeXlZQ3UxZ3Q2THpDY3hOOGVaa3hheU5zWG1Ec1UtV2pYM0tiTEJVTllBa01nOE11eW1LWkF0S21VZmtGSXg2MTZONmFRRldoV01GdW9xT2pn0gG0AUFVX3lxTFBuOW5Gci1tMVI2Y0g3dUQ5U2dWYmtNU2pSMTN5cWxoUzluUmZuUnJnYUljd1otU29jYnJBMXFpM01GY09zM0lxVVRtakNTM19HaXo4NmJqbklxTkFFT3NSdWdmMmp4NGp3V1dNR0YwOTBZUTFrTGRkWG91LWdJZFdUcFpkSXljVzhzXzZwTlFBbTRBMXUyYWxWZDd5bGpjNU9ROUQzdHFvTFU2anlOWVNmdEt4Mw?oc=5) (NV)
@@ -386,8 +386,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [Republicans took big hits in the U.S. midterms. Does that mean Trump's political era is over?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenRMYnZZcWMwcWM1ejYtQkR6UTdKTFNIb1RlTXNaSzdzVGZrOTlOTVBlV1hSbV9HQXN3WTYtZm5UNERnNmZQcm85a2U5Y1ZkMmNGTmdmSEtPWV9iMVBlNjdFWU8zVmRSeXNNUUJqWUEzTndUTnBYYkZKejRwcTA3dmRBUzVGQV9G?oc=5) (CBC)
 - [U.S. Midterms 2026: What Do the Results Mean for Canada?](https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwX0VXSTlwb0VaYWJKdUtvTURMQ0xRQXZOM1NhTjRyZWV2UnBqdUdnSEc0eDZSREpRSEp2ejlYSkRtWnFtXzZ4YWlZR0YwbFNINVRrcDJuamdKWEp0aGplckFENXF5UQ?oc=5) (Leger)
 - [What the US midterm elections mean for energy](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTdJenVreEFUZllUVVc4eXhESHlhM2lraHZJOGhpYXVqaVFybmtfS3VJNnZpTldRUU9CYVJSSFdWaW1sdXBNQ3pmaHVtelhxVm1HMjZXNE9FWGdoUUQybFZ4QmNrNE1GelpGQWtuYVVJck9FOTFsYm5GVDVDdEYxQVhiQU5hWi14XzQwR2JYZnBuVnc?oc=5) (Wood Mackenzie)
-- [‘A complete repudiation’: public health won big in US midterm elections](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjFiTTgtTXgzdVNNcUNpM2xRWUs2by1Dckx5Zk9pWjZFczRBZHBLWjJfelVtRGY4Sjc3UFRnT09UYkc4SzBkNWZwTWJDUVJZaDBVUklYYTdLdUxwVkFLYUtSTmpnUnYtcWhhLWFzRW04THN4QlhKTV82Y3BLS2NFaGNzdHRFZFl2QjBZdEo4VVg?oc=5) (The Guardian)
 - [Now What?: How the Midterm Results Will Change America](https://news.google.com/rss/articles/CBMioAFBVV95cUxPUVRrcTV3emdvY0tneG9JYTFqXzliVlRGUUZoRERCZF84Y3lHUjdhbjNjTVg3cWIyNGtzckM2bTg0VFhSNFNWYWMtSUVELXJnSmlGczBhWlZkbVVaa3EzMlFCS3VkSkZBcmE5eTJudW91cXhqRDM2eDRTLWg5MGxlaU5OeTBaSlNpU1I1OFRBVEdiMFZBczAyNk9xZXRaQ0NQ?oc=5) (The New Yorker)
+- [‘A complete repudiation’: public health won big in US midterm elections](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjFiTTgtTXgzdVNNcUNpM2xRWUs2by1Dckx5Zk9pWjZFczRBZHBLWjJfelVtRGY4Sjc3UFRnT09UYkc4SzBkNWZwTWJDUVJZaDBVUklYYTdLdUxwVkFLYUtSTmpnUnYtcWhhLWFzRW04THN4QlhKTV82Y3BLS2NFaGNzdHRFZFl2QjBZdEo4VVg?oc=5) (The Guardian)
 
 
 ## Live topic feeds
