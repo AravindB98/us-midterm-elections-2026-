@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-14T01:32:53Z",
+ "updated_utc": "2026-11-14T01:47:53Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-13T21:48:59Z"
+   "source_revised": "2026-11-14T01:37:42Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-13T23:58:45Z"
+   "source_revised": "2026-11-14T01:41:04Z"
   }
  },
  "control": {
@@ -461,7 +461,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-09T09:04:07Z"
+   "source_revised": "2026-11-14T01:47:39Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -1816,20 +1816,20 @@
     {
      "name": "Xavier Becerra",
      "party": "Democratic Party (United States)",
-     "votes": 8318536,
+     "votes": 8477917,
      "pct": 65.6,
      "party_code": "D"
     },
     {
      "name": "Steve Hilton",
      "party": "Republican",
-     "votes": 4362766,
+     "votes": 4447985,
      "pct": 34.4,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-13T21:17:47Z"
+   "source_revised": "2026-11-14T01:36:12Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
@@ -1907,7 +1907,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election",
-   "source_revised": "2026-11-13T22:21:40Z"
+   "source_revised": "2026-11-14T01:42:06Z"
   },
   "Arkansas|Governor": {
    "state": "Arkansas",
