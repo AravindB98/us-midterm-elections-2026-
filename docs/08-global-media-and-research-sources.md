@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-14T00:16:53Z**.
+> Latest headlines refreshed: **2026-11-14T00:31:53Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -50,8 +50,8 @@ _Note: Mix of commercial networks (left-, right- and center-leaning) and public 
 - [What are the key takeaways from the 2026 midterm elections?](https://news.google.com/rss/articles/CBMihAFBVV95cUxObk5CeEdadVN3VmhFTjYtR1h3WVdxVFBQMGFnUzRJWTNwRG50ZnpYSDFibTZ2SVpYT00xT2JRQWhBWDRhSEc2TXJ5Y0JFcjVwTDM3d1FCNGgzZzZWQk1GNDd5bmJnQUpVQ1FGQy1kVGtPTVU3cF95dHR1cF9HanJ0TUd6a2k?oc=5) (Campaign Legal Center)
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [The historic firsts of the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5) (Ash Center)
+- [2026 U.S. House Election Results](https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5) (AP News)
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
-- [‘A complete repudiation’: public health won big in US midterm elections](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjFiTTgtTXgzdVNNcUNpM2xRWUs2by1Dckx5Zk9pWjZFczRBZHBLWjJfelVtRGY4Sjc3UFRnT09UYkc4SzBkNWZwTWJDUVJZaDBVUklYYTdLdUxwVkFLYUtSTmpnUnYtcWhhLWFzRW04THN4QlhKTV82Y3BLS2NFaGNzdHRFZFl2QjBZdEo4VVg?oc=5) (The Guardian)
 
 
 ## India
@@ -205,11 +205,11 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 **Research and think tanks:** [Bangladesh Institute of International and Strategic Studies (BIISS)](https://biiss.org/) · [Centre for Policy Dialogue (CPD)](https://cpd.org.bd/)
 
 **Latest headlines (auto-updated):**
+- [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
 - [What the US midterm elections mean for energy](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTdJenVreEFUZllUVVc4eXhESHlhM2lraHZJOGhpYXVqaVFybmtfS3VJNnZpTldRUU9CYVJSSFdWaW1sdXBNQ3pmaHVtelhxVm1HMjZXNE9FWGdoUUQybFZ4QmNrNE1GelpGQWtuYVVJck9FOTFsYm5GVDVDdEYxQVhiQU5hWi14XzQwR2JYZnBuVnc?oc=5) (Wood Mackenzie)
 - [US midterms: assessing the results and implications](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5) (Economist Intelligence Unit)
 - [‘A complete repudiation’: public health won big in US midterm elections](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjFiTTgtTXgzdVNNcUNpM2xRWUs2by1Dckx5Zk9pWjZFczRBZHBLWjJfelVtRGY4Sjc3UFRnT09UYkc4SzBkNWZwTWJDUVJZaDBVUklYYTdLdUxwVkFLYUtSTmpnUnYtcWhhLWFzRW04THN4QlhKTV82Y3BLS2NFaGNzdHRFZFl2QjBZdEo4VVg?oc=5) (The Guardian)
 - [The historic firsts of the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5) (Ash Center)
-- [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 
 
 ## Russia
@@ -228,8 +228,8 @@ _Note: State media present the official Russian government view; independent out
 
 **Latest headlines (auto-updated):**
 - [Фото. Синее цунами накрыло Трампа: 10 исторических побед демократов на выборах-2026](https://news.google.com/rss/articles/CBMiggFBVV95cUxOQl80eF9WVDJockNpWVRkTTd4VU1wS0ZNSXk2QVliZjR6aEFtaXhqMDN1QVBXYU52XzVUWXdoNWlHZWJyakQ4N0VKRFJ0QThlclZrZDdnU0R6bEpuYU5keF92WDdXa0xMZFZzSXhaWjY5TG5Ea1VIamd5anhxQUVqcG5n?oc=5) (Ведомости)
-- [Исторический триумф: демократ Скотт Колом стал первым темнокожим сенатором от штата Миссисипи с XIX века](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmdhTVlxbWF4YVotMWRZeEIzQV95clY3eHRtTUNON0FaRGtycWhFcHhjUzB6XzBsWEVPRjh1TmJGN1RvblhqbE5ER0pxcnhibTdBdFNCMUg0aUxGNjhkcFM0MjhJYXUycWV0d0Q5VkxYZm92bXFwMkYxdnRWcDJCMGZhbkhnRnRndFFxYWdGMVprXzlFSUpnN1JrSF9CcktJSEF6dFVYM0o?oc=5) (Euronews.com)
 - [Трамп усомнился в честности выборов в Конгресс](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjQ3daTUNTTkRNUFpnelpZazdGcU1YQ2NtOFo2VTlKeEVQUE9Pemc0a0haeGVfcEhQSnZZNC1tRWtwMmFNSFdEb1FYM2ZNd9IBS0FVX3lxTE8zMjFWT3BVbnVHZnlha2RqRW5XMHhhb1hFLUxmSWJYZDdvRG0xd3JkSkV4aTMyWUhOUHloYkFKUzNiU3oxUzBqZWVPZw?oc=5) (Интерфакс)
+- [Исторический триумф: демократ Скотт Колом стал первым темнокожим сенатором от штата Миссисипи с XIX века](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmdhTVlxbWF4YVotMWRZeEIzQV95clY3eHRtTUNON0FaRGtycWhFcHhjUzB6XzBsWEVPRjh1TmJGN1RvblhqbE5ER0pxcnhibTdBdFNCMUg0aUxGNjhkcFM0MjhJYXUycWV0d0Q5VkxYZm92bXFwMkYxdnRWcDJCMGZhbkhnRnRndFFxYWdGMVprXzlFSUpnN1JrSF9CcktJSEF6dFVYM0o?oc=5) (Euronews.com)
 - [«Кто-то верит, что выборы были честными?» Трамп поставил под сомнение поражение республиканцев](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDFYRmZzRk96T3JlSE9jczNuOFdsbVYzcHFGMzBpeVFIOXZzYVBTZjRkRkRwOTZ5X1pMazh2bEg2TlNrLTliTDR6NW55d2xFYWZUalJUZ3Z0dU5EUlI3dDM3V2p3U1FRSkJXdzZ2N2thR2RqeXlZQ3UxZ3Q2THpDY3hOOGVaa3hheU5zWG1Ec1UtV2pYM0tiTEJVTllBa01nOE11eW1LWkF0S21VZmtGSXg2MTZONmFRRldoV01GdW9xT2pn0gG0AUFVX3lxTFBuOW5Gci1tMVI2Y0g3dUQ5U2dWYmtNU2pSMTN5cWxoUzluUmZuUnJnYUljd1otU29jYnJBMXFpM01GY09zM0lxVVRtakNTM19HaXo4NmJqbklxTkFFT3NSdWdmMmp4NGp3V1dNR0YwOTBZUTFrTGRkWG91LWdJZFdUcFpkSXljVzhzXzZwTlFBbTRBMXUyYWxWZDd5bGpjNU9ROUQzdHFvTFU2anlOWVNmdEt4Mw?oc=5) (NV)
 - [Демократы получили 254 места в Палате представителей США по итогам промежуточных выборов](https://news.google.com/rss/articles/CBMixAVBVV95cUxNV2xSUlV3RHliVjA5TnM4Wk9od1k0YXJHNE9IcDQxYnNVYmM3U3BHUi16SElDUmNrdUZJNlkyS3JONzEtLUwycHZWMXR5U2p5LXlQX21UdmNpMzB5OGVSWmtHbmZjSFhDbm1Cd2pRZmRiSXhPUHZoRnZ5cXg1R1Z1NmRtZjRTc0dTdmd1RnM0cnhlLUNyWVk2NkFjblJTUldpMHV1RzRfMkNocFVETHB4UlJnSkRiWkwwWl9Cd2dOa0c3TDRiZF8xX2RtUEE2dWdpeVpLcGg0Nm1yUEpuc3pkUC04LW8zTUxqWEVKVURXZ2t5TjgwSDNTQ1lSWFRRc3laNDdENFI4MjU1YmV3U3JvUFhNRlNSSXB0UmpQU1Z5bFhXNXYxVzBfTWpfRG9TUTJjb2RnRExkUHRQSVVHZ05BWUN1YlNrYTdBMVNIdWdVTktRTUI4WWhyS0lZbWlXUzQtUEZkTDdkbVZPSWdhN251NUpmcEk2elhadWdjd0RBMno2WXBpQXpFTFZmQ0hDTGcweXhBa2NNcFhVb2h3cnpxc3BHcUNYNTc2QU9IX2VnVjQ0UWplcjIyaFpXM1d2cWRjaXNqbXQ2TTFZSC1vc3lUZ09ZdWpWb2JSTVZtQ0xfbk12allMT3JhaEN3OXNHeVRoRkhmanhmV1ZQZWJuZk9Qc2RNOGRWUUdxTm9pNVBDNlhVVGd1bndUU3M0OUdMcXpxcUVYaWlkbU5LWXBWNFBONlFuV0VyVWpycWFXeVMtdUktSlN3U3U1SzY5dVY5cU9RYmRZZkZ2WElHVW1XUWJMSFA4NVJFYXI3eWo0akJBZjVPQUZ5SEI0OVV6MEtNRVJvb0V0dWQ0bC1VSnEwSXRCTW5ZWTZPUVF1TkxxSjdpVlZmelZ3eDJXalFkTDZJQ2cwQVFLLWViWlZkdkE4NWZ6R3VRNXk?oc=5) (Anadolu Ajansı)
 
@@ -407,8 +407,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 - [Demslide or republican resilience? A political history forecast of the 2026 us congressional elections](https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0Fvc2RFMGFrMktqX3JoOWY1UnBmZWlLTHhSbUJ3SlFmdXhSZmNJOVJ6a3pZQ19TYUh3bGhlU0FKbTg3dnNlZVFXYTdQcFVPQkxQMkd2aTFsb3pyU2pMNV9KellUak5GY012Vy1ydmVjVHVwVmNvQ29wb3hxWFBiTDVIWE9WOVdoejczbmVxNGgxSDQ2NXRKTGp4QmJ3VkZaRm1QMDA3VlpzVE1yUTdaS2hlQ2M5SFVFYjBaLXpCd1diMXpLVVlBclAwLWFEX00?oc=5) (Political Science Now)
 - [Why 2026 Midterm Polls Underestimated Democratic Support](https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlBRUE5XNHJwcGxBZW1xcjZoX3RZcHo1NTRYVnkzQW5xN0RzNzdBcTRaQnc3VGxlRW1HX2txN29UVTNVeHo4emlHdmhwcjJqR1pZZDhMUTBmVlR5UHQyRWlENWxCZk5RM3U4dHE0OTVYb2U3Rm1VSFpRc192bFFva1dzcDc2aVJH?oc=5) (The New York Times)
-- [2026 Georgia Midterm Election Results](https://news.google.com/rss/articles/CBMia0FVX3lxTFA4dUV3MUp3ZzBvc0R6bkFmM2Q3S2pvckd4S3FXcGcwNUhhLUlzSVE3U2VMOXFiVUNaaVdpY0FBVGxDZ09jSXl2WXVIVmdlMU1OWnFjRXlCUldRRXZ6dDVFZkNwVzMtV3lLY2NR?oc=5) (AP News)
 - [Midterm Election Odds for 2026 – Trade on US Elections](https://news.google.com/rss/articles/CBMib0FVX3lxTE9CTkZPclRaeVUwQjRteXYxU0U3NWFNam5tbHlIODhjTUJQNm9zY2lXRGJxNDlVSC1kWUoxazBHdHdoMno2YmZvaHFZREtuNFBJMm5GRmF2amlZd2tNbFFnNXVlLTUzYURzU3BlZ0dDcw?oc=5) (Federal News Network)
+- [2026 Midterm Election Results: Senate, House and Governor Races](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5) (AP News)
 
 ### International students and visa workers
 
@@ -417,7 +417,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [Here’s how big Democrats won in the Senate in 2026](https://news.google.com/rss/articles/CBMiekFVX3lxTE5DbzA4R09YSVlwdDkyVURIcDJEdF9NczZaZ3B0bWxSWk1GYzg3cEw2SVh0dXFUVmJOZTFjeTk0VG9kZllrSDVnWGFmb2hWQkgwcFc4NEltNTA3Z1dpcldQMzBqeXpmR3Z1amkyeFN6QllHTGliSEd3SFd3?oc=5) (CNN)
 - [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
 - [Republicans take an approach that defies logic after brutal midterm losses](https://news.google.com/rss/articles/CBMif0FVX3lxTE5NV2ZDakhwZjNPSzY2RFNUeGdQTG5ya0tMX1J5aTZtbnZWeHBYbnV5cmcwTEhfdlRsd2RSbVp0eXVnNXFabUstOGtzSG1LZHVfWGlNZjZCZ1c5LXJxWkZ0RGhtT3M0Wk9SbmY0MlE1eFdJU3FOSWxBelAyWUh2aVk?oc=5) (CNN)
-- [Democrats pick up win in Alaska after midterms shellacking for GOP](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXMtMlNuX3dDaVo3WWhVZ28ydTMtOFZSRGxFYi1ZOWNjTXdKbEc3S1IwWk9yaXNQTWxFRVE3bm95LUJxMEVkOEJTWDNIY0tyME9xWEtQUTN1Z013X0wyV0FzUHNBRnNDbVVsXzJzUUtyYUI1VVZ0bnYyZ0NvT29nN1l6ZThPSVpUZHJvODBjRzJEWUR2V3ptbDJ4WUdiX3ZvdVl5bmN4QWF2YThYMlRFX0tDYlV4czA?oc=5) (CNN)
+- [AI data center opponents are cheering midterm results, but they say the fight isn’t over](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMG5hS2pTMk1LMzVXcEl4Z2Q1R1hSVjBpanJKeC1kbW5WSFF4OXZNUnpWdEEwVllRN1ZXUENFYzRPaUlyellfV0gtOGFPQVFyRm1KMUo1RXl2N2N4Y01OMEZYdVAyWmFJNTFaS1dZVXo2NnlJQ2Rwdnh5eVBmWlk?oc=5) (CNN)
 
 ### Census and election data
 
