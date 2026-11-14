@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-14T09:02:22Z**.
+> Latest headlines refreshed: **2026-11-14T09:17:22Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -163,11 +163,11 @@ _Note: Interest centers on US visa policy, travel restrictions and Nigerian-Amer
 **Research and think tanks:** [Nigerian Institute of International Affairs (NIIA)](https://niia.gov.ng/) · [Centre for Democracy and Development (CDD West Africa)](https://www.cddwestafrica.org/)
 
 **Latest headlines (auto-updated):**
-- [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 - [‘A complete repudiation’: public health won big in US midterm elections](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjFiTTgtTXgzdVNNcUNpM2xRWUs2by1Dckx5Zk9pWjZFczRBZHBLWjJfelVtRGY4Sjc3UFRnT09UYkc4SzBkNWZwTWJDUVJZaDBVUklYYTdLdUxwVkFLYUtSTmpnUnYtcWhhLWFzRW04THN4QlhKTV82Y3BLS2NFaGNzdHRFZFl2QjBZdEo4VVg?oc=5) (The Guardian)
 - [US Midterm Elections and the Rest of Us](https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFhPckNtMVJHejZHSVRJblhaRkJ1cERZeFlfd3ZCaExjQVcyM1AxcUNBYV9kd3pyNVAtZkE0Zm13Sl9UenVNVndfQlkyenpSbXJzVlhoeFFWcTlFQl9RSkxtUjVJMmRFSjU4a2RYWEtMSFFLNFhUVzZhRWxCZzdvU2JPOHBFZw?oc=5) (THISDAYLIVE)
 - [What do the US midterm election results mean for HE?](https://news.google.com/rss/articles/CBMid0FVX3lxTE5VSlptSW1WSDJvSldnU2taM2x6REd6NWJMREpTS0ZmNTVVTmRiQjNoYVplNVdGUnVIQU1uaFNNdVhiQUVxUk5vNVRxNlBTZWFUQ2k0TXphN2RoN3RaUE5EcDhlcXVXYlYtSkw4LXJnb1Z1QnZnVGhF?oc=5) (University World News)
+- [What the US midterm elections mean for energy](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTdJenVreEFUZllUVVc4eXhESHlhM2lraHZJOGhpYXVqaVFybmtfS3VJNnZpTldRUU9CYVJSSFdWaW1sdXBNQ3pmaHVtelhxVm1HMjZXNE9FWGdoUUQybFZ4QmNrNE1GelpGQWtuYVVJck9FOTFsYm5GVDVDdEYxQVhiQU5hWi14XzQwR2JYZnBuVnc?oc=5) (Wood Mackenzie)
 
 
 ## Brazil
@@ -398,8 +398,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [AI, Inflation, and War: The Issues Driving the 2026 Midterms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHMycmROcjRHR3RaQnl6RExCZ2xEZTlnVTJkYmZPbWZQWkc3SzdubVdqZlcyNGQxOVp4eWFzWFctTHhNTkNkdUR0SUo0Y2xEWnJJYm1Ib2pUMVdKSFV2dFA1LUNrSHNVV2ItR1hEb3ZhbDhETlVzX3RpNjVQM2cwcVRhSmxLeFMtaV9QQjh6MTJUTEtl?oc=5) (Wesleyan University)
 - [Colorado 2026 Midterm Election Results and Analysis](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1RHUUpIN1U1QzJMUTFzOTI1YlRlUXFLRU9naDFWY1Rqb1JVWFZBT3NHRmVxZDBKZlpTUExqcGZrYzFfbWJsblVGYWxicUFTekZMc2tGZnZSTE9mV0RkWXU1WHZ3dUN4QWNsSkVRa05sN0hTcWktaG9Fd3gwR3JwdGtWQzhtOE0y?oc=5) (Brownstein Hyatt Farber Schreck)
+- [US parties splurged on the midterms – but research shows the link between spending and success is weak](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeVFqdUhWZXlqcFZkNUxrZFRuTE9lcWZSUGhKYWNKVjBJc2FtRy1TQ25hbVNzbWxMZk5VZ3B2TVFyd195ZnQyUHI3T3drVEdCR3p6NlRHNXZvdHdUZVBNUTUwWjlwSm8xbEI4cHVVSi1kT1QwemVJRW5IVHYyNzNZeTFLRnRjWEpkWjROZm9YUjdZT19meHNxUk0wVlkwelhpa0hnZ25CMXRGclA1Y0VVWWZXa3hEUF9ybWpDbFBMLTI4YklaR0dmbGMySzROUkVR?oc=5) (The Conversation)
 - [‘Behind the Blue’: UK experts examine 2026 midterm elections, what comes next for Kentucky](https://news.google.com/rss/articles/CBMisgFBVV95cUxONm1xMUVKc0UtZWRGNE1yN1laUUZRQ2Z0b08xb09FTmlfNGsteVVvLXBhNG1URnFwRnRleHpwc1JyenFnRmhDS2pJQmZfc01uZ0ZXTnFmRlJvc19zU2pRNjdzZS1iaHFLRGwwSWFoakNicTQ2clVxcC05ajEtdmdhM2pwSUtsal9UNE1XTGZVejZHbklLRWliTGNvbW1zc2RRYi1FTmNQZmpkUEp6TmcxYUFB?oc=5) (UKNow)
-- [News - Government Faculty Unpack 2026 Midterm Election Results](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUhFbFNOTWlDUmVLM1M1M29aOHhudGw5ckJqZ0ZRcVpQNkhIVWM1Y2hjNlRiTFkwRENrenF4REVLdlBmVnRYY0ltWDRIMUZZY3V4LUtrd2paeGpQcWk4Ti1yRGthVWR3MFdLaDIwXzJpTTFBZV9MZ3Zjd0hyLVVqOS1QYw?oc=5) (Hamilton College)
 
 ### Polls and forecasts
 
@@ -416,8 +416,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [This Week in Immigration: November 13, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
 - [18 State Democratic Attorneys General Urge Congress to Reject H.R. 7866, Challenging Federal Interest-Rate Exportation by Out-of-State State Banks](https://news.google.com/rss/articles/CBMioAJBVV95cUxPZmF3ZmU3UFVlN0c3TzluY2dVdVVmZk0tb2EzV1czRlV6Y0ZFVFRwc081bjFmRkxPMFJSb1ZrV0puS044QTJpVDNSekZQTHlBcGVXdi1CV09NYXRXR29GWl9pYVpWRWtYOWxPZTl0TlhSX0ppZHVDUWxKZEFBU1Vna2l6VGZwWVJTd3EtcndyQ0txanJ5OTlQMTVjd3FuMWhRTG9DU3NsTHd3NUNncFpzd3FTR1dNZFV6NEhGd3VOem13TWFzY1UxZlpEdllkc1BScnZBZGNBSmpCZDNSX1JmZHFNY3JINUlla0tQUWN6M3E5Snk4Q0ZaUC1HNks5MFFGRTdLM3oyNk52SWgyQnMwU0RScGQydmtiX1BFR2hqUGo?oc=5) (Consumer Finance Monitor)
 - [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
-- [Here’s how big Democrats won in the Senate in 2026](https://news.google.com/rss/articles/CBMiekFVX3lxTE5DbzA4R09YSVlwdDkyVURIcDJEdF9NczZaZ3B0bWxSWk1GYzg3cEw2SVh0dXFUVmJOZTFjeTk0VG9kZllrSDVnWGFmb2hWQkgwcFc4NEltNTA3Z1dpcldQMzBqeXpmR3Z1amkyeFN6QllHTGliSEd3SFd3?oc=5) (CNN)
 - [State Attorneys General Push Congress To Keep Their Lending Rate Opt-Out](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmM2NnhBU0h6WGdWLWxDTE02OFh1T2Rra0VMLVpLRkNLUEJZNk1hVE5kY25sZHVPYlJzelVyU1F1cEEyMHJLdjA0NVFpSGRCYkJzUmhJeUp4R1d0NTNRdUkwakVxdVhnai1laTl5M0ZPaXFoNnl6WXRaT0oyMWhxVGlvakQ0RFdCRkJaUVpGZ3Qzc0Q2cmFpWU1rS3E1LTNGVkhPSUo1Umx2bGZJYVV5ckdUU1VzcXJBcHpXZnZ4VUdZdw?oc=5) (Forbes)
+- [18 State Attorneys General Urge Congress to Preserve States’ Lending Rate Opt-Out](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFY2cjRVN1RJVkdvX0xaSjBKVnNIV09BWmkza2FPMnBMNHVGVndhQWI4bGpvYmIydEFEMFhYM3lBcW9iaW10YWNzV2pwbEh0dV8ydEV6WkxxUVpfb2h6VGRldkJBOERsUlNTUUJVVF84cTRmUDA4Z1ZjaHRzZXA3dFJBTk5IdkNqWGtSZXhaSUVON2xMQUdJUGVUOGRQaGRhX3c4RHRFVlgzd2ZpaF9z0gG0AUFVX3lxTE81d25SSlVCeWQxZWp3eHZLdEtVZG1mY2V6cDZtNTkwS2JsaTVsSVd0WWg1TXFPYlZOb1c4WXluUDR1OXkzaENQU3lFby1xYnBuWEowZjRfYUlJeU14dnFPMlBiZm8wMGd5NjE0YzJuTFBwQms3S1h6dGU1QUF5a0J2M000R0hKd3lhZWJ1UnliOHhDS21hMXh3OUhlcjA3VDhYeDZ4T1hmQk1IZUVFX3hFTEVDcA?oc=5) (The National Law Review)
 
 ### Census and election data
 
