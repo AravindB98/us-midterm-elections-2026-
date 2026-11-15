@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-15T01:04:38Z",
+ "updated_utc": "2026-11-15T01:19:38Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-14T22:59:31Z",
+   "source_revised": "2026-11-15T01:08:00Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -513,7 +513,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-15T00:00:42Z"
+   "source_revised": "2026-11-15T01:17:04Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -1157,34 +1157,34 @@
     {
      "name": "Jonathan Kreiss-Tomkins",
      "party": "Alaska Democratic Party",
-     "votes": 139293,
-     "pct": 50.8,
+     "votes": 141623,
+     "pct": 50.9,
      "party_code": "D"
     },
     {
      "name": "Bernadette Wilson",
      "party": "Alaska Republican Party",
-     "votes": 77110,
-     "pct": 28.1,
+     "votes": 77943,
+     "pct": 28.0,
      "party_code": "R"
     },
     {
      "name": "Dave Bronson",
      "party": "Alaska Republican Party",
-     "votes": 37252,
+     "votes": 37913,
      "pct": 13.6,
      "party_code": "R"
     },
     {
      "name": "Treg Taylor",
      "party": "Alaska Republican Party",
-     "votes": 19709,
+     "votes": 19977,
      "pct": 7.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
-   "source_revised": "2026-11-14T19:01:00Z"
+   "source_revised": "2026-11-15T01:10:40Z"
   },
   "Iowa|Governor": {
    "state": "Iowa",
