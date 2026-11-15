@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-15T04:19:04Z**.
+> Latest headlines refreshed: **2026-11-15T04:34:04Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -99,7 +99,7 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 - [中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税](https://news.google.com/rss/articles/CBMiSEFVX3lxTE42RjZHWU1Jd2JsZE1JVThUZHhOZHhabkZhWmM5NXJwdGNIVDEwNzVsRUM0QXdkX1BlTkw2UUZ3WkJ4Ym5YYnJiRw?oc=5) (财联社)
 - [美国中期选举刚落幕 国会与白宫新一轮交锋已浮现](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHBMWUJPNmItZnhydjA4a0pTWTdFeWVfdFNhNi1PdnpkZHowT3hNb0pjWHVKMFRTSHZWMUlBdG1TN1VLUjExbWotNkMyakpETURxNl81YXhwOXhRVVRJM1hzeGZlbmVBQmo0c3JZVk12TmZhY3JqTFByMHNXVFMzNTJ2QnNoT0hvMzFpSHotRQ?oc=5) (21财经)
 - [美国有史以来最贵的中期选举](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeVhnVjR5WGlfUi1lZzlfU3QtUTFKal9TR09oSVBjTGFlLV9mWlNWSXdRMGpSQlowLU9idFJxTElYTk42M3hnUVg3Xy01dDJBa1VpSV9KYVhqeTJwcVJRUGpHRUJfNzlH?oc=5) (中国新闻网)
-- [每日消息（共同社） - 日本各界关注美国中期选举结果对经济的影响](https://news.google.com/rss/articles/CBMibEFVX3lxTE9wTVloUzA2eUNibG9MOEViQWNCdEVCajZoZGkwalpleEFwSGFhc1UzYkFqV3lFVVdObmRhNnN6clROM19QWU4wSk5jWEhvdGdhRThIV2VVVkxmQWFQaF9iXzN6bEZ3LV81VDFmbg?oc=5) (客观日本)
+- [民主党在中期选举中大获全胜，艾森科特誓言重塑美以关系，美以关系面临考验。](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CMFpnVnZ5SHdfdnNYNEJxeDE0QTA1T2xUOEstX2diazBKaG16QU9xSFZBTFJscXJmbFdrdkxfajB6NWRPcW5ZbFpEX0Z6RnF5TW4tRWU3N19YbDE2V3BmVEVoMXo?oc=5) (Al-Monitor)
 
 
 ## Indonesia
@@ -189,7 +189,7 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 - [EUA continuam contando votos 1 semana após a eleição; 17 disputas ainda estão sem resultado](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFRHbjh3MUlmOW42TVFCYVBXcHVJdHVsWl92Qlg2R3llc3VhZWxzMkRFbkZmc083STRsdmFERE1tVlJ5ZHhiQlBzN0lXaTBQRm9xT0tBVTVvZk1kVEltVnJ2em9ma3Y4RFV3YWhvblFoX3J0ZUhoNmwxZkJkSHNvQlpRYnZVTndnMURCWW5vTWV3ME5mTnB0R0dFMkdybklpRXM3bk9POWpnX29abm43TjRwSDBQbU5Nd1lsZDZQckdkUFBQSGkxd3A2LV9rcnlVTFRYRFNB0gHkAUFVX3lxTE05MkVMQ0Y1TzB6bEdLcmFvRmFBS0lRM19ySndGZnNsS0F3ODlIUl9RSDJnSTdvU0hPdS1JeEcwX1o4amtaMG9BTVlJWTdBUUQyNzZ0UlZGejRKcFNRYjJoVGNKNzRvZlB1VGd2MWhybjlldng4NFNFV0psWHMwVm9JajdRTFYzdmpKdmg5Zm9xaEw3Vmp4ZjVnbEhNSWF0LWRDRHk4TDE5OHRaR0dnTnAwRzFJSWZDSVU0cGMtdkIzLTVLWUhVUzAzelFtRmtCZXVEa0Y5WXA5eFo0bUNfZVRkQlQ4NQ?oc=5) (G1)
 - [O que a "onda azul" nas eleições de meio de mandato dos Estados Unidos significa para a ação climática](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWQ4anhVZXlqMGlpekFrMjhhZzVVd0hta1I3VEMtRWdObC1PcUFMRzZzLUd5clpNLUxsdWFjQl90bHdiYTM0dUlzTV9CY0xid1F1YWoxbXU4QlhoWTdJQmNzbExXOVUtRVRzcF82U2tsTFpFQjlUMGVObU0tYXkzbEU4NFgyNzFQRUZVWmEyNVJSOThULTVidEhUdjVBRngzRU9sUnNRaUtGWXJsYnMwWTlxWXlnUnFGNnZNekxzQ1AxRkhIQlZPag?oc=5) (((o))eco | Jornalismo Ambiental)
 - [Trump afirma que resultados das eleições de meio de mandato são 'gigantesco retrocesso' para EUA](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS1RsU3JpUDBfZFRTMlNPWUFCUVBHMHhTVFRzdXVVanJZakQxemdPVDc0RjZlNU1RMUZ3QVVESmQ3OEdDejJ2XzJoa3V6WlRfblF1R2RaYjFEZ1ZzdWFxZDZNRGh3X1VQc1BtTUVwcWswai0wSGcxclRzRmVZQmFTTThkZFRYV21FLTNYTjNia1dlNXNydkdYXzZmU3g5Wkg5eVhOd3g4QmFIMlo3eHBYd1RLZ2piVXJWMGlhcGN6S3o3MVkzT0I2UzJ1MHJnUkRMdHl1eUdieTdjOVE5?oc=5) (Folha de S.Paulo)
-- [Eleições no Brasil e EUA movimentam tabuleiro geopolítico nas Américas](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeWxLeWkxMXFPel84Mmd0Ui14SlQxd1VURVRmSlU0bjE5ODVlbjFTRlVRM2s0WjJzNXVWbDlXTDhlRF8tWDRZUU5vZGt5Vy1nN0JsQUhfLUNaQU5VZTVSRHZSaTZFdkRZTm9Yb3BWaENEVk1CQlJHWi0tdVJLSllfa2tvTHp6Sm5sdVYxRWp5RnlFYW_SAZsBQVVfeXFMT2Vxd0V1cDgwZ0lRTEJlTmRkX0o3eThaVmNGcV9Tb19kSVE2cmdiNlZFZkJaZ0pUYklMd19KMzJKdFhPbng0dER1aXpXdjBGT1Q0ODR5Mi1RMFcwd2xzTnNXSTRJbWwtLW0zMVhDZ0QyNW5vNnZEaG9yX3ZvbUhiY1QydFBlRmx3OFVNNm5XSlhyQUNWejhnT2hJME0?oc=5) (Partido dos Trabalhadores)
+- [Tsunami azul nas midterms: será o fim da era Trump?](https://news.google.com/rss/articles/CBMihgFBVV95cUxOVW1YMWoxUnhWeTk1THVCeVFlY0FFakM1YXBXSzhsSHFPb1ozMUZjZUtWUS1nczdhWUhHVXFtMTRIbzJDeTJNcTU5eXFXOHRKcHBPcGNQZzRWekdrM0RDN3ZpNlFiY0FXYk9kMHJLVkV5eUd6dTJqVUtXSmZicDBUc20tLXNGZ9IBiwFBVV95cUxNdWZsdVFmYlVzQ0V5dUY1aTdJdmFWTnFWTEp1MWszNXNuVFluMzRRYUs0eWxyX2oyMXpESW0xTXJnRWpobTZ2NHBlelV3ZkFqQmVjejRKMkNnX01fMUVBbUYwczRmbGR3ZjlwZktRVXhqRGZyMWRrNWNtakFKaFVfdEMtblFacDdQSWJF?oc=5) (Agência Pública)
 
 
 ## Bangladesh
@@ -425,7 +425,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [2026 midterm election voter turnout exceeded expectations of experts and clerks](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTF9mNG5CalBvelhUYjFsUHJKU01qUWFPTlBTbGxIeHM3SEZpeUlsYnZWY3ZmVG94TTdZYnJNYmhIT09hM2xRMl9WU2J6N0tJSUdGdXJZUXdVWmpuLXQ1cTdDM2ZDQUVKOHB6eW1WZVQ2THJJWlFCX1ZmMWEwekZjeHdEdmhlMmtkbFFKMkhPZElhQWpoN25SbHJwVXFrb2o5alBhWkFMQlDSAbwBQVVfeXFMT1RGQ1N3aXpqWXNocTVUVklzY2hBWUY5eDl1MWZlMGJrNnBIeVBGRDA5UE5uRjI1UURKcm1zQW9MdkFPSkhQbzNYOWFDZ2JYMTc1Z3hsaGJJX1VJdjNuQ21ldzhMdzBVa194S1NQM0gyaUdEQUNvWEJDQ1lDMkhoT0xSOE9TVVZlS0VINkZtWEdvOHdsdENKQnFuMXVDelp2VHh1d055R0pXZThtZW4yYU5uVHhKZm1jOHNkWHY?oc=5) (WILX)
 - [Fact Check: Texas didn't have more registered voters for 2026 midterm elections than adult citizens](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaE8tUVFWOXJBNXZzaWhkMGQ1NmxxcDFST0tMMUZGamdDX0dZWV92RU5vb0hYamZDQVdDV29MMWRLT2JVVmR0UUFHM3NCbVJuUGNiSlluVHVnblk1bFVlLXRyRlNoajktd2FfZnVkTVk0eVduRlE4TFRwaUhtQlh1ZWRHQnZiLUx4SmJMeFhzaFo?oc=5) (Yahoo)
 - [5 things we learned from Michigan's historic voter turnout in 2026 midterm election](https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGR5ZEl2V19hWnBrd0F0ODNSZ0kxRE9lejZyN1RzTW8yV1ZxOUh2OWY5YnhPck0wWU5SWU9zSmpISmRZY2JTNWo1NVVJdW9mVDk0STZVcUtFTnFPQ00xLXlUQ1hkS2I1Wjd0ZnVScHlZNy0wRHlTekJ3YlVJcFlfYVIzRG81MVpHb2VpOWxzTEhtZVY2WWF3?oc=5) (Michigan Public)
-- [2026 Michigan Midterm Election Results](https://news.google.com/rss/articles/CBMibEFVX3lxTFAzdVd0QWRXZVllV2lQR0pxamw0TWZ2ZjhBNlY4aGh2TmVETUhGSHlQdm1nV2pqVkhyZmZzWVJaUTNUdmttZXM0VF96OHFMR0dQdEdrNnhBSHVlTDZISHd4c0s3aE9MQU1BdEdoOQ?oc=5) (AP News)
+- [Midterms advance county officials, Florida property tax cut](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXhhQjJYc19OYjdJbGxmWGM3VUR3ZUMzX3JaQVYzSm54YjJaNlFvcXpHOW1zSTJ2LVlYUHdQSXhSMTFIWlZpdDNQa0JNenpuUDRuVXFCeDRJUUFZaGZibk1tQ1hvOGFDeWNJOHUxdXg2TE5hRTdFaU5mYmxrUXJwd1pZZTBaMWREVFgzQQ?oc=5) (National Association of Counties)
 
 ---
 
