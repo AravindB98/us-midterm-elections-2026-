@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-15T07:04:04Z**.
+> Latest headlines refreshed: **2026-11-15T07:19:04Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -275,8 +275,8 @@ _Note: ARD, ZDF and DW are public broadcasters._
 **Latest headlines (auto-updated):**
 - [US-Midterms | die woche](https://news.google.com/rss/articles/CBMibkFVX3lxTE1qakFBazlJdXVDd0p2NW5DWVdISVA5dkxwdC1ob3RaMWZnWVU0T1dxakxVd1Y4UDBGd1dEb19FbjhNTW5ORDhDR3ZjTFZ1Q0g0a1czczBvbUU1dnFaM2xQRHU2NnlRanNoZjFmOENR?oc=5) (Phoenix.de)
 - [US-Midterms: Das Blame Game hat begonnen](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSk5nZk8xUENnUUtrLS0zeFdaUF96YzQ4UjQxSmhaNEJJRktmYmVYN0xadzNXRi1hc1ZHNWIyTEdvZFp5VzZ1UlRZaFo3VDBtV2EtSnhHTzRldVM1aTI5dzJjV3Y3OGJvWFZ1TFNTTUV1TGhubHQxODJYMmkwVl9PTFVrNjNfdFZjeHNF?oc=5) (DIE ZEIT)
-- [28 Minuten - Yannick Haenel / US-Zwischenwahlen: Test für die Demokratie? (04.11.2026) - Komplette Sendung](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZUstLTM0T25Dc21LMlNHSEVLQmxTdGhLbkdfb2oyUkdmMXgwSU5iaV9Oa1NVUWlmbUJVQW0tWUNlQ3VlTzFoZUZ6Vm9FUHNHTVNhLUlITWI1Tmo1b1l3MjVWdVI?oc=5) (Arte.tv)
 - [Alle Ergebnisse der Midterms: Wahlergebnisse der Zwischenwahlen in den USA im Überblick](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU1ZLQmVzeTRhUElfTDB2Wms4ajF6ZUJKNk5sdzQ4LWV0QzZjdVhDOWxRNmtnRGxUbFFmNWd6SWxLOTRkNzh3N0VnOGlLVTVaN2t4LWNyQ3ZpS2Y2WU50b1FyU0wyS195RWUwY2NORXllZ0cwR3U5Q2ZzLWpZekNCaU5HeWo1T3BVaEItYjZFSjFSc2paczBuczNwYTY5Vk1ZeVRYd0xiYnN0Yklzd0pYeTVIZlRRWkgwOWJPWUdLNElGUDJQVjBvRVdrNXFKTnpBQVhETHdTbm5zRHVTLURYU05n?oc=5) (T-Online)
+- [28 Minuten - Yannick Haenel / US-Zwischenwahlen: Test für die Demokratie? (04.11.2026) - Komplette Sendung](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZUstLTM0T25Dc21LMlNHSEVLQmxTdGhLbkdfb2oyUkdmMXgwSU5iaV9Oa1NVUWlmbUJVQW0tWUNlQ3VlTzFoZUZ6Vm9FUHNHTVNhLUlITWI1Tmo1b1l3MjVWdVI?oc=5) (Arte.tv)
 - [Erdbeben bei den US-Midterms: Was nun, Mr. President?](https://news.google.com/rss/articles/CBMie0FVX3lxTFBDeXAzb2NyeC1GZUFZWVNWSU54bUFaTEpUNXpobXpyeFJZcC1nMzdFNXRuTlFjUENQanlLS1hFbGhpZk43emZQdEZIeXA1YndldGNiWEZLcXZTRXRYTGlfY25kOGtaSnZRNnVpU2sxM1REUG5hZmRrRmZNYw?oc=5) (ESUT)
 
 
