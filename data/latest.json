@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-14T23:49:25Z",
+  "updated_utc": "2026-11-15T00:04:25Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -35,7 +35,7 @@
     "midtermforecast": {
       "house": 91.0,
       "senate": 76.0,
-      "as_of": "2026-11-14",
+      "as_of": "2026-11-15",
       "status": "live",
       "type": "forecast_model",
       "name": "midtermforecast.com",
@@ -45,7 +45,7 @@
     "kalshi": {
       "house": 94.1,
       "senate": 75.0,
-      "as_of": "2026-11-14",
+      "as_of": "2026-11-15",
       "status": "live",
       "type": "prediction_market",
       "name": "Kalshi",
@@ -145,7 +145,7 @@
       "status": "live",
       "senate": 99.0,
       "house": 1.0,
-      "as_of": "2026-11-14"
+      "as_of": "2026-11-15"
     },
     "manifold": {
       "name": "Manifold Markets",
@@ -154,8 +154,8 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "house": 98.7,
-      "senate": 88.5,
-      "as_of": "2026-11-14"
+      "senate": 92.6,
+      "as_of": "2026-11-15"
     },
     "metaculus": {
       "name": "Metaculus",
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 81.6,
     "house_n": 9,
-    "senate_dem": 81.6,
+    "senate_dem": 81.9,
     "senate_n": 8
   },
   "senate_projection": {
@@ -229,7 +229,7 @@
       ]
     },
     "senate": {
-      "value": 81.6,
+      "value": 81.9,
       "median": 81.0,
       "n": 8,
       "min": {
@@ -241,11 +241,11 @@
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 11.6,
+      "stdev": 11.9,
       "by_type": {
         "forecast_model": 72.7,
         "prediction_market": 91.3,
-        "crowd_forecast": 86.2
+        "crowd_forecast": 88.3
       },
       "sources": [
         "ddhq",
