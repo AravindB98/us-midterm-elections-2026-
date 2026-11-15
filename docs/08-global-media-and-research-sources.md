@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-15T15:35:01Z**.
+> Latest headlines refreshed: **2026-11-15T15:50:00Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -47,11 +47,11 @@ _Note: Mix of commercial networks (left-, right- and center-leaning) and public 
 **Verified 2026 midterm coverage:** [NPR: competitive Senate races ranked (Oct 30, 2026)](https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map) · [Fox News: what's at stake (Nov 1, 2026)](https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing) · [Forbes: latest polls (Nov 1, 2026)](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/)
 
 **Latest headlines (auto-updated):**
-- [What are the key takeaways from the 2026 midterm elections?](https://news.google.com/rss/articles/CBMihAFBVV95cUxObk5CeEdadVN3VmhFTjYtR1h3WVdxVFBQMGFnUzRJWTNwRG50ZnpYSDFibTZ2SVpYT00xT2JRQWhBWDRhSEc2TXJ5Y0JFcjVwTDM3d1FCNGgzZzZWQk1GNDd5bmJnQUpVQ1FGQy1kVGtPTVU3cF95dHR1cF9HanJ0TUd6a2k?oc=5) (Campaign Legal Center)
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [The historic firsts of the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5) (Ash Center)
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 - [‘A complete repudiation’: public health won big in US midterm elections](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjFiTTgtTXgzdVNNcUNpM2xRWUs2by1Dckx5Zk9pWjZFczRBZHBLWjJfelVtRGY4Sjc3UFRnT09UYkc4SzBkNWZwTWJDUVJZaDBVUklYYTdLdUxwVkFLYUtSTmpnUnYtcWhhLWFzRW04THN4QlhKTV82Y3BLS2NFaGNzdHRFZFl2QjBZdEo4VVg?oc=5) (The Guardian)
+- [Forecasting a Democratic Resurgence? Partisan Accountability in the 2026 U.S. Midterm Elections](https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVljT0NBai1vQXlOOXRuV3JkOW5qMkJ1V2czYlZXYTR3WTkzSFQtb0NOemNsb3lJUjNleDNCZnBqZzRsdGU1QUVZdnhNRXZISi0yVVRVODlxU3QwQXczM0RVNkpZUFpmTy1ULVFlRVg2NkMtSjlNdi1wUjd2OFY1X0h4LVQ3MmM5R2IxWm5BWkpPcGtCWjBudUxFSzFpWmplNnNBT256cGxjT0h6Y0ZiVno3UkNXUWtBTGZzVmFHd1dTYXNQ?oc=5) (Political Science Now)
 
 
 ## India
@@ -97,9 +97,9 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 **Latest headlines (auto-updated):**
 - [美国中期选举——对特朗普最后两年任期及之后的影响| 牛津经济研究院](https://news.google.com/rss/articles/CBMitgFBVV95cUxNQXQ0emsxa2NWck1RUTBzelpEenFSU0FsWUI1TEhtUDF5VzJEWk1sZHZvY2xuTzhQenNtOEp1a1dUTEhhRUphS3piaVV4UGZYbnRQeFpFaEpfUmQ0RE5LR3pwandzamhaN0c2OUZCSWtSUEJBNHhlQV9CRGFwd0gtby1nLTRtaG1IbU9oZDJSeDlkMkhFVUtWTHVfX0MtOEF2UWItLU5tSzA0RmhPWkUxQV9hMVhLQQ?oc=5) (Oxford Economics)
 - [中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税](https://news.google.com/rss/articles/CBMiSEFVX3lxTE42RjZHWU1Jd2JsZE1JVThUZHhOZHhabkZhWmM5NXJwdGNIVDEwNzVsRUM0QXdkX1BlTkw2UUZ3WkJ4Ym5YYnJiRw?oc=5) (财联社)
-- [特朗普质疑美国中期选举结果 称提前投票数据异常](https://news.google.com/rss/articles/CBMieEFVX3lxTE4xaHBWVFdPWkVoSHlhUHJCTklDblBYX2d5TjJyTnBOX29tMzNIQkVlVjN1d1RlMHN4djFrWlZmMUlPQjB4dUR6dmtreXd2OUdpWk9MOWhiR0ZlTDZDc3ZkV21FM3QtaGNKQXVVU3B2TEFnbXhDRzA0cg?oc=5) (央视网)
 - [美国中期选举刚落幕 国会与白宫新一轮交锋已浮现](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHBMWUJPNmItZnhydjA4a0pTWTdFeWVfdFNhNi1PdnpkZHowT3hNb0pjWHVKMFRTSHZWMUlBdG1TN1VLUjExbWotNkMyakpETURxNl81YXhwOXhRVVRJM1hzeGZlbmVBQmo0c3JZVk12TmZhY3JqTFByMHNXVFMzNTJ2QnNoT0hvMzFpSHotRQ?oc=5) (21财经)
 - [美国有史以来最贵的中期选举](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeVhnVjR5WGlfUi1lZzlfU3QtUTFKal9TR09oSVBjTGFlLV9mWlNWSXdRMGpSQlowLU9idFJxTElYTk42M3hnUVg3Xy01dDJBa1VpSV9KYVhqeTJwcVJRUGpHRUJfNzlH?oc=5) (中国新闻网)
+- [美国新一届参议员如何看待中国？](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHZCUDJNdl9NdTJUcmtGSXNlSzhKckJUaUhuV3pWLWdRbG5vT2ZEeDlBa0ZXa1NpQ2NaYk1zNEtSbnV1UkVpWTFDWDVJUEt0SVpYUHlxWmxxUHFqa2hRYmwyMktHMnNqSHBzNkxTbGF2MzBjRXpkS1lkSlAycXh6ZWNrOGZCNzlOOXhZQ0FyTnh2dUJpOVpvcjc2dTlhVWh2QTFXcEN4bHnSAagBQVVfeXFMUER2QlAyTXZfTXUyVHJrRklzZUs4SnJCVGlIbld6Vi1nUWxub09mRHg5QWtGV2tTaUNjWmJNczRLUm51dVJFaVkxQ1g1SVBLdElaWFB5cVpscVBxamtoUWJsMjJLRzJzakhwczZMU2xhdjMwY0V6ZEtZZEpQMnF4emVjazhmQjc5Tjl4WUNBck54dnVCaTlab3I3NnU5YVVodkExV3BDeGx5?oc=5) (美国之音)
 
 
 ## Indonesia
@@ -250,8 +250,8 @@ _Note: US election coverage is limited; international wires (Reuters, AP, AFP, B
 
 **Latest headlines (auto-updated):**
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
-- [What the US Midterm Elections Mean For Climate Progress](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0VhZTE1Mnh2MnZKTDczNGVQOXlEZnQ0aE0zVU9SdlliTmVtemdSNTV2NnNKMlJJUVZmZFRCQlRDcXJqaTNEaXlRQVFtdXVEa3hMaWpRRl9SdjF6MFphbll0c1dPaWpBYmYyd3VIMlZFdGdMdnVXbl96bmkyQ1hyNlRaQThBLWJwTG1DSlAtM3BjbGFPbHJv?oc=5) (The Equation - Union of Concerned Scientists)
 - [Trump reverses stance, alleges fraud in recent US midterm elections](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnZ0UGV3RFQ2OWZpeVZQSlk0NkJTMmNfNks2T05zcGV0SjgtUEZXZXJIUDJEaVdjYjVia2YtaXRiS3lOaFh0ajVucVNkWDQ4akVXckU3RWx6NzZyT3pCQnhqYUhmS0pSQURpXzFabVhncXZTTlZFYjNnZVZWUDRROHFPM0NxenlRZVhUYTd2QVQ0c1B3VWsyUTRkcWlhOGtVcXk4OHl6TkVjenPSAbABQVVfeXFMT1UyRWYtbVdYZVF1VTB1LWdHS0dHMno5MlpwaGFnbHVuRy0tZW1CZ0JNSTlFVFZyMk5aQmlmbGF3V2VRWEMxQmNRVlc1aWtLNlZzWVVGWDFUMmVOUk04RFBGRVhLMVo1bm8xRE9vZFZwQ2NrSFBmLTFzaUdhSUlFZVhhOWtGX3VydFdGN3BFTFJOaTlQcWY2MURZaFJoUDNubE9oeGFMSS1ERlNHcG9EVGk?oc=5) (Al Jazeera)
+- [What the US Midterm Elections Mean For Climate Progress](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0VhZTE1Mnh2MnZKTDczNGVQOXlEZnQ0aE0zVU9SdlliTmVtemdSNTV2NnNKMlJJUVZmZFRCQlRDcXJqaTNEaXlRQVFtdXVEa3hMaWpRRl9SdjF6MFphbll0c1dPaWpBYmYyd3VIMlZFdGdMdnVXbl96bmkyQ1hyNlRaQThBLWJwTG1DSlAtM3BjbGFPbHJv?oc=5) (The Equation - Union of Concerned Scientists)
 - [US midterms: assessing the results and implications](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5) (Economist Intelligence Unit)
 - [US Midterm Elections: Democrats Pledge to Lower Health Costs and Revive Research Funding](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnh5ZkxnQ1NvbEpFNWh6cVl3dzJWTWlGY0tsUTNkX096QjQ0Vm9XcW9iV1ZDRXB2UkE1a1hGZnFmY1g4bEZaN0hVZGZtTjFJTE1IX0dUajZQR1k4cFNfdFRJbllaNFVEOE0zclgzVDRSRlZrUTM3R0hRWHpVOHQzcVhMeGtrMHU3dGY0MVAtWEc3bnVaQnEwSVdCSlJUN0x5WkJUUjRyTjhuOHItR2xwUDdycTU0Z0czYWtJcw?oc=5) (Health Policy Watch)
 
