@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-15T19:50:00Z**.
+> Latest headlines refreshed: **2026-11-15T20:05:01Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -166,8 +166,8 @@ _Note: Interest centers on US visa policy, travel restrictions and Nigerian-Amer
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 - [‘A complete repudiation’: public health won big in US midterm elections](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjFiTTgtTXgzdVNNcUNpM2xRWUs2by1Dckx5Zk9pWjZFczRBZHBLWjJfelVtRGY4Sjc3UFRnT09UYkc4SzBkNWZwTWJDUVJZaDBVUklYYTdLdUxwVkFLYUtSTmpnUnYtcWhhLWFzRW04THN4QlhKTV82Y3BLS2NFaGNzdHRFZFl2QjBZdEo4VVg?oc=5) (The Guardian)
 - [The US midterm results could have real consequences for the war in Iran. Could it end soon?](https://news.google.com/rss/articles/CBMilAFBVV95cUxNX1k4MDM5U2t0ZzdUYTJtWEpreVp2MGx1V1RyUDJRQllEMDJiR0FwNXhuSE9yem11SlZaV3BFSXhMMEVsTUFaZ0lubll5aTh4S2EwendEbFNQbUJrSFNVY0lxYUhBSU12dnNjUUlGSDN0b1h6R3Y0bFgzaUQzQWdxSy1zLUxxVlI5VzZqdjlkeGNoallw0gGUAUFVX3lxTFBiekYzdlQ4M1NtTmJYOVFRbG16STUwdzhyYVlSQlhPN1hwQ0VyS2pzRDJSTk1NekRxd2FQb2xzYzYzMDdYWEpWbVlDbjNPZ3IzM2UwdjhDdVR0Mm4zM0tITURoRTJCbVZ2RU14VVF1Ri12dnVJd3R2b2dSLU95VnNscnRpczYtTWdyNDhsRmJqUkw5UVg?oc=5) (DW.com)
-- [What the US midterm elections mean for energy](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTdJenVreEFUZllUVVc4eXhESHlhM2lraHZJOGhpYXVqaVFybmtfS3VJNnZpTldRUU9CYVJSSFdWaW1sdXBNQ3pmaHVtelhxVm1HMjZXNE9FWGdoUUQybFZ4QmNrNE1GelpGQWtuYVVJck9FOTFsYm5GVDVDdEYxQVhiQU5hWi14XzQwR2JYZnBuVnc?oc=5) (Wood Mackenzie)
 - [US midterms: assessing the results and implications](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5) (Economist Intelligence Unit)
+- [Trump reverses stance, alleges fraud in recent US midterm elections](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnZ0UGV3RFQ2OWZpeVZQSlk0NkJTMmNfNks2T05zcGV0SjgtUEZXZXJIUDJEaVdjYjVia2YtaXRiS3lOaFh0ajVucVNkWDQ4akVXckU3RWx6NzZyT3pCQnhqYUhmS0pSQURpXzFabVhncXZTTlZFYjNnZVZWUDRROHFPM0NxenlRZVhUYTd2QVQ0c1B3VWsyUTRkcWlhOGtVcXk4OHl6TkVjenPSAbABQVVfeXFMT1UyRWYtbVdYZVF1VTB1LWdHS0dHMno5MlpwaGFnbHVuRy0tZW1CZ0JNSTlFVFZyMk5aQmlmbGF3V2VRWEMxQmNRVlc1aWtLNlZzWVVGWDFUMmVOUk04RFBGRVhLMVo1bm8xRE9vZFZwQ2NrSFBmLTFzaUdhSUlFZVhhOWtGX3VydFdGN3BFTFJOaTlQcWY2MURZaFJoUDNubE9oeGFMSS1ERlNHcG9EVGk?oc=5) (Al Jazeera)
 
 
 ## Brazil
@@ -205,11 +205,11 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 **Research and think tanks:** [Bangladesh Institute of International and Strategic Studies (BIISS)](https://biiss.org/) · [Centre for Policy Dialogue (CPD)](https://cpd.org.bd/)
 
 **Latest headlines (auto-updated):**
+- [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [US Midterm Elections: Democrats Pledge to Lower Health Costs and Revive Research Funding](https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnh5ZkxnQ1NvbEpFNWh6cVl3dzJWTWlGY0tsUTNkX096QjQ0Vm9XcW9iV1ZDRXB2UkE1a1hGZnFmY1g4bEZaN0hVZGZtTjFJTE1IX0dUajZQR1k4cFNfdFRJbllaNFVEOE0zclgzVDRSRlZrUTM3R0hRWHpVOHQzcVhMeGtrMHU3dGY0MVAtWEc3bnVaQnEwSVdCSlJUN0x5WkJUUjRyTjhuOHItR2xwUDdycTU0Z0czYWtJcw?oc=5) (Health Policy Watch)
-- [US midterms: assessing the results and implications](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5) (Economist Intelligence Unit)
 - [The historic firsts of the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5) (Ash Center)
+- [US midterms: assessing the results and implications](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5) (Economist Intelligence Unit)
 - [What the US midterm elections mean for energy](https://news.google.com/rss/articles/CBMikwFBVV95cUxNZTdJenVreEFUZllUVVc4eXhESHlhM2lraHZJOGhpYXVqaVFybmtfS3VJNnZpTldRUU9CYVJSSFdWaW1sdXBNQ3pmaHVtelhxVm1HMjZXNE9FWGdoUUQybFZ4QmNrNE1GelpGQWtuYVVJck9FOTFsYm5GVDVDdEYxQVhiQU5hWi14XzQwR2JYZnBuVnc?oc=5) (Wood Mackenzie)
-- [‘A complete repudiation’: public health won big in US midterm elections](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjFiTTgtTXgzdVNNcUNpM2xRWUs2by1Dckx5Zk9pWjZFczRBZHBLWjJfelVtRGY4Sjc3UFRnT09UYkc4SzBkNWZwTWJDUVJZaDBVUklYYTdLdUxwVkFLYUtSTmpnUnYtcWhhLWFzRW04THN4QlhKTV82Y3BLS2NFaGNzdHRFZFl2QjBZdEo4VVg?oc=5) (The Guardian)
 
 
 ## Russia
@@ -231,7 +231,7 @@ _Note: State media present the official Russian government view; independent out
 - [Рубио: промежуточные выборы не повлияют на внешнюю политику США](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTExSlBqWVhqU2pid1EySHpVQXVtWG9sUF9DRVM4S0hIQzg0ZWxxR192Q19idmpaSGhSVGtJNm1JelY3a1ljSEdtUHMtQ1NmcjRpVkZZZ0dOYXYtcF91OHJGcjYxV0dpNUkxOUljalZTaHlocFFEQ3Q5R25JMG5GbEZOTDhsWEhKbzBrNmNjM2pnVEVxLU9GcVV3?oc=5) (Ведомости)
 - [«Кто-то верит, что выборы были честными?» Трамп поставил под сомнение поражение республиканцев](https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDFYRmZzRk96T3JlSE9jczNuOFdsbVYzcHFGMzBpeVFIOXZzYVBTZjRkRkRwOTZ5X1pMazh2bEg2TlNrLTliTDR6NW55d2xFYWZUalJUZ3Z0dU5EUlI3dDM3V2p3U1FRSkJXdzZ2N2thR2RqeXlZQ3UxZ3Q2THpDY3hOOGVaa3hheU5zWG1Ec1UtV2pYM0tiTEJVTllBa01nOE11eW1LWkF0S21VZmtGSXg2MTZONmFRRldoV01GdW9xT2pn0gG0AUFVX3lxTFBuOW5Gci1tMVI2Y0g3dUQ5U2dWYmtNU2pSMTN5cWxoUzluUmZuUnJnYUljd1otU29jYnJBMXFpM01GY09zM0lxVVRtakNTM19HaXo4NmJqbklxTkFFT3NSdWdmMmp4NGp3V1dNR0YwOTBZUTFrTGRkWG91LWdJZFdUcFpkSXljVzhzXzZwTlFBbTRBMXUyYWxWZDd5bGpjNU9ROUQzdHFvTFU2anlOWVNmdEt4Mw?oc=5) (NV)
 - [Трамп усомнился в честности выборов в Конгресс](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjQ3daTUNTTkRNUFpnelpZazdGcU1YQ2NtOFo2VTlKeEVQUE9Pemc0a0haeGVfcEhQSnZZNC1tRWtwMmFNSFdEb1FYM2ZNd9IBS0FVX3lxTE8zMjFWT3BVbnVHZnlha2RqRW5XMHhhb1hFLUxmSWJYZDdvRG0xd3JkSkV4aTMyWUhOUHloYkFKUzNiU3oxUzBqZWVPZw?oc=5) (Интерфакс)
-- [Сделка откладывается: как новый Конгресс может изменить внешнюю политику Трампа](https://news.google.com/rss/articles/CBMitAFBVV95cUxNb05RNGkxYm1qRXloeXh5N0txcUtnc2szSnZMdXdaMEFoREFOX2NWellpUnVmV1lTRnpMMVJLTGxyNEgxRjFGVUJHU0JrVFVCMmV2WW1yV1hIMURpcVhRMDZ6SEt5TzZSNVNmU2ZqaG9uWXludGl6Rk1icjROWUJ6YnpiMHRzTTlPcl85YXhudWRFV3htRnNSczJVcjFPRFNTSmRPRU5JUkVwQkRoT0xuWGRFMlQ?oc=5) (Forbes.ru)
+- [Демократы на пути к созданию крупнейшей фракции в Конгрессе США с 2008 года](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NREtTamQxc0xMLUgtZkJLVzBRcWc4VGJ5ZU51eERfRHVSb3FFbE51dHRLR3VyX3NsekRNZWFYeXdYOW1nMUNkWmdyd3NlcWR1eUFiTFhB0gFYQVVfeXFMTkVHYmlQd1ZERHRDbDFtc2lRR1BUTzVYS2M3amZEUTRMS0JZNTlyM1pscGV4UVBzSVJ0TmFUVnZIRVJXSGtQbHVWOHNtdGhERlFRdDcxaDVMTw?oc=5) (Голос Америки)
 
 
 ## Ethiopia
@@ -413,6 +413,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 ### International students and visa workers
 
 - [This Week in Immigration: November 13, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
+- [Alabama college, university counties shift toward Democrats in midterms](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhEbmcza2M3elAzVkRLSWdmUlZJY3o5YVdvdWJ3a3BSd1lMREZtUHpudVV1aU1udXJCbVFtSVp2NjN4YlJ1SllOa3FEakc2cmJrUEtXREJqLTJiVUFhMHRfMXRYZ3NsdVpYaFRidGMxVW5QNGVtMUJJOW1GdERrM2NicHhnQmhuZmt1bjN0NG5SeU92ZlBWV2tRX1FmZE1JaDk0LTVoM0pSZlJBR3c1a0ZOZjE5NXktY0VJ?oc=5) (Chattanooga Times Free Press)
 
 ### Census and election data
 
