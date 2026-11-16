@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-16T13:36:57Z",
+ "updated_utc": "2026-11-16T13:51:57Z",
  "countries": {
   "United States": [
    {
@@ -423,13 +423,6 @@
     "published": "Mon, 09 Nov 2026 17:30:20 GMT"
    },
    {
-    "title": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5",
-    "source": "The New York Times",
-    "source_url": "https://www.nytimes.com",
-    "published": "Sat, 14 Nov 2026 08:00:00 GMT"
-   },
-   {
     "title": "US midterms: assessing the results and implications",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5",
     "source": "Economist Intelligence Unit",
@@ -442,6 +435,13 @@
     "source": "Wood Mackenzie",
     "source_url": "https://www.woodmac.com",
     "published": "Mon, 09 Nov 2026 23:10:54 GMT"
+   },
+   {
+    "title": "Democrats Seize Control of Congress as Voters Rebuke Trump",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5",
+    "source": "The New York Times",
+    "source_url": "https://www.nytimes.com",
+    "published": "Sat, 14 Nov 2026 08:00:00 GMT"
    },
    {
     "title": "The historic firsts of the 2026 midterm elections",
@@ -988,7 +988,7 @@
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5",
      "source": "NBC News",
      "source_url": "https://www.nbcnews.com",
-     "published": "Mon, 16 Nov 2026 09:30:21 GMT"
+     "published": "Mon, 16 Nov 2026 11:30:21 GMT"
     }
    ]
   },
@@ -996,18 +996,18 @@
    "label": "Polls and forecasts",
    "items": [
     {
-     "title": "2026 U.S. Senate Election Results",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-     "source": "AP News",
-     "source_url": "https://apnews.com",
-     "published": "Mon, 16 Nov 2026 11:29:36 GMT"
-    },
-    {
      "title": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5",
      "source": "The New York Times",
      "source_url": "https://www.nytimes.com",
      "published": "Sat, 14 Nov 2026 08:00:00 GMT"
+    },
+    {
+     "title": "2026 U.S. Senate Election Results",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+     "source": "AP News",
+     "source_url": "https://apnews.com",
+     "published": "Sun, 15 Nov 2026 08:00:00 GMT"
     },
     {
      "title": "Story of US 2026 midterm elections in maps and charts",
@@ -1038,24 +1038,31 @@
      "published": "Tue, 10 Nov 2026 08:00:00 GMT"
     },
     {
+     "title": "2026 U.S. House Election Results",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+     "source": "AP News",
+     "source_url": "https://apnews.com",
+     "published": "Sun, 15 Nov 2026 08:00:00 GMT"
+    },
+    {
      "title": "Latest Senate Polls: Midterm Elections 2026",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kem1zNEtLLXJhQndGWG1LTlI2UWtfWGlqdzJwTGFhV2c1ZUpYYTlNQnNaMW9HUGlHN281RzZpTktsSXVEVXhnS1diRndPbzQwYmtnM2NQSkY5VUstWFAta2ZuVlpRYkhMZk5hNEZrN0Vpdw?oc=5",
      "source": "The New York Times",
      "source_url": "https://www.nytimes.com",
      "published": "Thu, 12 Nov 2026 16:32:35 GMT"
-    },
-    {
-     "title": "2026 Virginia Midterm Election Results",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQm9vbkNhNjZDWDVDRkt1S0JGLWhFOHhxdGJyYzFncGgwckVJb0huSldQOVR0VUZwZGZjTWZhTmpmV2RNVHF1cnRKZ28ySnpUeHNXY2dmMk1DM2dPcWFkaU9CVDFjMDZqQmY1Mg?oc=5",
-     "source": "AP News",
-     "source_url": "https://apnews.com",
-     "published": "Sat, 14 Nov 2026 08:00:00 GMT"
     }
    ]
   },
   "noncitizens": {
    "label": "International students and visa workers",
    "items": [
+    {
+     "title": "After the 2026 Midterms: What Employers and Foreign Nationals Might Expect in U.S. Immigration",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWGJWTUw3bjRDbTBJMjUzR1NWQzExenVTQkV0ckFuTlNsbGRjeWlVSHhxV2VkTFZLSE9MWmxlaEJ5cHFOR0tMd1gzdjVQT1NRZHQ5TmdSakZmbkN1LXUyNDU4LVh4NklGV0VjaHo0bGwwQjAtZmtZLWNza2Z2NkRTZ2JrcG1jZ1dxdlE?oc=5",
+     "source": "Jackson Walker LLP",
+     "source_url": "https://www.jw.com",
+     "published": "Wed, 11 Nov 2026 15:01:32 GMT"
+    },
     {
      "title": "This Week in Immigration: November 13, 2026",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5",
@@ -1240,18 +1247,18 @@
   ],
   "JD Vance": [
    {
-    "title": "Trump launches campaign tour in GOP-friendly states ahead of midterms",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3pHVUU1VlNHUC11VldXZ3A4djFTRDNjRWcxMzhQbW04R3RFQnRFdTZleU9YMXpEUXRUUUQ4RkFxYnhlVE1jNklfbW5RdnFjUDFTMGZJYkkwd09penZValN4NUFTR1RaemZ6ZHd0RF9iclBRVU90LWF1dUpCU2tTOFdDU21NWTQzeXdGSVcxVWNkSFFYQnhkVWcya3FEX1V5cWZ6YXBXVjA?oc=5",
-    "source": "News From The States",
-    "source_url": "https://www.newsfromthestates.com",
-    "published": "Sat, 14 Nov 2026 05:11:47 GMT"
-   },
-   {
     "title": "Trump bluntly tells JD Vance to shift focus from Iran to targeting ‘corruption and crime’ at home",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ua0hNbXVMRS14anBqMm53SzExS1YwZWJKelhoMU5jcHhhdlc3ZUVkaDVWaktSNmM1eE80dDJBeVN1V2Vlb285azB6NDBmNkE5WG1HNm42TWl1TWZ3SkJzSFM2bnlTa0g2WmxlZXUzeTE2b01vUnVFcA?oc=5",
     "source": "The Mercury News",
     "source_url": "https://www.mercurynews.com",
     "published": "Thu, 12 Nov 2026 20:35:02 GMT"
+   },
+   {
+    "title": "Trump launches campaign tour in GOP-friendly states ahead of midterms",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3pHVUU1VlNHUC11VldXZ3A4djFTRDNjRWcxMzhQbW04R3RFQnRFdTZleU9YMXpEUXRUUUQ4RkFxYnhlVE1jNklfbW5RdnFjUDFTMGZJYkkwd09penZValN4NUFTR1RaemZ6ZHd0RF9iclBRVU90LWF1dUpCU2tTOFdDU21NWTQzeXdGSVcxVWNkSFFYQnhkVWcya3FEX1V5cWZ6YXBXVjA?oc=5",
+    "source": "News From The States",
+    "source_url": "https://www.newsfromthestates.com",
+    "published": "Sat, 14 Nov 2026 05:11:47 GMT"
    },
    {
     "title": "Trump’s Midterm Rout Didn’t End the Threat From J. D. Vance",
@@ -1400,13 +1407,6 @@
     "published": "Wed, 11 Nov 2026 00:36:40 GMT"
    },
    {
-    "title": "The 2026 midterm elections showed DEI is alive and well",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5",
-    "source": "Brookings",
-    "source_url": "https://www.brookings.edu",
-    "published": "Mon, 09 Nov 2026 21:28:18 GMT"
-   },
-   {
     "title": "Democrats Seize Control of Congress as Voters Rebuke Trump",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5",
     "source": "The New York Times",
@@ -1440,6 +1440,13 @@
     "source": "Houston Public Media",
     "source_url": "https://www.houstonpublicmedia.org",
     "published": "Fri, 13 Nov 2026 14:18:47 GMT"
+   },
+   {
+    "title": "Republicans tap Moreno and Jack to lead Senate and House campaign arms",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdzJiZkQ0bGRQbzBFdkV1MlVUOTZtNmM4OXRXSW1NM2tOei1RajJ2S1VycUxYX0RMdGs5emhaaVN6a1VrRk15cUQwVHhoTFhMc2VGZ3lqNGkyemNCVW91Y3lDN0hlaU5CRC1iR284TVVpWWM1S2FscXU3clBKdkE?oc=5",
+    "source": "Roll Call",
+    "source_url": "https://rollcall.com",
+    "published": "Wed, 11 Nov 2026 00:19:58 GMT"
    }
   ]
  },
@@ -1497,13 +1504,6 @@
     "published": "Fri, 13 Nov 2026 08:00:00 GMT"
    },
    {
-    "title": "Hamilton says he’ll be ‘disappointed’ if Trump investigations are focus of new Congress",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFpabzRkNExudHdyUTZlcWhiRWZrM29jZ25jLWZhQzlHdl9MQ1NKRjRMUVozZmdkalhEY0xaR0IyZnlPbTMxUVBWem52Z3FoQmlDXzNuTUp5VmxNZFhHdjBsZ2VEYjM5ZVJydFVJRVBjTDV4R3dJdHVjZDVJQXU4SjUzVHliaGI0UEHSAYoBQVVfeXFMTXJzRzFsSXVBR1dKNUt6eUZsWEpnM0xPWGFUS1pNVlRfSGlkbUZoaUkzRVdVRmJJNGJsNVZmalZab2RSYXR0TDlGZUZRbkx4WVhhcDJBMGNzTnJHanVhS0t3Y29CblB2cG93UGo1N2dJbE1faDZreHdHZkpOcFp6Z3VRVjNxR2xuOVpB?oc=5",
-    "source": "Kansas City Star",
-    "source_url": "https://www.kansascity.com",
-    "published": "Mon, 09 Nov 2026 22:42:47 GMT"
-   },
-   {
     "title": "Kansas 2026 live midterm results: Democrat Holscher projected to win governor's race",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0RhalMtUEltWkpZUndNZmJENmdyb3h4RDJlSFd4RFVEaGJtSW9EX3ZHNE5UYllSemNOV3pRSmNuQkNDVk9mTXZhT3BxX1BaT0V4UVVIM0I1bmVENm9IeWxSLWNObUFnSlFHTmVVQnFDTHFkQUE5LTAzN2gyTGNuLWhrVDFPb2Ytd09nWjlQM1FGTFRhdG1RMURpMUxLaE5BMlZN0gGjAUFVX3lxTFBTRGFqUy1QSW1aSllSd01mYkQ2Z3JveHhEMmVIV3hEVURoYm1Jb0Rfdkc0TlRiWVJ6Y05XelFKY25CQ0NWT2ZNdmFPcHFfUFpPRXhRVUgzQjVuZUQ2b0h5bFItY05tQWdKUUdOZVVCcUNMcWRBQTktMDM3aDJMY24taGtUMU9vZi13T2daOVAzUUZMVGF0bVExRGkxTEtoTkEyVk0?oc=5",
     "source": "Good Morning America",
@@ -1516,6 +1516,13 @@
     "source": "Washington Examiner",
     "source_url": "https://www.washingtonexaminer.com",
     "published": "Mon, 09 Nov 2026 16:56:58 GMT"
+   },
+   {
+    "title": "New Kansas Democratic senator carries his faith with him to Washington",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0R5RHZOeU5ENmVZQzNOSkdRem44SkJLUllGZXp4MzFjS21oaXZYV0ZqeDBlbVlOQjlia1RkMzNTai0tZ2dfbGJES3V1ODBRVTFNOGU5cW9YZDEtYXBhVGJwdzJqb1pIUV82aVV2RldvV3NFemxlRGdoVGVhY0o0M095ZmFLck1OSzF1dVJqaFF0eXRqbEVTbFFVbGlPUkhnUXFyTm85bTY1aVBuNW13Sw?oc=5",
+    "source": "Baltimore Sun",
+    "source_url": "https://www.baltimoresun.com",
+    "published": "Thu, 12 Nov 2026 12:57:17 GMT"
    }
   ],
   "Josh Turek": [
@@ -1668,13 +1675,6 @@
   ],
   "Mary Peltola": [
    {
-    "title": "Alaska U.S. Senate Election Live Results 2026",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGX0liOGNkRTQzMDBlYmZKUTIzLV9fVDlrLWZFZ3FvUThwQkRPdHVrY1ctczFGVXlrU1BNMDgtbXVJekZkQnNrVDZuOU8zSkpsR2xNd3lLWk9pQndSZGNfclJ2QW54X2Fpdk0teUNHMno5RmpqWDYw?oc=5",
-    "source": "AP News",
-    "source_url": "https://apnews.com",
-    "published": "Fri, 13 Nov 2026 08:00:00 GMT"
-   },
-   {
     "title": "Peltola extends lead over Sullivan in Alaska’s U.S. Senate race as ballot-counting continues",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGdqZWxhOWdwLTBQUEJ2b2poWFVRejhPMW4yRHlwUTVGQXNZaThnMmZURGQ4N1FtclNLLWFrUkstWk1TbzVfX2RDQzlMSGVqM0NHQWFGMi1COVVrOS12WUtRakhpS2l2c0JkNGpYREpDekx3OHJpNERMYUZnRzhiRnBsdXRZUHNtV1BEcjg0MDNHdXQ3OW5wdWMybkFjRUlmeEFCbUo5dXhybzVNRDdmUGNGVVJucTk2UXhTbFA0NUhPNGVka3c?oc=5",
     "source": "Alaska Beacon",
@@ -1701,6 +1701,13 @@
     "source": "Native News Online",
     "source_url": "https://nativenewsonline.net",
     "published": "Tue, 10 Nov 2026 14:32:11 GMT"
+   },
+   {
+    "title": "Alaska judge rules a request by Peltola campaign for ballot data in Senate race is 'not reasonable'",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVVCbmZpNkNJZGRrUWtPZnlIcF9OVGFqb0FIbWFva21fa250bGhvMlJkTW52UnFNZC1rd0NRVGZTdXZrMy1hUVlGR2d4RUVCZFRxakNJaGVISGR4am5kYVFUM3dRS2ZoQmp5TW5waEtvRlZaSjl3Rjgzek1LUklOUDJoeHlWUDcwYXdDS18xcDlja0ltZXFSMm56ZVBtZUxGMFBYdW5vc211cUl1cGhvZmdjdXh4a2g5Y2NGMEwwYVdSYWFfV3NHdDdmUHpWNXZa?oc=5",
+    "source": "PBS",
+    "source_url": "https://www.pbs.org",
+    "published": "Thu, 12 Nov 2026 20:24:30 GMT"
    }
   ],
   "Dan Sullivan": [
@@ -1948,18 +1955,18 @@
     "published": "Tue, 10 Nov 2026 11:51:51 GMT"
    },
    {
+    "title": "Susan Collins",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zWkc2a0VwMU5rOXZ3LVVEWHZZM3BRVXFhY3B3VGdJUHV6V05YdUdaRm5HMTQxYUxRUldyMW0yd3pFYTUxUUZ3UFpTSDZmcnMtUWJSbVJtYXQtVklWaWZr?oc=5",
+    "source": "Britannica",
+    "source_url": "https://www.britannica.com",
+    "published": "Sat, 14 Nov 2026 08:00:00 GMT"
+   },
+   {
     "title": "'This was a chance to get ahead:' Sen. Collins campaign manager reflects on election loss",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzA4aV9hUmlOS3ozRmhOZER3MkU5U3YzTmJQQVdMWFJ1Ym5vTDlfek9Udy1XS1JNTVNUb0VldEExSjdHZzg5bV9JVkFfcWdhaHZ6TG1TSTg4VExBTnhxOGJ2dHY0UWF4cHMwSEl2cTVMTUhYV1k1MzhqcnQ1TWxQQkp3Z3JrRERPUjFqRzdHQVAyekotMWt2YWExQTRRelkxUkxxS2pvQXBpN2I4TlZ2Q01qZUdqY1ZzSGZ5ODhJWS0?oc=5",
     "source": "WMTW",
     "source_url": "https://www.wmtw.com",
     "published": "Tue, 10 Nov 2026 15:07:00 GMT"
-   },
-   {
-    "title": "This map shows how Susan Collins’ electoral firewall crumbled in York County and other parts of Maine",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lZEVOZUlzdU5vYjF4dWRWMGFMaGlwdFp2UFR0cFd6S0tBN3cwSC1uZkdzSzRHTHRJT3VaV1prTzlOQ1Rtbk1tS0htdXlKcnVLMVJteHlHXzJ3cGhUOTYxQkRxYUVhQkttSHhFd01SVUJtY1hLWlRn?oc=5",
-    "source": "The Maine Monitor",
-    "source_url": "https://themainemonitor.org",
-    "published": "Fri, 13 Nov 2026 19:49:18 GMT"
    }
   ],
   "Pete Ricketts": [
@@ -2186,18 +2193,18 @@
   ],
   "Alani Bankhead": [
    {
-    "title": "Alani Bankhead wants to be ‘the fighter in DC’",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT0lnM3BiRmd2aVc4V2lORjNoLXBqWWlaQnBqQi03a1NUbzZEczlPY0poVU5aVzRET2FOLTdsLWlTcHczRENuYjVzM003QXl1aEYtN3BVbHZmbm5VVlFMaTZ2eGVvWVpwX3ZiM3NwblBHZVdBeWoyWWhwM0IwMkotaHFn?oc=5",
-    "source": "News From The States",
-    "source_url": "https://www.newsfromthestates.com",
-    "published": "Fri, 13 Nov 2026 08:00:00 GMT"
-   },
-   {
     "title": "Personal Facebook posts from Alani Bankhead suggest she considered running as an Independent before running as a Democrat",
     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUzFiQjdERlBaM2dGbEl6WXRBcnA3elo5aHNyOVNyWTI3cWZpLXFXaXdOUHhmV0dDeHZLV2dFanN2LUc3R0FrS09CaUtFUHByWnBwNkpSNXY1b3VyclpaTU83QlpNRkNDTHFQNXlRSEhobTV3cE8xcVpXaU9QZjJkY011c21Zc1ZTc2JGTkhFcDZqMjRKb3RiY1hKMUM4RWt6NG1MdzQ0aFlOV3JsRVJ1NERJS3NvaFo5RmlUSGxkU2poaDRsUG84YmxQSU5STTBrOVBNSXJHSnoyTW91b3ZNQkZ2eC1NMTFtZUVfaERiT1dOR0V2M0ZJYUtpQ1dSLTJJbE1qTERKMzVwQjA?oc=5",
     "source": "NonStop Local Billings",
     "source_url": "https://www.kulr8.com",
     "published": "Wed, 11 Nov 2026 08:00:00 GMT"
+   },
+   {
+    "title": "Alani Bankhead wants to be ‘the fighter in DC’",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT0lnM3BiRmd2aVc4V2lORjNoLXBqWWlaQnBqQi03a1NUbzZEczlPY0poVU5aVzRET2FOLTdsLWlTcHczRENuYjVzM003QXl1aEYtN3BVbHZmbm5VVlFMaTZ2eGVvWVpwX3ZiM3NwblBHZVdBeWoyWWhwM0IwMkotaHFn?oc=5",
+    "source": "News From The States",
+    "source_url": "https://www.newsfromthestates.com",
+    "published": "Fri, 13 Nov 2026 08:00:00 GMT"
    },
    {
     "title": "Montana U.S. Senate Election Live Results 2026",
@@ -2244,18 +2251,18 @@
     "published": "Mon, 16 Nov 2026 05:40:28 GMT"
    },
    {
+    "title": "Montana U.S. Senate Election Live Results 2026",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwN3kxZ3dJUmd4VGY0LXBTTEJDUlVDeUdLMmctT2gzVm00RjZQbjk2b081S3UwcC1ycllFTE1TVnllbWtLZXVoX2YyYU9FZ1BHcTJfUjM1d0hqX3lmYjNjbk5rZUtYaC1JUG5WTmVsMGF5LVpHSUg3Zg?oc=5",
+    "source": "AP News",
+    "source_url": "https://apnews.com",
+    "published": "Fri, 13 Nov 2026 08:00:00 GMT"
+   },
+   {
     "title": "Montana Elections: Who Led In Prediction Markets",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmdnRXJFMnBPU1V3SEJyUjF3dFRWMUVTT1A5SkhBY3BETnRhOVpTRFVSMW0wc3ZyZHZaTEo5RmJRT2tWMUladGptbUtHTHVSSlM4N3VsU25GQXpwdUlQZHVPc1VISW4zQXhQenNVU1dyeERhRlYzZGRTdzhJdThNYi01SXduTHpLTzFKbzVn?oc=5",
     "source": "Forbes",
     "source_url": "https://www.forbes.com",
     "published": "Fri, 13 Nov 2026 12:38:00 GMT"
-   },
-   {
-    "title": "Commentary: Who owns the Montana Democrats?",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtUnlBUnpMU0ZYSUpsczI5MDE5eHFSb2pOZzE3REdaWkhOQ2tyOVFYQlFPaTBCaWFRb29OWjEwTTlZaUNhaWNFUS02ajRPYWt0YndIUzcwZHVsT09kVnZXa0MzLWwyNHBSVGwxcHBqYmY3YzJ1cDBn?oc=5",
-    "source": "Daily Montanan",
-    "source_url": "https://dailymontanan.com",
-    "published": "Thu, 12 Nov 2026 20:55:54 GMT"
    }
   ],
   "Seth Bodnar": [
@@ -2436,11 +2443,11 @@
     "published": "Mon, 09 Nov 2026 19:10:58 GMT"
    },
    {
-    "title": "North Carolina Election Day Recap",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVnZDbU1MUTlabC1tTXRXbGxZc19aQjhidl9nbXpsMmdNdmJJWEtCa3U4bXg3WUFPb182NUo2Q3p3U3ZqRXVJLWlSVk5KMXBMa0xOLUVnYWdnS01zSDZLMDlpV05tMUhhNjl6SHF4Qk10WGxERE5HenJlYmtOQ3NVRnhB?oc=5",
-    "source": "JD Supra",
-    "source_url": "https://www.jdsupra.com",
-    "published": "Mon, 09 Nov 2026 20:48:06 GMT"
+    "title": "NC Election Results 2026: Live North Carolina results by county",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zVUpnUy1EWGpkQ01qLWhKUFlIWFFrLXQ3Q2paWHExMGtNcEtNZlZwS1NvbmNWTHFBNzE4NHN1d2F1NGljdWtFZjFYRUVNNzMyR0hpcnhWdkxvNGhJLVIzU1FNbl91ZEl4QXVvN1laeWp1SFZj?oc=5",
+    "source": "WRAL",
+    "source_url": "https://www.wral.com",
+    "published": "Thu, 12 Nov 2026 08:00:00 GMT"
    }
   ],
   "Chris Pappas": [
@@ -2637,18 +2644,18 @@
     "published": "Tue, 10 Nov 2026 08:00:00 GMT"
    },
    {
-    "title": "Democrats flip Georgia House in election shakeup, ending more than 20 years of GOP control",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPblNHOElFY0RvVV9jczQ5M195aUt4ZHNKaUctUVU4LTdtNE1VNFlzeHFScy14WktIOTh5Rnd5cEYwWVVwa1BtcjlsUDJNMlZsVFZ5ZnN0QmpOc2JjN0tXMWlOdzN4NWFBSUl2Y2MzbmRRMjNhc0s0Szl1dlJNdXZRM0pLQkY?oc=5",
-    "source": "WJCL",
-    "source_url": "https://www.wjcl.com",
-    "published": "Mon, 09 Nov 2026 21:37:00 GMT"
-   },
-   {
     "title": "4 dozen Black Georgia lawmakers press Collins on alleged ‘white nationalist’ ties",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZSbkFRQ0NfaHNHV0EyX1FfM3JWVnltZUJycncxdURPYU02UlpsQzNBcTA2V050ZkZUZkxMdmRreUJGR3pkRVEydFVTeGpVN0FQY2cxS2g0N2lGb1FsOG1DRHR3Rm1UWm0wRUdJYWN4Q200TWJodXJfWUNoYm5BclNBb0JSbXc2eWFkcjFOTFg4cGVPQUtaaUdwdG9XWmZ3WEZQYXhpdGw0VGFfNkxKbndQd1FsQWxBVnc?oc=5",
     "source": "News From The States",
     "source_url": "https://www.newsfromthestates.com",
     "published": "Thu, 12 Nov 2026 08:14:36 GMT"
+   },
+   {
+    "title": "Democrats flip Georgia House in election shakeup, ending more than 20 years of GOP control",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPblNHOElFY0RvVV9jczQ5M195aUt4ZHNKaUctUVU4LTdtNE1VNFlzeHFScy14WktIOTh5Rnd5cEYwWVVwa1BtcjlsUDJNMlZsVFZ5ZnN0QmpOc2JjN0tXMWlOdzN4NWFBSUl2Y2MzbmRRMjNhc0s0Szl1dlJNdXZRM0pLQkY?oc=5",
+    "source": "WJCL",
+    "source_url": "https://www.wjcl.com",
+    "published": "Mon, 09 Nov 2026 21:37:00 GMT"
    },
    {
     "title": "Ossoff, Sand just showed Democrats how to win red states | Opinion",
@@ -2695,11 +2702,11 @@
     "published": "Tue, 10 Nov 2026 21:55:38 GMT"
    },
    {
-    "title": "How Scott Colom defied more than a century of history to win Democrats a Mississippi Senate seat",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMjBKYmwtUThEQmtjR1lpMGNJSE5Db1VxVzRxM2dPeUtvWFBldUF3cXU0Vk1waHpOTkUwTWRFVGdVTElORFdTUGYyMUdCVUNGZmRhVmxvVWUtMHdlUmdyU3ZJWFZYMVRwNG5nZGJrV0prZC1yaW9Edlg1TFl1X0l1aVFPTWxXUTdtOUE?oc=5",
-    "source": "CNN",
-    "source_url": "https://www.cnn.com",
-    "published": "Wed, 11 Nov 2026 10:00:15 GMT"
+    "title": "Scott Colom Wins Nail-Biter Mississippi Race, Becoming State’s First Democratic Senator-Elect Since 1982",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdm9vRHBWVXVmckxNWllwR0NnTUhHRGd1VG5BRWxkbjF5T3otWXJJamVBYlpZWVJmRklYUUYxSFVaTzJHdmNzazRSNmt4cWdIUkVuMUc3aGFpVGVraHRxQkpvQ1lldjd6Vkg4ZmNEYmQtdHVXMWo4aFRhZ3VBRnRNck5JbW5kUVhuMkExb3FzbzVmTG5uUTl6Ym9DY2JiN3JPR3RMeVhPVDBmSTZaenpFRTFB?oc=5",
+    "source": "Time Magazine",
+    "source_url": "https://time.com",
+    "published": "Thu, 12 Nov 2026 17:10:59 GMT"
    }
   ],
   "Cindy Hyde-Smith": [
@@ -2741,18 +2748,18 @@
   ],
   "Aaron Ford": [
    {
-    "title": "Nevada Governor Election Live Results 2026",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4enRaeHJDeGpCMWZUekgtQm9USWtvTFczWlV6OFkxWmZzenllZFlKT0F6UUJXdDdrQmxnXzZmVW0wblZBaVBNeVh6QVR0Wmh6TGNDZk9UMTZfSWZ4MFIzVkZfamJpekhfM3ExNGduVjY2N1doMVE?oc=5",
-    "source": "AP News",
-    "source_url": "https://apnews.com",
-    "published": "Fri, 13 Nov 2026 08:00:00 GMT"
-   },
-   {
     "title": "Incoming Nevada Governor Changes His Mind on Electoral College Reform",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMktOMnl5b2oxSEFJcnpyYlN0WGxNZVF1ZDZhQmtNa1Ywa09zU1ItazlyUmtCSUE2LVlUaTVjSHB6WVJQeUJJOS1ySnhHbWVOYS1OZ1ZkRjF4TWtqSjVCdTBpMWl4aXdBaTZ6LVh1WGVJU1JEUGRwZXdXck50QjM4UHhZZUlrdGhsYmFzSjVNYmhtOXRobG4yMXMxN3VFVXlyUEZHd3JR?oc=5",
     "source": "Newsweek",
     "source_url": "https://www.newsweek.com",
     "published": "Fri, 13 Nov 2026 18:41:00 GMT"
+   },
+   {
+    "title": "Nevada Governor Election Live Results 2026",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4enRaeHJDeGpCMWZUekgtQm9USWtvTFczWlV6OFkxWmZzenllZFlKT0F6UUJXdDdrQmxnXzZmVW0wblZBaVBNeVh6QVR0Wmh6TGNDZk9UMTZfSWZ4MFIzVkZfamJpekhfM3ExNGduVjY2N1doMVE?oc=5",
+    "source": "AP News",
+    "source_url": "https://apnews.com",
+    "published": "Fri, 13 Nov 2026 08:00:00 GMT"
    },
    {
     "title": "Incoming Nevada governor says the Electoral College was created with racist underpinnings, calls for state to join popular vote compact",
@@ -3421,6 +3428,13 @@
     "published": "Wed, 11 Nov 2026 11:47:35 GMT"
    },
    {
+    "title": "2026 midterm election cycle saw record ad spending across multiple Michigan races",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS3NLSzI1NUJqNGZhNmpRMk51RGVGRVJGSU5QVFhOczhYTE1aTlRDalprRXRvZmRrVzB1ZlNVTUpLR2h2X1dxMHhGc2JNR0tpSnJyMTRVajIybElNWTJnSTJ4cktfbzh0SjRoUFIwRDFudVZCbDZMazVGS0RteFU0U2hvbjN6SlhQN1prODVqZ0dJbC12eGdsZWZqdTRTSXpEY3F0dWtKM2wtYl9Ycm5fZzc4d1RLRlNIOUZQMFNJb2lacFNiZDVVOVlSNjlucWFnc1ZTWE1SRV9KQ01EZXkwU3hQODVZa1ZSQ1EtTFFESVF2OVZOZlpxa21fR3JHQQ?oc=5",
+    "source": "WSMH",
+    "source_url": "https://midmichigannow.com",
+    "published": "Mon, 09 Nov 2026 23:22:05 GMT"
+   },
+   {
     "title": "Democratic candidates make sweeping gains in 2026 midterm election",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2pudnhicWpPdUUwOUUwRTlJNDVWU2VuMV9oUkVKZThGYmw2dzJjOG5LV2p1UUdKQ1JBU3ZwY21pa3NqUXE3dGZkVnVoYUpVSG1rNXEwSERrOWQyek1Nc1ZIcmVKbEEzSnJ1d2Z4bHJrMFdmVzFPYVJjelBXeEhHUDdjZmlLQm5GTHU4RE5qQVJxR0gwQW12YW5kRkkwVFp3MHk1OGRhR19OeXZ1YVVSblV3?oc=5",
     "source": "The Oakland Post",
@@ -3433,13 +3447,6 @@
     "source": "Michigan News Source",
     "source_url": "https://www.michigannewssource.com",
     "published": "Fri, 13 Nov 2026 19:06:57 GMT"
-   },
-   {
-    "title": "Michigan governor-elect appoints National of Islam leader to serve on transition council",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkdtTjFnckVyS0wxWU9DUHNBMHdkdHFrTUt5M29rQlNoSlRFTDl4WU42N204dWE1Yzh3THQ5WDhUWXZFOVdpWG9SYzJNRExhZmJWRUlTZGJUMnkzRWpuWHVDZUYxcEZRelU2dTVndWpZUUU0REJSZV9BRXNSVWlseXRzeDdlZjNfVUl3Y3A4c2MwMFBYdUMwOHdSU3JJbldqMEwwU3RIZ1kta09lMGNXUUphaDBWSlNxdHlyaHRn?oc=5",
-    "source": "Just The News",
-    "source_url": "https://justthenews.com",
-    "published": "Mon, 09 Nov 2026 18:31:13 GMT"
    }
   ],
   "Jim Pillen": [
@@ -3546,11 +3553,11 @@
     "published": "Thu, 12 Nov 2026 02:20:00 GMT"
    },
    {
-    "title": "The blue wave gives way to the crystal ball",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Wb284bVVGRmFjVzJwMTF6bjI2R1AyTkg1WHhJNEZJeXpVblQ3bEZCaWpyTV9VU1lzMGtGNjlSWF9lYkxHY0F2bkJFR2E1M3NtYXh6a2dvejB3TnRNLUJZUDJubnFUYnNncml0SDEwLW5iVkFyYXZmZ1pUcw?oc=5",
-    "source": "New Mexico In Depth",
-    "source_url": "https://nmindepth.com",
-    "published": "Fri, 13 Nov 2026 15:53:24 GMT"
+    "title": "A moment from Deb Haaland’s election night",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0weGp4MmttQzRHajJ0OXpER09MdGdFOXNuUEpUMlRaRTZ4OEpSNWRQOU5SdUZxUi1XYldkcUIwQUN3YTFDdGRsejBYTzVPbHlVVXRjTl9oYWFYQ0tHZDV6emxxZktKVnphWTNwWHJqSnN3Y2F6cVBfbkRxTFVPVUk?oc=5",
+    "source": "High Country News",
+    "source_url": "https://www.hcn.org",
+    "published": "Fri, 13 Nov 2026 09:00:00 GMT"
    }
   ],
   "Gregg Hull": [
@@ -3620,11 +3627,11 @@
     "published": "Tue, 10 Nov 2026 13:00:00 GMT"
    },
    {
-    "title": "Rep. Torres, Governor Hochul Announce Nearly $10 Million in State Funding to Build Cardiac Catheterization Lab at Lincoln Hospital",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdGE1MXJ6Mk5HRy1KYmw5bVdQMXlxbEphQ0ZKZllTd3pqSVEyY216by1PZnhhMGxvd1M4TXJjc2x3Z3NsZ0t0cUQxR0V3dDNRbUV5NjNIZnZGQTZKMVgwRnJtenV4LS1LejdfR0g4d2pVMGNvQ0tLa3p0M3BVWjJuSVRMdGttS1Z2dHVMT09zcnhqd2V0RHM5OV9vam1teFUzWVc3UVdYS2VMbW1jT0xDNXlsRFowang3dW4wSExMSUwwWWNxQkJSS2VUVnQzTVRxWHZkblhSbExNSUl1LWNoMTM5X3R4UnBLX1dMTHg0UmR3ampaTHhmYg?oc=5",
-    "source": "House.gov",
-    "source_url": "https://ritchietorres.house.gov",
-    "published": "Mon, 09 Nov 2026 19:05:43 GMT"
+    "title": "Cutting Red Tape: Governor Hochul Announces Launch of Nation-Leading “Click to Renew” Tool to Streamline Licensing for New York’s Small Businesses",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUm52OUZTWHMxRlBKVldEcEpsZkRoWVVseDJuSkRmRWRkbmZoMElPQUNpeEpzcFBuSXA5cjhwaGRDeTJTa0RxdThBWHJvcng3cGtYdDJRUHZsNzQ4am1RN2lwQ3c4UFFJaVFOcWF2bVlndVA0d3EtUjhEbEdXUzBNcWhCblIwUlctOF85UF9wcC1xYUFpMHpvV0hZT2l5amRreFV6MXhwMlRjeVNwWUlSV3plaUVrYUx2R2VaeHlwNjRFRGc?oc=5",
+    "source": "Governor Kathy Hochul (.gov)",
+    "source_url": "https://www.governor.ny.gov",
+    "published": "Thu, 12 Nov 2026 20:47:51 GMT"
    }
   ],
   "Ned Lamont": [
