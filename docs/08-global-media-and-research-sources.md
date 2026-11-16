@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-16T09:36:27Z**.
+> Latest headlines refreshed: **2026-11-16T09:51:26Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -365,7 +365,7 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 - [Per gli svizzeri che vivono negli Stati Uniti, il risultato delle "midterm" rispecchia soprattutto un rifiuto di Donald Trump](https://news.google.com/rss/articles/CBMinwJBVV95cUxQcDEwVThBWEs0Z0QtdHlVUmZwdE1ac0hxSnQ3TnQ0NzAtNEprTUJJZGIwQjlvaDV6Z0F6dW95WDAyQXVDTjhmRFhZSG8zR085NFNlZmxWYS1DdGdrV3JGcUg4QkVGZG4zNWF4THUyTk5zODhxZ0ZFT0xXY1hzemR4aVhjU2RHWE9CNlFQcVBMU1lLRHZpTUw2Nlc0UjUzNVFhcTI0VEF0Q1hoRnh0UzdKUXlKM3pDTkh2VHE3WFcxVVVTOFRtZnpZNGhyS2JYWjI2RjVRMHY2RFJIYUd3Z3dtaWJ4eUpvd3ZkZ1puR2thUXNhWFhRSUdhNHRrQXFZYVdhUTl3bnoxNTA5YnFKejRUTlloRlpBdm5naVpXNHBfYw?oc=5) (SWI swissinfo.ch)
 - [Elezioni midterm USA 2026: quali conseguenze sui mercati?](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlE0Z0dmT2tWSXZYTkpwRTA0TzJrNGZWQjlDM0J1NFA2VFVvNWdRaEJLXzNhVTJ6RWtGUzhWZG9iQzl4VHg4UWZBQzdOaGd3c0VLUnpqV19FRmV0VDVTVnkxYzZ1Qm9IS1JGS25DX0hJeXFLMDRZdjlGOGY2VTVRSnFDUFRRS0ZXc1lfbFgtWWFaREU?oc=5) (We Wealth)
 - [Midterm 2026: analisi della vittoria democratica](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGRlbmhkcWZ4S1JZREJhUHZIclZLbnRPR2tfMWJuaGVib3pIb2NRcVJreGtXa1UzT2Mta25tZDBhZ0pHVUxDdmpVeElaUTY2MGhXWVQ1U0VuVG9yVGxKQkdwXzEtcnVGRUJ3NkNveG1nLXBXand1QUhibDQ4RzBaZGg0dHpNU1Jv?oc=5) (Orizzonti Politici)
-- [Otto e Cinquanta - Stati Uniti, cosa può fare Trump dopo le elezioni di metà mandato](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU09vcGlMQndJNk1ZNzVMOE9VMHl2Q3d0NGR3OF9DaExDRHpCdlJNcW5UOWozeWxWTkNhdk9pR0NpcUdGaXhRb0t1bGtTRFdrU1dWVV9mNzJ0WXZyQ0h1YlJIUEktdjdHTUZtWUVsd0VWcmh1SzZfQWs3UFo1Z1ZnVjZWVVI2b3c5VDVVRnJJTXZYVEVCdlVFQnU3WlB5aFZtNUp0TUJScVNiOVRIMUlJTGo4bmtpUGVJajdnUjJYckFQaFAtdGczakluTnF2SlA1ZGNlbVB0NWE?oc=5) (Radio Radicale)
+- [Onda blu negli Stati Uniti. Il “veto” contro il radicalismo](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNzRIZHpYU01NdV91b1E0RW1iSmtBVlhIZVdrTmdZX1RiYWZ0Rk5xZHFNd1ZaMXF3dmpEWlpKVVhQWTIyUUV6RGRmVmdpN2FJRURNbGNVU0EyN3VJQlViRU81R3czWnFMUzBWV3hiem1TVUxXWG9qLXhyNndGSWF1b2JfNjU1di1oSUdzQldB?oc=5) (La Difesa del Popolo)
 
 
 ## Canada
