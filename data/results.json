@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-16T18:07:58Z",
+ "updated_utc": "2026-11-16T18:22:58Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-16T06:17:11Z"
+   "source_revised": "2026-11-16T18:20:12Z"
   },
   "House": {
    "parties": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-16T15:05:45Z"
+   "source_revised": "2026-11-16T18:09:59Z"
   }
  },
  "control": {
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-16T17:02:50Z"
+   "source_revised": "2026-11-16T18:12:28Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -1079,20 +1079,20 @@
     {
      "name": "Keisha Lance Bottoms",
      "party": "Democratic Party of Georgia",
-     "votes": 2273818,
+     "votes": 2273861,
      "pct": 54.34,
      "party_code": "D"
     },
     {
      "name": "Rick Jackson",
      "party": "Georgia Republican Party",
-     "votes": 1910872,
+     "votes": 1910910,
      "pct": 45.66,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
-   "source_revised": "2026-11-16T16:12:34Z"
+   "source_revised": "2026-11-16T18:18:53Z"
   },
   "Florida|Governor": {
    "state": "Florida",
@@ -1197,20 +1197,20 @@
     {
      "name": "Rob Sand",
      "party": "Democratic Party (United States)",
-     "votes": 759700,
+     "votes": 759705,
      "pct": 55.54,
      "party_code": "D"
     },
     {
      "name": "Zach Lahn",
      "party": "Republican Party (United States)",
-     "votes": 608230,
+     "votes": 608231,
      "pct": 44.46,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-16T16:10:03Z"
+   "source_revised": "2026-11-16T18:21:32Z"
   },
   "Texas|Governor": {
    "state": "Texas",
@@ -1327,20 +1327,20 @@
     {
      "name": "Katie Hobbs",
      "party": "Democratic Party (United States)",
-     "votes": 1433772,
+     "votes": 1434813,
      "pct": 55.67,
      "party_code": "D"
     },
     {
      "name": "Andy Biggs",
      "party": "Republican Party (United States)",
-     "votes": 1093643,
+     "votes": 1094388,
      "pct": 42.46,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Arizona_gubernatorial_election",
-   "source_revised": "2026-11-14T18:02:08Z"
+   "source_revised": "2026-11-16T18:17:37Z"
   },
   "Michigan|Governor": {
    "state": "Michigan",
@@ -1379,20 +1379,20 @@
     {
      "name": "Jim Pillen",
      "party": "Republican",
-     "votes": 380604,
-     "pct": 50.41,
+     "votes": 384579,
+     "pct": 50.28,
      "party_code": "R"
     },
     {
      "name": "Lynne Walz",
      "party": "Democratic",
-     "votes": 321061,
-     "pct": 42.53,
+     "votes": 326179,
+     "pct": 42.64,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
-   "source_revised": "2026-11-10T20:46:55Z"
+   "source_revised": "2026-11-16T18:10:42Z"
   },
   "Oregon|Governor": {
    "state": "Oregon",
@@ -1568,20 +1568,20 @@
     {
      "name": "Phil Weiser",
      "party": "Democratic Party (United States)",
-     "votes": 1628795,
-     "pct": 61.07,
+     "votes": 1639109,
+     "pct": 61.13,
      "party_code": "D"
     },
     {
      "name": "Victor Marx",
      "party": "Republican Party (United States)",
-     "votes": 887672,
-     "pct": 33.28,
+     "votes": 890472,
+     "pct": 33.21,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
-   "source_revised": "2026-11-16T02:29:39Z"
+   "source_revised": "2026-11-16T18:15:33Z"
   },
   "Connecticut|Governor": {
    "state": "Connecticut",
@@ -1881,7 +1881,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
-   "source_revised": "2026-11-16T14:41:24Z"
+   "source_revised": "2026-11-16T18:12:04Z"
   },
   "Hawaii|Governor": {
    "state": "Hawaii",
