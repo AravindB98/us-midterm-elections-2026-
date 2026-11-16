@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-16T09:06:26Z**.
+> Latest headlines refreshed: **2026-11-16T09:21:26Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -120,8 +120,8 @@ _Note: Coverage typically focuses on trade, tariffs and US policy toward Southea
 - [Kekalahan Pemilu Sela Mempersempit Ruang Gerak Trump](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3Y2ek1yVm1ISjF0MW0yaUZqS0ZYR0JjY0pOR1ZmeFZMb28tY1E1SmdPYXpzU1pzUl8taW5QbjF0N29xTE54MGZCdldBS0hWSnFycHhVclE5dTRJVzF4UTlqVTMzVjlnM3lqbDd0Q0dHSUlBeWZwUjZNMG1vYU5XQjk1bzRrM0d6Ry1iSlJDajgxdzB0aGxqMG9iSU5vRW8?oc=5) (Ahlulbait Indonesia)
 - [Presiden Amerika Serikat Donald Trump Hadapi Kongres Demokrat, Apa Dampaknya Setelah Pemilu 2026?](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTm84b2loTzdhSEVCcDhKZC1KOG9EaGl0QWtYbmtOekVKSExaclRySWV0NG4yaEx3WUhnTHNjcmQyNlh5S0lFSFRsdV9sRGo3ZUhQVkZKWmh0WVZPSl8yWTVvMWgtSEM4c0ZhMzZNdzV4NGNmZUlKaENLejgwQTlzRWhNZGZyZnpPZWp0bg?oc=5) (Aktualita.co)
 - [Mengapa Trump dan Partai Republik Terpuruk di Pemilu Sela 2026?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1pzR2VsT3VoSWVEY2NSeEJzNHpVRmtpdDdPUUlTa0VxZjhvWEtZUzVfcUNScHdpVk9QWTRZbEdfX1ctT2tEb0dwMzFRMzM0MHRyd2VCS3dsd2hUc1pjNG5PZFZSbXAwbVNldUdra3FKbHMxbEtoSk5xLS1LXzM5ekQ0ZEFldjlRWkc3V0RhdkRMWHNoaXlNWnFGNXRyQlJOY3VkeExzeDRWakFjQXl2Tnc1aTQ0Y0VzZmE2TVRBVno?oc=5) (CNBC Indonesia)
-- [Megawati Sudah Prediksi Trump Kalah Pemilu Sela Sejak 2 Bulan Lalu](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXFpc0c4T0kwaVF4Nl9NU2ptWXBKbGlrb09MbG0wMkdFM0lFdnBTV3VsSi1WVnlpZDlxX2pNUTluNXR6RVlCQXpqTUZNMm9OYUQ2M2dxS3Jqd05PdVlrUUJVejhHUjRzSDFYNXY2WHJ3Y3AyN2RmVFI5eE9haWhaU2VGQ25wT2RvcHBmd0tnaGdVYlFzMWlhR3Jzb2NzaW5WOV9QT1J6NEtRQdIBrwFBVV95cUxNS3RHaURiM2hCN1hyaExUY1kzek9kN0FUYmZJSXVfVXBJa3BJRFU3cXRlTWhkbVEweWFWTEZKUnhnQ2d3ck9nMllEM0xiRkR0Z0dRYVl1S1NuU19naVFNNE1yV0VGdk5CNG5WdWVsb3lDd0Zzb2dwelp5N2loTWRjZ09aMnpiTDFSQ1ZvM05Va25pRXYwR1E5RmlHdHZWbFR1WHpobnBENkc2em93ZU93?oc=5) (detikcom)
 - [Menakar Nasib Donald Trump Setelah Kekalahan Republik pada Pemilu Sela (2-Habis): Pesan Pemilih Lebih Jelas](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSVJ4RDU3ZHhZS2VhdWNPZ0tQejdlNEtPcjVqNlZFd0RNVjRhOWVQZ2d6TERncnU2MkFhcVJDdkNrblQ3eVJUZDZpaWoyMngxLWhEOW9rekdrOVp1Y1dZWTBraU8xV3Exbzd4WUJMMFluQURwVU1nSnhrekQ1S0ZKb0ZHN3hmdHR0b3hIMmVNX1RXZXctZ2xkMHZXY3lDdnRYblNZYktkMWJoSEpqLXIxNkpOUXBQSWFteTk2Z1Y0SDhzQTFTdG01QVA0c1JkTXQ3b2dyYV9VeDQ?oc=5) (HARIAN DISWAY)
+- [Trump Sebut 3 Hal Ini Penyebab Partai Republik Kalah Pemilu Sela AS](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR0dyaVNmeFdKNFJjcGZSY05BUmZGS1BiOUROZHEyeUVuN1R6RFlmM1lBR19HblVRMzlGcU1TR0N2TzF6U0tXcW9oWXVGVlpFUFlyWWFkX2N0Wmljc09QTmZJNDNBTWdPdXZheFdBZlZlZnRRNlZ6cmttdERzenIwc1hiZGFFWVZ2MF9rdUFSQ1J0SGZxZEJ5X0tIc0preTJ6R2cxeGoyMHBENnJ1eVFZLXlsTG1YX0M5VUVYblpDc2NjWHVlNXpfeV9JQkE0Rm1Ba2ZF?oc=5) (CNN Indonesia)
 
 
 ## Pakistan
@@ -275,9 +275,9 @@ _Note: ARD, ZDF and DW are public broadcasters._
 **Latest headlines (auto-updated):**
 - [Midterms in den USA: Donald Trump zweifelt Ergebnis der Midterms nun doch an](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnMwbW9LbTNNLUVHSXlVYUV4Vk50TThQSU4yTEVmMlF2TDRRc1BKS1p2c3hISFdDZ19SaHBYdUZrdmxVcEF2dnBhRjd0Q0hEaWdvR2dISWJiQjdCWlVySnRXQ0RydVlYOFRRNzNqYk9fcFJSbERaMmp5Zk9IcWZvRkVTREkwSXNBN050VGUtZw?oc=5) (DIE ZEIT)
 - [28 Minuten - Yannick Haenel / US-Zwischenwahlen: Test für die Demokratie? (04.11.2026) - Komplette Sendung](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZUstLTM0T25Dc21LMlNHSEVLQmxTdGhLbkdfb2oyUkdmMXgwSU5iaV9Oa1NVUWlmbUJVQW0tWUNlQ3VlTzFoZUZ6Vm9FUHNHTVNhLUlITWI1Tmo1b1l3MjVWdVI?oc=5) (Arte.tv)
+- [Alle Ergebnisse der Midterms: Wahlergebnisse der Zwischenwahlen in den USA im Überblick](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU1ZLQmVzeTRhUElfTDB2Wms4ajF6ZUJKNk5sdzQ4LWV0QzZjdVhDOWxRNmtnRGxUbFFmNWd6SWxLOTRkNzh3N0VnOGlLVTVaN2t4LWNyQ3ZpS2Y2WU50b1FyU0wyS195RWUwY2NORXllZ0cwR3U5Q2ZzLWpZekNCaU5HeWo1T3BVaEItYjZFSjFSc2paczBuczNwYTY5Vk1ZeVRYd0xiYnN0Yklzd0pYeTVIZlRRWkgwOWJPWUdLNElGUDJQVjBvRVdrNXFKTnpBQVhETHdTbm5zRHVTLURYU05n?oc=5) (T-Online)
 - [Das Ende des Trumpismus?](https://news.google.com/rss/articles/CBMibEFVX3lxTFAtTDNGRUtCTkVXbDYxcnFVWjhmZzVPd2VlSnVFaDFkVUxlQnQ2cDRUdzlFeEhoSzJWb3JNOTNqNlY2eVJTalNnWVRheEE4T1Rxa05kemd2Q1F6ZmJQU21jT0tTSkdRTEhReS1PdQ?oc=5) (taz.de)
 - [Vorsichtiger Optimismus: Gesundheitspolitik nach den US-Zwischenwahlen](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGdSaUlBOG5LMG9CWWIxdGo5YzZ0dllyQlhULVR0S1g0b1h4Z2ZQYmlzWTBaYlEtNkRXMmVrVlE0RnhESVdDck0ydEVRMlY5a29Pdm80d2REUVpUWmpSbjhUakJ1c21HNGdlcUxOZDhXV0lvUzM0Z1FERlp2QVhENmo1UEd2eVlxRkdlbW5nQVhESkxEbm9Z?oc=5) (Pharmazeutische Zeitung)
-- [Saarland: IHK: Midterms haben wohl keine großen Auswirkungen auf die Saar-Wirtschaft](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFY3cU1NTjlYTkNGTUpiWTl1VlZLN1FCUHRLMkRHelNtV2dfWmhReVNoUkdiYjN1SVBJOE1LcEFuM0ZYWjFFN1hJOUdZOF9abjRhYUdxTzM1blZRVTE3QTRxVUlBcVczOFRMNG9WaVVtNlB2cEdqNGJpdURpRURWWWhTb05ZejJtMVhHbldYX3MzWmwxQjZYRmJhTXlhUW8xQVh5Q3k5Skdnc3ZZUzFjYm1oQnBjXzNzTXFDNGpvWVJTUWM?oc=5) (tagesschau.de)
 
 
 ## Japan
@@ -413,6 +413,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 ### International students and visa workers
 
 - [This Week in Immigration: November 13, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
+- [Democrats pick up win in Alaska after midterms shellacking for GOP](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXMtMlNuX3dDaVo3WWhVZ28ydTMtOFZSRGxFYi1ZOWNjTXdKbEc3S1IwWk9yaXNQTWxFRVE3bm95LUJxMEVkOEJTWDNIY0tyME9xWEtQUTN1Z013X0wyV0FzUHNBRnNDbVVsXzJzUUtyYUI1VVZ0bnYyZ0NvT29nN1l6ZThPSVpUZHJvODBjRzJEWUR2V3ptbDJ4WUdiX3ZvdVl5bmN4QWF2YThYMlRFX0tDYlV4czA?oc=5) (CNN)
 - [Alabama college, university counties shift toward Democrats in midterms](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhEbmcza2M3elAzVkRLSWdmUlZJY3o5YVdvdWJ3a3BSd1lMREZtUHpudVV1aU1udXJCbVFtSVp2NjN4YlJ1SllOa3FEakc2cmJrUEtXREJqLTJiVUFhMHRfMXRYZ3NsdVpYaFRidGMxVW5QNGVtMUJJOW1GdERrM2NicHhnQmhuZmt1bjN0NG5SeU92ZlBWV2tRX1FmZE1JaDk0LTVoM0pSZlJBR3c1a0ZOZjE5NXktY0VJ?oc=5) (Chattanooga Times Free Press)
 
 ### Census and election data
