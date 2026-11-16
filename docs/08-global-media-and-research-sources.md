@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-16T17:51:58Z**.
+> Latest headlines refreshed: **2026-11-16T18:06:58Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -50,8 +50,8 @@ _Note: Mix of commercial networks (left-, right- and center-leaning) and public 
 - [The 2026 midterm elections showed DEI is alive and well](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUZSWm1PVzNCaU5XV3BHb2M3dHZ1N3c3R0xVendreEhsMGotbF95dDFKN001eE5BWC1tMnRWSTlLNDRuUXdPcGxlbTFFTzRPckVZbS12OXM1ek9OV2tFcFNpaUdJVm4tTTRBMGZqeHEtQWo1eW80cUx2TFZTWWdSdEhOanB2cWtZVTVzT2VPRGY1a1JYYnc?oc=5) (Brookings)
 - [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
 - [The historic firsts of the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5) (Ash Center)
+- [2026 U.S. House Election Results](https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5) (AP News)
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
-- [Forecasting a Democratic Resurgence? Partisan Accountability in the 2026 U.S. Midterm Elections](https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVljT0NBai1vQXlOOXRuV3JkOW5qMkJ1V2czYlZXYTR3WTkzSFQtb0NOemNsb3lJUjNleDNCZnBqZzRsdGU1QUVZdnhNRXZISi0yVVRVODlxU3QwQXczM0RVNkpZUFpmTy1ULVFlRVg2NkMtSjlNdi1wUjd2OFY1X0h4LVQ3MmM5R2IxWm5BWkpPcGtCWjBudUxFSzFpWmplNnNBT256cGxjT0h6Y0ZiVno3UkNXUWtBTGZzVmFHd1dTYXNQ?oc=5) (Political Science Now)
 
 
 ## India
@@ -403,8 +403,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 
 ### Polls and forecasts
 
-- [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
 - [2026 U.S. Senate Election Results](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5) (AP News)
+- [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 - [Forecasting the US Midterm Congressional Elections Without Poll Data -](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeHU1dmxaYmNzbF9qbzBGRmFVM09aQVNPVVRQS1NwdlpoUS1xRDhYb2tTMWNKUzMwQ3BRUjd4VDMtMVN0cW5iMzkweGUxSFk5QXhMbF8xQzBZcmQ0eWVrb2FhS2trM3RPbXh4UFY5anp2SWtibXJDbU5VNkx1SDdPcERnUVRHdjZ1TVJBNmF1ZUhLUlhoQUlGVXZZaUZvdEtOaHk0?oc=5) (Political Science Now)
 - [How Americans voted in the midterms, by demographic group and in key states](https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEF2eDhMa0g0VEI2RHZwWkNXcXhKYUpUM3ZURWd3dVEyckQtS3lkc0NmVUZNQW1ybjNENlhVTEVHRGZrUld6X2tybWhPTnZuZUpybE5iUlZuak4yNGxZYmU5NnVsVUFrNklTalVQQmJWeXRIV0JNZXFlVHhmRDRUTUpwaHhycTJOUjdtSzZpcnl6Sm04UXp0ZTNyNEhteEpuOHJiNzlQdzh2cWR2?oc=5) (The Washington Post)
