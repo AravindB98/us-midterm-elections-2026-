@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-16T18:22:58Z",
+ "updated_utc": "2026-11-16T18:37:58Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-16T17:06:34Z",
+   "source_revised": "2026-11-16T18:33:55Z",
    "too_close": {
     "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
     "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
@@ -272,7 +272,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
-   "source_revised": "2026-11-16T17:07:00Z"
+   "source_revised": "2026-11-16T18:24:25Z"
   },
   "Nebraska|Senate": {
    "state": "Nebraska",
@@ -422,20 +422,20 @@
     {
      "name": "Roy Cooper",
      "party": "Democratic Party (United States)",
-     "votes": 2480707,
-     "pct": 58.8,
+     "votes": 2480640,
+     "pct": 58.75,
      "party_code": "D"
     },
     {
      "name": "Michael Whatley",
      "party": "Republican Party (United States)",
-     "votes": 1648593,
-     "pct": 39.0,
+     "votes": 1648870,
+     "pct": 39.05,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-16T17:41:01Z"
+   "source_revised": "2026-11-16T18:31:44Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -1731,27 +1731,27 @@
     {
      "name": "Helena Foulkes",
      "party": "Democratic Party (United States)",
-     "votes": 207580,
+     "votes": 207588,
      "pct": 57.71,
      "party_code": "D"
     },
     {
      "name": "Ken Block",
      "party": "Independent politician",
-     "votes": 99828,
+     "votes": 99829,
      "pct": 27.75,
      "party_code": "I"
     },
     {
      "name": "Aaron Guckian",
      "party": "Republican Party (United States)",
-     "votes": 47401,
+     "votes": 47402,
      "pct": 13.18,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
-   "source_revised": "2026-11-16T07:42:25Z"
+   "source_revised": "2026-11-16T18:35:29Z"
   },
   "Pennsylvania|Governor": {
    "state": "Pennsylvania",
@@ -1764,20 +1764,20 @@
     {
      "name": "Josh Shapiro",
      "party": "Democratic Party (United States)",
-     "votes": 3034792,
-     "pct": 60.54,
+     "votes": 3036075,
+     "pct": 60.55,
      "party_code": "D"
     },
     {
      "name": "Stacy Garrity",
      "party": "Republican Party (United States)",
-     "votes": 1913175,
-     "pct": 38.17,
+     "votes": 1913522,
+     "pct": 38.16,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
-   "source_revised": "2026-11-15T23:14:29Z"
+   "source_revised": "2026-11-16T18:33:56Z"
   },
   "South Dakota|Governor": {
    "state": "South Dakota",
@@ -1797,13 +1797,13 @@
     {
      "name": "Dan Ahlers",
      "party": "Democratic Party (United States)",
-     "votes": 111157,
+     "votes": 111160,
      "pct": 36.51,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_South_Dakota_gubernatorial_election",
-   "source_revised": "2026-11-09T20:24:52Z"
+   "source_revised": "2026-11-16T18:37:49Z"
   },
   "California|Governor": {
    "state": "California",
@@ -1842,20 +1842,20 @@
     {
      "name": "Maura Healey",
      "party": "Democratic Party (United States)",
-     "votes": 1625849,
-     "pct": 61.97,
+     "votes": 1628936,
+     "pct": 61.99,
      "party_code": "D"
     },
     {
      "name": "Mike Minogue",
      "party": "Republican Party (United States)",
-     "votes": 911357,
-     "pct": 34.74,
+     "votes": 912300,
+     "pct": 34.72,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
-   "source_revised": "2026-11-16T07:41:45Z"
+   "source_revised": "2026-11-16T18:24:52Z"
   },
   "Maryland|Governor": {
    "state": "Maryland",
