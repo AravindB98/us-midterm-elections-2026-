@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-16T17:07:58Z",
+ "updated_utc": "2026-11-16T17:22:58Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -208,19 +208,19 @@
      "name": "James Talarico",
      "party": "Democratic Party (United States)",
      "votes": 5447080,
-     "pct": 55.06,
+     "pct": 55.09,
      "party_code": "D"
     },
     {
      "name": "Ken Paxton",
      "party": "Republican Party (United States)",
      "votes": 4250704,
-     "pct": 42.97,
+     "pct": 42.99,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-16T16:30:32Z"
+   "source_revised": "2026-11-16T17:22:52Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -285,20 +285,20 @@
     {
      "name": "Pete Ricketts",
      "party": "Republican Party (United States)",
-     "votes": 381127,
-     "pct": 50.0,
+     "votes": 381244,
+     "pct": 49.95,
      "party_code": "R"
     },
     {
      "name": "Dan Osborn",
      "party": "Independent politician",
-     "votes": 336261,
-     "pct": 44.1,
+     "votes": 336323,
+     "pct": 44.07,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-16T14:16:59Z"
+   "source_revised": "2026-11-16T17:16:29Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -362,7 +362,7 @@
    "candidates": [
     {
      "name": "Kurt Alme",
-     "party": "Republican Party (United States) <!--",
+     "party": "Republican Party (United States)",
      "votes": 235549,
      "pct": 48.16,
      "party_code": "R"
@@ -383,7 +383,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-16T14:24:38Z"
+   "source_revised": "2026-11-16T17:19:37Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -449,19 +449,19 @@
      "name": "Chris Pappas",
      "party": "Democratic Party (United States)",
      "votes": 356425,
-     "pct": 55.91,
+     "pct": 55.93,
      "party_code": "D"
     },
     {
      "name": "John E. Sununu",
      "party": "Republican Party (United States)",
      "votes": 268712,
-     "pct": 42.19,
+     "pct": 42.17,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-16T02:12:17Z"
+   "source_revised": "2026-11-16T17:08:22Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -579,19 +579,19 @@
      "name": "Andy Barr",
      "party": "Republican Party (United States)",
      "votes": 784869,
-     "pct": 54.99,
+     "pct": 55.0,
      "party_code": "R"
     },
     {
      "name": "Charles Booker",
      "party": "Democratic Party (United States)",
      "votes": 612357,
-     "pct": 42.9,
+     "pct": 42.91,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
-   "source_revised": "2026-11-12T15:40:36Z"
+   "source_revised": "2026-11-16T17:21:05Z"
   },
   "South Dakota|Senate": {
    "state": "South Dakota",
@@ -656,20 +656,20 @@
     {
      "name": "Juliana Stratton",
      "party": "Democratic Party (United States)",
-     "votes": 2590687,
-     "pct": 61.9,
+     "votes": 2598988,
+     "pct": 61.98,
      "party_code": "D"
     },
     {
      "name": "Don Tracy",
      "party": "Republican Party (United States)",
-     "votes": 1527231,
-     "pct": 36.5,
+     "votes": 1527950,
+     "pct": 36.44,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
-   "source_revised": "2026-11-14T14:32:19Z"
+   "source_revised": "2026-11-16T17:14:44Z"
   },
   "New Jersey|Senate": {
    "state": "New Jersey",
@@ -683,19 +683,19 @@
      "name": "Cory Booker",
      "party": "Democratic Party (United States)",
      "votes": 1851091,
-     "pct": 62.5,
+     "pct": 62.51,
      "party_code": "D"
     },
     {
      "name": "Justin Murphy",
      "party": "Republican Party (United States)",
      "votes": 1032597,
-     "pct": 34.9,
+     "pct": 34.87,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
-   "source_revised": "2026-11-14T19:55:39Z"
+   "source_revised": "2026-11-16T17:12:06Z"
   },
   "New Mexico|Senate": {
    "state": "New Mexico",
@@ -786,7 +786,7 @@
     {
      "name": "Bill Hagerty",
      "party": "Republican Party (United States)",
-     "votes": 1138436,
+     "votes": 1138457,
      "pct": 55.08,
      "party_code": "R"
     },
@@ -799,7 +799,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
-   "source_revised": "2026-11-10T04:08:15Z"
+   "source_revised": "2026-11-16T17:21:58Z"
   },
   "Idaho|Senate": {
    "state": "Idaho",
@@ -871,20 +871,20 @@
     {
      "name": "Ed Markey",
      "party": "Democratic Party (United States)",
-     "votes": 1650772,
-     "pct": 63.39,
+     "votes": 1654184,
+     "pct": 63.4,
      "party_code": "D"
     },
     {
      "name": "John Deaton",
      "party": "Republican Party (United States)",
-     "votes": 837152,
-     "pct": 32.14,
+     "votes": 838169,
+     "pct": 32.13,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-16T02:03:54Z"
+   "source_revised": "2026-11-16T17:09:36Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
@@ -949,20 +949,20 @@
     {
      "name": "Jack Reed",
      "party": "Democratic Party (United States)",
-     "votes": 240686,
-     "pct": 66.79,
+     "votes": 240694,
+     "pct": 66.78,
      "party_code": "D"
     },
     {
      "name": "Raymond McKay",
      "party": "Republican Party (United States)",
-     "votes": 105453,
+     "votes": 105454,
      "pct": 29.26,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
-   "source_revised": "2026-11-12T04:46:10Z"
+   "source_revised": "2026-11-16T17:11:15Z"
   },
   "West Virginia|Senate": {
    "state": "West Virginia",
