@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-16T04:51:41Z",
+  "updated_utc": "2026-11-16T05:06:43Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -152,7 +152,7 @@
       "type": "crowd_forecast",
       "url": "https://manifold.markets/",
       "lean": "Nonpartisan / unrated",
-      "status": "stale",
+      "status": "live",
       "house": 98.7,
       "senate": 87.7,
       "as_of": "2026-11-16"
