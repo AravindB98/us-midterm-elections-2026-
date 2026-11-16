@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-16T14:22:57Z",
+ "updated_utc": "2026-11-16T14:37:57Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -47,7 +47,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-16T14:19:25Z"
+   "source_revised": "2026-11-16T14:31:56Z"
   }
  },
  "control": {
@@ -362,7 +362,7 @@
    "candidates": [
     {
      "name": "Kurt Alme",
-     "party": "Republican Party (United States)",
+     "party": "Republican Party (United States) <!--",
      "votes": 235549,
      "pct": 48.16,
      "party_code": "R"
@@ -383,7 +383,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
-   "source_revised": "2026-11-13T05:25:49Z"
+   "source_revised": "2026-11-16T14:24:38Z"
   },
   "Minnesota|Senate": {
    "state": "Minnesota",
@@ -539,7 +539,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-16T13:37:48Z"
+   "source_revised": "2026-11-16T14:34:22Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -1197,20 +1197,20 @@
     {
      "name": "Rob Sand",
      "party": "Democratic Party (United States)",
-     "votes": 759325,
-     "pct": 55.53,
+     "votes": 759700,
+     "pct": 55.54,
      "party_code": "D"
     },
     {
      "name": "Zach Lahn",
      "party": "Republican Party (United States)",
-     "votes": 608045,
-     "pct": 44.47,
+     "votes": 608230,
+     "pct": 44.46,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
-   "source_revised": "2026-11-16T13:59:14Z"
+   "source_revised": "2026-11-16T14:27:03Z"
   },
   "Texas|Governor": {
    "state": "Texas",
