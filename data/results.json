@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-16T22:09:33Z",
+ "updated_utc": "2026-11-16T22:23:32Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -154,20 +154,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 2302472,
-     "pct": 50.0,
+     "votes": 2302669,
+     "pct": 50.01,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 2079600,
-     "pct": 45.15,
+     "votes": 2080064,
+     "pct": 45.17,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-16T16:59:16Z"
+   "source_revised": "2026-11-16T22:20:44Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -302,7 +302,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-16T18:07:12Z"
+   "source_revised": "2026-11-16T22:21:04Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -1057,20 +1057,20 @@
     {
      "name": "Amy Acton",
      "party": "Ohio Democratic Party",
-     "votes": 2405510,
+     "votes": 2405922,
      "pct": 52.31,
      "party_code": "D"
     },
     {
      "name": "Vivek Ramaswamy",
      "party": "Ohio Republican Party",
-     "votes": 2041281,
+     "votes": 2041393,
      "pct": 44.39,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
-   "source_revised": "2026-11-16T04:05:18Z"
+   "source_revised": "2026-11-16T22:12:09Z"
   },
   "Georgia|Governor": {
    "state": "Georgia",
