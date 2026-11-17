@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-17T19:24:15Z**.
+> Latest headlines refreshed: **2026-11-17T19:39:16Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -364,7 +364,7 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 - [Chi ha vinto e chi ha perso nelle elezioni di midterm negli USA](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWFRS0hiSnQtaFluM2tYejNUaEN0czEwVGlfUS05MWNZWDJLNGtZUDB6Zjg3RHZrcUduWDFvNkdFbEEwZEhrd3JjcDZocjMtT1lVRnhCR0UxQVBMYk1YdHVyR1FBdkJpR0ZmV3R3Qnh2cUZEMVpuQWpfNmpUdE1HSnA2V3ZMMTRsVXFsajJaUWpSQnpzdFN2dElNSUZSelk?oc=5) (Euronews.com)
 - [Midterm 2026: analisi della vittoria democratica](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGRlbmhkcWZ4S1JZREJhUHZIclZLbnRPR2tfMWJuaGVib3pIb2NRcVJreGtXa1UzT2Mta25tZDBhZ0pHVUxDdmpVeElaUTY2MGhXWVQ1U0VuVG9yVGxKQkdwXzEtcnVGRUJ3NkNveG1nLXBXand1QUhibDQ4RzBaZGg0dHpNU1Jv?oc=5) (Orizzonti Politici)
 - [Persino l’Alaska si butta a sinistra](https://news.google.com/rss/articles/CBMiakFVX3lxTE5SWnEwTHp4RkU1cnItbk1RX1V3cExkazRtdnJobVB4NFJIT1dURWk3UGM2U2d3RGFlTzRNMzlvZzV1QndnXzdOc0pPR0lxZ2ZnakdkYW5nczFPVThJdG1wbXJBZGpMUTZMakE?oc=5) (il manifesto)
-- [Midterm Usa, cosa cambia dopo il voto per gli investitori](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTVYckZoeC1OUV9xaHZjb3ZkajZ2S3FqNGdXcE1fV2prTS02RXdNajZzY0d2NHVtSlNUZV82Q3VhM2tCSEpZNnA5WVVWNDd2a0t1cHRkZnhtVEJNalFIR0cyWWl0UGlRd2xkSTFBcEJTbTNPbmxoMTJ4U29TV2Y1Qk00eWw4SUpGb1BxX2FJekI4X21tZVdBeGd3d2ZqMEFyVEpvV2QwWVl0SUZrQ09rc1QxNkdBQW9k?oc=5) (La Stampa)
+- [Elezioni midterm USA 2026: quali conseguenze sui mercati?](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlE0Z0dmT2tWSXZYTkpwRTA0TzJrNGZWQjlDM0J1NFA2VFVvNWdRaEJLXzNhVTJ6RWtGUzhWZG9iQzl4VHg4UWZBQzdOaGd3c0VLUnpqV19FRmV0VDVTVnkxYzZ1Qm9IS1JGS25DX0hJeXFLMDRZdjlGOGY2VTVRSnFDUFRRS0ZXc1lfbFgtWWFaREU?oc=5) (We Wealth)
 - [Trump si gioca la carta del viaggio in Asia (dove incontrerà anche Xi e Putin). Ma la missione è tutta in salita](https://news.google.com/rss/articles/CBMipwFBVV95cUxONlpITmxjVTIyS2dnblJPRGw2eWJVTlFpQnB2ZXlfZ2JuWlFLd1lMcTFaV1BfLXVORUNoMXZBZVg5cVRJX0syVkx3NGVsN2FJRnlzNUxoLXhpODlZVkpOQ1ZndnIwbEhZM3FXbF9YVnJIcFYxWjFXMTZTTjcxaFdMcllZbWNEdkNXVDlkVjMtVVZCQ2JhTFJOV3kyamZkUnctRjhyMVJwcw?oc=5) (Avvenire)
 
 
@@ -395,11 +395,11 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 ### Research, studies and surveys
 
 - [AI, Inflation, and War: The Issues Driving the 2026 Midterms](https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHMycmROcjRHR3RaQnl6RExCZ2xEZTlnVTJkYmZPbWZQWkc3SzdubVdqZlcyNGQxOVp4eWFzWFctTHhNTkNkdUR0SUo0Y2xEWnJJYm1Ib2pUMVdKSFV2dFA1LUNrSHNVV2ItR1hEb3ZhbDhETlVzX3RpNjVQM2cwcVRhSmxLeFMtaV9QQjh6MTJUTEtl?oc=5) (Wesleyan University)
-- [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
 - [‘Behind the Blue’: UK experts examine 2026 midterm elections, what comes next for Kentucky](https://news.google.com/rss/articles/CBMisgFBVV95cUxONm1xMUVKc0UtZWRGNE1yN1laUUZRQ2Z0b08xb09FTmlfNGsteVVvLXBhNG1URnFwRnRleHpwc1JyenFnRmhDS2pJQmZfc01uZ0ZXTnFmRlJvc19zU2pRNjdzZS1iaHFLRGwwSWFoakNicTQ2clVxcC05ajEtdmdhM2pwSUtsal9UNE1XTGZVejZHbklLRWliTGNvbW1zc2RRYi1FTmNQZmpkUEp6TmcxYUFB?oc=5) (UKNow)
+- [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
 - [News - Government Faculty Unpack 2026 Midterm Election Results](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUhFbFNOTWlDUmVLM1M1M29aOHhudGw5ckJqZ0ZRcVpQNkhIVWM1Y2hjNlRiTFkwRENrenF4REVLdlBmVnRYY0ltWDRIMUZZY3V4LUtrd2paeGpQcWk4Ti1yRGthVWR3MFdLaDIwXzJpTTFBZV9MZ3Zjd0hyLVVqOS1QYw?oc=5) (Hamilton College)
-- [2026 Wisconsin Midterm Election Results](https://news.google.com/rss/articles/CBMibkFVX3lxTFA4OHJrUkdqV2tySFVjYjVMRDBZNGVOOEtubml2M1NtZEVva2RnRWFheEhhSV9jUUlKUGcxUE85eUljOFZBak83WHFxWkZuMTgtcjBWdVpqOTlUbHRpVTBFMGR6Z1RJYVlHQ01CMnBn?oc=5) (AP News)
 - [Beyond the headlines: Rice political scientists unpack historic midterm elections](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3JsRU41ODQ0OFF4WE1Vd3REMUJYazhuT3ZZdVhUa2pPS0dJSktJLUVWdXlEdmRvdm15RzJ1VDN5MVI2UktfVEFGRGdvcGxqTnNtRFdIbzB0T2p1ZTYzS2NGX01Lem9naHNPek1yTDFSS1FGYThzU1U5RTVNdGFHNGtFbFlFdWQ2UGJVRWNQX1Azcm1aOHFtTkJTaDluTG1mb040S3FneDAzeUdU?oc=5) (Rice University)
+- [US midterm elections 2026: Our final call](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnRqUm1pLWMyNnZTR09WRkVMWFgwbGZubmJ2SEJWWk1nNlZ2WGZ0NktaY2JJMmFrZ0N6cnRMTHhCaWVPb2dRa1dweG1ZRHJVOUJkY3RWUXlXeGZxTS1OS2xhR3BNcjduNnJuR0xqRFQ4YWpweXhkMHg5LWE0TmN6NA?oc=5) (Focaldata)
 
 ### Polls and forecasts
 
