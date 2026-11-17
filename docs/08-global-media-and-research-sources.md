@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-17T21:24:18Z**.
+> Latest headlines refreshed: **2026-11-17T21:39:18Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -99,7 +99,7 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 - [美国中期选举：对特朗普的严峻考验](https://news.google.com/rss/articles/CBMingFBVV95cUxOTmE1S2tHVnFNMWhYTmZxZ0xrVzVsdnV5Z2pNNkRfSWZMZjRXd1FiNU9XcExQb29ReUpTTzFlUEt5UEFwUG5NSVRReUd3T0RqNmhNQnl5WHdRMnJMLVZxalMxVUVDVlRxQ0pZQmFCYU5tNFNPNEpiN3A2Nkx6b25acXA4SWdIRnFKUEY5dTlhU2p1UEJXMTJUZjItUndjdw?oc=5) (VOV World)
 - [中期选举对美国及全球经济的影响](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZdm1zb3FwWHFrMWh2dVF4U01qcURDT1ZHdU9nWFhpVmpkbC1DbUxWZkFNTFN6RngwNloxWG51YWtnbjk1UjJsemxiX2F6S1ZBejRhNkoyRXc5TlNrNUJ3X09B?oc=5) (财新)
 - [美国新一届参议员如何看待中国？](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHZCUDJNdl9NdTJUcmtGSXNlSzhKckJUaUhuV3pWLWdRbG5vT2ZEeDlBa0ZXa1NpQ2NaYk1zNEtSbnV1UkVpWTFDWDVJUEt0SVpYUHlxWmxxUHFqa2hRYmwyMktHMnNqSHBzNkxTbGF2MzBjRXpkS1lkSlAycXh6ZWNrOGZCNzlOOXhZQ0FyTnh2dUJpOVpvcjc2dTlhVWh2QTFXcEN4bHnSAagBQVVfeXFMUER2QlAyTXZfTXUyVHJrRklzZUs4SnJCVGlIbld6Vi1nUWxub09mRHg5QWtGV2tTaUNjWmJNczRLUm51dVJFaVkxQ1g1SVBLdElaWFB5cVpscVBxamtoUWJsMjJLRzJzakhwczZMU2xhdjMwY0V6ZEtZZEpQMnF4emVjazhmQjc5Tjl4WUNBck54dnVCaTlab3I3NnU5YVVodkExV3BDeGx5?oc=5) (美国之音)
-- [美国有史以来最贵的中期选举](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeVhnVjR5WGlfUi1lZzlfU3QtUTFKal9TR09oSVBjTGFlLV9mWlNWSXdRMGpSQlowLU9idFJxTElYTk42M3hnUVg3Xy01dDJBa1VpSV9KYVhqeTJwcVJRUGpHRUJfNzlH?oc=5) (中国新闻网)
+- [美中期选举共和党大败，华盛顿掀起“问责风暴”](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTV9NTldrcDh1YVZwZElzdWc5NDBnc0FibFU5LXliaGkwZnE4MkFDMnNmYlFLbFFPWDRWSmcybXV3RzQzcndVVlFvNWpIQTlwOVR4OGVFSVJkdw?oc=5) (上观新闻)
 
 
 ## Indonesia
@@ -121,7 +121,7 @@ _Note: Coverage typically focuses on trade, tariffs and US policy toward Southea
 - [“Tsunami Biru” Landa AS, Pemilih Desak Kongres Hentikan Dukungan Israel](https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2Y1LUdLNWNiTlBFSzZBZUVVeEl1YkpNU0VnQ3RBVEhaNmJQTWpMME1KODJmYUJjYldiU0NUcmtYOVdhZGdlc1dWQ3hPNEwwZUttYVJvVUhmQmY4c1BQWTU3dTNWcHN0RTVXMmo3dW8yN19UOG9hQXdWWlN5SlVwNjRkeXlaRGJqcFRJS2t4UnNxSkhmVVZB?oc=5) (Ahlulbait Indonesia)
 - [Pakar Menilai Trump Akan Lebih Nekat Langgar Aturan usai Kalah Pemilu](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHJwX2RId3ZVcnN6QUU2TGVwa2xZajlLbGF1UlNIZWY1RTZPMWRTUlpTaV9zODNPN3V5OUppMkN0NUlnOE5LbnBzU3A2MUU3dUQ2ZTJST1ZRZ3NMS3JxZGVMb0Q1NDc2Ni1ocjl0OUs0ZUlIZ3hWQl9NUTRzUzRDSUlJQ0lqY3hZaVNEaHA3VWJFUUlWdFZBaGNsdk1YYjhlN21zVTh0ZHIxOFhUeXJiaXBMalhUSG5SRFRiREJidXM5cGFIRXpyZDAzMVdmMXQxT1R5MmxB?oc=5) (CNN Indonesia)
 - [Jelang Pemilu Sela AS, Harga Bensin Rezim Trump Lampaui Era Biden - Energi](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEUtQ3JmN1dfM0R5NkpxXzUyUUJTaklwd0lNazhDTjJfa3ZsNVBFRnl1T21IMmxLOGFtaWlIWjJKZmZTdjNwOWlEMG9rU295d0haNTB5UWpyQTZuWHowcFBKeUd3R3VHanBGSzN4d1RkWE54ZDZfcjNYSlFtTXE2bnFHdUFyZFROMm9KOS1jMC1pN3M2MEVFQU5mamRDSE9oOUNSdlJsZ0ZCQzFIZFdKaGF6MEducXB5MHc?oc=5) (Bloomberg Technoz)
-- [DPR: Pemilu Sela AS Belum Ringankan Tarif Ekspor, Petani dan Pelaku Usaha Perlu Perlindungan](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNndOWVhLbzJ2b1NmYUxTYnJOc2lMczJVdjZ2X1RjYmlNaUJlYV9RZTU3d195ZFRqa2dNaXNSbkFBM0Jzbi11NDRFQlV4R1JOcHZNNjU1Z1psQWg3MjE0emN3WTFlak5rWFV3YjVkQ182RE9NVmtxSWFldmg0WWxJdlJGdG9Tb1MtNHRLQXYyT2FheThXUHBSbnc0NkNvdm8xN3ZIWUlvTklpT2luRktvV2RpNA?oc=5) (Beritakota)
+- [Pemilu Sela AS Pengaruhi Harga BBM Indonesia, Berapa Penghematannya?](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUWRtVFBKWXNGTmlQeWdua0hWNnpfZi1LOHdsZF9ieGtwZEFoUEJ2eXNuMGlia2R3RUNzSlF4SmJra2NDeE82SlBUaGhXaGdSaURZOEszOEo4LWxIdUw0S2R4eTd5dWdhWDRfRlBodGZDVmJyTjA0VlhsTnQzcEx4QUhnOFc0Wi1vUHpFZkt0azZJZGdpYXVpb0dwLU8wajFUZU5Fa0R4a19qUmJabV9KUw?oc=5) (bataviapos.id)
 
 
 ## Pakistan
@@ -229,9 +229,9 @@ _Note: State media present the official Russian government view; independent out
 **Latest headlines (auto-updated):**
 - [Исторический триумф: демократ Скотт Колом стал первым темнокожим сенатором от штата Миссисипи с XIX века](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmdhTVlxbWF4YVotMWRZeEIzQV95clY3eHRtTUNON0FaRGtycWhFcHhjUzB6XzBsWEVPRjh1TmJGN1RvblhqbE5ER0pxcnhibTdBdFNCMUg0aUxGNjhkcFM0MjhJYXUycWV0d0Q5VkxYZm92bXFwMkYxdnRWcDJCMGZhbkhnRnRndFFxYWdGMVprXzlFSUpnN1JrSF9CcktJSEF6dFVYM0o?oc=5) (Euronews.com)
 - [Конец эпохи Трампа?](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CRXBVRFV0eTdkM1Vsck44djVaMnlWYVcwZXBzdHQzUmFSaDFHSy1mbmxtbzRPekNkT1FnUWhrSHZOS0VBSThOZEYwR0FnSXlwTDRiMm9n?oc=5) (New Times.Ru)
-- [«Предать Украину — недопустимо и бесчестно». Как мораль и любовь стали центральными темами политики США — разговор с журналисткой из Штатов](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWpsbk5vbFEwaHdsNlRtQm5VTDVXSncxYXNIY3BIZFN0R040R2d2WjhqNDFVNXBqeDJ4ejNZRklFLWdkZ1VzUkdIYjJaRktzZGN0djdyVDRmWGUyZUM1UG5YMWNfV1hjVzNmM0VpWUloRlgwRUxoWDlGaElqUUZwTGxJSHZzYjdpWUpHZnY2M0JwZ2lwRzZzc3BGRmQzUk10LTFJZUw0TGpzbEJuR3NxT0wzcF9DUFJ1VGkyYzQ2M0EwVnR5LW1KY3dfeXpMSjN1cEQ4ZjZ6TTLSAcYBQVVfeXFMTUUybF80dzZ2bWVpRFZFMzJ3QjkyRXkzY0V5TEJ0bEE3SXZBY1RNUGRDLVlTS3llVVoycHhVbDMxRllHc01YRGpQaU4zMjB3eWtXVEhwMm1KN25xMGM4QTh1MTQ4WDNjQVZsN2xpSFFWRjdVaWRCdUx6QlJKZE95TnBqTUhYdjlyQ3dsaHNxcV9XLUNPYmYzZHZ2YVhEWnJodlRTc1QtLXo0UFdicTNQX2p2RW03Q0pKX2pxNUlFRHR6cUpjcGpR?oc=5) (NV)
 - [Трамп похвалил поклонника «Анны Карениной», выигравшего выборы в США](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVHdGtLZzk0VjJaQmU0dWF4dkhjMmhNcWs4TzJ5Mm5QOXg0Vm4xMFNQUTU3VFB6SUFvbC1GREVtNnRjc0J5c0g0MjN5YURZVUdVYVA3eXhmZWFDR3lra2c3NE9jQlpGTVVtbjhkVklqLXVBLXRNMS1kWEZuWXRMRUktVHF1ME1ha3JVQlFabGg3OVlBUVdaSk9UQTY?oc=5) (RTVI)
 - [Промежуточные выборы в США привели к значительному спаду активности бизнес-джетов во всём мире](https://news.google.com/rss/articles/CBMiREFVX3lxTE45ZzJpNUZyaW1oOTF2MGE4OVBobjZBc3o5Zm5XSDZmNHlNUDZKdE5nM2h5SkFaX2xHcm1xY3ZsZFNOLWFD?oc=5) (BizavNews)
+- [«Предать Украину — недопустимо и бесчестно». Как мораль и любовь стали центральными темами политики США — разговор с журналисткой из Штатов](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWpsbk5vbFEwaHdsNlRtQm5VTDVXSncxYXNIY3BIZFN0R040R2d2WjhqNDFVNXBqeDJ4ejNZRklFLWdkZ1VzUkdIYjJaRktzZGN0djdyVDRmWGUyZUM1UG5YMWNfV1hjVzNmM0VpWUloRlgwRUxoWDlGaElqUUZwTGxJSHZzYjdpWUpHZnY2M0JwZ2lwRzZzc3BGRmQzUk10LTFJZUw0TGpzbEJuR3NxT0wzcF9DUFJ1VGkyYzQ2M0EwVnR5LW1KY3dfeXpMSjN1cEQ4ZjZ6TTLSAcYBQVVfeXFMTUUybF80dzZ2bWVpRFZFMzJ3QjkyRXkzY0V5TEJ0bEE3SXZBY1RNUGRDLVlTS3llVVoycHhVbDMxRllHc01YRGpQaU4zMjB3eWtXVEhwMm1KN25xMGM4QTh1MTQ4WDNjQVZsN2xpSFFWRjdVaWRCdUx6QlJKZE95TnBqTUhYdjlyQ3dsaHNxcV9XLUNPYmYzZHZ2YVhEWnJodlRTc1QtLXo0UFdicTNQX2p2RW03Q0pKX2pxNUlFRHR6cUpjcGpR?oc=5) (NV)
 
 
 ## Ethiopia

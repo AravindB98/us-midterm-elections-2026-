@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-17T21:25:18Z",
+ "updated_utc": "2026-11-17T21:40:17Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -98,20 +98,20 @@
     {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 571467,
+     "votes": 571510,
      "pct": 51.18,
      "party_code": "D"
     },
     {
      "name": "Roger Marshall",
      "party": "Republican Party (United States)",
-     "votes": 511212,
+     "votes": 511277,
      "pct": 45.79,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-17T16:52:46Z"
+   "source_revised": "2026-11-17T21:31:20Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -1131,20 +1131,20 @@
     {
      "name": "Cindy Holscher",
      "party": "Democratic Party (United States)",
-     "votes": 561946,
+     "votes": 561977,
      "pct": 50.51,
      "party_code": "D"
     },
     {
      "name": "Ty Masterson",
      "party": "Republican Party (United States)",
-     "votes": 550530,
+     "votes": 550583,
      "pct": 49.49,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-   "source_revised": "2026-11-17T20:59:00Z"
+   "source_revised": "2026-11-17T21:35:08Z"
   },
   "Alaska|Governor": {
    "state": "Alaska",
@@ -1881,7 +1881,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
-   "source_revised": "2026-11-17T18:47:02Z"
+   "source_revised": "2026-11-17T21:37:27Z"
   },
   "Hawaii|Governor": {
    "state": "Hawaii",
