@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-17T05:53:56Z",
+ "updated_utc": "2026-11-17T06:08:56Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-17T05:02:03Z"
+   "source_revised": "2026-11-17T06:07:08Z"
   }
  },
  "control": {
@@ -102,20 +102,20 @@
     {
      "name": "Adam Hamilton",
      "party": "Democratic Party (United States)",
-     "votes": 566865,
-     "pct": 51.1,
+     "votes": 571451,
+     "pct": 51.18,
      "party_code": "D"
     },
     {
      "name": "Roger Marshall",
      "party": "Republican Party (United States)",
-     "votes": 508887,
-     "pct": 45.87,
+     "votes": 511186,
+     "pct": 45.79,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-   "source_revised": "2026-11-17T02:50:52Z"
+   "source_revised": "2026-11-17T06:01:42Z"
   },
   "Iowa|Senate": {
    "state": "Iowa",
@@ -224,7 +224,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
-   "source_revised": "2026-11-17T05:40:46Z"
+   "source_revised": "2026-11-17T06:05:14Z"
   },
   "South Carolina|Senate": {
    "state": "South Carolina",
@@ -1240,7 +1240,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-17T04:30:37Z"
+   "source_revised": "2026-11-17T06:07:18Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
