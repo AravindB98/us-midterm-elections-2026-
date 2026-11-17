@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-17T00:22:34Z**.
+> Latest headlines refreshed: **2026-11-17T00:37:34Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -420,9 +420,9 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 
 - [How Americans Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
 - [Midterm turnout neared record nationally, but pull weaker in MD](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbF9jOU1maEdZWkJ6ejZRVW5naVZyWmhNTGhoWnlHR0ZFb0dOUUF4eDYtVENWOFlTSG15RmZaRGJFNnQyd1hQNmlxcXl6d0gxRHAwVmdFeUVhZVVaclNCQ1pEOVVUcjBfeGREa0tLbVhuS3RiZUY2dUs0RlFUczZoTGJkYkl3UExfU25fcm1HWFlxT0otS0RjMW1ETHlTNjgzSVFn?oc=5) (Maryland Daily Record)
-- [2026 Texas Midterm Election Results](https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ekZMQkpEN0tQTUl1N0o5UXBMWXVSWHV4aG1ZYnNuT2lCRllyUlhTV3JmeHdaMnY1d3lQZ0xsR1Q0LXhmNlNKTUdxeVhrMWgtZXlwRTQtQXZQbExjUUZENXFId3Z0dy1O?oc=5) (AP News)
 - [2026 midterm election voter turnout exceeded expectations of experts and clerks](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTF9mNG5CalBvelhUYjFsUHJKU01qUWFPTlBTbGxIeHM3SEZpeUlsYnZWY3ZmVG94TTdZYnJNYmhIT09hM2xRMl9WU2J6N0tJSUdGdXJZUXdVWmpuLXQ1cTdDM2ZDQUVKOHB6eW1WZVQ2THJJWlFCX1ZmMWEwekZjeHdEdmhlMmtkbFFKMkhPZElhQWpoN25SbHJwVXFrb2o5alBhWkFMQlDSAbwBQVVfeXFMT1RGQ1N3aXpqWXNocTVUVklzY2hBWUY5eDl1MWZlMGJrNnBIeVBGRDA5UE5uRjI1UURKcm1zQW9MdkFPSkhQbzNYOWFDZ2JYMTc1Z3hsaGJJX1VJdjNuQ21ldzhMdzBVa194S1NQM0gyaUdEQUNvWEJDQ1lDMkhoT0xSOE9TVVZlS0VINkZtWEdvOHdsdENKQnFuMXVDelp2VHh1d055R0pXZThtZW4yYU5uVHhKZm1jOHNkWHY?oc=5) (WILX)
 - [Misinformation about Colorado voter rolls spreads after 2026 midterms](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qd2h4Vk9jaGdVbG5WTGgwVjI3dGlwX2x0bjZOSUdWbkUyY1FwcmRkWGEwTVlwUm5IVk1yVmVjNk5zRzZWXzdUWXBMamNhZWNMVGEzTldyX3Y?oc=5) (AFP Fact Check)
+- [2026 Texas Midterm Election Results](https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ekZMQkpEN0tQTUl1N0o5UXBMWXVSWHV4aG1ZYnNuT2lCRllyUlhTV3JmeHdaMnY1d3lQZ0xsR1Q0LXhmNlNKTUdxeVhrMWgtZXlwRTQtQXZQbExjUUZENXFId3Z0dy1O?oc=5) (AP News)
 - [Fact Check: Texas didn't have more registered voters for 2026 midterm elections than adult citizens](https://news.google.com/rss/articles/CBMikAFBVV95cUxOaE8tUVFWOXJBNXZzaWhkMGQ1NmxxcDFST0tMMUZGamdDX0dZWV92RU5vb0hYamZDQVdDV29MMWRLT2JVVmR0UUFHM3NCbVJuUGNiSlluVHVnblk1bFVlLXRyRlNoajktd2FfZnVkTVk0eVduRlE4TFRwaUhtQlh1ZWRHQnZiLUx4SmJMeFhzaFo?oc=5) (Yahoo)
 
 ---
