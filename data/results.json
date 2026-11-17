@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-17T20:40:16Z",
+ "updated_utc": "2026-11-17T20:55:15Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-17T18:57:47Z"
+   "source_revised": "2026-11-17T20:53:20Z"
   },
   "House": {
    "parties": {
@@ -285,20 +285,20 @@
     {
      "name": "Pete Ricketts",
      "party": "Republican Party (United States)",
-     "votes": 381330,
-     "pct": 49.95,
+     "votes": 382171,
+     "pct": 49.85,
      "party_code": "R"
     },
     {
      "name": "Dan Osborn",
      "party": "Independent politician",
-     "votes": 336409,
-     "pct": 44.07,
+     "votes": 338509,
+     "pct": 44.15,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-17T00:49:18Z"
+   "source_revised": "2026-11-17T20:42:41Z"
   },
   "Florida|Senate": {
    "state": "Florida",
