@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-17T19:09:16Z**.
+> Latest headlines refreshed: **2026-11-17T19:24:15Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -276,8 +276,8 @@ _Note: ARD, ZDF and DW are public broadcasters._
 - [US-Midterms: Das Blame Game hat begonnen](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSk5nZk8xUENnUUtrLS0zeFdaUF96YzQ4UjQxSmhaNEJJRktmYmVYN0xadzNXRi1hc1ZHNWIyTEdvZFp5VzZ1UlRZaFo3VDBtV2EtSnhHTzRldVM1aTI5dzJjV3Y3OGJvWFZ1TFNTTUV1TGhubHQxODJYMmkwVl9PTFVrNjNfdFZjeHNF?oc=5) (DIE ZEIT)
 - [Nach den US-Midterms 2026: Der Rechtspopulismus wird zurückkehren](https://news.google.com/rss/articles/CBMixwFBVV95cUxOM0FSNkt0WnJ1VE9HU0w1NDF0MzZQSjBuZDk3UEt4MzBZeUVlQjlOT2J5ZmZSaVNQRGJZNGhvMGFYMkNzcldySDJuUzkxTUt3d045N3NUdEl4a0E0U0NxdHpLdmFfUi1oMXZDM2ZwNmZXN2VVWmdNRUc2VFFsWkQ5NDlSeExCSW01aEFRRFM3WTkxQWxYMGlmcmdlVDNwV1pxUUNwMzBzSW1Mb2JYZ0lFTkV4SjRsWjdrWE4wNUVpWkYzekZ2VUlj?oc=5) (FAZ)
 - [Das Ende des Trumpismus?](https://news.google.com/rss/articles/CBMibEFVX3lxTFAtTDNGRUtCTkVXbDYxcnFVWjhmZzVPd2VlSnVFaDFkVUxlQnQ2cDRUdzlFeEhoSzJWb3JNOTNqNlY2eVJTalNnWVRheEE4T1Rxa05kemd2Q1F6ZmJQU21jT0tTSkdRTEhReS1PdQ?oc=5) (taz.de)
+- [Trump-Debakel bei den Midterms: Alle Daten zu den US-Wahlen](https://news.google.com/rss/articles/CBMie0FVX3lxTE1DOHNXd2xtdXFNNVRBS1BxQU52RVU4UDB4VG9aMFBUZjVqdUlOczFOTFVEaFRBQUt3akUxVUh5T3Ftand2b2lvcGtndlBEeHZEZXFTZ0h2QWRQb0tzbHRTajRONVFrVmRQS3N2TnZFUy14X2NwZG1BSEFHMA?oc=5) (n-tv.de)
 - [Erst Trump, jetzt Demokraten: Wie junge US-Wähler ticken](https://news.google.com/rss/articles/CBMijwFBVV95cUxNYzdZbzRfMHRDd1VuY09saTUxc0VwWnVjOTRiV255emNic2pJUWx6dXRYZGRPOXpZUDJKN3VRdUFWU1Y5TUtzYUw3SWtvMlhfbzkyWUFZUDRKTlE2R1FxeUZRcUtDdXNaR1FBQkF2WktuQm5xTk0teU83SlJzWHd3c1VDbnk0MjVfRkNjQzRRWQ?oc=5) (ZDFheute)
-- [Saarland: IHK: Midterms haben wohl keine großen Auswirkungen auf die Saar-Wirtschaft](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFY3cU1NTjlYTkNGTUpiWTl1VlZLN1FCUHRLMkRHelNtV2dfWmhReVNoUkdiYjN1SVBJOE1LcEFuM0ZYWjFFN1hJOUdZOF9abjRhYUdxTzM1blZRVTE3QTRxVUlBcVczOFRMNG9WaVVtNlB2cEdqNGJpdURpRURWWWhTb05ZejJtMVhHbldYX3MzWmwxQjZYRmJhTXlhUW8xQVh5Q3k5Skdnc3ZZUzFjYm1oQnBjXzNzTXFDNGpvWVJTUWM?oc=5) (tagesschau.de)
 
 
 ## Japan
@@ -364,7 +364,7 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 - [Chi ha vinto e chi ha perso nelle elezioni di midterm negli USA](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWFRS0hiSnQtaFluM2tYejNUaEN0czEwVGlfUS05MWNZWDJLNGtZUDB6Zjg3RHZrcUduWDFvNkdFbEEwZEhrd3JjcDZocjMtT1lVRnhCR0UxQVBMYk1YdHVyR1FBdkJpR0ZmV3R3Qnh2cUZEMVpuQWpfNmpUdE1HSnA2V3ZMMTRsVXFsajJaUWpSQnpzdFN2dElNSUZSelk?oc=5) (Euronews.com)
 - [Midterm 2026: analisi della vittoria democratica](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGRlbmhkcWZ4S1JZREJhUHZIclZLbnRPR2tfMWJuaGVib3pIb2NRcVJreGtXa1UzT2Mta25tZDBhZ0pHVUxDdmpVeElaUTY2MGhXWVQ1U0VuVG9yVGxKQkdwXzEtcnVGRUJ3NkNveG1nLXBXand1QUhibDQ4RzBaZGg0dHpNU1Jv?oc=5) (Orizzonti Politici)
 - [Persino l’Alaska si butta a sinistra](https://news.google.com/rss/articles/CBMiakFVX3lxTE5SWnEwTHp4RkU1cnItbk1RX1V3cExkazRtdnJobVB4NFJIT1dURWk3UGM2U2d3RGFlTzRNMzlvZzV1QndnXzdOc0pPR0lxZ2ZnakdkYW5nczFPVThJdG1wbXJBZGpMUTZMakE?oc=5) (il manifesto)
-- [Elezioni midterm USA 2026: quali conseguenze sui mercati?](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlE0Z0dmT2tWSXZYTkpwRTA0TzJrNGZWQjlDM0J1NFA2VFVvNWdRaEJLXzNhVTJ6RWtGUzhWZG9iQzl4VHg4UWZBQzdOaGd3c0VLUnpqV19FRmV0VDVTVnkxYzZ1Qm9IS1JGS25DX0hJeXFLMDRZdjlGOGY2VTVRSnFDUFRRS0ZXc1lfbFgtWWFaREU?oc=5) (We Wealth)
+- [Midterm Usa, cosa cambia dopo il voto per gli investitori](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTVYckZoeC1OUV9xaHZjb3ZkajZ2S3FqNGdXcE1fV2prTS02RXdNajZzY0d2NHVtSlNUZV82Q3VhM2tCSEpZNnA5WVVWNDd2a0t1cHRkZnhtVEJNalFIR0cyWWl0UGlRd2xkSTFBcEJTbTNPbmxoMTJ4U29TV2Y1Qk00eWw4SUpGb1BxX2FJekI4X21tZVdBeGd3d2ZqMEFyVEpvV2QwWVl0SUZrQ09rc1QxNkdBQW9k?oc=5) (La Stampa)
 - [Trump si gioca la carta del viaggio in Asia (dove incontrerà anche Xi e Putin). Ma la missione è tutta in salita](https://news.google.com/rss/articles/CBMipwFBVV95cUxONlpITmxjVTIyS2dnblJPRGw2eWJVTlFpQnB2ZXlfZ2JuWlFLd1lMcTFaV1BfLXVORUNoMXZBZVg5cVRJX0syVkx3NGVsN2FJRnlzNUxoLXhpODlZVkpOQ1ZndnIwbEhZM3FXbF9YVnJIcFYxWjFXMTZTTjcxaFdMcllZbWNEdkNXVDlkVjMtVVZCQ2JhTFJOV3kyamZkUnctRjhyMVJwcw?oc=5) (Avvenire)
 
 
