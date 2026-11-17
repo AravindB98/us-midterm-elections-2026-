@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-17T21:09:16Z**.
+> Latest headlines refreshed: **2026-11-17T21:24:18Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -99,7 +99,7 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 - [美国中期选举：对特朗普的严峻考验](https://news.google.com/rss/articles/CBMingFBVV95cUxOTmE1S2tHVnFNMWhYTmZxZ0xrVzVsdnV5Z2pNNkRfSWZMZjRXd1FiNU9XcExQb29ReUpTTzFlUEt5UEFwUG5NSVRReUd3T0RqNmhNQnl5WHdRMnJMLVZxalMxVUVDVlRxQ0pZQmFCYU5tNFNPNEpiN3A2Nkx6b25acXA4SWdIRnFKUEY5dTlhU2p1UEJXMTJUZjItUndjdw?oc=5) (VOV World)
 - [中期选举对美国及全球经济的影响](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZdm1zb3FwWHFrMWh2dVF4U01qcURDT1ZHdU9nWFhpVmpkbC1DbUxWZkFNTFN6RngwNloxWG51YWtnbjk1UjJsemxiX2F6S1ZBejRhNkoyRXc5TlNrNUJ3X09B?oc=5) (财新)
 - [美国新一届参议员如何看待中国？](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHZCUDJNdl9NdTJUcmtGSXNlSzhKckJUaUhuV3pWLWdRbG5vT2ZEeDlBa0ZXa1NpQ2NaYk1zNEtSbnV1UkVpWTFDWDVJUEt0SVpYUHlxWmxxUHFqa2hRYmwyMktHMnNqSHBzNkxTbGF2MzBjRXpkS1lkSlAycXh6ZWNrOGZCNzlOOXhZQ0FyTnh2dUJpOVpvcjc2dTlhVWh2QTFXcEN4bHnSAagBQVVfeXFMUER2QlAyTXZfTXUyVHJrRklzZUs4SnJCVGlIbld6Vi1nUWxub09mRHg5QWtGV2tTaUNjWmJNczRLUm51dVJFaVkxQ1g1SVBLdElaWFB5cVpscVBxamtoUWJsMjJLRzJzakhwczZMU2xhdjMwY0V6ZEtZZEpQMnF4emVjazhmQjc5Tjl4WUNBck54dnVCaTlab3I3NnU5YVVodkExV3BDeGx5?oc=5) (美国之音)
-- [美中期选举共和党大败，华盛顿掀起“问责风暴”](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTV9NTldrcDh1YVZwZElzdWc5NDBnc0FibFU5LXliaGkwZnE4MkFDMnNmYlFLbFFPWDRWSmcybXV3RzQzcndVVlFvNWpIQTlwOVR4OGVFSVJkdw?oc=5) (上观新闻)
+- [美国有史以来最贵的中期选举](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeVhnVjR5WGlfUi1lZzlfU3QtUTFKal9TR09oSVBjTGFlLV9mWlNWSXdRMGpSQlowLU9idFJxTElYTk42M3hnUVg3Xy01dDJBa1VpSV9KYVhqeTJwcVJRUGpHRUJfNzlH?oc=5) (中国新闻网)
 
 
 ## Indonesia
@@ -166,8 +166,8 @@ _Note: Interest centers on US visa policy, travel restrictions and Nigerian-Amer
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 - [US midterms: assessing the results and implications](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5) (Economist Intelligence Unit)
 - [U.S. Midterm Elections | Process, Historic Trends, Importance, Gerrymandering, & History](https://news.google.com/rss/articles/CBMiXkFVX3lxTE92dkVGakttMENzZkdzeWdPVTB1UEtOZklRdEwtQVg3X0RwUTBwRnA3U0RxMnBXMzRiek11MHlOWXdTWWVzcjFHSGl1N3RpbDNtczhCSzZxd1dtNGV3VEE?oc=5) (Britannica)
-- [Assessing the Foreign Policy Impact of the U.S. Midterm Elections](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTlMRWUzaWE1ekVVRTN4ZUFGTFlhTVhqZW5XUXpscmVDNDEyY0R1T0xYZXk5N015eXlCTjBUNkR2djlSSGJlR3Zmd3JXSFU2ZDh1YnZnT0hnX2U4OUtvRHRJRTE2dC1RVE02RlJPNnR4a1dDaXY2M1c5M0tscDFjUDUyd3RTWGh6bEFrdGJ3WVVGVHBvMVpoakdpNGpjdjNEbnBMek5FUQ?oc=5) (Penn Global)
 - [US Democrats win final two Senate seats; Coalition likely to easily win Victorian election](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3F3TXRhTENWQU5qVFZMd2pZbEJLckJfV05ZTlplQmV4dXFCdzhWdlhMMl9VMWhQbXpJaFR1WllzeWxaSzY1V05xOFRsakNwLUZCUE1jaG91Zzl3aUZSWF81TmlQT0FNNDlJaExZRVpMZTJqRzlpal9ZVG1faVZYRFhmQWozRkFHczVXTVZZYjJfOVJnNTI2OWtuRlNzcG1pQnphMTdwbWVPUEoxdXJBVmRKY2NJeG9Ld3kzM2xHYnkyZw?oc=5) (The Conversation)
+- [Assessing the Foreign Policy Impact of the U.S. Midterm Elections](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTlMRWUzaWE1ekVVRTN4ZUFGTFlhTVhqZW5XUXpscmVDNDEyY0R1T0xYZXk5N015eXlCTjBUNkR2djlSSGJlR3Zmd3JXSFU2ZDh1YnZnT0hnX2U4OUtvRHRJRTE2dC1RVE02RlJPNnR4a1dDaXY2M1c5M0tscDFjUDUyd3RTWGh6bEFrdGJ3WVVGVHBvMVpoakdpNGpjdjNEbnBMek5FUQ?oc=5) (Penn Global)
 
 
 ## Brazil
@@ -229,9 +229,9 @@ _Note: State media present the official Russian government view; independent out
 **Latest headlines (auto-updated):**
 - [Исторический триумф: демократ Скотт Колом стал первым темнокожим сенатором от штата Миссисипи с XIX века](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmdhTVlxbWF4YVotMWRZeEIzQV95clY3eHRtTUNON0FaRGtycWhFcHhjUzB6XzBsWEVPRjh1TmJGN1RvblhqbE5ER0pxcnhibTdBdFNCMUg0aUxGNjhkcFM0MjhJYXUycWV0d0Q5VkxYZm92bXFwMkYxdnRWcDJCMGZhbkhnRnRndFFxYWdGMVprXzlFSUpnN1JrSF9CcktJSEF6dFVYM0o?oc=5) (Euronews.com)
 - [Конец эпохи Трампа?](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CRXBVRFV0eTdkM1Vsck44djVaMnlWYVcwZXBzdHQzUmFSaDFHSy1mbmxtbzRPekNkT1FnUWhrSHZOS0VBSThOZEYwR0FnSXlwTDRiMm9n?oc=5) (New Times.Ru)
+- [«Предать Украину — недопустимо и бесчестно». Как мораль и любовь стали центральными темами политики США — разговор с журналисткой из Штатов](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWpsbk5vbFEwaHdsNlRtQm5VTDVXSncxYXNIY3BIZFN0R040R2d2WjhqNDFVNXBqeDJ4ejNZRklFLWdkZ1VzUkdIYjJaRktzZGN0djdyVDRmWGUyZUM1UG5YMWNfV1hjVzNmM0VpWUloRlgwRUxoWDlGaElqUUZwTGxJSHZzYjdpWUpHZnY2M0JwZ2lwRzZzc3BGRmQzUk10LTFJZUw0TGpzbEJuR3NxT0wzcF9DUFJ1VGkyYzQ2M0EwVnR5LW1KY3dfeXpMSjN1cEQ4ZjZ6TTLSAcYBQVVfeXFMTUUybF80dzZ2bWVpRFZFMzJ3QjkyRXkzY0V5TEJ0bEE3SXZBY1RNUGRDLVlTS3llVVoycHhVbDMxRllHc01YRGpQaU4zMjB3eWtXVEhwMm1KN25xMGM4QTh1MTQ4WDNjQVZsN2xpSFFWRjdVaWRCdUx6QlJKZE95TnBqTUhYdjlyQ3dsaHNxcV9XLUNPYmYzZHZ2YVhEWnJodlRTc1QtLXo0UFdicTNQX2p2RW03Q0pKX2pxNUlFRHR6cUpjcGpR?oc=5) (NV)
 - [Трамп похвалил поклонника «Анны Карениной», выигравшего выборы в США](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQnVHdGtLZzk0VjJaQmU0dWF4dkhjMmhNcWs4TzJ5Mm5QOXg0Vm4xMFNQUTU3VFB6SUFvbC1GREVtNnRjc0J5c0g0MjN5YURZVUdVYVA3eXhmZWFDR3lra2c3NE9jQlpGTVVtbjhkVklqLXVBLXRNMS1kWEZuWXRMRUktVHF1ME1ha3JVQlFabGg3OVlBUVdaSk9UQTY?oc=5) (RTVI)
 - [Промежуточные выборы в США привели к значительному спаду активности бизнес-джетов во всём мире](https://news.google.com/rss/articles/CBMiREFVX3lxTE45ZzJpNUZyaW1oOTF2MGE4OVBobjZBc3o5Zm5XSDZmNHlNUDZKdE5nM2h5SkFaX2xHcm1xY3ZsZFNOLWFD?oc=5) (BizavNews)
-- [«Предать Украину — недопустимо и бесчестно». Как мораль и любовь стали центральными темами политики США — разговор с журналисткой из Штатов](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRWpsbk5vbFEwaHdsNlRtQm5VTDVXSncxYXNIY3BIZFN0R040R2d2WjhqNDFVNXBqeDJ4ejNZRklFLWdkZ1VzUkdIYjJaRktzZGN0djdyVDRmWGUyZUM1UG5YMWNfV1hjVzNmM0VpWUloRlgwRUxoWDlGaElqUUZwTGxJSHZzYjdpWUpHZnY2M0JwZ2lwRzZzc3BGRmQzUk10LTFJZUw0TGpzbEJuR3NxT0wzcF9DUFJ1VGkyYzQ2M0EwVnR5LW1KY3dfeXpMSjN1cEQ4ZjZ6TTLSAcYBQVVfeXFMTUUybF80dzZ2bWVpRFZFMzJ3QjkyRXkzY0V5TEJ0bEE3SXZBY1RNUGRDLVlTS3llVVoycHhVbDMxRllHc01YRGpQaU4zMjB3eWtXVEhwMm1KN25xMGM4QTh1MTQ4WDNjQVZsN2xpSFFWRjdVaWRCdUx6QlJKZE95TnBqTUhYdjlyQ3dsaHNxcV9XLUNPYmYzZHZ2YVhEWnJodlRTc1QtLXo0UFdicTNQX2p2RW03Q0pKX2pxNUlFRHR6cUpjcGpR?oc=5) (NV)
 
 
 ## Ethiopia
