@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-17T12:23:23Z**.
+> Latest headlines refreshed: **2026-11-17T12:33:23Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -187,9 +187,9 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 **Latest headlines (auto-updated):**
 - [EUA continuam contando votos 1 semana após a eleição; 17 disputas ainda estão sem resultado](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZFRHbjh3MUlmOW42TVFCYVBXcHVJdHVsWl92Qlg2R3llc3VhZWxzMkRFbkZmc083STRsdmFERE1tVlJ5ZHhiQlBzN0lXaTBQRm9xT0tBVTVvZk1kVEltVnJ2em9ma3Y4RFV3YWhvblFoX3J0ZUhoNmwxZkJkSHNvQlpRYnZVTndnMURCWW5vTWV3ME5mTnB0R0dFMkdybklpRXM3bk9POWpnX29abm43TjRwSDBQbU5Nd1lsZDZQckdkUFBQSGkxd3A2LV9rcnlVTFRYRFNB0gHkAUFVX3lxTE05MkVMQ0Y1TzB6bEdLcmFvRmFBS0lRM19ySndGZnNsS0F3ODlIUl9RSDJnSTdvU0hPdS1JeEcwX1o4amtaMG9BTVlJWTdBUUQyNzZ0UlZGejRKcFNRYjJoVGNKNzRvZlB1VGd2MWhybjlldng4NFNFV0psWHMwVm9JajdRTFYzdmpKdmg5Zm9xaEw3Vmp4ZjVnbEhNSWF0LWRDRHk4TDE5OHRaR0dnTnAwRzFJSWZDSVU0cGMtdkIzLTVLWUhVUzAzelFtRmtCZXVEa0Y5WXA5eFo0bUNfZVRkQlQ4NQ?oc=5) (G1)
 - [Como os EUA se voltaram contra Trump](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM01leUxndm5qU1hrRE5YY2VKLS1ReWFRMmNGZ3Y0SVE4dDMzWXpLRXk4eTZKeHdUNVBILXJkX2R3aU04SklRRGFBUk83OWFwUFIycnhEMThBVDd4VFJreVB2RkIzcDRpVzJpWXFlc0MtQnFXbEpHejJJV3loaC1HdlMzLTRhcGlF?oc=5) (BBC)
-- [Após Midterms, 75% dos cidadãos dos EUA serão governados por democratas](https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUZabXR2aEpNRFdXOUFjWjZiTlE4OWE0S2pZNGNLWnU3ZFBiSGxHSlBXb2t5RjBRM09GdWx5cWoxMnZmczZKLUE3dkd5SFZ5Vm1aYUlMbzhyOFl2TVNWUnM1Ylh0djAxYUUtYzk5enF5SnZqM3dxbGowMEVSMEMwS1JHSkh0RVo3OVlBY1c4bm9mRkJyUnpFZXBLTm9ESmFXbzBJd1plSGhxekloWExzN3Q4ZlkzUQ?oc=5) (CNN Brasil)
-- [Eleitores dos EUA mostraram que não querem mais data centers](https://news.google.com/rss/articles/CBMihAFBVV95cUxNcERfTlNuZUhKaXJnQmh2NnlVcWVTdHB1T1VGdDlHS1c2TXMzb3gwczZVZFJ4WjMtQU1UUjd2b1dCR1Y0MUVjVERtZ0R4b1V5N3gxS2RvZ3VHMVR1bW1SUVBFWnZvaXRQbFpkcS13YnRla0Q2VnptR1R5OWVtYzdIelBNdXo?oc=5) (Intercept Brasil)
-- [Integrantes da ABRADEP acompanham eleições nos EUA e comparam sistemas eleitorais](https://news.google.com/rss/articles/CBMirgFBVV95cUxNenNDNjZ6LXVYTGhHeURrQzVhSGJSczBJV0d2SVF4bjM4MnBjenpzWUphbHlUWXJIa19WZk90NzYyVFJPTXhpSHA5Z1RCRUdZLU51U3gtZ3hWTllBRGZyaTQ2aG03S2tPZHJQakpmLXBnWHd2RThIekdQUV8yZW5mSlV4dkxxbVhNcjNwekdGRGxhYWlXcTdFa2c0Mndhd190SlpydlhETDRrMFk4cmc?oc=5) (Migalhas)
+- [Análise: Eleição presidencial dos EUA está em aberto, diz pesquisa da CNN](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkhHRWVDVDdiRkx1eXNUX1BlV2lxR2NvaHZBVU1oQWZxQ3pOME54YTktQ2IwX24xQmZwcHlXdW5vanVjMzcxRTFtd0ZaQ09jMFdHME15c1ZaUS1YY3drZWFzRkIxVUMzUFh2M1NkSVkwYnZuRUJ6ZzR6NnBaa0pNa2pGZjFBSmJmbHFSZ0JGenFlUndYVUd0a0sxbjlmeW84c09RWUptVFkxNk1hT3dRTzVjNTFjZw?oc=5) (CNN Brasil)
+- [Democratas ampliam domínio no Senado nos EUA com vitória no Mississipi](https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEZOTEFKbjJMdkl3dDNJbWxrMWdiM0M1amJrZDhzRG5yWmwwajZUZTRnWVlWelFDNmZiYXZJUFlfWVhsMjB6cVh6ZzNoemVTR0puWmVha1h6R1NCTnFURkhoOC12S1JGQ3doTUpHTm9xV0hLc1l5b1V6dTEyLUZFbjNzNGtOamRnY0RsTDlrMXl5WXpTWG9zc21sSWZPTTNWbEgwMGNSOWE2eTJTdnF3c3RaazdfNE3SAbcBQVVfeXFMTUtKRU92eFVHTU1NVS14aWxZclAzUkFCSDA2LVZYeE8wbmZWbGh3VkdxaFc0Y1RFSEdRSENnTkNRY0lkQUlHSktnc1lyc0Z4ckthNWQ4MUlLYU8wZ2VDYU55blNnU2o2OGM1UDNFVlFELVphNkF1XzAtVVBjWnhHUHlkWGlfTFZVOXBOZ3NXa1JXZDRYeEl0d2tSalAzV2hIZ0RfbC1aZHZJVXhJNXR6bFVaQVFBOXdj?oc=5) (DW.com)
+- [EUA ainda têm 17 disputas eleitorais sem vencedor definido](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVk1XzBLdndYR1czdWdYdTMzdE1UcFB2bVUtcEFlYmMtRTd1dEVudFZQTlRsZEVLeGl2ODhZVEducnVLazV6c0NmSm5HUTVVVzlnZmd3Z1QzOTdxVFVRSEpRMjVoekRHMEZCaG8xTHlVVmg4Y0NUbGFHa1Y4eGxRNEFhVHJsdFFrM0RoNThQLUJlRnB6Vkt5eTZZZ1pGcHBXTDNFN2VINTVYblE?oc=5) (Poder360)
 
 
 ## Bangladesh
@@ -209,7 +209,7 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 - [US midterms: assessing the results and implications](https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5) (Economist Intelligence Unit)
 - [The historic firsts of the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5) (Ash Center)
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
-- [Forecasting the US Midterm Congressional Elections Without Poll Data -](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeHU1dmxaYmNzbF9qbzBGRmFVM09aQVNPVVRQS1NwdlpoUS1xRDhYb2tTMWNKUzMwQ3BRUjd4VDMtMVN0cW5iMzkweGUxSFk5QXhMbF8xQzBZcmQ0eWVrb2FhS2trM3RPbXh4UFY5anp2SWtibXJDbU5VNkx1SDdPcERnUVRHdjZ1TVJBNmF1ZUhLUlhoQUlGVXZZaUZvdEtOaHk0?oc=5) (Political Science Now)
+- [Republicans return to Washington to sift through wreckage of midterms rout](https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1hORHBQT2hsOVhualRUcTQ4ZmIyNHgxU2RHZ2c3aTNJRlJoNVpqb2NLbGpab1daX29ZbFRRaDFxbUZXOWNTQnkzTWxreVJJMC1sLXNmOVgtMGdsR2EtM3c1OGtqUHFTZk9hRXpuVm5sNzRMVlYza0RpdTZVbm1TdTRjZ3owcGxZcS1SSXRnVVEyd0QtZ09iUi13?oc=5) (The Guardian)
 
 
 ## Russia
@@ -298,8 +298,8 @@ _Note: Nikkei Asia frames midterms around tariffs, China policy and markets._
 
 **Latest headlines (auto-updated):**
 - [【米中間選挙2026】党内のトランプ支持連合が崩れた今、共和党は今後どうするのか？](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RMlkzdU5vTi1PZHpzRzVERHdaWFgtdWU0SDgzRGJNb00wSkZNcXkyVl9ZeEp1Z1Q5eWZqNzY0WjcxSzZXZ0dSam5Ec041amp1dTFOc2ZsOWF2Mkw0ZUNXZdIBZkFVX3lxTFBkY001RmdMSzJYczlydUtJdC1MdlBiR0VGaDJUWlVwRjBXS2JiN0xDUTRITkxOVEZMZ0FMUVI2ZUNHZXNxR0l0ZDVJNzJtamszN1N1ejljMHhjdHd6SkZ5eFVTSUxqZw?oc=5) (BBC)
-- [米国の中間選挙～選挙結果総括、AIの動向～](https://news.google.com/rss/articles/CBMiggFBVV95cUxNaEdOZC1wZFdnb0pVMGFmQWY4bkJJcXFxSlJlaWtZRlltSXBHeEZHS2FhWVFNOVZpd05EUlF4RXdPQmRIWTdHVDhhLURlR3BtdjBCSDJSYlMxVDBiY3didDVyckdaUW9OcjVDODdCLU9YYlZwSzZkREJ1NGxnY01Pb0hB?oc=5) (三菱UFJリサーチ&コンサルティング)
 - [米中間選挙は民主党の勝利ではない 元共和党議員が読むMAGA敗北](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qeHc4UjBYaDhwRTdlNVZVSlV5UXpuRmlRSmN4bUViZzZ0TkctaHpTdG81S09GQzNvM3I1Z1NGMmQtM096N3FJSFdOS3RBbUpWbmd4eFBlbWgwVWN6eGVMT0lCMWtSR3M?oc=5) (朝日新聞)
+- [米国の中間選挙～選挙結果総括、AIの動向～](https://news.google.com/rss/articles/CBMiggFBVV95cUxNaEdOZC1wZFdnb0pVMGFmQWY4bkJJcXFxSlJlaWtZRlltSXBHeEZHS2FhWVFNOVZpd05EUlF4RXdPQmRIWTdHVDhhLURlR3BtdjBCSDJSYlMxVDBiY3didDVyckdaUW9OcjVDODdCLU9YYlZwSzZkREJ1NGxnY01Pb0hB?oc=5) (三菱UFJリサーチ&コンサルティング)
 - [民主党、米大統領選へ号砲 中間選挙大勝で「穏健対急進」浮き彫り](https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWEZCY2l3eTgyMzRoM2VoMmFMMWlUcEJGTHZETllHejRjMXFDM2RhSVphX25kRmlLTVJaWTZtWWhjT0dHRlNjX2NNQnVZSl93RFQ2UnoyYnE0Uy02LW56WWh6Y195U2dYanZORQ?oc=5) (日本経済新聞)
 - [米中間選挙、専門家に聞く(中)トランプの「反ESG」には歯止めがかかる](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XcGx5R0hPWDJCQlVPdk53UTFwY2c3TFF1bEVDOEpjczJtLXhaWDhZcmdVNl9HeGNHVDRaUmV6STdiMElGZXk2Nw?oc=5) (オルタナ)
 
