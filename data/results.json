@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-16T23:53:33Z",
+ "updated_utc": "2026-11-17T00:08:34Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -51,7 +51,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "source_revised": "2026-11-16T23:18:37Z"
+   "source_revised": "2026-11-16T23:58:46Z"
   }
  },
  "control": {
@@ -543,7 +543,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-16T19:47:39Z"
+   "source_revised": "2026-11-17T00:02:45Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -686,20 +686,20 @@
     {
      "name": "Cory Booker",
      "party": "Democratic Party (United States)",
-     "votes": 1851091,
-     "pct": 62.51,
+     "votes": 1862747,
+     "pct": 62.58,
      "party_code": "D"
     },
     {
      "name": "Justin Murphy",
      "party": "Republican Party (United States)",
-     "votes": 1032597,
-     "pct": 34.87,
+     "votes": 1035906,
+     "pct": 34.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
-   "source_revised": "2026-11-16T20:11:09Z"
+   "source_revised": "2026-11-16T23:56:03Z"
   },
   "New Mexico|Senate": {
    "state": "New Mexico",
@@ -1722,7 +1722,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
-   "source_revised": "2026-11-16T01:41:27Z"
+   "source_revised": "2026-11-16T23:58:24Z"
   },
   "Rhode Island|Governor": {
    "state": "Rhode Island",
@@ -1872,20 +1872,20 @@
     {
      "name": "Wes Moore",
      "party": "Democratic Party (United States)",
-     "votes": 1437649,
+     "votes": 1438312,
      "pct": 64.9,
      "party_code": "D"
     },
     {
      "name": "Dan Cox",
      "party": "Republican Party (United States)",
-     "votes": 679806,
+     "votes": 679978,
      "pct": 30.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
-   "source_revised": "2026-11-16T23:16:14Z"
+   "source_revised": "2026-11-17T00:03:47Z"
   },
   "Hawaii|Governor": {
    "state": "Hawaii",
