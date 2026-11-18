@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18T19:26:46Z",
+  "updated_utc": "2026-11-18T19:41:49Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -154,7 +154,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "house": 7.0,
-      "senate": 92.0,
+      "senate": 93.0,
       "as_of": "2026-11-18"
     },
     "metaculus": {
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 86.4,
     "house_n": 5,
-    "senate_dem": 87.4,
+    "senate_dem": 87.5,
     "senate_n": 5
   },
   "senate_projection": {
@@ -225,8 +225,8 @@
       ]
     },
     "senate": {
-      "value": 87.4,
-      "median": 92.0,
+      "value": 87.5,
+      "median": 93.0,
       "n": 5,
       "min": {
         "value": 75.0,
@@ -237,11 +237,11 @@
         "source": "Polymarket"
       },
       "share_favoring_dem": 100,
-      "stdev": 10.9,
+      "stdev": 11.0,
       "by_type": {
         "forecast_model": 76.0,
         "prediction_market": 91.3,
-        "crowd_forecast": 92.0
+        "crowd_forecast": 93.0
       },
       "sources": [
         "midtermforecast",
@@ -253,7 +253,7 @@
     },
     "conclusion": [
       "House: Democrats strongly favored (weighted average 86% Democratic across 5 fresh sources; 80% of sources favor Democrats). Range: 7% (Manifold Markets) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
-      "Senate: Democrats strongly favored (weighted average 87% Democratic across 5 fresh sources; every source favors Democrats). Range: 75% (Kalshi) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
+      "Senate: Democrats strongly favored (weighted average 88% Democratic across 5 fresh sources; every source favors Democrats). Range: 75% (Kalshi) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
   }
