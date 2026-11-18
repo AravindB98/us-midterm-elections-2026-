@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-18T18:11:49Z",
+  "updated_utc": "2026-11-18T18:26:50Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -153,7 +153,7 @@
       "url": "https://manifold.markets/",
       "lean": "Nonpartisan / unrated",
       "status": "live",
-      "house": 98.7,
+      "house": 7.0,
       "senate": 91.3,
       "as_of": "2026-11-18"
     },
@@ -177,7 +177,7 @@
     }
   },
   "ensemble": {
-    "house_dem": 96.0,
+    "house_dem": 86.4,
     "house_n": 5,
     "senate_dem": 87.3,
     "senate_n": 5
@@ -198,23 +198,23 @@
   "disclaimer": "This is only a collection of publicly available resources and forecasts. The creator is neutral and does not support any political party, candidate or ideology.",
   "consensus": {
     "house": {
-      "value": 96.0,
-      "median": 98.7,
+      "value": 86.4,
+      "median": 94.1,
       "n": 5,
       "min": {
-        "value": 91.0,
-        "source": "midtermforecast.com"
+        "value": 7.0,
+        "source": "Manifold Markets"
       },
       "max": {
         "value": 100.0,
         "source": "Polymarket"
       },
-      "share_favoring_dem": 100,
-      "stdev": 3.4,
+      "share_favoring_dem": 80,
+      "stdev": 35.8,
       "by_type": {
         "forecast_model": 91.0,
         "prediction_market": 97.7,
-        "crowd_forecast": 98.7
+        "crowd_forecast": 7.0
       },
       "sources": [
         "midtermforecast",
@@ -252,7 +252,7 @@
       ]
     },
     "conclusion": [
-      "House: Democrats strongly favored (weighted average 96% Democratic across 5 fresh sources; every source favors Democrats). Range: 91% (midtermforecast.com) to 100% (Polymarket).",
+      "House: Democrats strongly favored (weighted average 86% Democratic across 5 fresh sources; 80% of sources favor Democrats). Range: 7% (Manifold Markets) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
       "Senate: Democrats strongly favored (weighted average 87% Democratic across 5 fresh sources; every source favors Democrats). Range: 75% (Kalshi) to 100% (Polymarket). Sources disagree substantially, so treat this as uncertain.",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
