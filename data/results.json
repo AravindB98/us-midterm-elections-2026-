@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-18T03:55:42Z",
+ "updated_utc": "2026-11-18T04:10:41Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-18T03:54:39Z"
+   "source_revised": "2026-11-18T04:00:09Z"
   },
   "House": {
    "parties": {
@@ -176,20 +176,20 @@
     {
      "name": "Mary Peltola",
      "party": "Democratic Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 144302,
+     "pct": 50.1,
      "party_code": "D"
     },
     {
      "name": "Dan S. Sullivan",
      "party": "Republican Party (United States)",
-     "votes": null,
-     "pct": null,
+     "votes": 131844,
+     "pct": 45.8,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-18T03:55:22Z"
+   "source_revised": "2026-11-18T04:07:18Z"
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -716,7 +716,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
-   "source_revised": "2026-11-15T02:22:43Z"
+   "source_revised": "2026-11-18T04:00:17Z"
   },
   "Virginia|Senate": {
    "state": "Virginia",
@@ -905,7 +905,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
-   "source_revised": "2026-11-17T00:39:08Z"
+   "source_revised": "2026-11-18T04:08:57Z"
   },
   "Oregon|Senate": {
    "state": "Oregon",
@@ -918,20 +918,20 @@
     {
      "name": "Jeff Merkley",
      "party": "Democratic Party (United States)",
-     "votes": 1139265,
+     "votes": 1140734,
      "pct": 58.1,
      "party_code": "D"
     },
     {
      "name": "David Brock Smith",
      "party": "Republican Party (United States)",
-     "votes": 757113,
+     "votes": 757742,
      "pct": 38.6,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
-   "source_revised": "2026-11-17T04:07:10Z"
+   "source_revised": "2026-11-18T04:03:53Z"
   },
   "Rhode Island|Senate": {
    "state": "Rhode Island",
@@ -1152,34 +1152,34 @@
     {
      "name": "Jonathan Kreiss-Tomkins",
      "party": "Alaska Democratic Party",
-     "votes": 142591,
-     "pct": 50.9,
+     "votes": 145268,
+     "pct": 51.1,
      "party_code": "D"
     },
     {
      "name": "Bernadette Wilson",
      "party": "Alaska Republican Party",
-     "votes": 78305,
-     "pct": 28.0,
+     "votes": 79269,
+     "pct": 27.9,
      "party_code": "R"
     },
     {
      "name": "Dave Bronson",
      "party": "Alaska Republican Party",
-     "votes": 38179,
+     "votes": 38721,
      "pct": 13.6,
      "party_code": "R"
     },
     {
      "name": "Treg Taylor",
      "party": "Alaska Republican Party",
-     "votes": 20112,
+     "votes": 20358,
      "pct": 7.2,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
-   "source_revised": "2026-11-17T21:07:42Z"
+   "source_revised": "2026-11-18T03:56:03Z"
   },
   "Iowa|Governor": {
    "state": "Iowa",
@@ -1400,20 +1400,20 @@
     {
      "name": "Tina Kotek",
      "party": "Democratic Party of Oregon",
-     "votes": 1052113,
+     "votes": 1053198,
      "pct": 53.3,
      "party_code": "D"
     },
     {
      "name": "Christine Drazan",
      "party": "Oregon Republican Party",
-     "votes": 863059,
+     "votes": 863762,
      "pct": 43.7,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
-   "source_revised": "2026-11-17T00:28:10Z"
+   "source_revised": "2026-11-18T04:01:07Z"
   },
   "Maine|Governor": {
    "state": "Maine",
