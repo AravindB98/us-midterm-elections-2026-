@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-18T23:41:33Z**.
+> Latest headlines refreshed: **2026-11-18T23:56:33Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -277,7 +277,7 @@ _Note: ARD, ZDF and DW are public broadcasters._
 - [Ergebnis nach US-Zwischenwahlen in Alaska: Demokratin Mary Peltola sichert sich offenen Sitz im Senat](https://news.google.com/rss/articles/CBMib0FVX3lxTE1uR0FLSlB1TmwtaG0tQ0hoSzRYOVNiTnRDa2VON0JnREdKb0JTWW5pQmlQT2wzN1J1V3V5WnVyTV9oQ0R1b2dPTFpkZ1VEMVRrRTBSSjZ6cXJ4b01pUkxrWXdJREJCY19WMlJOWTNYbw?oc=5) (tagesschau.de)
 - [Die USA nach den Midterms – Was bedeutet das Wahlergebnis für Donald Trump?](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHJ3VTJKRFZJVC1EMzdfTVJIYTN3RmtUNHMxZWNRZFdFT3hHNUsxV3JfbTlEc3ZGYS1iNTU2Q09Qd2UyWHVlak5EZTFCY3VPbzRKTlJZSzhlc01uNUtxR05kd0VQaFI3dHowalZlV1BkbWd2MklPTzVHWGJOVnFxdDdkOUw3cFByQTBWLVFlODdzVkwyUE9MYUFR?oc=5) (SWR)
 - [Wie die Demokraten 2026 den Kongress zurückeroberten](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3h4bjhlQ3pnVjNzNmZpTjBUWWRMMzU5ZVFHRldZLTBRODdGRkxkUEdSQ0N6MmJndTBpMHRmMGEzRUlYS2Nyb3A3YmZJRUdYWWNxd3BpaEh0RWtyb3NCZ1ZNamcyaERiQUtDLUpFSFZlYnB0RWhUTnphdWVrTGx3X0U5ZGFBVjhBa2FDRlEwRWxDNDQ?oc=5) (RiffReporter)
-- [Midterms: Demokraten erobern Senatssitz in Alaska](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEtIWWZxUGxCOHhlN25STmQySEZDZkRweVJ2YnI4SFpEekVKUUZmZTJVVmFIQXJiSDhweDJiV2R5X1J4ZXlxZzFCbVQ0VWM5QmdOWnpXYTFaaV9DejQzcUJQYVd1YXZ3b1NXak81SkZGSkdVWWVqbDZmTC1YenJPVnltbERnRDlUSl9xVnV4Vm9seTdzV1FSSg?oc=5) (ZDFheute)
+- [US-Midterms 2026: Mehr Macht für indigene Amerikaner nicht nur in Alaska](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSnhuM0JNUnItSThIbXVhTXNUU3REZ0tmenhSTlFocTQ0RjVSYU4xV3lqYUVnWjA2Rkp4ZERESEVVTUlrX2dlRUM2dDBFdmdZRGtlLUNVaVpPMWQzV2tUS0MtMGVqQVNVTTRUT0JZaDhWZU5pNEhNaWpERWZ2QVBtQ1JHV0tfYS02SFBUMTJYaTRXR3hGQUxValVaWDVBYlBzTGVpTDhfeW5UUXhlWk1kanV5QVE4bjZyb3lUQWVhbHNqUUp4RHpqb1ltaEhTMFZzRWc?oc=5) (FAZ)
 
 
 ## Japan
