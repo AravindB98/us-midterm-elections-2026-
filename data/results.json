@@ -1,13 +1,13 @@
 {
- "updated_utc": "2026-11-18T03:10:41Z",
+ "updated_utc": "2026-11-18T03:25:41Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
   "Senate": {
-   "D": 21,
+   "D": 22,
    "R": 13,
    "I": 0,
-   "uncalled": 1
+   "uncalled": 0
   },
   "Governor": {
    "D": 24,
@@ -20,11 +20,11 @@
   "Senate": {
    "parties": {
     "D": {
-     "after": null,
+     "after": 54,
      "before": 45
     },
     "R": {
-     "after": null,
+     "after": 44,
      "before": 53
     },
     "I": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-18T02:02:03Z"
+   "source_revised": "2026-11-18T03:21:44Z"
   },
   "House": {
    "parties": {
@@ -168,9 +168,9 @@
   "Alaska|Senate": {
    "state": "Alaska",
    "office": "Senate",
-   "status": "awaiting",
-   "winner": null,
-   "winner_party": null,
+   "status": "called",
+   "winner": "Mary Peltola",
+   "winner_party": "D",
    "pending_winner": null,
    "candidates": [
     {
@@ -189,12 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-17T21:49:00Z",
-   "too_close": {
-    "note": "Too close to call; ranked-choice tabulation may take until mid-November.",
-    "source": "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
-    "hold_until_utc": "2026-11-04T19:00:00Z"
-   }
+   "source_revised": "2026-11-18T03:22:21Z"
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -539,7 +534,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
-   "source_revised": "2026-11-17T14:54:18Z"
+   "source_revised": "2026-11-18T03:19:00Z"
   },
   "Alabama|Senate": {
    "state": "Alabama",
@@ -1236,7 +1231,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-18T02:32:56Z"
+   "source_revised": "2026-11-18T03:21:07Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1868,20 +1863,20 @@
     {
      "name": "Wes Moore",
      "party": "Democratic Party (United States)",
-     "votes": 1455598,
-     "pct": 65.1,
+     "votes": 1460213,
+     "pct": 65.2,
      "party_code": "D"
     },
     {
      "name": "Dan Cox",
      "party": "Republican Party (United States)",
-     "votes": 681492,
+     "votes": 682141,
      "pct": 30.5,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
-   "source_revised": "2026-11-18T01:23:17Z"
+   "source_revised": "2026-11-18T03:11:47Z"
   },
   "Hawaii|Governor": {
    "state": "Hawaii",
