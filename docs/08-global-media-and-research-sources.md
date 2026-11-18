@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-18T19:41:00Z**.
+> Latest headlines refreshed: **2026-11-18T19:56:01Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -98,8 +98,8 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 - [中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税](https://news.google.com/rss/articles/CBMiSEFVX3lxTE42RjZHWU1Jd2JsZE1JVThUZHhOZHhabkZhWmM5NXJwdGNIVDEwNzVsRUM0QXdkX1BlTkw2UUZ3WkJ4Ym5YYnJiRw?oc=5) (财联社)
 - [中期选举对美国及全球经济的影响](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZdm1zb3FwWHFrMWh2dVF4U01qcURDT1ZHdU9nWFhpVmpkbC1DbUxWZkFNTFN6RngwNloxWG51YWtnbjk1UjJsemxiX2F6S1ZBejRhNkoyRXc5TlNrNUJ3X09B?oc=5) (财新)
 - [美国新一届参议员如何看待中国？](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHZCUDJNdl9NdTJUcmtGSXNlSzhKckJUaUhuV3pWLWdRbG5vT2ZEeDlBa0ZXa1NpQ2NaYk1zNEtSbnV1UkVpWTFDWDVJUEt0SVpYUHlxWmxxUHFqa2hRYmwyMktHMnNqSHBzNkxTbGF2MzBjRXpkS1lkSlAycXh6ZWNrOGZCNzlOOXhZQ0FyTnh2dUJpOVpvcjc2dTlhVWh2QTFXcEN4bHnSAagBQVVfeXFMUER2QlAyTXZfTXUyVHJrRklzZUs4SnJCVGlIbld6Vi1nUWxub09mRHg5QWtGV2tTaUNjWmJNczRLUm51dVJFaVkxQ1g1SVBLdElaWFB5cVpscVBxamtoUWJsMjJLRzJzakhwczZMU2xhdjMwY0V6ZEtZZEpQMnF4emVjazhmQjc5Tjl4WUNBck54dnVCaTlab3I3NnU5YVVodkExV3BDeGx5?oc=5) (美国之音)
-- [美国有史以来最贵的中期选举](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeVhnVjR5WGlfUi1lZzlfU3QtUTFKal9TR09oSVBjTGFlLV9mWlNWSXdRMGpSQlowLU9idFJxTElYTk42M3hnUVg3Xy01dDJBa1VpSV9KYVhqeTJwcVJRUGpHRUJfNzlH?oc=5) (中国新闻网)
 - [美国观察｜两院翻蓝之后，特朗普的“下半场”如何出牌？](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4WjhhQUNQNkhnWGRSZVNrc2pjU0d5bktMV0x5X3Q1WDQyYmwtT3dIXzd5cThtNjZRSVZqNG16aU4wUV81a3g5TXl1TWhyeVVabG5jTDRKYWFkUXVlNk00WXB6Mmc?oc=5) (复旦发展研究院)
+- [美国有史以来最贵的中期选举](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeVhnVjR5WGlfUi1lZzlfU3QtUTFKal9TR09oSVBjTGFlLV9mWlNWSXdRMGpSQlowLU9idFJxTElYTk42M3hnUVg3Xy01dDJBa1VpSV9KYVhqeTJwcVJRUGpHRUJfNzlH?oc=5) (中国新闻网)
 
 
 ## Indonesia
@@ -165,9 +165,9 @@ _Note: Interest centers on US visa policy, travel restrictions and Nigerian-Amer
 **Latest headlines (auto-updated):**
 - [Story of US 2026 midterm elections in maps and charts](https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M2VOTWh3QjVSY2RGd3NfYUxyY0FxS3J5UGduMFFkcjFWTmdEVHlPdFlDMEhWWEcwV3Nab3NSYnNXTkJmTml6b1FkQWRScHpPQmRBdmUxY3NwUVk?oc=5) (BBC)
 - [The US midterm results could have real consequences for the war in Iran. Could it end soon?](https://news.google.com/rss/articles/CBMilAFBVV95cUxNX1k4MDM5U2t0ZzdUYTJtWEpreVp2MGx1V1RyUDJRQllEMDJiR0FwNXhuSE9yem11SlZaV3BFSXhMMEVsTUFaZ0lubll5aTh4S2EwendEbFNQbUJrSFNVY0lxYUhBSU12dnNjUUlGSDN0b1h6R3Y0bFgzaUQzQWdxSy1zLUxxVlI5VzZqdjlkeGNoallw0gGUAUFVX3lxTFBiekYzdlQ4M1NtTmJYOVFRbG16STUwdzhyYVlSQlhPN1hwQ0VyS2pzRDJSTk1NekRxd2FQb2xzYzYzMDdYWEpWbVlDbjNPZ3IzM2UwdjhDdVR0Mm4zM0tITURoRTJCbVZ2RU14VVF1Ri12dnVJd3R2b2dSLU95VnNscnRpczYtTWdyNDhsRmJqUkw5UVg?oc=5) (DW.com)
-- [U.S. Midterm Elections | Process, Historic Trends, Importance, Gerrymandering, & History](https://news.google.com/rss/articles/CBMiXkFVX3lxTE92dkVGakttMENzZkdzeWdPVTB1UEtOZklRdEwtQVg3X0RwUTBwRnA3U0RxMnBXMzRiek11MHlOWXdTWWVzcjFHSGl1N3RpbDNtczhCSzZxd1dtNGV3VEE?oc=5) (Britannica)
-- [The historic firsts of the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5) (Ash Center)
 - [US Democrats win final two Senate seats; Coalition likely to easily win Victorian election](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3F3TXRhTENWQU5qVFZMd2pZbEJLckJfV05ZTlplQmV4dXFCdzhWdlhMMl9VMWhQbXpJaFR1WllzeWxaSzY1V05xOFRsakNwLUZCUE1jaG91Zzl3aUZSWF81TmlQT0FNNDlJaExZRVpMZTJqRzlpal9ZVG1faVZYRFhmQWozRkFHczVXTVZZYjJfOVJnNTI2OWtuRlNzcG1pQnphMTdwbWVPUEoxdXJBVmRKY2NJeG9Ld3kzM2xHYnkyZw?oc=5) (The Conversation)
+- [Assessing the Foreign Policy Impact of the U.S. Midterm Elections](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTlMRWUzaWE1ekVVRTN4ZUFGTFlhTVhqZW5XUXpscmVDNDEyY0R1T0xYZXk5N015eXlCTjBUNkR2djlSSGJlR3Zmd3JXSFU2ZDh1YnZnT0hnX2U4OUtvRHRJRTE2dC1RVE02RlJPNnR4a1dDaXY2M1c5M0tscDFjUDUyd3RTWGh6bEFrdGJ3WVVGVHBvMVpoakdpNGpjdjNEbnBMek5FUQ?oc=5) (Penn Global)
+- [U.S. Midterm Elections | Process, Historic Trends, Importance, Gerrymandering, & History](https://news.google.com/rss/articles/CBMiXkFVX3lxTE92dkVGakttMENzZkdzeWdPVTB1UEtOZklRdEwtQVg3X0RwUTBwRnA3U0RxMnBXMzRiek11MHlOWXdTWWVzcjFHSGl1N3RpbDNtczhCSzZxd1dtNGV3VEE?oc=5) (Britannica)
 
 
 ## Brazil
@@ -253,7 +253,7 @@ _Note: US election coverage is limited; international wires (Reuters, AP, AFP, B
 - [The US midterm results could have real consequences for the war in Iran. Could it end soon?](https://news.google.com/rss/articles/CBMilAFBVV95cUxNX1k4MDM5U2t0ZzdUYTJtWEpreVp2MGx1V1RyUDJRQllEMDJiR0FwNXhuSE9yem11SlZaV3BFSXhMMEVsTUFaZ0lubll5aTh4S2EwendEbFNQbUJrSFNVY0lxYUhBSU12dnNjUUlGSDN0b1h6R3Y0bFgzaUQzQWdxSy1zLUxxVlI5VzZqdjlkeGNoallw0gGUAUFVX3lxTFBiekYzdlQ4M1NtTmJYOVFRbG16STUwdzhyYVlSQlhPN1hwQ0VyS2pzRDJSTk1NekRxd2FQb2xzYzYzMDdYWEpWbVlDbjNPZ3IzM2UwdjhDdVR0Mm4zM0tITURoRTJCbVZ2RU14VVF1Ri12dnVJd3R2b2dSLU95VnNscnRpczYtTWdyNDhsRmJqUkw5UVg?oc=5) (DW.com)
 - [US Democrats win final two Senate seats; Coalition likely to easily win Victorian election](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3F3TXRhTENWQU5qVFZMd2pZbEJLckJfV05ZTlplQmV4dXFCdzhWdlhMMl9VMWhQbXpJaFR1WllzeWxaSzY1V05xOFRsakNwLUZCUE1jaG91Zzl3aUZSWF81TmlQT0FNNDlJaExZRVpMZTJqRzlpal9ZVG1faVZYRFhmQWozRkFHczVXTVZZYjJfOVJnNTI2OWtuRlNzcG1pQnphMTdwbWVPUEoxdXJBVmRKY2NJeG9Ld3kzM2xHYnkyZw?oc=5) (The Conversation)
 - [The historic firsts of the 2026 midterm elections](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQ5VWd5bGxuNEU1c0MtdjAydjlzbjR1Z3hNa2M5Zlh5ZGlueEpkRE9GN1dRVjYtbXdsSTVVQzlMM1BhZ2VjcWtXSWNuQm5hdkFXa3o2SXU4a0NLWFZ2bjlzUlIxa2xtdlhUTlpJNEFpUGFVNm5RN3h5ZXQwZkNyZm1UZUNmdjFsZlZ3?oc=5) (Ash Center)
-- [Lessons from the 2026 US midterm elections for retail investor engagement during proxy fights](https://news.google.com/rss/articles/CBMixwFBVV95cUxQS3EyR3YzcWpXZnN2RWxlLTJlczRWdzJsRkY4YnEtSnQwa0ZQZXNKZ2ZCN29XOU9rZ283d09fdF84d0xhUEo0a2hkY0ZVLW9SbEJuQUQ4cldhNmZZclc5M21lbVNPMHFtQlJWbF9RZjJLUmxBbFM0U2hHQl9Da05PWHhabHVjVGt0SVh3RnJGNUp0N1MtdHRUVWg2TWRPVEUwV3ZmS3hOSGpnTFk4WXo0MXJfdEtCemNiQnQ0ZFVNTGFLbHV2VGI4?oc=5) (IR Impact)
+- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
 
 
 ## Germany
@@ -274,10 +274,10 @@ _Note: ARD, ZDF and DW are public broadcasters._
 
 **Latest headlines (auto-updated):**
 - [US-Midterms: Das Blame Game hat begonnen](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSk5nZk8xUENnUUtrLS0zeFdaUF96YzQ4UjQxSmhaNEJJRktmYmVYN0xadzNXRi1hc1ZHNWIyTEdvZFp5VzZ1UlRZaFo3VDBtV2EtSnhHTzRldVM1aTI5dzJjV3Y3OGJvWFZ1TFNTTUV1TGhubHQxODJYMmkwVl9PTFVrNjNfdFZjeHNF?oc=5) (DIE ZEIT)
+- [Ergebnis nach US-Zwischenwahlen in Alaska: Demokratin Mary Peltola sichert sich offenen Sitz im Senat](https://news.google.com/rss/articles/CBMib0FVX3lxTE1uR0FLSlB1TmwtaG0tQ0hoSzRYOVNiTnRDa2VON0JnREdKb0JTWW5pQmlQT2wzN1J1V3V5WnVyTV9oQ0R1b2dPTFpkZ1VEMVRrRTBSSjZ6cXJ4b01pUkxrWXdJREJCY19WMlJOWTNYbw?oc=5) (tagesschau.de)
 - [Die USA nach den Midterms – Was bedeutet das Wahlergebnis für Donald Trump?](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHJ3VTJKRFZJVC1EMzdfTVJIYTN3RmtUNHMxZWNRZFdFT3hHNUsxV3JfbTlEc3ZGYS1iNTU2Q09Qd2UyWHVlak5EZTFCY3VPbzRKTlJZSzhlc01uNUtxR05kd0VQaFI3dHowalZlV1BkbWd2MklPTzVHWGJOVnFxdDdkOUw3cFByQTBWLVFlODdzVkwyUE9MYUFR?oc=5) (SWR)
 - [Nach den US-Midterms 2026: Der Rechtspopulismus wird zurückkehren](https://news.google.com/rss/articles/CBMixwFBVV95cUxOM0FSNkt0WnJ1VE9HU0w1NDF0MzZQSjBuZDk3UEt4MzBZeUVlQjlOT2J5ZmZSaVNQRGJZNGhvMGFYMkNzcldySDJuUzkxTUt3d045N3NUdEl4a0E0U0NxdHpLdmFfUi1oMXZDM2ZwNmZXN2VVWmdNRUc2VFFsWkQ5NDlSeExCSW01aEFRRFM3WTkxQWxYMGlmcmdlVDNwV1pxUUNwMzBzSW1Mb2JYZ0lFTkV4SjRsWjdrWE4wNUVpWkYzekZ2VUlj?oc=5) (FAZ)
 - [Wie die Demokraten 2026 den Kongress zurückeroberten](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3h4bjhlQ3pnVjNzNmZpTjBUWWRMMzU5ZVFHRldZLTBRODdGRkxkUEdSQ0N6MmJndTBpMHRmMGEzRUlYS2Nyb3A3YmZJRUdYWWNxd3BpaEh0RWtyb3NCZ1ZNamcyaERiQUtDLUpFSFZlYnB0RWhUTnphdWVrTGx3X0U5ZGFBVjhBa2FDRlEwRWxDNDQ?oc=5) (RiffReporter)
-- [Midterms: Demokraten erobern Senatssitz in Alaska](https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEtIWWZxUGxCOHhlN25STmQySEZDZkRweVJ2YnI4SFpEekVKUUZmZTJVVmFIQXJiSDhweDJiV2R5X1J4ZXlxZzFCbVQ0VWM5QmdOWnpXYTFaaV9DejQzcUJQYVd1YXZ3b1NXak81SkZGSkdVWWVqbDZmTC1YenJPVnltbERnRDlUSl9xVnV4Vm9seTdzV1FSSg?oc=5) (ZDFheute)
 
 
 ## Japan
@@ -394,12 +394,12 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 
 ### Research, studies and surveys
 
-- [2026 U.S. House Election Results](https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5) (AP News)
-- [Historic wins show the 2026 vote was about more than prices](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTjF2RWVOMkd1TXZIenY4akhPTExkakdLdmZycGxUVHlFMkhIRkZjOWw4MVV0TVg5VmhTU2lJVEpjUzFjNmwtZlBWTzhIUXhJY1ZGSmtzSmlUc0p3cjR3Nnlra002NzQwVmd4UjllY2xIREc1QTFySkVHcklXWG9ja2E1MDBQS240Uk5oYjhNVmE2bjdjWXNlazliMA?oc=5) (Brookings)
-- [Join COSSA for a 2026 Mid-Term Election Discussion (Nov 19)](https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUxnbTUzUDlnbU1BdHZXMXlQajBUUG5la3JLT0d2QmRsbnJZWHFITGtrU0RwbjhVaDd0cEl4MHNOODBHRkxmSTEtdEduLWluQlNjMVhwSUJaalhvMVdqT2NWdE4xdjhlTHFya01yLTdIal9Yemtyd2M1c0Y3a3hBY2dfQXZIMFhqbFFUS3FzZG1uM0pkVjRGYg?oc=5) (Boston University)
-- [In Top Senate Races, Parties Spend to a Tie](https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWoweEZyOE5GYlNiVk9kcDRrMFNxOW1BdGxsdC0wMDB4M1otMWZiYmZzV01RRVlKcnNocC1vT3pVeFQ0TnBfSmtzMy14ZFV1UEhxbi1rN29BemZjMzhQcUNvbDk2NUVUM0toTktpTkJrdUczdXR6NW15TTJjeDRIeXVJdmR4cFlyMjhSalE5T0R6VXZ0?oc=5) (Brennan Center for Justice)
-- [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
-- [AI Investing After the Midterms Dip](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcTBNbVJsNkFvLUJER3R2RHNLUTY0MHJmb3NsWXl1a3g3OS1KX3lxd0lqQUpsdVppY3pJeVV3WUN0d1pVbzA5aldoU2JWdGV5bWZMNXZ5NlpXY3BQbDY2YklnUGtLX09zWG83UWxNUVlYQnVxZUFWd3UweVZpUXlQbXg5bjBHQWkzZ0JFaGlLSW1laVhaaVE?oc=5) (Morgan Stanley)
+- [UMKC Faculty Helped News Audiences Make Sense of the 2026 Midterm Elections](https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWJXaGJQMWhVSlZ1ZGlGem5jQnplWU4yU3JRWTBkVy1QVDZRN0JQRWgtVWc1V3hYV1lPMllDWDVJQ2FyMzJHa19SN280bHpWWGQzRVpfYnhoelNKLW43RzByc2luVkFUbkN3NXFpQjA5NTZBNzJiX2szTHg5VGNydlhjekpFRGdtMWhjdXhpLXRKVGNPMVJBdjdnZGdUZlVJREc1RDNValo5VW5yUGJ4bE9DeW94N3g2ZUhwbDlPUEppWEUy?oc=5) (University of Missouri-Kansas City)
+- [What We Can Learn from the 2026 Elections](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyYmt6X1B0R2FBQ2tRcFYtdWVEUDVEbVlWdUh4SkV4VFJlNEIxUkYxckdoRGt5dTVkYmU4QnR2c09fYXJxUE5VbnlqWl9DQWJFTXhZcmpUNHpvcURiMUtDYUdxXzZRY0RY?oc=5) (League of Women Voters)
+- [Beyond the headlines: Rice political scientists unpack historic midterm elections](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ3JsRU41ODQ0OFF4WE1Vd3REMUJYazhuT3ZZdVhUa2pPS0dJSktJLUVWdXlEdmRvdm15RzJ1VDN5MVI2UktfVEFGRGdvcGxqTnNtRFdIbzB0T2p1ZTYzS2NGX01Lem9naHNPek1yTDFSS1FGYThzU1U5RTVNdGFHNGtFbFlFdWQ2UGJVRWNQX1Azcm1aOHFtTkJTaDluTG1mb040S3FneDAzeUdU?oc=5) (Rice University)
+- [Republicans outspent Democrats for first time in over a decade in record 2026 midterm election political ad blitz](https://news.google.com/rss/articles/CBMifEFVX3lxTFBDRGU5VlQ1eTU2LXhjTHVrdzcwdy1wNkxzWXM2NFVUSzVSZDl3TVg1eW9HRWVrdkZLLVlxaHRBb3p2TlR1c2loOHh2OXdFRlpMUDZ5UEZCekV5ZjBQMnVSUmRwWWFMMExiLUUzbU1kVWNlS0xrU0l3TWhwejLSAYIBQVVfeXFMTWMtSWplNTZraE1HY05aNkRRMzhjN09MZjZyUmNNRXRDS2JWSW5ldzE0YlFDaU5IbngwdWdTeWItS0VUT0swNUxqYVNHWWNOZjYteGpTV3pBMmdZSjBpajdWeWZMNFFKd01ZM3ZBOGtZN3RNR1dPOGpWak9KZDFjTUY1Zw?oc=5) (CNBC)
+- [Household Debt Was a Motivating Factor for the Majority of Midterm Voters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmZETWxaY1NXMXNKeDZ3Ui1wMFFISVlvblZEUmlERGZ0SWN6WmU4NXRGUEdJVkFzeHVUWWc5dWJiZzhBUldBRWVIN2hKTWpHeFBNMWhKVjRjbi1JQ2V5MmhsOHEwSF95OGM2Ql9uWElySTJsRkhlZVAwdl8xRDBBcnRjTkNsaTdmdkVncDM3S29RVDJrZ3VWX1lhb1RDM0c0aGpfb2ZGeURvYnNUanc?oc=5) (The Century Foundation)
+- [How the 2026 Midterm Elections Moved Consumer Sentiment](https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjFYblFRNU1FRnFYN05KUnF1aHVWNWdha3FhWVNJS3gyWFIwUnRBVVBOVnU0MjFRaEV3d1BkOE1oY2lyYk0wVjZ3bjRZZi1hMnRYUGZVdGlyb0EwQWR5dkstNldrSTF3LW1sLXozM1RaLXYxNzBUYTczR3Ixc2RvNlo0dEh1N3NTRVpHMzVGU3VEVFM1?oc=5) (Morning Consult)
 
 ### Polls and forecasts
 
