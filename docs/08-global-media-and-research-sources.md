@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-19T08:13:19Z**.
+> Latest headlines refreshed: **2026-11-19T08:28:20Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -251,9 +251,9 @@ _Note: US election coverage is limited; international wires (Reuters, AP, AFP, B
 **Latest headlines (auto-updated):**
 - [#Daily_Brief: #Eritrean-descended Joe Neguse elected Assistant Speaker of #US House His parents fled Eritrea before settling in the United States. First elected to Congress in 2018, he previously served as Assistant Democratic Leader and chaired the Hous](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVGJwNTZQU0o5YWtZNDVxVjhWQlFqZTJPdjhTNktjZzlRRmtqRGU0YXhnSEZzVklSMGhPV3Y4TmlkdmZqY0RORmpBZENzbTVTXzhMamdfWnAzX3E4SnlaaEJlSHZBQmhieFI4Z2I3cDZjMmhVb3dRT21LbEY2aGhVUDNVbFNzTWhadGtDMFF6dXdKRDV4QnVTbTNza21CS2FTNkdvcEI3Q1hNTmdMcHl1NmRmU3ZsQ19oeUZRQlh6V0RFTGQyT2dtOGwtRmROcXQ4ZEdzZHowbDJSMU15djFFZg?oc=5) (Facebook)
 - [Lessons from the 2026 US midterm elections for retail investor engagement during proxy fights](https://news.google.com/rss/articles/CBMixwFBVV95cUxQS3EyR3YzcWpXZnN2RWxlLTJlczRWdzJsRkY4YnEtSnQwa0ZQZXNKZ2ZCN29XOU9rZ283d09fdF84d0xhUEo0a2hkY0ZVLW9SbEJuQUQ4cldhNmZZclc5M21lbVNPMHFtQlJWbF9RZjJLUmxBbFM0U2hHQl9Da05PWHhabHVjVGt0SVh3RnJGNUp0N1MtdHRUVWg2TWRPVEUwV3ZmS3hOSGpnTFk4WXo0MXJfdEtCemNiQnQ0ZFVNTGFLbHV2VGI4?oc=5) (IR Impact)
+- [What Do the Results of the Midterm Elections Mean for Clean Energy and Climate?](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUtkdzJJcWd2Zm8weDh2U0NpNFZmVVQ2S0VWS1JhY1dwMk04WllUYUFfU016N0JCX1BzcHZ1UGdhTWZJZ2xLRmluNjVhZmQ2Xy1HQnhXSXRseFpSb0tWSnlNUDgzNzY1b0ZNaE5vbTBYNXNfSUpxREJ6VllMMzFkNkZHelJ2ZXpCdEh0blVaYnEtQmo3MExvVA?oc=5) (CSIS | Center for Strategic and International Studies)
 - [Assessing the Foreign Policy Impact of the U.S. Midterm Elections](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTlMRWUzaWE1ekVVRTN4ZUFGTFlhTVhqZW5XUXpscmVDNDEyY0R1T0xYZXk5N015eXlCTjBUNkR2djlSSGJlR3Zmd3JXSFU2ZDh1YnZnT0hnX2U4OUtvRHRJRTE2dC1RVE02RlJPNnR4a1dDaXY2M1c5M0tscDFjUDUyd3RTWGh6bEFrdGJ3WVVGVHBvMVpoakdpNGpjdjNEbnBMek5FUQ?oc=5) (Penn Global)
 - [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
-- [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
 
 
 ## Germany
@@ -404,11 +404,11 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 ### Polls and forecasts
 
 - [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
-- [2026 U.S. House Election Results](https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5) (AP News)
-- [How Model Choice Obscures Forecast Uncertainty: The Rashomon Effect and the 2026 Senate](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWdlc0FkbVNIY1VZbVJpNFV6Yk5EMXVvUnRjN3poUFBnR1dfbHZoYUZienUtejhDQ2hpM3hYZWFDUGN2QXFwQVFUWWhmMHdFSzFqX0M2NlNaWTVaRGhaQ1Z2WEUxU045ajdKbThaWEhmYktDOE5XeGl0Sm5GME1CQ1JyMC12MklGVXRMbk9sRVU0bUwzMnd5dWloNU1VampJX2NmSC1mdFRXb3k5M3FaOGhZV2x6WGd5V2lv?oc=5) (Political Science Now)
-- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
-- [US midterm election 2026 results in maps and charts](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGtPUWxwRmtWQkNNSVNGTWxYMFVpNkJyRW04R1E1M0dfOE5fUEFGbXEzQnk0V09heEtiQmYzQkxURjZqZVowcHRLbElQLXpTakt2Nl83elJzOUlYM196WV9HYzJwYWhWcUhzQ2R1VXFtN1kyLU1WdVBSSi1xTVJ6RnBJYTNWWWpmazlTOEF6dkR1Z2dmRlQyQWVvRUpJZGdES2xvc013QkhFZThzTGc?oc=5) (The Times)
 - [2026 Texas Midterm Election Results](https://news.google.com/rss/articles/CBMiaEFVX3lxTE01ekZMQkpEN0tQTUl1N0o5UXBMWXVSWHV4aG1ZYnNuT2lCRllyUlhTV3JmeHdaMnY1d3lQZ0xsR1Q0LXhmNlNKTUdxeVhrMWgtZXlwRTQtQXZQbExjUUZENXFId3Z0dy1O?oc=5) (AP News)
+- [US midterm election 2026 results in maps and charts](https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGtPUWxwRmtWQkNNSVNGTWxYMFVpNkJyRW04R1E1M0dfOE5fUEFGbXEzQnk0V09heEtiQmYzQkxURjZqZVowcHRLbElQLXpTakt2Nl83elJzOUlYM196WV9HYzJwYWhWcUhzQ2R1VXFtN1kyLU1WdVBSSi1xTVJ6RnBJYTNWWWpmazlTOEF6dkR1Z2dmRlQyQWVvRUpJZGdES2xvc013QkhFZThzTGc?oc=5) (The Times)
+- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
+- [How Model Choice Obscures Forecast Uncertainty: The Rashomon Effect and the 2026 Senate](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWdlc0FkbVNIY1VZbVJpNFV6Yk5EMXVvUnRjN3poUFBnR1dfbHZoYUZienUtejhDQ2hpM3hYZWFDUGN2QXFwQVFUWWhmMHdFSzFqX0M2NlNaWTVaRGhaQ1Z2WEUxU045ajdKbThaWEhmYktDOE5XeGl0Sm5GME1CQ1JyMC12MklGVXRMbk9sRVU0bUwzMnd5dWloNU1VampJX2NmSC1mdFRXb3k5M3FaOGhZV2x6WGd5V2lv?oc=5) (Political Science Now)
+- [Updating the Fundamentals: Forecasting the 2026 Midterm Election Post-Gallup -](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzRIZk9ZRlBqcUxoZ3NFUnpSTS1SSWRrMzJPVVlURTJJbVFhdXFlYTV0YndOUWs0bEhYVng2enBfX3JWa0hSTnZsTU95QjlqdC1NV2Uya2gwZnRrVkFTaDlUYUJfdnV0RkI5REVTVE1QNjFyOHhBWmV3cU81ZWEteUVGMFBpQ0pKSllnRHduREpHZ2tmRnl1NDhweFFhTzZUSXdZVHk5bTJRUy1D?oc=5) (Political Science Now)
 
 ### International students and visa workers
 
