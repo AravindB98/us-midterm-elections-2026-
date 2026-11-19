@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-19 20:30 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-19 20:45 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -86,10 +86,10 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 **Latest midterm headlines (auto-updated)**
 
 - [What We Can Learn from the 2026 Elections](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyYmt6X1B0R2FBQ2tRcFYtdWVEUDVEbVlWdUh4SkV4VFJlNEIxUkYxckdoRGt5dTVkYmU4QnR2c09fYXJxUE5VbnlqWl9DQWJFTXhZcmpUNHpvcURiMUtDYUdxXzZRY0RY?oc=5) (League of Women Voters)
-- [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
+- [Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5) (The New York Times)
+- [After the 2026 Midterms: Examining the New Congressional Majorities](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnZIeWFMZFpLRXMtR0pUbXVzRjE5X1A5ZFlFYmxkM0k3alpMV0N0WWZscG05TmN5WTNxN2hPX3hhWDI0ZmZxZEZlU3IzXzFRQjZodDhNTnhrMVU4eDVORzBfNElDa1F5YWZxOV9tTkIxZEsyR0o5M0FrMXE2M2VOOXQ2dzFpVXdDSTB3ZGNBbUFjVnc3OGc?oc=5) (American Jewish Committee (AJC))
 - [Democrats flipped 9 U.S. Senate seats — the most in almost 70 years](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmV2SmVvV1YzVTZpQW5ZbHNhZjQ1blUwWUJQamJsRDVFcmh4aDkxd1RIVmtnZ2FvNzZHdXpqMGFTX09fcTExcVg4LU1KckNvaUJsWGZWLW9ybnJEUzI0ejZCYzlNbVdJaXcwOERoRDRoNUFSdHpMeDQ4Wkl1WURzUk9wRlJkQ09jQm9KSVRSQURYMkVFYUpWY1FUMFBsbUNkM0VN0gGoAUFVX3lxTFB3VURjSDZpYzlUZ2JUUldDb1ZFQWV1MzJtUkM3YkdKRDFhTy1yUDg2RjBhUWR6bU96Z3ZzZFFKT3RLdDVpRW84RGtaeEJWclE3b19LVE9kUUpveENNMHk2VGxUdkF1a0lXUWJEeUhUN0dMUXJ5al8tTnpnTTNVTVpIVGlKaVpJMV8zNXN5Yk5rTDV2SGtKT19QNFhyNVdtU1FSbEJqWHV5eA?oc=5) (PBS)
-- [Updating the Fundamentals: Forecasting the 2026 Midterm Election Post-Gallup -](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzRIZk9ZRlBqcUxoZ3NFUnpSTS1SSWRrMzJPVVlURTJJbVFhdXFlYTV0YndOUWs0bEhYVng2enBfX3JWa0hSTnZsTU95QjlqdC1NV2Uya2gwZnRrVkFTaDlUYUJfdnV0RkI5REVTVE1QNjFyOHhBWmV3cU81ZWEteUVGMFBpQ0pKSllnRHduREpHZ2tmRnl1NDhweFFhTzZUSXdZVHk5bTJRUy1D?oc=5) (Political Science Now)
-- [Internet traffic and attacks during the 2026 U.S. midterm elections](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Ukh1aWx3djJ5alRaX2dDR2NYV3JyS1hFczNYNGl4UDdjWXJkMnBZMC1Yb2Ria1dRaGFRV1MweXFHalhBNVZ0aDBaRDNlamVUdVY0OG1DQzJZWEdvMk91eElrWDJPVjdoYzRiWHp1Yw?oc=5) (Cloudflare Blog)
+- [The Midterm Election Strengthened Democracy and Showed the Limits of Subversion Tactics](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmNQUDJhTGxEX3ZxX1RTaGpha0JTRzJJZ0FjQVl3aXBGV2RYSC1laEh1NTdRU0ZvUU1BSnozM3FQMGdoYm5yVUpDZjdFRUYzOERtbjdQdDZ5V0RFQXlFc2JrOVM3Nmwzc1VzaDd5MWVvVFdfRlNPWnE1Y1YyZ0N6d1pqeTB3VjhhQUxFMHdMX3pMMnJIU2FZcHBXMi1BekdSbW1LellNZFJha25Sb00zcVdkVFJTWTRCOThHeE1CZnc2SFFzN0lTaQ?oc=5) (Center for American Progress)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
