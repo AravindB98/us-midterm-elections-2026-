@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-19T17:29:15Z**.
+> Latest headlines refreshed: **2026-11-19T17:44:15Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -99,7 +99,7 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 - [中期选举对美国及全球经济的影响](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZdm1zb3FwWHFrMWh2dVF4U01qcURDT1ZHdU9nWFhpVmpkbC1DbUxWZkFNTFN6RngwNloxWG51YWtnbjk1UjJsemxiX2F6S1ZBejRhNkoyRXc5TlNrNUJ3X09B?oc=5) (财新)
 - [中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税](https://news.google.com/rss/articles/CBMiSEFVX3lxTE42RjZHWU1Jd2JsZE1JVThUZHhOZHhabkZhWmM5NXJwdGNIVDEwNzVsRUM0QXdkX1BlTkw2UUZ3WkJ4Ym5YYnJiRw?oc=5) (财联社)
 - [美国中期选举：投票日临近局势紧张](https://news.google.com/rss/articles/CBMimAFBVV95cUxOblRDQldaY3l6VWJXTl9tZmRvcWhtZmh5Z25YWVhZZEVGQ0FqS2JNTmhreVJoSUhYTGVhYTBJWl8yeWg1U3hXYk9ZTm0yNUdUOWIxSE41bHk0OUZSRUN4dTVadWIzSWwwWXBfdm1GMGtYT2JQa2JPY1N4TGZ0dHhLOWlJYmc5bENMUWdITDBHcEpzSFA0cUJMeg?oc=5) (VOV World)
-- [美中期选举共和党大败，华盛顿掀起“问责风暴”](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTV9NTldrcDh1YVZwZElzdWc5NDBnc0FibFU5LXliaGkwZnE4MkFDMnNmYlFLbFFPWDRWSmcybXV3RzQzcndVVlFvNWpIQTlwOVR4OGVFSVJkdw?oc=5) (上观新闻)
+- [美国观察｜两院翻蓝之后，特朗普的“下半场”如何出牌？](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4WjhhQUNQNkhnWGRSZVNrc2pjU0d5bktMV0x5X3Q1WDQyYmwtT3dIXzd5cThtNjZRSVZqNG16aU4wUV81a3g5TXl1TWhyeVVabG5jTDRKYWFkUXVlNk00WXB6Mmc?oc=5) (复旦发展研究院)
 
 
 ## Indonesia
@@ -250,10 +250,10 @@ _Note: US election coverage is limited; international wires (Reuters, AP, AFP, B
 
 **Latest headlines (auto-updated):**
 - [Lessons from the 2026 US midterm elections for retail investor engagement during proxy fights](https://news.google.com/rss/articles/CBMixwFBVV95cUxQS3EyR3YzcWpXZnN2RWxlLTJlczRWdzJsRkY4YnEtSnQwa0ZQZXNKZ2ZCN29XOU9rZ283d09fdF84d0xhUEo0a2hkY0ZVLW9SbEJuQUQ4cldhNmZZclc5M21lbVNPMHFtQlJWbF9RZjJLUmxBbFM0U2hHQl9Da05PWHhabHVjVGt0SVh3RnJGNUp0N1MtdHRUVWg2TWRPVEUwV3ZmS3hOSGpnTFk4WXo0MXJfdEtCemNiQnQ0ZFVNTGFLbHV2VGI4?oc=5) (IR Impact)
-- [Assessing the Foreign Policy Impact of the U.S. Midterm Elections](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTlMRWUzaWE1ekVVRTN4ZUFGTFlhTVhqZW5XUXpscmVDNDEyY0R1T0xYZXk5N015eXlCTjBUNkR2djlSSGJlR3Zmd3JXSFU2ZDh1YnZnT0hnX2U4OUtvRHRJRTE2dC1RVE02RlJPNnR4a1dDaXY2M1c5M0tscDFjUDUyd3RTWGh6bEFrdGJ3WVVGVHBvMVpoakdpNGpjdjNEbnBMek5FUQ?oc=5) (Penn Global)
 - [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
 - [Elon Musk says he feels ‘pretty foolish’ about US midterm spending](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGtQck9aZVpCaERpZDAzdmpHdTdhTFBaUUpEOERTR0VGMm9mWWlzNDZPaFZCWEF2RWZUSDVpWFliYUxPUnVQeGVkY1hzU0ViNjZRanFqWUR6aVZyUjFfVDFxSWxqYjFKdFFiejNhQzhIVXhBVnI1RW5xWUo2OUN4MGl1VXR6V2dfUFBjeFkybGk3SzZxRWNmNnhYUkk1ei1KQWlGd0tuWFprUdIBrwFBVV95cUxPcEwxT21aangxd0c1clo4VGVhV0xFYTVtNldiN01FVDNwVWNqdk9IcTVwZjZaNUhFbWtxcEdvTmVhSno3dUVvMjIxRVAySlQ5VzBoN2U4RmhVbHotczZFY1hMcGhLWUREdnNnWjVha3ZONjBYcDNjU1VCY092dkpBdTc0dkZpaTAtalRfZkZSRl95QXFVdU5VdVFRSG5ENnNpU0NJekJmeVl5OFpBaks0?oc=5) (Al Jazeera)
 - [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
+- [Assessing the Foreign Policy Impact of the U.S. Midterm Elections](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTlMRWUzaWE1ekVVRTN4ZUFGTFlhTVhqZW5XUXpscmVDNDEyY0R1T0xYZXk5N015eXlCTjBUNkR2djlSSGJlR3Zmd3JXSFU2ZDh1YnZnT0hnX2U4OUtvRHRJRTE2dC1RVE02RlJPNnR4a1dDaXY2M1c5M0tscDFjUDUyd3RTWGh6bEFrdGJ3WVVGVHBvMVpoakdpNGpjdjNEbnBMek5FUQ?oc=5) (Penn Global)
 
 
 ## Germany
@@ -386,8 +386,8 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [HOW ABOUT NOW INSTEAD? Trump Says Iran War to End after US Midterm Elections, Threatens to Attack Pickaxe Mountain](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb2tDZWxRRkpxMWFfY1hhRDZKVS1WclRycUpKOFNyNmtBei05OUszWDRQM2lTWWJaemVHV1o0c2QtNjNrRUFPc1RXdHJlcDdHd0owWXZJbmE1Qi1YclVDdnRFa0szcTFmaGlnUUhBcnRQZTBBSXotOTE1b2Y0MWZiZExLZ2pCcy11QWlkQTlVeTF3dHBoY3l1dUt6SnFEem56Y3pJRlpjOG5DYXIyUHpsV0paVEhYa1RsYmNZdkxWSlZ2RF93VldCbmZBeUl5RjQzSFFSaGs3QUVHZw?oc=5) (EnergyNow)
 - [Winners and losers from the U.S. midterm elections](https://news.google.com/rss/articles/CBMiiAFBVV95cUxON19CNWIyTkNEUGVtM1NZUjRLTTJKdVZ2eEp0NXJ2SGRUMTBEajR4T29HMTlpeWdtNGNxQ0pYUW45QjhaRE1HbGFqZ29CUUhDYlZsQnNQNXdIcW9GNDgzSnhBWnNoTVB4bndjRmVJOWZ4M0xqVlZiQ000S2JLMjk3cmxkZkMtanl4?oc=5) (The Hamilton Independent)
 - [Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5) (The New York Times)
-- [Elon Musk says he feels ‘pretty foolish’ about US midterm spending](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGtQck9aZVpCaERpZDAzdmpHdTdhTFBaUUpEOERTR0VGMm9mWWlzNDZPaFZCWEF2RWZUSDVpWFliYUxPUnVQeGVkY1hzU0ViNjZRanFqWUR6aVZyUjFfVDFxSWxqYjFKdFFiejNhQzhIVXhBVnI1RW5xWUo2OUN4MGl1VXR6V2dfUFBjeFkybGk3SzZxRWNmNnhYUkk1ei1KQWlGd0tuWFprUdIBrwFBVV95cUxPcEwxT21aangxd0c1clo4VGVhV0xFYTVtNldiN01FVDNwVWNqdk9IcTVwZjZaNUhFbWtxcEdvTmVhSno3dUVvMjIxRVAySlQ5VzBoN2U4RmhVbHotczZFY1hMcGhLWUREdnNnWjVha3ZONjBYcDNjU1VCY092dkpBdTc0dkZpaTAtalRfZkZSRl95QXFVdU5VdVFRSG5ENnNpU0NJekJmeVl5OFpBaks0?oc=5) (Al Jazeera)
 - [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
+- [Investigate Trump or work with him? Democrats debate best path forward](https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFdWZ1NnOHZjUFBnQ2U5SkZONTV6T0h0WWY3bE5oQklrRk5FZmstekdQWkZkSFcxLW85RjdOTTRDYndqcnM3enNfZmNNVlVNODYwWHNZWTJMVzdyaVNyZEpZZ252STUzcTdtazlOejZqOHFtTUVrd2RWOG5DZ29XNWFaN2Njb1p4WlRqLV92dTJNZW90bHZqdg?oc=5) (CBC)
 
 
 ## Live topic feeds
