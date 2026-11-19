@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-19T21:15:15Z",
+ "updated_utc": "2026-11-19T21:30:15Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-19T21:13:49Z"
+   "source_revised": "2026-11-19T21:28:05Z"
   },
   "House": {
    "parties": {
@@ -189,7 +189,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-19T16:35:46Z"
+   "source_revised": "2026-11-19T21:25:48Z"
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -1152,34 +1152,34 @@
     {
      "name": "Jonathan Kreiss-Tomkins",
      "party": "Alaska Democratic Party",
-     "votes": 145268,
-     "pct": 51.1,
+     "votes": 145449,
+     "pct": 51.08,
      "party_code": "D"
     },
     {
      "name": "Bernadette Wilson",
      "party": "Alaska Republican Party",
-     "votes": 79269,
-     "pct": 27.9,
+     "votes": 79336,
+     "pct": 27.86,
      "party_code": "R"
     },
     {
      "name": "Dave Bronson",
      "party": "Alaska Republican Party",
-     "votes": 38721,
-     "pct": 13.6,
+     "votes": 38767,
+     "pct": 13.62,
      "party_code": "R"
     },
     {
      "name": "Treg Taylor",
      "party": "Alaska Republican Party",
-     "votes": 20358,
-     "pct": 7.2,
+     "votes": 20368,
+     "pct": 7.15,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
-   "source_revised": "2026-11-18T03:56:03Z"
+   "source_revised": "2026-11-19T21:23:50Z"
   },
   "Iowa|Governor": {
    "state": "Iowa",
@@ -1231,7 +1231,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
-   "source_revised": "2026-11-18T18:21:42Z"
+   "source_revised": "2026-11-19T21:21:07Z"
   },
   "New Hampshire|Governor": {
    "state": "New Hampshire",
@@ -1335,7 +1335,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Arizona_gubernatorial_election",
-   "source_revised": "2026-11-19T18:09:58Z"
+   "source_revised": "2026-11-19T21:27:23Z"
   },
   "Michigan|Governor": {
    "state": "Michigan",
@@ -1811,20 +1811,20 @@
     {
      "name": "Xavier Becerra",
      "party": "Democratic Party (United States)",
-     "votes": 8637628,
-     "pct": 65.6,
+     "votes": 8667526,
+     "pct": 65.61,
      "party_code": "D"
     },
     {
      "name": "Steve Hilton",
      "party": "Republican",
-     "votes": 4531284,
-     "pct": 34.4,
+     "votes": 4542197,
+     "pct": 34.39,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
-   "source_revised": "2026-11-19T17:02:32Z"
+   "source_revised": "2026-11-19T21:15:36Z"
   },
   "Massachusetts|Governor": {
    "state": "Massachusetts",
