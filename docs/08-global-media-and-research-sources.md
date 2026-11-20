@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-19T23:59:52Z**.
+> Latest headlines refreshed: **2026-11-20T00:14:51Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -72,10 +72,10 @@ _Note: Heavy focus on H-1B, OPT, green-card backlogs and Indian-American candida
 
 **Latest headlines (auto-updated):**
 - [US Midterm Elections 2026: How Trump Lost the Voters Who Put Him in Power](https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktHN01tOXoxMTM3UlJDOWVNNXIxNzZ4MHJQQ0VZbU84dXdDUXBEeEZzMElxY2w4blJlZjNYci15bTZHd1Yxa3FPOGZNNzR0cUtBUTRiMk0xOFlKaGR4N3padVdwSE5ieUt5RU52d3Vxa3BZcmFVVHlEZDFJZUxSelFlcGhmZWRBdXNDanlmMXE4M3QxV2pkblRaWDd5OFZXRUw1UU9HTTdqOFA1Z1FJMk130gG4AUFVX3lxTFB3WGswcVZ2ZG1CT2JLanU1RjF1a05tdzZlUUU5MWJ2dmxCZGdvYzQ2QXh4NDZPWlJKU1lfTnYzY3VlSGpTeDd2aXAwZ04zVXgzaVN0WS1seC1DXzVTT0NKM0pxaXM0UTR4VWtSN1NQanBfUkNPaDE5SldzUFAtUHR3STlGYmdaNEI3enJwZEd4OWtjdFZpcUFCYnlnSTBHZk9LVG5pZEZzMk9nR0JSVGZsTnY5aV9rRnU?oc=5) (Frontline Magazine)
-- [U.S. Midterm Elections | Process, Historic Trends, Importance, Gerrymandering, & History](https://news.google.com/rss/articles/CBMiXkFVX3lxTE92dkVGakttMENzZkdzeWdPVTB1UEtOZklRdEwtQVg3X0RwUTBwRnA3U0RxMnBXMzRiek11MHlOWXdTWWVzcjFHSGl1N3RpbDNtczhCSzZxd1dtNGV3VEE?oc=5) (Britannica)
+- [2026 U.S. House Election Results](https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5) (AP News)
 - [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
 - [Elon Musk says record $446m spending on US midterms was 'pretty foolish'](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FM3BjWHRfbFlaeW94aHdZTVhaVUUxUUJsdFR6cHRjYVg2VVdFT1pPVVNuR2FQMnJQQlRlQUlVTWswb29vRXREMjlhOExQQ2lJR2RzNHBEbHJRbnc?oc=5) (BBC)
-- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
+- [US Democrats win final two Senate seats; Coalition likely to easily win Victorian election](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3F3TXRhTENWQU5qVFZMd2pZbEJLckJfV05ZTlplQmV4dXFCdzhWdlhMMl9VMWhQbXpJaFR1WllzeWxaSzY1V05xOFRsakNwLUZCUE1jaG91Zzl3aUZSWF81TmlQT0FNNDlJaExZRVpMZTJqRzlpal9ZVG1faVZYRFhmQWozRkFHczVXTVZZYjJfOVJnNTI2OWtuRlNzcG1pQnphMTdwbWVPUEoxdXJBVmRKY2NJeG9Ld3kzM2xHYnkyZw?oc=5) (The Conversation)
 
 
 ## China
@@ -321,8 +321,8 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 **Verified 2026 midterm coverage:** [The Guardian US news (midterms coverage hub)](https://www.theguardian.com/us-news)
 
 **Latest headlines (auto-updated):**
-- [Democrat Mary Peltola unseats Republican in Alaska Senate race](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pWHQtM2hwMjZTVEFuMExIRkVWaGw4LVFZOUVQcWh3T2NjUGEyR3NiSkZzZ3FCUFp6UTdxMGlQUVBQdTJDYmlpZ1NDQjAyV1JWckxPUXhLLThXME0zNlE?oc=5) (BBC)
 - [Elon Musk says record $446m spending on US midterms was 'pretty foolish'](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FM3BjWHRfbFlaeW94aHdZTVhaVUUxUUJsdFR6cHRjYVg2VVdFT1pPVVNuR2FQMnJQQlRlQUlVTWswb29vRXREMjlhOExQQ2lJR2RzNHBEbHJRbnc?oc=5) (BBC)
+- [Democrat Mary Peltola unseats Republican in Alaska Senate race](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pWHQtM2hwMjZTVEFuMExIRkVWaGw4LVFZOUVQcWh3T2NjUGEyR3NiSkZzZ3FCUFp6UTdxMGlQUVBQdTJDYmlpZ1NDQjAyV1JWckxPUXhLLThXME0zNlE?oc=5) (BBC)
 - [The 2026 Midterms: How the Democrats overcame their “God problem” | LSE United States Politics and Policy](https://news.google.com/rss/articles/CBMiigFBVV95cUxQd184RXhIYmQxSEtBZE5MMkVJcUFDMGNVVVJCS3dHV1NNa1JSc3lndVNZM1JwVUR0eWk3YzJsdzhjLUp1ZWtHbWo3Z0w0M19EYy04em93OTJGZHJjd3dNVEF1REh6RHlEaDdfQkZxTTN3QTJWNkxiR0pBZnJSbHNpNHpCWkNqOFhqS3c?oc=5) (LSE Blogs)
 - [Midterm 2026 results in full: Final election maps show sheer scale of Dems victory](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPclJtRk91ZHFyVGI3Y0dhMlpoUXd0OUhVWl9lczdxdU1kaUFyNFFxWk5wZVIzMUNUWE1seUpGcmJGQWdkZjlpLWtCVFRzcjNvekJTUnRmQkd5dHhLQ3JTdG5kN0pYc0VodHZCTFQxTk43c19LVDNQVGVBX2d3dkNiWDh3X0JtZ3RrRkxZMUVaaGNKckxFSGNRYjVNODBEbXNrYUdJMXNEb3dYeTg3RllFRlN4NUg4OE9UNnU4R3lCdUtVcnc?oc=5) (The Independent)
 - [Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5) (The New York Times)
@@ -403,11 +403,11 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 
 ### Polls and forecasts
 
-- [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
+- [Forecasting the US Midterm Congressional Elections Without Poll Data -](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeHU1dmxaYmNzbF9qbzBGRmFVM09aQVNPVVRQS1NwdlpoUS1xRDhYb2tTMWNKUzMwQ3BRUjd4VDMtMVN0cW5iMzkweGUxSFk5QXhMbF8xQzBZcmQ0eWVrb2FhS2trM3RPbXh4UFY5anp2SWtibXJDbU5VNkx1SDdPcERnUVRHdjZ1TVJBNmF1ZUhLUlhoQUlGVXZZaUZvdEtOaHk0?oc=5) (Political Science Now)
+- [Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5) (The New York Times)
+- [NY Election Results 2026: Governor, Congress, Legislature](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoYUNCZW4wYnRVRkIwZGg2MFBRTlc2ZnRMVERKclpXVXNTREluajRCaVBpUXF4NDNHeEJVSVBOUnkwVDQxLUlzNWdwWmF5RVFZZTN2Qk05ak5hbGJkLXFHaGxtYzl3Vlk?oc=5) (New York Focus)
 - [The Transmission Problem: A Nationalization-Weighted Forecast for the 2026 Midterm Elections](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWDhuMU80Wm5oQm5yc3lQQVZ5ZXBJWDRUQUVfNElsZWstVVFIQ2Z4WnJkSVdXQ3BUNGR1MFI3Z3g4Zk5PMElzRkpGMDYtQlh1VjJsdk4zaEtBSlNVQTlfQlgzcmEzaGE5enBvZE9BSi0tV2d5RGlxQk9mYnhKeGU0dUdxMTUzOFQ5NVQyN29QaElfV3FsZ2ItRTVFTllMMkV2aFlyUmRMX1VpRW1ZSWlwYlZaZV9xUEppOTVYdFVoN2IyQQ?oc=5) (Political Science Now)
-- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
-- [2026 Alaska Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE9PSHdYZDVTR3dZZ2VGUHVJSlBMR0E3VHlWV004VkdNaUZJSTNIekx1d0l3NlVnYUV3b3c5VVRNVjNKSGFneHllcEhUUEJWLVp3dEQ0cUFWd3IzWlJDWnBuN0FJOFhOMWJxUHc?oc=5) (AP News)
-- [Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3N3bFh4Q1JsM0lqczM5Q2l5Wmx1WG90Q0hBV1hZRDVmdmJUTFdBWDhySHI0RGlFV2dZeUhlRGR0UEtGdVZkUS15WDZ6eXlSRVJIVFV6eEo5ODBXY3h4S1JWQUoyb1N1dW9YQXFTUEM1dFNTTXRxOW1vcGRpUmhKbmNQWQ?oc=5) (The New York Times)
+- [Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift](https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5) (The New York Times)
 - [How Model Choice Obscures Forecast Uncertainty: The Rashomon Effect and the 2026 Senate](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWdlc0FkbVNIY1VZbVJpNFV6Yk5EMXVvUnRjN3poUFBnR1dfbHZoYUZienUtejhDQ2hpM3hYZWFDUGN2QXFwQVFUWWhmMHdFSzFqX0M2NlNaWTVaRGhaQ1Z2WEUxU045ajdKbThaWEhmYktDOE5XeGl0Sm5GME1CQ1JyMC12MklGVXRMbk9sRVU0bUwzMnd5dWloNU1VampJX2NmSC1mdFRXb3k5M3FaOGhZV2x6WGd5V2lv?oc=5) (Political Science Now)
 
 ### International students and visa workers
