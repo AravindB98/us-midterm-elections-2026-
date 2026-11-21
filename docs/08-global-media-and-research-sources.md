@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-21T12:18:36Z**.
+> Latest headlines refreshed: **2026-11-21T12:33:36Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -98,8 +98,8 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 - [2026美国中期选举](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xc3N2QVYyT29uVHh3OUJoQUF1dUgtUjhEOUZRaVJ4bHZLWmwyeWV5VFFqZktxb3p3cVFvNXVQLXBvSWlRQzlTS2Fua2wtc3U1V0hTSzZwLXJHRXNKUUE?oc=5) (美国之音)
 - [中期选举对美国及全球经济的影响](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZdm1zb3FwWHFrMWh2dVF4U01qcURDT1ZHdU9nWFhpVmpkbC1DbUxWZkFNTFN6RngwNloxWG51YWtnbjk1UjJsemxiX2F6S1ZBejRhNkoyRXc5TlNrNUJ3X09B?oc=5) (财新)
 - [中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税](https://news.google.com/rss/articles/CBMiSEFVX3lxTE42RjZHWU1Jd2JsZE1JVThUZHhOZHhabkZhWmM5NXJwdGNIVDEwNzVsRUM0QXdkX1BlTkw2UUZ3WkJ4Ym5YYnJiRw?oc=5) (财联社)
-- [美国中期选举，结果什么时候出？一图看懂时间轴-市场参考](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVemZ6a01leXpBc05ReGtMMHJZZjV2TGVYM3RPb0RYcEpNNnI2N3cwbnBrTUdoZU9hNncxQ044am1fcmdvRW1kSWtMMXlnOVk?oc=5) (金十数据)
 - [美国观察｜两院翻蓝之后，特朗普的“下半场”如何出牌？](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4WjhhQUNQNkhnWGRSZVNrc2pjU0d5bktMV0x5X3Q1WDQyYmwtT3dIXzd5cThtNjZRSVZqNG16aU4wUV81a3g5TXl1TWhyeVVabG5jTDRKYWFkUXVlNk00WXB6Mmc?oc=5) (复旦发展研究院)
+- [美国中期选举，结果什么时候出？一图看懂时间轴-市场参考](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVemZ6a01leXpBc05ReGtMMHJZZjV2TGVYM3RPb0RYcEpNNnI2N3cwbnBrTUdoZU9hNncxQ044am1fcmdvRW1kSWtMMXlnOVk?oc=5) (金十数据)
 
 
 ## Indonesia
@@ -399,15 +399,15 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [NACo 2026 Midterm Elections Analysis](https://news.google.com/rss/articles/CBMib0FVX3lxTFBxS3ctV2s3SS1EdHlJVTg5UlpBejlRZXFkdTFMS09fZ3NEZGZ4WWZIRk5HbWc0QkpGemplX2h1MWNCdTZOSWtWeFRhVXFQanB5U1VYR2Nzdjh1cS0wbmJGNGhmT1c5R3JuVFVVdktzaw?oc=5) (National Association of Counties)
 - [Trust in Elections Surges for Majority of Americans After 2026 Midterms](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkZrM2FfdGtIeXRSYUFzbTQ3ZzYwUFZpSGc1NjZ4MkR5VXBvcHZPV2tWdWt6SG16OExmUlFWbjFXZWxvMG80RzMtQXZxMUQ5Sk1JYVlsRGhocTBtQmpVU1VGZmxrN2U4WnNGOWpsdFZQNXVKMXlWWF9STng5QnlmRDUtSzdoeDZKUTRZWUtoakJBa3dfQmc3Xy1ubDJrbTNQN0E?oc=5) (UC San Diego Today)
 - [The Race for Congress: Latest 2026 Polls](https://news.google.com/rss/articles/CBMiekFVX3lxTE5EdUZXTXBzRFFLOGZJR2hWaHlFUUw0em5XbTZQYTRNbnNmdkVOaXBRcEtuUDhQWnhxNUVsckIwTERBUUplcWtOSWtzY09Yb3FDVzBJY05kU04wb0dZc1d5LXlLbm1jZi1wckVUcjFoSTI1WDQ3R2FxRHZ3?oc=5) (The New York Times)
-- [Trump initially accepted the midterm results, but most GOP voters doubt they were fair](https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkdWRFdrbjlFOGQyY2lxU1FjNExxYUVENlQzYVBRcXZhSXpxTTc1WDA3eVZXUE5aMWQzYWFlVV9aekNVa0Z4YXExcjhVNDUwQUFzVk4wNmhkNVhnckdxRjdaclpLUDlObVpmbzFTUTFaVVZpeFUzMl9pQXFRU3J3eGg0VktUMGdrNXc?oc=5) (NPR)
+- [2026 Midterms: What the election results mean for the 120th Congress and the year ahead](https://news.google.com/rss/articles/CBMivwFBVV95cUxORHFfTG9XRlJYcnhHV3VkYjNmWEZneDZidG9wSzBrd2FYaEFPd3JXWTl4c3VSc1UxMVZXVnB2QXBwV1NyQlcxVzFzMHRFQjBSRERpcTBlSmlrLUZhX1FmeVVrVVVxUnVqUnpoWDB0aVZaa1dFTXNNZ0lDS3J5Y1l4VUtCR3BrdFp4WlRsdnNJNFk3VFlicGdEYmQwVDNNbzNfLUp1OVZhSVpITGhieHZxQzdRcUFUUjdNRVRoUEp5OA?oc=5) (Hogan Lovells Cadwalader)
 
 ### Polls and forecasts
 
-- [The Race for Congress: Latest 2026 Polls](https://news.google.com/rss/articles/CBMiekFVX3lxTE5EdUZXTXBzRFFLOGZJR2hWaHlFUUw0em5XbTZQYTRNbnNmdkVOaXBRcEtuUDhQWnhxNUVsckIwTERBUUplcWtOSWtzY09Yb3FDVzBJY05kU04wb0dZc1d5LXlLbm1jZi1wckVUcjFoSTI1WDQ3R2FxRHZ3?oc=5) (The New York Times)
+- [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
 - [The Transmission Problem: A Nationalization-Weighted Forecast for the 2026 Midterm Elections](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWDhuMU80Wm5oQm5yc3lQQVZ5ZXBJWDRUQUVfNElsZWstVVFIQ2Z4WnJkSVdXQ3BUNGR1MFI3Z3g4Zk5PMElzRkpGMDYtQlh1VjJsdk4zaEtBSlNVQTlfQlgzcmEzaGE5enBvZE9BSi0tV2d5RGlxQk9mYnhKeGU0dUdxMTUzOFQ5NVQyN29QaElfV3FsZ2ItRTVFTllMMkV2aFlyUmRMX1VpRW1ZSWlwYlZaZV9xUEppOTVYdFVoN2IyQQ?oc=5) (Political Science Now)
+- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
 - [2026 Alaska Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE9PSHdYZDVTR3dZZ2VGUHVJSlBMR0E3VHlWV004VkdNaUZJSTNIekx1d0l3NlVnYUV3b3c5VVRNVjNKSGFneHllcEhUUEJWLVp3dEQ0cUFWd3IzWlJDWnBuN0FJOFhOMWJxUHc?oc=5) (AP News)
-- [Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift](https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5) (The New York Times)
-- [How Model Choice Obscures Forecast Uncertainty: The Rashomon Effect and the 2026 Senate](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWdlc0FkbVNIY1VZbVJpNFV6Yk5EMXVvUnRjN3poUFBnR1dfbHZoYUZienUtejhDQ2hpM3hYZWFDUGN2QXFwQVFUWWhmMHdFSzFqX0M2NlNaWTVaRGhaQ1Z2WEUxU045ajdKbThaWEhmYktDOE5XeGl0Sm5GME1CQ1JyMC12MklGVXRMbk9sRVU0bUwzMnd5dWloNU1VampJX2NmSC1mdFRXb3k5M3FaOGhZV2x6WGd5V2lv?oc=5) (Political Science Now)
+- [The Race for Congress: Latest 2026 Polls](https://news.google.com/rss/articles/CBMiekFVX3lxTE5EdUZXTXBzRFFLOGZJR2hWaHlFUUw0em5XbTZQYTRNbnNmdkVOaXBRcEtuUDhQWnhxNUVsckIwTERBUUplcWtOSWtzY09Yb3FDVzBJY05kU04wb0dZc1d5LXlLbm1jZi1wckVUcjFoSTI1WDQ3R2FxRHZ3?oc=5) (The New York Times)
 - [2026 Mississippi Midterm Election Results](https://news.google.com/rss/articles/CBMicEFVX3lxTE4tMUprSkJTbVc5cUtIT0hsZzlyaFdMcE1mTlBnMk9rTUZmd0M3RGRzZ1hFd29CS0NsSjVhY2dscXVZMVZ2Z3VjTTBaLVZtam1DdjdOeWxjNHRGS3NvdE9VWHZ0SUMxQUZYMkphTzNsekw?oc=5) (AP News)
 
 ### International students and visa workers
