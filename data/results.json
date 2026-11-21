@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-21T01:03:42Z",
+ "updated_utc": "2026-11-21T01:18:42Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -495,20 +495,20 @@
     {
      "name": "Jon Ossoff",
      "party": "Democratic Party (United States)",
-     "votes": 2469037,
-     "pct": 59.03,
+     "votes": 2469059,
+     "pct": 59.02,
      "party_code": "D"
     },
     {
      "name": "Mike Collins",
      "party": "Republican Party (United States)",
-     "votes": 1713664,
-     "pct": 40.97,
+     "votes": 1713673,
+     "pct": 40.96,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
-   "source_revised": "2026-11-19T16:40:15Z"
+   "source_revised": "2026-11-21T01:17:10Z"
   },
   "Mississippi|Senate": {
    "state": "Mississippi",
@@ -866,20 +866,20 @@
     {
      "name": "Ed Markey",
      "party": "Democratic Party (United States)",
-     "votes": 1654184,
-     "pct": 63.4,
+     "votes": 1718276,
+     "pct": 63.68,
      "party_code": "D"
     },
     {
      "name": "John Deaton",
      "party": "Republican Party (United States)",
-     "votes": 838169,
-     "pct": 32.13,
+     "votes": 855969,
+     "pct": 31.72,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
-   "source_revised": "2026-11-16T17:09:36Z"
+   "source_revised": "2026-11-21T01:13:20Z"
   },
   "Oklahoma|Senate": {
    "state": "Oklahoma",
@@ -1837,20 +1837,20 @@
     {
      "name": "Maura Healey",
      "party": "Democratic Party (United States)",
-     "votes": 1628936,
-     "pct": 61.99,
+     "votes": 1691156,
+     "pct": 62.31,
      "party_code": "D"
     },
     {
      "name": "Mike Minogue",
      "party": "Republican Party (United States)",
-     "votes": 912300,
-     "pct": 34.72,
+     "votes": 930508,
+     "pct": 34.28,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
-   "source_revised": "2026-11-19T16:08:12Z"
+   "source_revised": "2026-11-21T01:10:00Z"
   },
   "Maryland|Governor": {
    "state": "Maryland",
