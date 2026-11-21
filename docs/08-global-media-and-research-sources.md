@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-21T14:03:37Z**.
+> Latest headlines refreshed: **2026-11-21T14:18:37Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -120,8 +120,8 @@ _Note: Coverage typically focuses on trade, tariffs and US policy toward Southea
 - [Trump Tumbang, Normalisasi Amerika?](https://news.google.com/rss/articles/CBMicEFVX3lxTFBid29fRC1kWDRLY3BNaFgwU0xtaDdVM1V5Rzg3amh3SHptNnVZRHMxUWUtbXlrNUFlaVVHMTE2cHN6bXktanB3dVY0U015LWdFWXBwRWgwSlpVMk13dWc1QmNQYlE4X295anVlQVlQdXM?oc=5) (Kompas.id)
 - [Partai Republik Kalah, Elon Musk Menyesal Sumbang Rp8 T di Pemilu AS](https://news.google.com/rss/articles/CBMi0wFBVV95cUxONERseDNmWW4tOGZTU1loTERpUHBYWHYtMjBmVnNKcDNzU3BNQmpqcHd3MGlmR1pTWWl3ZjAyVzBVWmNoSllXU1ptS0RXV3Z0bm1ad1RjTF9GQkZhVUNleEdjNmtaYUJ6OHllWjlaTnZSNFlLNzd4Y1RaM1BPRVg2TEpVdEhwdmIzNHJtQ2I2bnFSc1R0Q2o5N0NBSV84QUR0RHQwZEtiU2pUa3d6QnlCTUI3SFo2YUhxeWNWajY1bUE4Y0pkZ2d0WGpvaTgzTXM4OHh3?oc=5) (CNN Indonesia)
 - [Jelang Pemilu Sela AS, Harga Bensin Rezim Trump Lampaui Era Biden - Energi](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEUtQ3JmN1dfM0R5NkpxXzUyUUJTaklwd0lNazhDTjJfa3ZsNVBFRnl1T21IMmxLOGFtaWlIWjJKZmZTdjNwOWlEMG9rU295d0haNTB5UWpyQTZuWHowcFBKeUd3R3VHanBGSzN4d1RkWE54ZDZfcjNYSlFtTXE2bnFHdUFyZFROMm9KOS1jMC1pN3M2MEVFQU5mamRDSE9oOUNSdlJsZ0ZCQzFIZFdKaGF6MEducXB5MHc?oc=5) (Bloomberg Technoz)
-- [Bakar Rp 9 Triliun, Elon Musk Menyesal jadi Donatur Partai Republik](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa05XTHFaWnlESFUwMlVkWldFVVlSOHVmRV9iN0pqdVBrcjJYREw2bkhsb3BYeXV6ckp4OVV4Y2hSdms2aTdBamRLTm5KWk9TWVBzYVVDTGJGT2JlMTlydzF2ZHZORjg1VnlZeFFnZnFnV2tzWThFeG9nTVM4SldjZEFiUTJZQ05UdE0tOXhhUWI4V3dNSlJ6S3VLQUZpaHVUbWd0ZnRfejlmSnVaVmhndzYyNXRfOUxjMVJuWXdpQ2pZX1XSAcgBQVVfeXFMUG02X3hTcWxFV3ZwOHhlZTFNdGNzSzktSWxUdlhXbjgybU9HZEZ2UmNZRkFqSXVWMGFPTFJpdU5RMW13WFNvVDZrWDdVNE1Jek1SMTNNb3JqR2ZjRUZQaDB2SUR5NmQ3dDNCU0haUmgxbFZFbWNrbTNDekk3LVJzRGNFa24wM3U0cXJGWC1BTi1mQV9ndHV3VXJfNk5XRGxUU0kxT25USVNtX2dkbmtXVTFUZTdBdmJnaVZfNlNEa3F4YWR0NWd5TVk?oc=5) (Pontianak Post)
 - [Menyesal, Elon Musk Akui Bodoh Gelontorkan Rp 9 T untuk Partai Republik di Pemilu Sela](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUdyT3pXeUpDYzVvTWowZnF4SWpLb0JFb3FWUXJRVXlkZ0VlMk56Tkg2MVVXektPdTkwZVpjTFoxR1hsN3NDSzU1LWZ5eUEtSjRDc2IwcnNPWHMxdW1pQzNIV2tlWmw5aEVGMWxNZWFWVDZaSGE0MFBHM3lnT184ZmszUDFiY0tETF8ybTVJeVFkeGYtLWRqZVg3Vm52TXBEbFY5ckJ3VDBtRldGUXZuS3pQSmtwMXpmTE1zN3l3dFpJREF6bmJEUWVqbjVPemx4bFZmdA?oc=5) (Kompas.com)
+- [Senat AS Tolak Resolusi Hentikan Perang Iran, Trump Dapat Dukungan](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQzV6akhXbXlTeVFPeFhLOUc3MDdod2tJQjdsb1FZMWp6Yl9lNV81MXBPM3VkMHhLRU1VUVh4bmxQRk5Sczg2V2thTGtwcERFTlg1c1BweWhSaDJBMDFZY3VsTkVtNjRCVG1Pek5WeVhOOW1kcmVrQzRFS1FhUG5CUm1FSF9vVTNySlJZbGJUSEF4cmNkQllSUWRFRHkxWG8zYXB6a29vMHJQMF9OMmc?oc=5) (RanahRiau.com)
 
 
 ## Pakistan
