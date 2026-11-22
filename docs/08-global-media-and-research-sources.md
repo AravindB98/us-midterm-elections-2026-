@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-22T04:19:52Z**.
+> Latest headlines refreshed: **2026-11-22T04:34:52Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -49,9 +49,9 @@ _Note: Mix of commercial networks (left-, right- and center-leaning) and public 
 **Latest headlines (auto-updated):**
 - [What We Can Learn from the 2026 Elections](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyYmt6X1B0R2FBQ2tRcFYtdWVEUDVEbVlWdUh4SkV4VFJlNEIxUkYxckdoRGt5dTVkYmU4QnR2c09fYXJxUE5VbnlqWl9DQWJFTXhZcmpUNHpvcURiMUtDYUdxXzZRY0RY?oc=5) (League of Women Voters)
 - [Results for Women Congressional and Statewide Executive Candidates in Election 2026](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFpsRmJGX3dfQkQyNThKTVdjUlo2VFRpaFRUNk9nX3ZlbTFvcGgzRUYwNFFKNEp4bXZPUnphZ1Z5bEhsWl9zcF83OGJINFZZVXNONkZFWmFiWl9GemJyQjh2WFpjaV9ZOHUwZ3BiUDdwXzlYMnlRbFdZYWxTVDU2MUlFREs4SVVIelRKY2l2NFVFczFWV3o3ZXJYMVJSQmxPSHVzS1VHd2pRdw?oc=5) (CAWP)
+- [State Legislatures | 2026 State Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFR0TkJmT0h6dHNtWDlIVDhxcHV4c1QtdWNJa1dWVHBxUXd4blRpbm9KQ3h2N0xKNEZGU0o3Y0VJZ2Y0NERkYTRvZnJNQWV4RnE3UjQtLVloQ1lXMGZ2ZGt0aGVPSlRXWldRNnBCTXJfZE1VWThPbWJ2bEswSmltNThWM2t4c05mRXc?oc=5) (MultiState)
 - [Democrats flipped 9 U.S. Senate seats — the most in almost 70 years](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmV2SmVvV1YzVTZpQW5ZbHNhZjQ1blUwWUJQamJsRDVFcmh4aDkxd1RIVmtnZ2FvNzZHdXpqMGFTX09fcTExcVg4LU1KckNvaUJsWGZWLW9ybnJEUzI0ejZCYzlNbVdJaXcwOERoRDRoNUFSdHpMeDQ4Wkl1WURzUk9wRlJkQ09jQm9KSVRSQURYMkVFYUpWY1FUMFBsbUNkM0VN0gGoAUFVX3lxTFB3VURjSDZpYzlUZ2JUUldDb1ZFQWV1MzJtUkM3YkdKRDFhTy1yUDg2RjBhUWR6bU96Z3ZzZFFKT3RLdDVpRW84RGtaeEJWclE3b19LVE9kUUpveENNMHk2VGxUdkF1a0lXUWJEeUhUN0dMUXJ5al8tTnpnTTNVTVpIVGlKaVpJMV8zNXN5Yk5rTDV2SGtKT19QNFhyNVdtU1FSbEJqWHV5eA?oc=5) (PBS)
-- [2026 U.S. midterm elections | Key Races, Historic Precedents, Results, Gerrymandering, & Blue Wave](https://news.google.com/rss/articles/CBMiakFVX3lxTE5EYlpIaENOUE9XLVVMYnZDQ0taQVkyREdmUXV5ZzYzZkQxTGhzbkdMMGhCU0JSeDFWWFUtdnc3M3FoS1QtMkdrbHpCZVFtdGdrb3JGLWFsV2t2blZIa0JLMk9TLWtUTE5tUEE?oc=5) (Britannica)
-- [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
+- [After the 2026 Midterms: Examining the New Congressional Majorities](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnZIeWFMZFpLRXMtR0pUbXVzRjE5X1A5ZFlFYmxkM0k3alpMV0N0WWZscG05TmN5WTNxN2hPX3hhWDI0ZmZxZEZlU3IzXzFRQjZodDhNTnhrMVU4eDVORzBfNElDa1F5YWZxOV9tTkIxZEsyR0o5M0FrMXE2M2VOOXQ2dzFpVXdDSTB3ZGNBbUFjVnc3OGc?oc=5) (American Jewish Committee)
 
 
 ## India
@@ -118,10 +118,10 @@ _Note: Coverage typically focuses on trade, tariffs and US policy toward Southea
 
 **Latest headlines (auto-updated):**
 - [Trump Tumbang, Normalisasi Amerika?](https://news.google.com/rss/articles/CBMicEFVX3lxTFBid29fRC1kWDRLY3BNaFgwU0xtaDdVM1V5Rzg3amh3SHptNnVZRHMxUWUtbXlrNUFlaVVHMTE2cHN6bXktanB3dVY0U015LWdFWXBwRWgwSlpVMk13dWc1QmNQYlE4X295anVlQVlQdXM?oc=5) (Kompas.id)
-- [Makin Mendominasi, Demokrat Rebut Kursi Senat Alaska dari Republik](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFZNdk9ySTZzN0hTd3NOV3BaTmhEWkplYTRlV09DRWNVRFlfRV9hblYxY1VTbHpfc2t6U1VuSlhUNktmZDFPYl83Snh3ajR6TEVyN2h5a1c2VGZiN0FZblVWMFpMUW1ORnhicFBMMHhBZ196a2pTWnAyR0N0c3RwTU5abnBZRGlydWNNbVkwZVplenN2MnlNb0lRVGVfRWFybG56Sk9DQXoycUdaZlk2QTdlNTZSNWvSAbcBQVVfeXFMT1BWTXZPckk2czdIU3dzTldwWk5oRFpKZWE0ZVdPQ0VjVURZX0VfYW5WMWNVU2x6X3NrelNVbkpYVDZLZmQxT2JfN0p4d2o0ekxFcjdoeWtXNlRmYjdBWW5VVjBaTFFtTkZ4YnBQTDB4QWdfemtqU1pwMkdDdHN0cE1OWm5wWURpcnVjTW1ZMGVaZXpzdjJ5TW9JUVRlX0VhcmxuekpPQ0F6MnFHWmZZNkE3ZTU2UjVr?oc=5) (detikNews)
 - [Partai Republik Kalah, Elon Musk Menyesal Sumbang Rp8 T di Pemilu AS](https://news.google.com/rss/articles/CBMi0wFBVV95cUxONERseDNmWW4tOGZTU1loTERpUHBYWHYtMjBmVnNKcDNzU3BNQmpqcHd3MGlmR1pTWWl3ZjAyVzBVWmNoSllXU1ptS0RXV3Z0bm1ad1RjTF9GQkZhVUNleEdjNmtaYUJ6OHllWjlaTnZSNFlLNzd4Y1RaM1BPRVg2TEpVdEhwdmIzNHJtQ2I2bnFSc1R0Q2o5N0NBSV84QUR0RHQwZEtiU2pUa3d6QnlCTUI3SFo2YUhxeWNWajY1bUE4Y0pkZ2d0WGpvaTgzTXM4OHh3?oc=5) (CNN Indonesia)
 - [Bagaimana Membaca Kemenangan Partai Demokrat di Amerika](https://news.google.com/rss/articles/CBMif0FVX3lxTFBSNlVObFFZTVVLVnRFRlJwV1M5SXo4VW1FYVZCaHNlSWFYZmJoS2tLZTJ2S2xBa3VZcXFvMmZra1ZJenNJc2VWZDF5QjF2SEgzNVJ0d2hhNnVPNnl4RGdiZ3U2NmZZQlRwWEgtUzRIdnVUMGJlUGkweVFTTUk3RDA?oc=5) (Tempo.co)
 - [Jelang Pemilu Sela AS, Harga Bensin Rezim Trump Lampaui Era Biden - Energi](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEUtQ3JmN1dfM0R5NkpxXzUyUUJTaklwd0lNazhDTjJfa3ZsNVBFRnl1T21IMmxLOGFtaWlIWjJKZmZTdjNwOWlEMG9rU295d0haNTB5UWpyQTZuWHowcFBKeUd3R3VHanBGSzN4d1RkWE54ZDZfcjNYSlFtTXE2bnFHdUFyZFROMm9KOS1jMC1pN3M2MEVFQU5mamRDSE9oOUNSdlJsZ0ZCQzFIZFdKaGF6MEducXB5MHc?oc=5) (Bloomberg Technoz)
+- [Bakar Rp 9 Triliun, Elon Musk Menyesal jadi Donatur Partai Republik](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa05XTHFaWnlESFUwMlVkWldFVVlSOHVmRV9iN0pqdVBrcjJYREw2bkhsb3BYeXV6ckp4OVV4Y2hSdms2aTdBamRLTm5KWk9TWVBzYVVDTGJGT2JlMTlydzF2ZHZORjg1VnlZeFFnZnFnV2tzWThFeG9nTVM4SldjZEFiUTJZQ05UdE0tOXhhUWI4V3dNSlJ6S3VLQUZpaHVUbWd0ZnRfejlmSnVaVmhndzYyNXRfOUxjMVJuWXdpQ2pZX1XSAcgBQVVfeXFMUG02X3hTcWxFV3ZwOHhlZTFNdGNzSzktSWxUdlhXbjgybU9HZEZ2UmNZRkFqSXVWMGFPTFJpdU5RMW13WFNvVDZrWDdVNE1Jek1SMTNNb3JqR2ZjRUZQaDB2SUR5NmQ3dDNCU0haUmgxbFZFbWNrbTNDekk3LVJzRGNFa24wM3U0cXJGWC1BTi1mQV9ndHV3VXJfNk5XRGxUU0kxT25USVNtX2dkbmtXVTFUZTdBdmJnaVZfNlNEa3F4YWR0NWd5TVk?oc=5) (Pontianak Post)
 
 
 ## Pakistan
@@ -273,11 +273,11 @@ _Note: ARD, ZDF and DW are public broadcasters._
 **Verified 2026 midterm coverage:** [KAS briefing: The USA after the 2026 Midterm Elections](https://www.kas.de/ru/veranstaltungen/detail/-/content/die-usa-nach-den-midterm-elections-2026-neue-mehrheiten-neuer-kurs) · [Deutsch-Amerikanisches Zentrum Stuttgart: Midterms 2026 event series](https://daz.org/specials/midterms-2026/)
 
 **Latest headlines (auto-updated):**
-- [Beben bei US-Wahl: Demokraten holen beide US-Kammern](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUdfQUlCbEh3RHRwbXBCTnR5STF0V3c1S0N4Y3I4VnRNQXVXTmRLOEF0ZFpuaVJnWnNIdUZ4VGN4Vk1BNUo1QUc0T3JHeTVJcERwUy1FNE1jTkE3cWx3U24xaXJvdXdBQzJUNjlwQ2NwS3R0eWcwYjF5QmlQeUxmUQ?oc=5) (ZDFheute)
 - [Die USA nach den Midterms – Was bedeutet das Wahlergebnis für Donald Trump?](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHJ3VTJKRFZJVC1EMzdfTVJIYTN3RmtUNHMxZWNRZFdFT3hHNUsxV3JfbTlEc3ZGYS1iNTU2Q09Qd2UyWHVlak5EZTFCY3VPbzRKTlJZSzhlc01uNUtxR05kd0VQaFI3dHowalZlV1BkbWd2MklPTzVHWGJOVnFxdDdkOUw3cFByQTBWLVFlODdzVkwyUE9MYUFR?oc=5) (SWR)
 - [Wie die Demokraten 2026 den Kongress zurückeroberten](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3h4bjhlQ3pnVjNzNmZpTjBUWWRMMzU5ZVFHRldZLTBRODdGRkxkUEdSQ0N6MmJndTBpMHRmMGEzRUlYS2Nyb3A3YmZJRUdYWWNxd3BpaEh0RWtyb3NCZ1ZNamcyaERiQUtDLUpFSFZlYnB0RWhUTnphdWVrTGx3X0U5ZGFBVjhBa2FDRlEwRWxDNDQ?oc=5) (RiffReporter)
 - [Ergebnis nach US-Zwischenwahlen in Alaska: Demokratin Mary Peltola sichert sich offenen Sitz im Senat](https://news.google.com/rss/articles/CBMib0FVX3lxTE1uR0FLSlB1TmwtaG0tQ0hoSzRYOVNiTnRDa2VON0JnREdKb0JTWW5pQmlQT2wzN1J1V3V5WnVyTV9oQ0R1b2dPTFpkZ1VEMVRrRTBSSjZ6cXJ4b01pUkxrWXdJREJCY19WMlJOWTNYbw?oc=5) (tagesschau.de)
 - [Midterms 2026 live: Die Ergebnisse der US-Wahl in Grafiken - SZ.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUtkQ3lraWJrUWdpMXlkWGdia1NqY0RLWFVJc0I2NVp0aHJVOFhUYnlyMFFxdmUySE4zWmp3cFB0VzdMNjl5SU5NR2ZJQ0xPbFBvS0dxUlpMa1lwY0JIQlFlYkV2ZEk2TW5KSFIxanp4M2tUYmVrMTFCQUxFWUJWdG5qZkZraldxbUdQbTBlTHF0T0NIVlZCLUZiOEpKUVlDa0M2dHkwR244ZDE0Ml91eUdpNl80bHlEajZj?oc=5) (SZ.de)
+- [US-Midterms 2026: Hat Trump nun genug vom Kulturkampf?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXNnYzRQSWRHSWpaWVg5TEFzMXd1eVo1R0FxcWp3NXoxLXQ3S3RJQkhjbWsyNnJfZXRGSTBzSTZCaVV4SkFic2NyeVFxYVE5RW1XNFZBZFdCNzF1UmRlcjhrY0JwNmNtNDRZSEYyVVVwZl9XbUR1M1A4V2FDd3RYc1VkbS1aSFBFUEMyUnVWMnF0ZG8zLXgwTlR6MDdxN2RjTkkzY0tibDBjZHZna2NMMWVZMl9HZ25fVkhVSQ?oc=5) (FAZ)
 
 
 ## Japan
@@ -404,10 +404,10 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 ### Polls and forecasts
 
 - [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
-- [2026 Alaska Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE9PSHdYZDVTR3dZZ2VGUHVJSlBMR0E3VHlWV004VkdNaUZJSTNIekx1d0l3NlVnYUV3b3c5VVRNVjNKSGFneHllcEhUUEJWLVp3dEQ0cUFWd3IzWlJDWnBuN0FJOFhOMWJxUHc?oc=5) (AP News)
 - [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
 - [The Race for Congress: Latest 2026 Polls](https://news.google.com/rss/articles/CBMiekFVX3lxTE5EdUZXTXBzRFFLOGZJR2hWaHlFUUw0em5XbTZQYTRNbnNmdkVOaXBRcEtuUDhQWnhxNUVsckIwTERBUUplcWtOSWtzY09Yb3FDVzBJY05kU04wb0dZc1d5LXlLbm1jZi1wckVUcjFoSTI1WDQ3R2FxRHZ3?oc=5) (The New York Times)
 - [Latest Senate Polls: Midterm Elections 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE5Kem1zNEtLLXJhQndGWG1LTlI2UWtfWGlqdzJwTGFhV2c1ZUpYYTlNQnNaMW9HUGlHN281RzZpTktsSXVEVXhnS1diRndPbzQwYmtnM2NQSkY5VUstWFAta2ZuVlpRYkhMZk5hNEZrN0Vpdw?oc=5) (The New York Times)
+- [How Americans Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
 
 ### International students and visa workers
 

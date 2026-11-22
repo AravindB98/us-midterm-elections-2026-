@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-22 04:20 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-22 04:36 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -87,9 +87,9 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 
 - [What We Can Learn from the 2026 Elections](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyYmt6X1B0R2FBQ2tRcFYtdWVEUDVEbVlWdUh4SkV4VFJlNEIxUkYxckdoRGt5dTVkYmU4QnR2c09fYXJxUE5VbnlqWl9DQWJFTXhZcmpUNHpvcURiMUtDYUdxXzZRY0RY?oc=5) (League of Women Voters)
 - [Results for Women Congressional and Statewide Executive Candidates in Election 2026](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFpsRmJGX3dfQkQyNThKTVdjUlo2VFRpaFRUNk9nX3ZlbTFvcGgzRUYwNFFKNEp4bXZPUnphZ1Z5bEhsWl9zcF83OGJINFZZVXNONkZFWmFiWl9GemJyQjh2WFpjaV9ZOHUwZ3BiUDdwXzlYMnlRbFdZYWxTVDU2MUlFREs4SVVIelRKY2l2NFVFczFWV3o3ZXJYMVJSQmxPSHVzS1VHd2pRdw?oc=5) (CAWP)
+- [State Legislatures | 2026 State Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFR0TkJmT0h6dHNtWDlIVDhxcHV4c1QtdWNJa1dWVHBxUXd4blRpbm9KQ3h2N0xKNEZGU0o3Y0VJZ2Y0NERkYTRvZnJNQWV4RnE3UjQtLVloQ1lXMGZ2ZGt0aGVPSlRXWldRNnBCTXJfZE1VWThPbWJ2bEswSmltNThWM2t4c05mRXc?oc=5) (MultiState)
 - [Democrats flipped 9 U.S. Senate seats — the most in almost 70 years](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmV2SmVvV1YzVTZpQW5ZbHNhZjQ1blUwWUJQamJsRDVFcmh4aDkxd1RIVmtnZ2FvNzZHdXpqMGFTX09fcTExcVg4LU1KckNvaUJsWGZWLW9ybnJEUzI0ejZCYzlNbVdJaXcwOERoRDRoNUFSdHpMeDQ4Wkl1WURzUk9wRlJkQ09jQm9KSVRSQURYMkVFYUpWY1FUMFBsbUNkM0VN0gGoAUFVX3lxTFB3VURjSDZpYzlUZ2JUUldDb1ZFQWV1MzJtUkM3YkdKRDFhTy1yUDg2RjBhUWR6bU96Z3ZzZFFKT3RLdDVpRW84RGtaeEJWclE3b19LVE9kUUpveENNMHk2VGxUdkF1a0lXUWJEeUhUN0dMUXJ5al8tTnpnTTNVTVpIVGlKaVpJMV8zNXN5Yk5rTDV2SGtKT19QNFhyNVdtU1FSbEJqWHV5eA?oc=5) (PBS)
-- [2026 U.S. midterm elections | Key Races, Historic Precedents, Results, Gerrymandering, & Blue Wave](https://news.google.com/rss/articles/CBMiakFVX3lxTE5EYlpIaENOUE9XLVVMYnZDQ0taQVkyREdmUXV5ZzYzZkQxTGhzbkdMMGhCU0JSeDFWWFUtdnc3M3FoS1QtMkdrbHpCZVFtdGdrb3JGLWFsV2t2blZIa0JLMk9TLWtUTE5tUEE?oc=5) (Britannica)
-- [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
+- [After the 2026 Midterms: Examining the New Congressional Majorities](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnZIeWFMZFpLRXMtR0pUbXVzRjE5X1A5ZFlFYmxkM0k3alpMV0N0WWZscG05TmN5WTNxN2hPX3hhWDI0ZmZxZEZlU3IzXzFRQjZodDhNTnhrMVU4eDVORzBfNElDa1F5YWZxOV9tTkIxZEsyR0o5M0FrMXE2M2VOOXQ2dzFpVXdDSTB3ZGNBbUFjVnc3OGc?oc=5) (American Jewish Committee)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
