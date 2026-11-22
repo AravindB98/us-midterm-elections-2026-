@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-22T12:35:19Z**.
+> Latest headlines refreshed: **2026-11-22T12:50:19Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -95,11 +95,11 @@ _Note: Most mainland outlets are state-owned or Party-controlled; read them as t
 **Verified 2026 midterm coverage:** [CGTN: Voters focused on economy, U.S. global conflicts ahead of midterms (May 1, 2026)](https://newsus.cgtn.com/news/2026-05-01/Voters-focused-on-economy-U-S-conflicts-ahead-of-Midterm-elections-1MMcEg8ZI2Y/share_amp.html)
 
 **Latest headlines (auto-updated):**
-- [2026美国中期选举](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xc3N2QVYyT29uVHh3OUJoQUF1dUgtUjhEOUZRaVJ4bHZLWmwyeWV5VFFqZktxb3p3cVFvNXVQLXBvSWlRQzlTS2Fua2wtc3U1V0hTSzZwLXJHRXNKUUE?oc=5) (美国之音)
 - [中期选举对美国及全球经济的影响](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZdm1zb3FwWHFrMWh2dVF4U01qcURDT1ZHdU9nWFhpVmpkbC1DbUxWZkFNTFN6RngwNloxWG51YWtnbjk1UjJsemxiX2F6S1ZBejRhNkoyRXc5TlNrNUJ3X09B?oc=5) (财新)
 - [中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税](https://news.google.com/rss/articles/CBMiSEFVX3lxTE42RjZHWU1Jd2JsZE1JVThUZHhOZHhabkZhWmM5NXJwdGNIVDEwNzVsRUM0QXdkX1BlTkw2UUZ3WkJ4Ym5YYnJiRw?oc=5) (财联社)
 - [美国中期选举，结果什么时候出？一图看懂时间轴-市场参考](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVemZ6a01leXpBc05ReGtMMHJZZjV2TGVYM3RPb0RYcEpNNnI2N3cwbnBrTUdoZU9hNncxQ044am1fcmdvRW1kSWtMMXlnOVk?oc=5) (金十数据)
 - [美国观察｜两院翻蓝之后，特朗普的“下半场”如何出牌？](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4WjhhQUNQNkhnWGRSZVNrc2pjU0d5bktMV0x5X3Q1WDQyYmwtT3dIXzd5cThtNjZRSVZqNG16aU4wUV81a3g5TXl1TWhyeVVabG5jTDRKYWFkUXVlNk00WXB6Mmc?oc=5) (复旦发展研究院)
+- [美国中期选举结果对航运业带来什么影响？](https://news.google.com/rss/articles/CBMiekFVX3lxTFAyc05SVGNicE5XMnZVUHlLNFNLbXVRaUZBMDNKdkJYRFBlM1BCNEJJZUlGeTYzQ2ktWVNnX0dWd2RHTG1vS2Y0dktqb0tTcjRtS0J0UHNXM09wOGZZRHFvb1FJWFVUTnZfU0JDcFo1RUlINWp5Z05OcUtn?oc=5) (国际船舶网)
 
 
 ## Indonesia
@@ -119,9 +119,9 @@ _Note: Coverage typically focuses on trade, tariffs and US policy toward Southea
 **Latest headlines (auto-updated):**
 - [Bagaimana Membaca Kemenangan Partai Demokrat di Amerika](https://news.google.com/rss/articles/CBMif0FVX3lxTFBSNlVObFFZTVVLVnRFRlJwV1M5SXo4VW1FYVZCaHNlSWFYZmJoS2tLZTJ2S2xBa3VZcXFvMmZra1ZJenNJc2VWZDF5QjF2SEgzNVJ0d2hhNnVPNnl4RGdiZ3U2NmZZQlRwWEgtUzRIdnVUMGJlUGkweVFTTUk3RDA?oc=5) (Tempo.co)
 - [Partai Republik Kalah, Elon Musk Menyesal Sumbang Rp8 T di Pemilu AS](https://news.google.com/rss/articles/CBMi0wFBVV95cUxONERseDNmWW4tOGZTU1loTERpUHBYWHYtMjBmVnNKcDNzU3BNQmpqcHd3MGlmR1pTWWl3ZjAyVzBVWmNoSllXU1ptS0RXV3Z0bm1ad1RjTF9GQkZhVUNleEdjNmtaYUJ6OHllWjlaTnZSNFlLNzd4Y1RaM1BPRVg2TEpVdEhwdmIzNHJtQ2I2bnFSc1R0Q2o5N0NBSV84QUR0RHQwZEtiU2pUa3d6QnlCTUI3SFo2YUhxeWNWajY1bUE4Y0pkZ2d0WGpvaTgzTXM4OHh3?oc=5) (CNN Indonesia)
-- [Senat AS Tolak Resolusi Hentikan Perang Iran, Trump Dapat Dukungan](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQzV6akhXbXlTeVFPeFhLOUc3MDdod2tJQjdsb1FZMWp6Yl9lNV81MXBPM3VkMHhLRU1VUVh4bmxQRk5Sczg2V2thTGtwcERFTlg1c1BweWhSaDJBMDFZY3VsTkVtNjRCVG1Pek5WeVhOOW1kcmVrQzRFS1FhUG5CUm1FSF9vVTNySlJZbGJUSEF4cmNkQllSUWRFRHkxWG8zYXB6a29vMHJQMF9OMmc?oc=5) (RanahRiau.com)
-- [Bakar Rp 9 Triliun, Elon Musk Menyesal jadi Donatur Partai Republik](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa05XTHFaWnlESFUwMlVkWldFVVlSOHVmRV9iN0pqdVBrcjJYREw2bkhsb3BYeXV6ckp4OVV4Y2hSdms2aTdBamRLTm5KWk9TWVBzYVVDTGJGT2JlMTlydzF2ZHZORjg1VnlZeFFnZnFnV2tzWThFeG9nTVM4SldjZEFiUTJZQ05UdE0tOXhhUWI4V3dNSlJ6S3VLQUZpaHVUbWd0ZnRfejlmSnVaVmhndzYyNXRfOUxjMVJuWXdpQ2pZX1XSAcgBQVVfeXFMUG02X3hTcWxFV3ZwOHhlZTFNdGNzSzktSWxUdlhXbjgybU9HZEZ2UmNZRkFqSXVWMGFPTFJpdU5RMW13WFNvVDZrWDdVNE1Jek1SMTNNb3JqR2ZjRUZQaDB2SUR5NmQ3dDNCU0haUmgxbFZFbWNrbTNDekk3LVJzRGNFa24wM3U0cXJGWC1BTi1mQV9ndHV3VXJfNk5XRGxUU0kxT25USVNtX2dkbmtXVTFUZTdBdmJnaVZfNlNEa3F4YWR0NWd5TVk?oc=5) (Pontianak Post)
 - [Menyesal, Elon Musk Akui Bodoh Gelontorkan Rp 9 T untuk Partai Republik di Pemilu Sela](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUdyT3pXeUpDYzVvTWowZnF4SWpLb0JFb3FWUXJRVXlkZ0VlMk56Tkg2MVVXektPdTkwZVpjTFoxR1hsN3NDSzU1LWZ5eUEtSjRDc2IwcnNPWHMxdW1pQzNIV2tlWmw5aEVGMWxNZWFWVDZaSGE0MFBHM3lnT184ZmszUDFiY0tETF8ybTVJeVFkeGYtLWRqZVg3Vm52TXBEbFY5ckJ3VDBtRldGUXZuS3pQSmtwMXpmTE1zN3l3dFpJREF6bmJEUWVqbjVPemx4bFZmdA?oc=5) (Kompas.com)
+- [Bakar Rp 9 Triliun, Elon Musk Menyesal jadi Donatur Partai Republik](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa05XTHFaWnlESFUwMlVkWldFVVlSOHVmRV9iN0pqdVBrcjJYREw2bkhsb3BYeXV6ckp4OVV4Y2hSdms2aTdBamRLTm5KWk9TWVBzYVVDTGJGT2JlMTlydzF2ZHZORjg1VnlZeFFnZnFnV2tzWThFeG9nTVM4SldjZEFiUTJZQ05UdE0tOXhhUWI4V3dNSlJ6S3VLQUZpaHVUbWd0ZnRfejlmSnVaVmhndzYyNXRfOUxjMVJuWXdpQ2pZX1XSAcgBQVVfeXFMUG02X3hTcWxFV3ZwOHhlZTFNdGNzSzktSWxUdlhXbjgybU9HZEZ2UmNZRkFqSXVWMGFPTFJpdU5RMW13WFNvVDZrWDdVNE1Jek1SMTNNb3JqR2ZjRUZQaDB2SUR5NmQ3dDNCU0haUmgxbFZFbWNrbTNDekk3LVJzRGNFa24wM3U0cXJGWC1BTi1mQV9ndHV3VXJfNk5XRGxUU0kxT25USVNtX2dkbmtXVTFUZTdBdmJnaVZfNlNEa3F4YWR0NWd5TVk?oc=5) (Pontianak Post)
+- [Senat AS Tolak Resolusi Hentikan Perang Iran, Trump Dapat Dukungan](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQzV6akhXbXlTeVFPeFhLOUc3MDdod2tJQjdsb1FZMWp6Yl9lNV81MXBPM3VkMHhLRU1VUVh4bmxQRk5Sczg2V2thTGtwcERFTlg1c1BweWhSaDJBMDFZY3VsTkVtNjRCVG1Pek5WeVhOOW1kcmVrQzRFS1FhUG5CUm1FSF9vVTNySlJZbGJUSEF4cmNkQllSUWRFRHkxWG8zYXB6a29vMHJQMF9OMmc?oc=5) (RanahRiau.com)
 
 
 ## Pakistan
@@ -277,7 +277,7 @@ _Note: ARD, ZDF and DW are public broadcasters._
 - [Die USA nach den Midterms – Was bedeutet das Wahlergebnis für Donald Trump?](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRHJ3VTJKRFZJVC1EMzdfTVJIYTN3RmtUNHMxZWNRZFdFT3hHNUsxV3JfbTlEc3ZGYS1iNTU2Q09Qd2UyWHVlak5EZTFCY3VPbzRKTlJZSzhlc01uNUtxR05kd0VQaFI3dHowalZlV1BkbWd2MklPTzVHWGJOVnFxdDdkOUw3cFByQTBWLVFlODdzVkwyUE9MYUFR?oc=5) (SWR)
 - [Wie die Demokraten 2026 den Kongress zurückeroberten](https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3h4bjhlQ3pnVjNzNmZpTjBUWWRMMzU5ZVFHRldZLTBRODdGRkxkUEdSQ0N6MmJndTBpMHRmMGEzRUlYS2Nyb3A3YmZJRUdYWWNxd3BpaEh0RWtyb3NCZ1ZNamcyaERiQUtDLUpFSFZlYnB0RWhUTnphdWVrTGx3X0U5ZGFBVjhBa2FDRlEwRWxDNDQ?oc=5) (RiffReporter)
 - [Ergebnis nach US-Zwischenwahlen in Alaska: Demokratin Mary Peltola sichert sich offenen Sitz im Senat](https://news.google.com/rss/articles/CBMib0FVX3lxTE1uR0FLSlB1TmwtaG0tQ0hoSzRYOVNiTnRDa2VON0JnREdKb0JTWW5pQmlQT2wzN1J1V3V5WnVyTV9oQ0R1b2dPTFpkZ1VEMVRrRTBSSjZ6cXJ4b01pUkxrWXdJREJCY19WMlJOWTNYbw?oc=5) (tagesschau.de)
-- [Midterms 2026 live: Die Ergebnisse der US-Wahl in Grafiken - SZ.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUtkQ3lraWJrUWdpMXlkWGdia1NqY0RLWFVJc0I2NVp0aHJVOFhUYnlyMFFxdmUySE4zWmp3cFB0VzdMNjl5SU5NR2ZJQ0xPbFBvS0dxUlpMa1lwY0JIQlFlYkV2ZEk2TW5KSFIxanp4M2tUYmVrMTFCQUxFWUJWdG5qZkZraldxbUdQbTBlTHF0T0NIVlZCLUZiOEpKUVlDa0M2dHkwR244ZDE0Ml91eUdpNl80bHlEajZj?oc=5) (SZ.de)
+- [US-Midterms 2026: Hat Trump nun genug vom Kulturkampf?](https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXNnYzRQSWRHSWpaWVg5TEFzMXd1eVo1R0FxcWp3NXoxLXQ3S3RJQkhjbWsyNnJfZXRGSTBzSTZCaVV4SkFic2NyeVFxYVE5RW1XNFZBZFdCNzF1UmRlcjhrY0JwNmNtNDRZSEYyVVVwZl9XbUR1M1A4V2FDd3RYc1VkbS1aSFBFUEMyUnVWMnF0ZG8zLXgwTlR6MDdxN2RjTkkzY0tibDBjZHZna2NMMWVZMl9HZ25fVkhVSQ?oc=5) (FAZ)
 
 
 ## Japan
@@ -341,11 +341,11 @@ _Note: Mix of public (BBC, Channel 4) and private outlets across the spectrum (G
 **Research and think tanks:** [IFRI (French Institute of International Relations)](https://www.ifri.org/en) · [IRIS](https://www.iris-france.org/) · [Institut Montaigne](https://www.institutmontaigne.org/en) · [Sciences Po CERI](https://www.sciencespo.fr/ceri/en)
 
 **Latest headlines (auto-updated):**
-- [Midterms aux États-Unis : comprendre les résultats des élections américaines avec des cartes et des graphiques](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPODlxYzFtd1d5VzlQSk11bjNZSWlMTjNEU0wzVXJEUGpkeERDX1F3SHRuaTQ3UXNLYVlVOEVhVWFyeWx3b2JiemZCOTdmZktodWQteUJwSW0ydVgtMVpUbFFhdld6ZXpHTzhxMjFnNklFUm5iZ1RvbnczSndSQ3lLWE1aeUFYVWhSYm5LdXhJZjV3eng1UzhIZFc5VHFhZVlQN1NGdWxkRExxRW1WQ3d1T3NjSk9vc3BYaW91UnNYVDRGNXZ4aElqMVhpZGdENmIwTFE4VWN3c3hQWjJRQmtuT3pfaVRWM1JyMjh2cg?oc=5) (Touteleurope.eu)
 - [Midterms : suivez tous les résultats en direct](https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2s3RmdXMkwwZnpDT1JtNDRkT0dSSWlNV2cwa0gxaURyb3hnYXNnMDAzRFo0ZUduS2pUQWpYTkZxNnM5Snh3Zlc5aUxtZExYaS01TldlM2tOZGdYTFppYWM1d0h5emdDb0lPSnE2TXpheWZQZEE1Q2FSWG5EdW9QWlFB?oc=5) (Le Grand Continent)
 - [Les leviers de pouvoir démocrate pour changer la politique américaine après les élections de mi-mandat](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVmx2TTFmZlRIaWNSRV84aE5JUUUyZV9jaHZVMVRFNkE4NGlZTFpGVVdwczJqcVZFdXY4X1VYNTQ4d1RHTDlBOUhlM3J1VXo0RUhKZGJ4d3M3UUI2S1ltQnBJUW9WU2tTWXVYN2hHVU92MEpPX3NwMXczQXM5VHdwWllpdGdtQ0NWeFVFNFZnc3F5dllNbHljZlVTaHpqZXFnUGx6QWJRRG42NkFsNk03Mmd0Sk9acDJCeFdRd2JYbzgwdk5MNk1VekJtZ25YbEYwQ1BsMkFnUHUwMUZrQzFZYXYwOA?oc=5) (Le Club des Juristes)
 - [Etats-Unis : le tsunami démocrate aux “midterms” est encore plus spectaculaire qu’annoncé, la preuve en sept cartes et graphiques](https://news.google.com/rss/articles/CBMijAJBVV95cUxOa2Y5Ty1zc0FUZnhHX3VoQmZ3Wkh1STRuallzYTh1a2hLdmpRR3JOQ1FScW9pNnJzaUZXcTBDRmJSMDgtTzNTM1FtLXZlTkZxbVRlT185R1BBc3htSDI0Vy1PLXpXekx3ZVNydXFzdWRseFM3NVRhZ1VDSXB4c2dBYWMzcTdNclJfUjhOeGFIN1JUazc1NVFKamxEY0FFMmdUR2FmWU9CYXVBbXpaNnVSb3dmNlNsTXZBQUQwd2JuaGJqaktUZXhHYmlmOW5HM1B5Y2VtckxyQU92bEhWXzRXMS1USzQ0MXAxOF90SXp3MEdzLVE5dHpoYjJwU2J4NUdRRFBISkpYemY3RXNS?oc=5) (Le Nouvel Obs)
 - [Etats-Unis : la vague bleue pourrait faire d’Hakeem Jeffries le premier président noir de la Chambre des représentants](https://news.google.com/rss/articles/CBMiqAJBVV95cUxQcEtkeVBBLU9oQkE5bTVfcW9BeUY1eVVjRlBZcFZHRC0yenJOQUE2RDZINGF3NUZ1Z0Y2bWo0ZVpXTzVJRmFkTkItaVEyanN1UkE1ampVSlM5LUlrUC1YTnJuUjlYT01UTXBnLVQ1UDd1N25RdG5wVEl5VV9XTmU4WUNGM0o4RmV5aXlhb3VvOUhodnZKOU44SzhteEQ4YWRxUUJJXzRudE9JZXFZd3daN0JiMDBHdmstNnpEZ2Y1NjFvQ0txQU5EUkg0bVNDV2FQMWtFUVFOc091N3Ridl94M1ZadVVLYUloVXF2V08wTjhQelV5eWxRclNnTUcwR3dBOHNuR09VbWtjUTdxNUFlaUJUVVJ4S0ozYUV6ZUtSbUVnV0xNbzdPaQ?oc=5) (Libération)
+- [Tensions au gouvernement Trump depuis la défaite républicaine aux élections de mi-mandat](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNktBZ2cxTFJROHlhUGttc0lESFl2ZEV2ekQ3aUFmZjhMZjQ4dzY3em5UX1JuNDNwVTN4OWRKOWdoLS1zaDIwV2ZLY05pZGNYNFk4LWRJT3pHbG9tSTZ2eEVlbUVpSlNfcHYyTHJ2b3BKS0VHQlk4dlJJakQ4RjRFdzZOZnZvOW1XT0dDZTc5TlZXcF9HczlEbU1nc0l5UncyS29vODgtTk5GdmlCSE0tNGRBMjg5ZlJ5RWlzOXRSU1g2SGM?oc=5) (Le Devoir)
 
 
 ## Italy
@@ -403,12 +403,11 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 
 ### Polls and forecasts
 
-- [Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift](https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5) (The New York Times)
-- [How Model Choice Obscures Forecast Uncertainty: The Rashomon Effect and the 2026 Senate](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWdlc0FkbVNIY1VZbVJpNFV6Yk5EMXVvUnRjN3poUFBnR1dfbHZoYUZienUtejhDQ2hpM3hYZWFDUGN2QXFwQVFUWWhmMHdFSzFqX0M2NlNaWTVaRGhaQ1Z2WEUxU045ajdKbThaWEhmYktDOE5XeGl0Sm5GME1CQ1JyMC12MklGVXRMbk9sRVU0bUwzMnd5dWloNU1VampJX2NmSC1mdFRXb3k5M3FaOGhZV2x6WGd5V2lv?oc=5) (Political Science Now)
+- [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
+- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
 - [2026 Mississippi Midterm Election Results](https://news.google.com/rss/articles/CBMicEFVX3lxTE4tMUprSkJTbVc5cUtIT0hsZzlyaFdMcE1mTlBnMk9rTUZmd0M3RGRzZ1hFd29CS0NsSjVhY2dscXVZMVZ2Z3VjTTBaLVZtam1DdjdOeWxjNHRGS3NvdE9VWHZ0SUMxQUZYMkphTzNsekw?oc=5) (AP News)
-- [NY Election Results 2026: Governor, Congress, Legislature](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoYUNCZW4wYnRVRkIwZGg2MFBRTlc2ZnRMVERKclpXVXNTREluajRCaVBpUXF4NDNHeEJVSVBOUnkwVDQxLUlzNWdwWmF5RVFZZTN2Qk05ak5hbGJkLXFHaGxtYzl3Vlk?oc=5) (New York Focus)
-- [Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5) (The New York Times)
-- [Democrats optimistic, Republicans discouraged after 2026 midterms](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNk0tdGFnc2JPSVZ2cHl3R05ramViTWhta19QWmhMcG9xVHpGb2VfUFpSb1VKR3pULWRBQzBKQlJDX0ZIRElaNTJ5eUtDa2N6RFA2UGZ3eTlYbWxaa0FzaENQcmVyY0IwZDdkQzdOaHpnaHVtSXREdVlQck9XZVVjOVhXX2xva0cySks1eWc1amNYRF9oQ0pR?oc=5) (Ipsos)
+- [Texas U.S. Senate Election Live Results 2026](https://news.google.com/rss/articles/CBMidkFVX3lxTE00Vmo1MHN0Sm5aUkpnYzhncG9scWdWS3pjUS13YzdBSlBlRlRYUDdMUWg3Ry04Y3QxSzNWU3I0QXFVTGtDX0dBbFU4UV9MN2ItSnR0dEROaExzdFV6eXdlYTF1U1NSNmZnbHJQOTlULVBFZXljMHc?oc=5) (AP News)
+- [2026 Michigan Midterm Election Results](https://news.google.com/rss/articles/CBMibEFVX3lxTFAzdVd0QWRXZVllV2lQR0pxamw0TWZ2ZjhBNlY4aGh2TmVETUhGSHlQdm1nV2pqVkhyZmZzWVJaUTNUdmttZXM0VF96OHFMR0dQdEdrNnhBSHVlTDZISHd4c0s3aE9MQU1BdEdoOQ?oc=5) (AP News)
 
 ### International students and visa workers
 
