@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-22T11:20:19Z**.
+> Latest headlines refreshed: **2026-11-22T11:35:20Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -75,7 +75,7 @@ _Note: Heavy focus on H-1B, OPT, green-card backlogs and Indian-American candida
 - [Internet traffic and attacks during the 2026 U.S. midterm elections](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Ukh1aWx3djJ5alRaX2dDR2NYV3JyS1hFczNYNGl4UDdjWXJkMnBZMC1Yb2Ria1dRaGFRV1MweXFHalhBNVZ0aDBaRDNlamVUdVY0OG1DQzJZWEdvMk91eElrWDJPVjdoYzRiWHp1Yw?oc=5) (Cloudflare Blog)
 - [How Do Midterm Elections Work?](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOXd6N0otM2t4V28ySWVvUjVqNzJ3MFpKRkRLaEd6bU1lRFhQSWtEWFFnVmotT3Nna055YXA5dTRjS0ZQNnBWd3pFVndqT2xvSHZ3VVVqRUtVc2lZODdpR0xpNVhmNVJfOWRnWGZOMWlyQkhxSFQxUnpQQnQ3LXcyVmhWcjNBTjQ?oc=5) (Britannica)
 - [Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5) (The New York Times)
-- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
+- [Elon Musk says he feels ‘pretty foolish’ about US midterm spending](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGtQck9aZVpCaERpZDAzdmpHdTdhTFBaUUpEOERTR0VGMm9mWWlzNDZPaFZCWEF2RWZUSDVpWFliYUxPUnVQeGVkY1hzU0ViNjZRanFqWUR6aVZyUjFfVDFxSWxqYjFKdFFiejNhQzhIVXhBVnI1RW5xWUo2OUN4MGl1VXR6V2dfUFBjeFkybGk3SzZxRWNmNnhYUkk1ei1KQWlGd0tuWFprUdIBrwFBVV95cUxPcEwxT21aangxd0c1clo4VGVhV0xFYTVtNldiN01FVDNwVWNqdk9IcTVwZjZaNUhFbWtxcEdvTmVhSno3dUVvMjIxRVAySlQ5VzBoN2U4RmhVbHotczZFY1hMcGhLWUREdnNnWjVha3ZONjBYcDNjU1VCY092dkpBdTc0dkZpaTAtalRfZkZSRl95QXFVdU5VdVFRSG5ENnNpU0NJekJmeVl5OFpBaks0?oc=5) (Al Jazeera)
 
 
 ## China
@@ -163,11 +163,11 @@ _Note: Interest centers on US visa policy, travel restrictions and Nigerian-Amer
 **Research and think tanks:** [Nigerian Institute of International Affairs (NIIA)](https://niia.gov.ng/) · [Centre for Democracy and Development (CDD West Africa)](https://www.cddwestafrica.org/)
 
 **Latest headlines (auto-updated):**
-- [US Democrats win final two Senate seats; Coalition likely to easily win Victorian election](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3F3TXRhTENWQU5qVFZMd2pZbEJLckJfV05ZTlplQmV4dXFCdzhWdlhMMl9VMWhQbXpJaFR1WllzeWxaSzY1V05xOFRsakNwLUZCUE1jaG91Zzl3aUZSWF81TmlQT0FNNDlJaExZRVpMZTJqRzlpal9ZVG1faVZYRFhmQWozRkFHczVXTVZZYjJfOVJnNTI2OWtuRlNzcG1pQnphMTdwbWVPUEoxdXJBVmRKY2NJeG9Ld3kzM2xHYnkyZw?oc=5) (The Conversation)
-- [US midterms 2026: What happens before the new Congress takes office?](https://news.google.com/rss/articles/CBMisgFBVV95cUxNblo3RGJoMXlhXzJBRTNDd3VZdUZzZHhiWEdhNTd0Tk13V0NzbzNncS1SN1hMOUVaUnh0eXVORnhRWU5saDNsM3AwYkNLQ2dvMFp6OFNNbWJxejQzd0g4UjVSM0d4cHdiamVJUF9NNG1DSmYwNy1yOW16UHVHcEdQMEM1RmV3TDlrdWVBSWpBNkcydlg0c2RzbFF2c3pTYTdzM2VQeG9CNy1nZWR6QlJaenBB0gGyAUFVX3lxTE1uWjdEYmgxeWFfMkFFM0N3dVl1RnNkeGJYR2E1N3ROTXdXQ3NvM2dxLVI3WEw5RVpSeHR5dU5GeFFZTmxoM2wzcDBiQ0tDZ28wWno4U01tYnF6NDN3SDhSNVIzR3hwd2JqZUlQX000bUNKZjA3LXI5bXpQdUdwR1AwQzVGZXdMOWt1ZUFJakE2RzJ2WDRzZHNsUXZzelNhN3MzZVB4b0I3LWdlZHpCUlp6cEE?oc=5) (Al Jazeera)
 - [I Feel ‘Pretty Foolish’ For Failed US Election Spending — Musk](https://news.google.com/rss/articles/CBMingFBVV95cUxNRGxZMTF0Z3Bjak43alczZkpIZE1zQ1NHc1lrUHJqbVphaTVydmU4ckdpZ2dBYXZrSW5IblNnc3llZ0tQSVdMVXZwNkNGTnZPME1seGxsODlXU1k0Y1hFTzNSRXE5NEQ0aVJPTTZLa1pYYi1zZmJ3WEEwa2dHMnVWWTUyVTlFQVROZ00tWG96TmpOeGNyb0JmMFREb25HQQ?oc=5) (Channels Television)
 - [This is how badly Trump’s Republican endorsements did in the midterms](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQzNKNlNFS0NjT2lENkRrWS1sUkltd0ZmZmoxQ3g4dV9vdXREb0VUVmlfOWUyNHVEQVZyZVhpTmg5Qlg0Y3FQczlyVkRYcDhXYVpQd18yU3owc2FDcDY4VFJQVGhGYVlDWEFXOWMzSnpzN1JSeDdsQVhBdk1yWmJ6SkdyUFRNZUtMbWtaOGE1Yw?oc=5) (The Guardian)
 - [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
+- [Internet traffic and attacks during the 2026 U.S. midterm elections](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Ukh1aWx3djJ5alRaX2dDR2NYV3JyS1hFczNYNGl4UDdjWXJkMnBZMC1Yb2Ria1dRaGFRV1MweXFHalhBNVZ0aDBaRDNlamVUdVY0OG1DQzJZWEdvMk91eElrWDJPVjdoYzRiWHp1Yw?oc=5) (Cloudflare Blog)
+- [2026 U.S. midterm elections | Key Races, Historic Precedents, Results, Gerrymandering, & Blue Wave](https://news.google.com/rss/articles/CBMiakFVX3lxTE5EYlpIaENOUE9XLVVMYnZDQ0taQVkyREdmUXV5ZzYzZkQxTGhzbkdMMGhCU0JSeDFWWFUtdnc3M3FoS1QtMkdrbHpCZVFtdGdrb3JGLWFsV2t2blZIa0JLMk9TLWtUTE5tUEE?oc=5) (Britannica)
 
 
 ## Brazil
@@ -298,10 +298,10 @@ _Note: Nikkei Asia frames midterms around tariffs, China policy and markets._
 
 **Latest headlines (auto-updated):**
 - [【米中間選挙2026】 民主党、アラスカ州の連邦上院選で勝利　56議席確保](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ybnhoWlRkMG43XzNuaG5YUXdPNGZleVpsd2ZFamVkalVBdUdRTElwWnB0aEdCOXJlUlByV3ZoVTZPZjBfdVdHYkZFT1NQV1d3RXh4UUgzOUUyQkVDSkF5btIBZkFVX3lxTFBoQklyZXFqdmYzaWhaTnFkYnpoNlo4OUVTN0d0ZTRGLVVSTTF2ek5CeTdNYkNZQXloQklhem5PMmhBWkFaYmN0d3BaVkxVUUNER2ZMdjNDUTRnaTNNOXB6bTNkR1NxZw?oc=5) (BBC)
+- [米中間選挙 上下院結果別の4つのシナリオで「株価反応」を予想 野村證券ストラテジストが解説](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZT0djTUdjcHAzQU5hN2tEN3hwVGV0OHBpTlhDTzdyN1lLVklaeGpIbGFIWnh5dVpnd3dwcll5UFlVaVhxTHd6YTh2QWtBeVpLS0FiVjhJaVlvYU14ekM4?oc=5) (野村證券)
 - [米中間選挙、上院で全議席が固まる アラスカも民主当確で56議席に](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1obEVlZndyQnN2NkVlaW1TM3FrSkw2anJKSlRlaXpaZ193WFktaHJCTFphaEJwYTg1UXJNSmJqcXZ3VVZfVm5VRUNTdkI1ODM0NTJ4MkZ6TXpJY0J5bWFkMURTZmxIZGs?oc=5) (朝日新聞)
 - [米中間選挙、上院で全議席が固まる アラスカも民主当確で56議席に](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WR1FGbEtRaHY4X01WR0Jla1hnRENOZnNXMDM3NzJVWEJTaGdMdmhRc0VVNHpVQ1dEZWNRZHdCT2oxVzM0NnhyeHZ3WDYwbEFC?oc=5) (Yahoo!ニュース)
 - [米中間選挙、アラスカも民主新人が勝利 上院56議席へ大幅増](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CODZkd0dOTTVuMjhOeHlGdW8tUDFaN0RLc3lFNkhtSVI4b0ZmOWRSVzcwc2FRVDhOX0dCNVZhS3pXbk9CTXowRG1EcXNiazBTVXRJMEZJaFlfUlgzUzBRQjNDRU40RGFi?oc=5) (毎日新聞)
-- [米上院で民主５６議席確定、激戦７州全て制す…連邦下院選議席はオバマ氏が大統領選挙大勝した２００８年に並ぶ](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mLU1uLUc0ZVFQY0NCLTE4bzQ3Z2dMZXp2RnAxSnJTenVMWW56cmduU0dTTnpsaEtvYjJ5Nl9qdDZBMTFhbmJSdmVKUUJxUTE5U3E4eWRrMGRRMUlvLV9DbU13?oc=5) (読売新聞)
 
 
 ## United Kingdom
@@ -406,11 +406,11 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
 - [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
 - [2026 Mississippi Midterm Election Results](https://news.google.com/rss/articles/CBMicEFVX3lxTE4tMUprSkJTbVc5cUtIT0hsZzlyaFdMcE1mTlBnMk9rTUZmd0M3RGRzZ1hFd29CS0NsSjVhY2dscXVZMVZ2Z3VjTTBaLVZtam1DdjdOeWxjNHRGS3NvdE9VWHZ0SUMxQUZYMkphTzNsekw?oc=5) (AP News)
+- [2026 Michigan Midterm Election Results](https://news.google.com/rss/articles/CBMibEFVX3lxTFAzdVd0QWRXZVllV2lQR0pxamw0TWZ2ZjhBNlY4aGh2TmVETUhGSHlQdm1nV2pqVkhyZmZzWVJaUTNUdmttZXM0VF96OHFMR0dQdEdrNnhBSHVlTDZISHd4c0s3aE9MQU1BdEdoOQ?oc=5) (AP News)
 
 ### International students and visa workers
 
 - [This Week in Immigration: November 20, 2026](https://news.google.com/rss/articles/CBMickFVX3lxTE9RZUxCTVA5X1pNZllKOHAxcV9WSkQ4NGJPQ1BzMTBzZGFBbWFWdnFQcnd2dE9rS0Z2V0U5ODUyRDc1eFE1RXpES09aaEVURG5PQzJza2VuOWZsZFdYMUNSalM4b0RQa0ljMF93a09Fckctdw?oc=5) (Boundless Immigration)
-- [FAIR’s Hill Day Keeps Congress Focused on Strong Borders and Immigration Enforcement](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMW5SN2JVNnlKNloyVV9XX2JqeHkwTXdQSm9SSGxJbF9NUUtjaWpuZUxBaVNLYWdJWl9iS3A0dW9LaDhFckJTazkwbzlIZ0R2SnRxVlNvcjN2eURHT3VWZnBzVE9FemRwTUhITGtKUlU0QlluRU0ybU5IOTZhb2xRY1hBRXFlVmJHQ1ZlUWoyVmJnWHpYOG92cXpGOTc1dDhpWG1mZ1lkcUFsRl9NQWkxLVNCU2UzcnY2cVE?oc=5) (Federation for American Immigration Reform)
 - [2026 Midterm Election Results](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DQjlqSmk1ajF4Mm9GVzFIRDNwbXlYcDFwa0JGOHA5SWJCaTNRZzR0Y0JrUGxqUm5GdDZzZEt2dTBQZl9qOTdqR0ZmMUxxZ1IzSkFxa3JOa2tfSVBSVGh4Q09HdTMxQQ?oc=5) (KUNC)
 - [Tracking the 2026 Early Vote: Midterm Election Results](https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5) (NBC News)
 - [National Opinion: Faith and pluralism in the 2026 midterms](https://news.google.com/rss/articles/CBMikwFBVV95cUxORTFrYlFGV1psSXdKLXhkQXdldE9hYzlqczRodHJwb3NSY3lkWTFxNGk0WVBHeC1zMUtrM3VxTk9CSEhVaFJORjlBdXFlTDVJanZXZVVLY093d2xwNnNjbzJ4VXpJdjJmZzd6TmxSREdkMjNnSC10ck1KRjdwdXZ4OFRLcE5URlkxS0xROEplZHcxbkk?oc=5) (Chattanooga Times Free Press)
