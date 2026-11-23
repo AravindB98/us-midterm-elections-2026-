@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-23T03:21:44Z**.
+> Latest headlines refreshed: **2026-11-23T03:36:43Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -167,7 +167,7 @@ _Note: Interest centers on US visa policy, travel restrictions and Nigerian-Amer
 - [Democrats Seize Control of Congress as Voters Rebuke Trump](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlZaYXc2NEh3eXJ0Ulc2cGtPeDF4OFZ0X2NvNFlOQzlVRDlIUFpmSTRRUld1VEFyS29nV2xjSHpzX2ZaV2RqVjBhckdxVVJ0R3luejNFN2VtazhQekVxYUM1aENBM2t4cGRGMUJHdVN0SDRZaWgyRE9mczFRenVRVg?oc=5) (The New York Times)
 - [Internet traffic and attacks during the 2026 U.S. midterm elections](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Ukh1aWx3djJ5alRaX2dDR2NYV3JyS1hFczNYNGl4UDdjWXJkMnBZMC1Yb2Ria1dRaGFRV1MweXFHalhBNVZ0aDBaRDNlamVUdVY0OG1DQzJZWEdvMk91eElrWDJPVjdoYzRiWHp1Yw?oc=5) (Cloudflare Blog)
 - [Democrats flipped 9 U.S. Senate seats — the most in almost 70 years](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmV2SmVvV1YzVTZpQW5ZbHNhZjQ1blUwWUJQamJsRDVFcmh4aDkxd1RIVmtnZ2FvNzZHdXpqMGFTX09fcTExcVg4LU1KckNvaUJsWGZWLW9ybnJEUzI0ejZCYzlNbVdJaXcwOERoRDRoNUFSdHpMeDQ4Wkl1WURzUk9wRlJkQ09jQm9KSVRSQURYMkVFYUpWY1FUMFBsbUNkM0VN0gGoAUFVX3lxTFB3VURjSDZpYzlUZ2JUUldDb1ZFQWV1MzJtUkM3YkdKRDFhTy1yUDg2RjBhUWR6bU96Z3ZzZFFKT3RLdDVpRW84RGtaeEJWclE3b19LVE9kUUpveENNMHk2VGxUdkF1a0lXUWJEeUhUN0dMUXJ5al8tTnpnTTNVTVpIVGlKaVpJMV8zNXN5Yk5rTDV2SGtKT19QNFhyNVdtU1FSbEJqWHV5eA?oc=5) (PBS)
-- [2026 U.S. midterm elections | Key Races, Historic Precedents, Results, Gerrymandering, & Blue Wave](https://news.google.com/rss/articles/CBMiakFVX3lxTE5EYlpIaENOUE9XLVVMYnZDQ0taQVkyREdmUXV5ZzYzZkQxTGhzbkdMMGhCU0JSeDFWWFUtdnc3M3FoS1QtMkdrbHpCZVFtdGdrb3JGLWFsV2t2blZIa0JLMk9TLWtUTE5tUEE?oc=5) (Britannica)
+- [Trust in Elections Surges for Majority of Americans After 2026 Midterms](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkZrM2FfdGtIeXRSYUFzbTQ3ZzYwUFZpSGc1NjZ4MkR5VXBvcHZPV2tWdWt6SG16OExmUlFWbjFXZWxvMG80RzMtQXZxMUQ5Sk1JYVlsRGhocTBtQmpVU1VGZmxrN2U4WnNGOWpsdFZQNXVKMXlWWF9STng5QnlmRDUtSzdoeDZKUTRZWUtoakJBa3dfQmc3Xy1ubDJrbTNQN0E?oc=5) (UC San Diego Today)
 
 
 ## Brazil
@@ -205,10 +205,10 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 **Research and think tanks:** [Bangladesh Institute of International and Strategic Studies (BIISS)](https://biiss.org/) · [Centre for Policy Dialogue (CPD)](https://cpd.org.bd/)
 
 **Latest headlines (auto-updated):**
-- [What We Can Learn from the 2026 Elections](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyYmt6X1B0R2FBQ2tRcFYtdWVEUDVEbVlWdUh4SkV4VFJlNEIxUkYxckdoRGt5dTVkYmU4QnR2c09fYXJxUE5VbnlqWl9DQWJFTXhZcmpUNHpvcURiMUtDYUdxXzZRY0RY?oc=5) (League of Women Voters)
-- [The Midterm Election Strengthened Democracy and Showed the Limits of Subversion Tactics](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmNQUDJhTGxEX3ZxX1RTaGpha0JTRzJJZ0FjQVl3aXBGV2RYSC1laEh1NTdRU0ZvUU1BSnozM3FQMGdoYm5yVUpDZjdFRUYzOERtbjdQdDZ5V0RFQXlFc2JrOVM3Nmwzc1VzaDd5MWVvVFdfRlNPWnE1Y1YyZ0N6d1pqeTB3VjhhQUxFMHdMX3pMMnJIU2FZcHBXMi1BekdSbW1LellNZFJha25Sb00zcVdkVFJTWTRCOThHeE1CZnc2SFFzN0lTaQ?oc=5) (Center for American Progress)
+- [Democrats flipped 9 U.S. Senate seats — the most in almost 70 years](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmV2SmVvV1YzVTZpQW5ZbHNhZjQ1blUwWUJQamJsRDVFcmh4aDkxd1RIVmtnZ2FvNzZHdXpqMGFTX09fcTExcVg4LU1KckNvaUJsWGZWLW9ybnJEUzI0ejZCYzlNbVdJaXcwOERoRDRoNUFSdHpMeDQ4Wkl1WURzUk9wRlJkQ09jQm9KSVRSQURYMkVFYUpWY1FUMFBsbUNkM0VN0gGoAUFVX3lxTFB3VURjSDZpYzlUZ2JUUldDb1ZFQWV1MzJtUkM3YkdKRDFhTy1yUDg2RjBhUWR6bU96Z3ZzZFFKT3RLdDVpRW84RGtaeEJWclE3b19LVE9kUUpveENNMHk2VGxUdkF1a0lXUWJEeUhUN0dMUXJ5al8tTnpnTTNVTVpIVGlKaVpJMV8zNXN5Yk5rTDV2SGtKT19QNFhyNVdtU1FSbEJqWHV5eA?oc=5) (PBS)
 - [Midterm Elections Live Updates: Democrats’ Lead in Mississippi Senate Race Grows](https://news.google.com/rss/articles/CBMidEFVX3lxTE9OOEhyQVI4QzR2YkQ4SklicndGeEdreEtYMHMyNWZHQWZacEVxcjVsbzNUQzNIdEczQkVhbks5d3hVdTdHcmJRc0R6WEdiY2RKLWFrVEF1aVhTYVV1ZmFIbWlUOEFNaTA5UlFFc05Fd25JWWtP?oc=5) (The New York Times)
 - [Trump initially accepted the midterm results, but most GOP voters doubt they were fair](https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkdWRFdrbjlFOGQyY2lxU1FjNExxYUVENlQzYVBRcXZhSXpxTTc1WDA3eVZXUE5aMWQzYWFlVV9aekNVa0Z4YXExcjhVNDUwQUFzVk4wNmhkNVhnckdxRjdaclpLUDlObVpmbzFTUTFaVVZpeFUzMl9pQXFRU3J3eGg0VktUMGdrNXc?oc=5) (NPR)
+- [Results for Women Congressional and Statewide Executive Candidates in Election 2026](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFpsRmJGX3dfQkQyNThKTVdjUlo2VFRpaFRUNk9nX3ZlbTFvcGgzRUYwNFFKNEp4bXZPUnphZ1Z5bEhsWl9zcF83OGJINFZZVXNONkZFWmFiWl9GemJyQjh2WFpjaV9ZOHUwZ3BiUDdwXzlYMnlRbFdZYWxTVDU2MUlFREs4SVVIelRKY2l2NFVFczFWV3o3ZXJYMVJSQmxPSHVzS1VHd2pRdw?oc=5) (CAWP)
 - [How the US House could overturn the midterm election results](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnNQdVI1cjQwdGlydng4TGVGcU5kdS1lZzlvQnpRZlJXTVc4NmQzaFJXaFBuN0ZqdU9VWGJsaW9qMGFwWS15N0NxcDRpUEIwemFfdjBNcnlNbUREckxvRkVGRnpwcDBnNjBYSVQ5N1hBYUo4RTNTRU5ZZlZ4X2RKcC00Z0U1VERzRlRpdURBdmVYbHUzM3MzT0VR?oc=5) (News From The States)
 
 
@@ -228,10 +228,10 @@ _Note: State media present the official Russian government view; independent out
 
 **Latest headlines (auto-updated):**
 - [Аляска последней из американских штатов подвела итоги выборов в сенат](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZm1OQThKVUJHby1iWWJJTFhLVEM2b2NpajVqZElITWNFRlJvOUFRSjNZTGxMOExPTjduN1JJTXZSZmpLR043MGh5RkNjcl92Zzk2eVZLQ3V0bERNZG9ObGZGTTJVMzVHNVlrQVJEU2tMZXY5c01GRWNDcExuNkZPVTJvSURCTnNuVXQ2UDVIX0VkbGFkcTNIT2JvRHp5aExaZnV2ZF92YmdjdUVv0gGyAUFVX3lxTE5Bd2J6YmVTZzY2c2wzcVhMUU5PSjYzdGJfTmxVMVBzSUIyUVpBN0IzbklFVEtpM24ydkl2MnloVDBUNlpnb3JFaW1vYms0NFZaX3c1a3hXNDZpWEN6WkJPT3E5d3BMVGoxQlVjZFpjaGp2NTJWUTlkbWtjWXJkNVdOY0NrazJMeDY4UWxoTDY5Y096UnBNVUlmRXlwTjVJbkVHWHJZZVdCVU1SU0M1VVJZX3c?oc=5) (Meduza)
-- [Мэри Пелтола победила в Аляске и принесла демократам большинство 56–44 в Сенате США](https://news.google.com/rss/articles/CBMib0FVX3lxTE1QR1BPQWJnUXJhSThQbDBRdlBQNE85QWs2SnloZWpVOHBselVFNm1EREZYMmljTVJKUjJlMU1RQjF1UnZtN0hNSF8xVXJkeGtWbWNsUVo1bXB5UWRHOGw2SmxUS3dBUy1NQVZuRG12OA?oc=5) (Euronews.com)
 - [«Дед и наставник»: в партии Трампа рассказали о поиске для президента США новой роли](https://news.google.com/rss/articles/CBMisgFBVV95cUxNS01KZDZDY1JydFlVWFdXdDc1eTNFRllFWm5kS2hiUkNrVFBBNmIyN2J4ZzBNc2RIUVY1U052T1NfSWZUbXlLUEY3ZHlqRXA4X0w5WGZoRGt5bklVVHBsalRYbGx1V2E4U2hQbkpHanN1cmtuVEFvdG9PaU5rZjBfNy1LSlQ2UGdtZE1XVklVVTFMbG56c0s2N0tJRDEtaTBMMnI4NXJSZFc2TmQ0Z2ZHWDdR?oc=5) (RTVI)
 - [Трамп обвинил демократов в попытках удерживать высокие цены на нефть](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHR2tmbUZiWThtYlhtZmM2aW9ka1MzRk5GdGdiRGtLTUN5X0hoMlp3OEFtR19ER21kNjA2LXMxREttMHN3ZjJoNXJ30gFKQVVfeXFMUEdHa2ZtRmJZOG1iWG1mYzZpb2RrUzNGTkZ0Z2JEa0tNQ3lfSGgyWnc4QW1HX0RHbWQ2MDYtczFES20wc3dmMmg1cnc?oc=5) (BFM.ru)
 - [После скандала с «двойником»: демократ Мэри Пелтола выиграла выборы на Аляске, её партия получает 56 мест в Сенате](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbVlDbGxnS2Z0QlBIZnhEaGJhb1JoeURKNXJUc3ZlRTlpcXBkTE9rLXRPU2ZWZW9PSHlCQWdPd01uc0c5dldYaDBETFM0OW1wZmpFbllKR2NVRF9YUkFraDV3dHViNmVQNmhKWXZ6TUNLTlJ0eE9Jcklmb0hwVG1qOFdYWUZYTXZoM0VtUVQ0NkJnb01pODRMTWEwelJlY1FSSkZCNlFGX2xXZWk5bXFnckl4UW1SdkdGcmtzTVVMWmfSAbABQVVfeXFMT3U3YXg1bjJXWDZPMjAyMEhzRy14eWs4dDgxWG8zMVctT2tiSldBUjI1WjVEMUJxTlZEaEJnSXlpOHZ1YVBDd2VQWEotYXVKVWx6MEI3UGloWHJKb3FlLUwtLTRrcGZzTG84dDByUmg2SEw4ZnpzbXBjN2JhOHZSSHYzdG44N3NOakE5VkdSRHowNE1NYWMzaTYta3U4T1NwWFR0VWlvRmZoYkdRcFZROFA?oc=5) (NV)
+- [Дэвид Норт завершает лекционный тур в Энн-Арборе, представляя марксистскую оценку промежуточных выборов в США](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KSVlVRDlvQTZTZ0I0ZmJRT3hwT2k2YUNQWF9Yb2xOV3lyVy13ZERleTNwV3ZzTFFxNDFSTi1UaXN1LXRPY3dFVmhjTUtIQUpGUzE3clJhTnVUNmtiY3NweXlMT2NCNEk4?oc=5) (World Socialist Web Site)
 
 
 ## Ethiopia
@@ -421,11 +421,11 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 ### Census and election data
 
 - [How Americans Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
-- [What We Can Learn from the 2026 Elections](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyYmt6X1B0R2FBQ2tRcFYtdWVEUDVEbVlWdUh4SkV4VFJlNEIxUkYxckdoRGt5dTVkYmU4QnR2c09fYXJxUE5VbnlqWl9DQWJFTXhZcmpUNHpvcURiMUtDYUdxXzZRY0RY?oc=5) (League of Women Voters)
 - [Misinformation about Colorado voter rolls spreads after 2026 midterms](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qd2h4Vk9jaGdVbG5WTGgwVjI3dGlwX2x0bjZOSUdWbkUyY1FwcmRkWGEwTVlwUm5IVk1yVmVjNk5zRzZWXzdUWXBMamNhZWNMVGEzTldyX3Y?oc=5) (AFP Fact Check)
 - [Alaska Votes 2026](https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tOVBBRGItbEN4ODdkX21RRXktaFFYdWx0cEYwQXVkU1NkUmlIdHRpWnlmX2RiS2NMaTQwOUZidEZpYS12bmhKNzIxd1RyRGFqbHdmYw?oc=5) (Alaska Public Media)
-- [Democrats optimistic, Republicans discouraged after 2026 midterms](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNk0tdGFnc2JPSVZ2cHl3R05ramViTWhta19QWmhMcG9xVHpGb2VfUFpSb1VKR3pULWRBQzBKQlJDX0ZIRElaNTJ5eUtDa2N6RFA2UGZ3eTlYbWxaa0FzaENQcmVyY0IwZDdkQzdOaHpnaHVtSXREdVlQck9XZVVjOVhXX2xva0cySks1eWc1amNYRF9oQ0pR?oc=5) (Ipsos)
 - [Black and Hispanic voters fueled Harris County’s 2026 midterm turnout surge](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczZUb1FrSlNsVjBLTXNDWTNxWnpRa1ppY1pWcTBtR2NaRWVhR1ZBVUU4Z2x3MkVEQlZEWFl6OExtUXE4eHJldHc4N2I3ZGxiSEZMRFUzQV9XOUdOekNsRGxJZDEtbU9ZTS12U2czZzVOZGNuV1NkdFJibWxlZHgwWVIxc1RCY3lpb1ItWVN4amlVenVQeGViN25PRDVLSk1zcTBvb1F1YTI5TnpZS3VjdV9qczJwMUFjVkUzVHF0VkhsZw?oc=5) (Houston Chronicle)
+- [Democrats optimistic, Republicans discouraged after 2026 midterms](https://news.google.com/rss/articles/CBMilwFBVV95cUxQNk0tdGFnc2JPSVZ2cHl3R05ramViTWhta19QWmhMcG9xVHpGb2VfUFpSb1VKR3pULWRBQzBKQlJDX0ZIRElaNTJ5eUtDa2N6RFA2UGZ3eTlYbWxaa0FzaENQcmVyY0IwZDdkQzdOaHpnaHVtSXREdVlQck9XZVVjOVhXX2xva0cySks1eWc1amNYRF9oQ0pR?oc=5) (Ipsos)
+- [2026 U.S. midterm elections | Key Races, Historic Precedents, Results, Gerrymandering, & Blue Wave](https://news.google.com/rss/articles/CBMiakFVX3lxTE5EYlpIaENOUE9XLVVMYnZDQ0taQVkyREdmUXV5ZzYzZkQxTGhzbkdMMGhCU0JSeDFWWFUtdnc3M3FoS1QtMkdrbHpCZVFtdGdrb3JGLWFsV2t2blZIa0JLMk9TLWtUTE5tUEE?oc=5) (Britannica)
 
 ---
 
