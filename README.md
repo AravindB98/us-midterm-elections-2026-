@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-23 18:08 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-23 18:23 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -89,7 +89,7 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 - [Democrats capture at least 258 House seats in largest sweep since 1992](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc25YTnV4Nml0WXBrdWVvc2laNDdtWmh6NjFRVGhub0NHSF9tRDFpQi0xZ1NjbU5MYjgwSTQ2VWdzaGlEcW9pdHhxRTNZQUFpUXpGV3hiYzYzYkh3NVNGTU9sYWVpNU5YcjV3aVhER3ljTkVpR2JfdmNpX3l1T05hVldyYXE?oc=5) (The Guardian)
 - [The midterms were the largest win for either party in 50 years](https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2Jya1pVMGdtYW5PcWk4Z3ZGV29SUkR2RE5ranJBNlJYU1IxS05rQmd1M01jRjZyYnJaMUUzb2hCeDh0OUFHNlg3aU1lRUw1c0hXb0NlRnhSQmctSkpURTBlTnVlZ2dINmREaTFOYkxYWEV0dWpnZnRhbi1HbXNCb3p2aw?oc=5) (NPR)
 - [Democrats have now flipped over 40 House seats. Here are all the districts that changed control in the midterms.](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdURNLUYxNXFnZWE2ektfNDRBQ09WcUltaVIxNnNWLXo0bDgxOHFNb0FkdmFXTElESUFKRHFUa2lMX1AtZVFwVGNUa2pNdU1pQTMzXzF1dVhXM2hVdXdjdUF5dllnZ1FZbXl0M3FLNThDaWFaTmx4OXdhUXREUXFHbGVR?oc=5) (CBS News)
-- [WATCH: 2026 Election Results and Speeches](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMnZ6NEswbVVLQm1hYXQ0MnFkdUZNMkJlbGtxak0wUFFWS2ZUQlRfamZvVUZXVktHWVVRekRfUVZwQThLVU5zV2x2STlhUQ?oc=5) (C-SPAN)
+- [US midterms 2026: What happens before the new Congress takes office?](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGFnWEp4Qm9KZWpqMWJOY1A5eGZUQWNKLTlBUjZkY2FZU1FxaV9Uel9WRDRhTlRzbUpOT19sWGo0WWVBWGhkWDBmYTlBMDBrMGlQbFZyMVg0dFBVNDQwcGFhVEdOT2NfVzFsdWZ1R2Zib1RTWDBqbVJWaEpIWjZtMFk1U2NGQVoxMnhZb1lveGZhMlRfMV8tUzBFX2FvZ2ZkVjBWV3J0XzFCaHRQ0gGyAUFVX3lxTE1uWjdEYmgxeWFfMkFFM0N3dVl1RnNkeGJYR2E1N3ROTXdXQ3NvM2dxLVI3WEw5RVpSeHR5dU5GeFFZTmxoM2wzcDBiQ0tDZ28wWno4U01tYnF6NDN3SDhSNVIzR3hwd2JqZUlQX000bUNKZjA3LXI5bXpQdUdwR1AwQzVGZXdMOWt1ZUFJakE2RzJ2WDRzZHNsUXZzelNhN3MzZVB4b0I3LWdlZHpCUlp6cEE?oc=5) (Al Jazeera)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
