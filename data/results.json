@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-24T21:41:06Z",
+ "updated_utc": "2026-11-24T21:56:05Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -33,7 +33,7 @@
     }
    },
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
-   "source_revised": "2026-11-24T14:57:42Z"
+   "source_revised": "2026-11-24T21:45:45Z"
   },
   "House": {
    "parties": {
@@ -176,20 +176,20 @@
     {
      "name": "Mary Peltola",
      "party": "Democratic Party (United States)",
-     "votes": 144486,
-     "pct": 50.13,
+     "votes": 144583,
+     "pct": 50.14,
      "party_code": "D"
     },
     {
      "name": "Dan S. Sullivan",
      "party": "Republican Party (United States)",
-     "votes": 131965,
+     "votes": 132022,
      "pct": null,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
-   "source_revised": "2026-11-24T08:02:00Z"
+   "source_revised": "2026-11-24T21:52:27Z"
   },
   "Texas|Senate": {
    "state": "Texas",
@@ -560,7 +560,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
-   "source_revised": "2026-11-24T19:45:07Z"
+   "source_revised": "2026-11-24T21:50:20Z"
   },
   "Kentucky|Senate": {
    "state": "Kentucky",
@@ -1152,34 +1152,34 @@
     {
      "name": "Jonathan Kreiss-Tomkins",
      "party": "Alaska Democratic Party",
-     "votes": 145449,
-     "pct": 51.08,
+     "votes": 145546,
+     "pct": 51.09,
      "party_code": "D"
     },
     {
      "name": "Bernadette Wilson",
      "party": "Alaska Republican Party",
-     "votes": 79336,
+     "votes": 79363,
      "pct": 27.86,
      "party_code": "R"
     },
     {
      "name": "Dave Bronson",
      "party": "Alaska Republican Party",
-     "votes": 38767,
-     "pct": 13.62,
+     "votes": 38785,
+     "pct": 13.61,
      "party_code": "R"
     },
     {
      "name": "Treg Taylor",
      "party": "Alaska Republican Party",
-     "votes": 20368,
+     "votes": 20383,
      "pct": 7.15,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
-   "source_revised": "2026-11-22T06:30:29Z"
+   "source_revised": "2026-11-24T21:49:44Z"
   },
   "Iowa|Governor": {
    "state": "Iowa",
