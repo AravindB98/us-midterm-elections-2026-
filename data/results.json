@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-24T22:41:06Z",
+ "updated_utc": "2026-11-24T22:56:06Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -150,20 +150,20 @@
     {
      "name": "Sherrod Brown",
      "party": "Democratic Party (United States)",
-     "votes": 2323001,
-     "pct": 50.09,
+     "votes": 2334442,
+     "pct": 50.16,
      "party_code": "D"
     },
     {
      "name": "Jon Husted",
      "party": "Republican Party (United States)",
-     "votes": 2090390,
-     "pct": 45.07,
+     "votes": 2094366,
+     "pct": 45.0,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
-   "source_revised": "2026-11-24T02:04:18Z"
+   "source_revised": "2026-11-24T22:51:29Z"
   },
   "Alaska|Senate": {
    "state": "Alaska",
@@ -430,7 +430,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-24T01:55:54Z"
+   "source_revised": "2026-11-24T22:45:28Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
