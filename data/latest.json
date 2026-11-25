@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-25T23:13:21Z",
+  "updated_utc": "2026-11-25T23:28:18Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -144,7 +144,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "senate": 99.0,
-      "house": 8.0,
+      "house": 9.0,
       "as_of": "2026-11-25"
     },
     "manifold": {
@@ -177,7 +177,7 @@
     }
   },
   "ensemble": {
-    "house_dem": 58.5,
+    "house_dem": 58.8,
     "house_n": 4,
     "senate_dem": 83.9,
     "senate_n": 4
@@ -198,8 +198,8 @@
   "disclaimer": "This is only a collection of publicly available resources and forecasts. The creator is neutral and does not support any political party, candidate or ideology.",
   "consensus": {
     "house": {
-      "value": 58.5,
-      "median": 49.5,
+      "value": 58.8,
+      "median": 50.0,
       "n": 4,
       "min": {
         "value": 7.0,
@@ -210,10 +210,10 @@
         "source": "Kalshi"
       },
       "share_favoring_dem": 50,
-      "stdev": 42.5,
+      "stdev": 42.3,
       "by_type": {
         "forecast_model": 91.0,
-        "prediction_market": 51.0,
+        "prediction_market": 51.5,
         "crowd_forecast": 7.0
       },
       "sources": [
@@ -250,7 +250,7 @@
       ]
     },
     "conclusion": [
-      "House: Democrats slightly favored (weighted average 58% Democratic across 4 fresh sources; 50% of sources favor Democrats). Range: 7% (Manifold Markets) to 94% (Kalshi). Sources disagree substantially, so treat this as uncertain.",
+      "House: Democrats slightly favored (weighted average 59% Democratic across 4 fresh sources; 50% of sources favor Democrats). Range: 7% (Manifold Markets) to 94% (Kalshi). Sources disagree substantially, so treat this as uncertain.",
       "Senate: Democrats favored (weighted average 84% Democratic across 4 fresh sources; every source favors Democrats). Range: 75% (Kalshi) to 99% (PredictIt). Sources disagree substantially, so treat this as uncertain.",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
