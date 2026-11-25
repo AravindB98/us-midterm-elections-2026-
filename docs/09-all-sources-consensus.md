@@ -2,14 +2,14 @@
 
 [Back to README](../README.md)
 
-> Regenerated automatically on every live update. Last run: **2026-11-25T22:13:23Z**.
+> Regenerated automatically on every live update. Last run: **2026-11-25T22:28:20Z**.
 
 **179 sources** are tracked below, grouped by type. Forecasts with a fresh public number (last 14 days) feed the consensus; models are weighted 1.0, money-based prediction markets 0.8 and play-money/crowd forecasts 0.4. Older numbers are shown but excluded.
 
 ## Conclusion (auto-generated)
 
 - House: Democrats slightly favored (weighted average 58% Democratic across 4 fresh sources; 50% of sources favor Democrats). Range: 7% (Manifold Markets) to 94% (Kalshi). Sources disagree substantially, so treat this as uncertain.
-- Senate: Democrats favored (weighted average 83% Democratic across 4 fresh sources; every source favors Democrats). Range: 75% (Kalshi) to 99% (PredictIt).
+- Senate: Democrats favored (weighted average 84% Democratic across 4 fresh sources; every source favors Democrats). Range: 75% (Kalshi) to 99% (PredictIt). Sources disagree substantially, so treat this as uncertain.
 - Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
 
 ## Forecasts used in the consensus
@@ -17,7 +17,7 @@
 | Source | Type | Lean (as characterized) | House (D) | Senate (D) | As of | Status | In consensus |
 |---|---|---|---|---|---|---|---|
 | [ForbesPredict](https://www.forbes.com/sites/saradorn/2026/11/01/latest-polls-in-2026-midterms-democrats-lead-nearly-all-key-senate-races/) | Crowd forecasts | Center (outlet) | 83.0% | 84.0% | 2026-11-01 | seed | no |
-| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | Nonpartisan / unrated | 7.0% | 87.0% | 2026-11-25 | live | yes |
+| [Manifold Markets](https://manifold.markets/) | Crowd forecasts | Nonpartisan / unrated | 7.0% | 91.6% | 2026-11-25 | live | yes |
 | [Metaculus](https://www.metaculus.com/questions/34484/us-congress-control-after-2026-midterms/) | Crowd forecasts | Nonpartisan / unrated | - | - | - | not machine-readable | no |
 | [CNN data analysis (Harry Enten)](https://www.cnn.com/politics) | Forecast models | Lean Left (outlet, per AllSides) | - | - | - | not machine-readable | no |
 | [Decision Desk HQ / The Hill](https://votes.decisiondeskhq.com/forecast/2026) | Forecast models | Nonpartisan / unrated | 84.0% | 64.0% | 2026-11-02 | stale | no |
