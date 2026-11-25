@@ -43,17 +43,17 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-25 21:57 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-25 22:13 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
-- House: Democrats slightly favored (weighted average 59% Democratic across 4 fresh sources; 50% of sources favor Democrats). Range: 7% (Manifold Markets) to 94% (Kalshi). Sources disagree substantially, so treat this as uncertain.
+- House: Democrats slightly favored (weighted average 58% Democratic across 4 fresh sources; 50% of sources favor Democrats). Range: 7% (Manifold Markets) to 94% (Kalshi). Sources disagree substantially, so treat this as uncertain.
 - Senate: Democrats favored (weighted average 83% Democratic across 4 fresh sources; every source favors Democrats). Range: 75% (Kalshi) to 99% (PredictIt).
 - Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome.
 
 | Consensus (weighted) | Democrats | Republicans | Fresh sources | Range across sources | Verdict |
 |---|---|---|---|---|---|
-| **House control** | 59.0% | 41.0% | 4 | 7% to 94% | Democrats slightly favored |
+| **House control** | 58.5% | 41.5% | 4 | 7% to 94% | Democrats slightly favored |
 | **Senate control** | 83.3% | 16.7% | 4 | 75% to 99% | Democrats favored |
 | **Senate seats (expected)** | 52.0 | 48.0 | DDHQ race odds | - | 51 needed |
 
@@ -63,7 +63,7 @@ _Last automatic update: **2026-11-25 21:57 UTC**. Markets refresh every minute, 
 |---|---|---|---|---|
 | [midtermforecast.com](https://midtermforecast.com/) | Forecast models | 91.0% | 76.0% | 2026-11-25 |
 | [Kalshi](https://news.kalshi.com/p/2026-midterm-predictions) | Prediction markets | 94.1% | 75.0% | 2026-11-25 |
-| [PredictIt](https://www.predictit.org/) | Prediction markets | 10.0% | 99.0% | 2026-11-25 |
+| [PredictIt](https://www.predictit.org/) | Prediction markets | 8.0% | 99.0% | 2026-11-25 |
 | [Manifold Markets](https://manifold.markets/) | Crowd forecasts | 7.0% | 87.0% | 2026-11-25 |
 
 All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, social, academic, AI, repos): **[docs/09](docs/09-all-sources-consensus.md)**.
@@ -86,10 +86,10 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 **Latest midterm headlines (auto-updated)**
 
 - [How Americans Followed the 2026 Midterm Results](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY19ieU9PS0F6dXRkNm1yZEFFLXpJWkVPMUw3bjNXdGRVdy1MYzNtcE5XU2VJSUdQVmRURU4wTVRSUWNxX3NTZlhURy1ubkxhNkxnRkdPdU9TNFJ0N0NXTW9LMWoxMzlJRy1jd0c3NnhuLVpJVV9sS1pVckRqX01sQmFGcmVLR3huTFozbUZMWk5oVWo4RWg5M2ZfUm9jS3c?oc=5) (Pew Research Center)
-- [2026 Governor Election Results by State](https://news.google.com/rss/articles/CBMifkFVX3lxTE52SkJNb0xuRm9rZm5XTWE0ZUw1MC1RN3pHQ3lRdzNzZjlPYnJCdGtEblRBd09Ra2ozVTZwcjlYQWJjampqQ0lfaUVzWHdnWDBfSkVxWjFsbmFJa2FzQmhkUWZXTThYTmFic09qaExpTGx3dEpNTjluX3dsQVRqQQ?oc=5) (MultiState)
-- [Democrats flipped 9 U.S. Senate seats — the most in almost 70 years](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmV2SmVvV1YzVTZpQW5ZbHNhZjQ1blUwWUJQamJsRDVFcmh4aDkxd1RIVmtnZ2FvNzZHdXpqMGFTX09fcTExcVg4LU1KckNvaUJsWGZWLW9ybnJEUzI0ejZCYzlNbVdJaXcwOERoRDRoNUFSdHpMeDQ4Wkl1WURzUk9wRlJkQ09jQm9KSVRSQURYMkVFYUpWY1FUMFBsbUNkM0VN0gGoAUFVX3lxTFB3VURjSDZpYzlUZ2JUUldDb1ZFQWV1MzJtUkM3YkdKRDFhTy1yUDg2RjBhUWR6bU96Z3ZzZFFKT3RLdDVpRW84RGtaeEJWclE3b19LVE9kUUpveENNMHk2VGxUdkF1a0lXUWJEeUhUN0dMUXJ5al8tTnpnTTNVTVpIVGlKaVpJMV8zNXN5Yk5rTDV2SGtKT19QNFhyNVdtU1FSbEJqWHV5eA?oc=5) (PBS)
+- [State Legislatures | 2026 State Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFR0TkJmT0h6dHNtWDlIVDhxcHV4c1QtdWNJa1dWVHBxUXd4blRpbm9KQ3h2N0xKNEZGU0o3Y0VJZ2Y0NERkYTRvZnJNQWV4RnE3UjQtLVloQ1lXMGZ2ZGt0aGVPSlRXWldRNnBCTXJfZE1VWThPbWJ2bEswSmltNThWM2t4c05mRXc?oc=5) (MultiState)
 - [Internet traffic and attacks during the 2026 U.S. midterm elections](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Ukh1aWx3djJ5alRaX2dDR2NYV3JyS1hFczNYNGl4UDdjWXJkMnBZMC1Yb2Ria1dRaGFRV1MweXFHalhBNVZ0aDBaRDNlamVUdVY0OG1DQzJZWEdvMk91eElrWDJPVjdoYzRiWHp1Yw?oc=5) (Cloudflare Blog)
 - [Democrats capture at least 258 House seats in largest sweep since 1992](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc25YTnV4Nml0WXBrdWVvc2laNDdtWmh6NjFRVGhub0NHSF9tRDFpQi0xZ1NjbU5MYjgwSTQ2VWdzaGlEcW9pdHhxRTNZQUFpUXpGV3hiYzYzYkh3NVNGTU9sYWVpNU5YcjV3aVhER3ljTkVpR2JfdmNpX3l1T05hVldyYXE?oc=5) (The Guardian)
+- [Democrats have now flipped 48 House seats. Here are all the districts that changed control in the midterms.](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdURNLUYxNXFnZWE2ektfNDRBQ09WcUltaVIxNnNWLXo0bDgxOHFNb0FkdmFXTElESUFKRHFUa2lMX1AtZVFwVGNUa2pNdU1pQTMzXzF1dVhXM2hVdXdjdUF5dllnZ1FZbXl0M3FLNThDaWFaTmx4OXdhUXREUXFHbGVR?oc=5) (CBS News)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
