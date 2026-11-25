@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-24T23:56:20Z",
+  "updated_utc": "2026-11-25T00:11:19Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -35,7 +35,7 @@
     "midtermforecast": {
       "house": 91.0,
       "senate": 76.0,
-      "as_of": "2026-11-24",
+      "as_of": "2026-11-25",
       "status": "live",
       "type": "forecast_model",
       "name": "midtermforecast.com",
@@ -45,7 +45,7 @@
     "kalshi": {
       "house": 94.1,
       "senate": 75.0,
-      "as_of": "2026-11-24",
+      "as_of": "2026-11-25",
       "status": "live",
       "type": "prediction_market",
       "name": "Kalshi",
@@ -145,17 +145,17 @@
       "status": "live",
       "senate": 99.0,
       "house": 10.0,
-      "as_of": "2026-11-24"
+      "as_of": "2026-11-25"
     },
     "manifold": {
       "name": "Manifold Markets",
       "type": "crowd_forecast",
       "url": "https://manifold.markets/",
       "lean": "Nonpartisan / unrated",
-      "status": "stale",
+      "status": "live",
       "house": 7.0,
       "senate": 91.0,
-      "as_of": "2026-11-24"
+      "as_of": "2026-11-25"
     },
     "metaculus": {
       "name": "Metaculus",
