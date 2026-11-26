@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-26T04:58:52Z",
+  "updated_utc": "2026-11-26T05:13:54Z",
   "chambers": {
     "ddhq": {
       "house": 84.0,
@@ -154,7 +154,7 @@
       "lean": "Nonpartisan / unrated",
       "status": "live",
       "house": 7.0,
-      "senate": 89.7,
+      "senate": 87.0,
       "as_of": "2026-11-26"
     },
     "metaculus": {
@@ -179,7 +179,7 @@
   "ensemble": {
     "house_dem": 58.8,
     "house_n": 4,
-    "senate_dem": 83.7,
+    "senate_dem": 83.3,
     "senate_n": 4
   },
   "senate_projection": {
@@ -224,8 +224,8 @@
       ]
     },
     "senate": {
-      "value": 83.7,
-      "median": 82.8,
+      "value": 83.3,
+      "median": 81.5,
       "n": 4,
       "min": {
         "value": 75.0,
@@ -236,11 +236,11 @@
         "source": "PredictIt"
       },
       "share_favoring_dem": 100,
-      "stdev": 10.0,
+      "stdev": 9.7,
       "by_type": {
         "forecast_model": 76.0,
         "prediction_market": 87.0,
-        "crowd_forecast": 89.7
+        "crowd_forecast": 87.0
       },
       "sources": [
         "midtermforecast",
@@ -251,7 +251,7 @@
     },
     "conclusion": [
       "House: Democrats slightly favored (weighted average 59% Democratic across 4 fresh sources; 50% of sources favor Democrats). Range: 7% (Manifold Markets) to 94% (Kalshi). Sources disagree substantially, so treat this as uncertain.",
-      "Senate: Democrats favored (weighted average 84% Democratic across 4 fresh sources; every source favors Democrats). Range: 75% (Kalshi) to 99% (PredictIt). Sources disagree substantially, so treat this as uncertain.",
+      "Senate: Democrats favored (weighted average 83% Democratic across 4 fresh sources; every source favors Democrats). Range: 75% (Kalshi) to 99% (PredictIt).",
       "Expert raters (Cook, Fox News Power Rankings) see the Senate as closer than most models: Cook calls Democrats slight favorites and Fox rates Senate control a toss-up. Polling errors of 3 to 5 points in one direction have happened before, which would change the Senate outcome."
     ]
   }
