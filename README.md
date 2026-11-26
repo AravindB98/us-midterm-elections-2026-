@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-26 04:28 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-26 04:43 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -87,8 +87,8 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 
 - [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
 - [How Americans Followed the 2026 Midterm Results](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY19ieU9PS0F6dXRkNm1yZEFFLXpJWkVPMUw3bjNXdGRVdy1MYzNtcE5XU2VJSUdQVmRURU4wTVRSUWNxX3NTZlhURy1ubkxhNkxnRkdPdU9TNFJ0N0NXTW9LMWoxMzlJRy1jd0c3NnhuLVpJVV9sS1pVckRqX01sQmFGcmVLR3huTFozbUZMWk5oVWo4RWg5M2ZfUm9jS3c?oc=5) (Pew Research Center)
-- [2026 Governor Election Results by State](https://news.google.com/rss/articles/CBMifkFVX3lxTE52SkJNb0xuRm9rZm5XTWE0ZUw1MC1RN3pHQ3lRdzNzZjlPYnJCdGtEblRBd09Ra2ozVTZwcjlYQWJjampqQ0lfaUVzWHdnWDBfSkVxWjFsbmFJa2FzQmhkUWZXTThYTmFic09qaExpTGx3dEpNTjluX3dsQVRqQQ?oc=5) (MultiState)
-- [Democrats capture at least 258 House seats in largest sweep since 1992](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc25YTnV4Nml0WXBrdWVvc2laNDdtWmh6NjFRVGhub0NHSF9tRDFpQi0xZ1NjbU5MYjgwSTQ2VWdzaGlEcW9pdHhxRTNZQUFpUXpGV3hiYzYzYkh3NVNGTU9sYWVpNU5YcjV3aVhER3ljTkVpR2JfdmNpX3l1T05hVldyYXE?oc=5) (The Guardian)
+- [State Legislatures | 2026 State Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFR0TkJmT0h6dHNtWDlIVDhxcHV4c1QtdWNJa1dWVHBxUXd4blRpbm9KQ3h2N0xKNEZGU0o3Y0VJZ2Y0NERkYTRvZnJNQWV4RnE3UjQtLVloQ1lXMGZ2ZGt0aGVPSlRXWldRNnBCTXJfZE1VWThPbWJ2bEswSmltNThWM2t4c05mRXc?oc=5) (MultiState)
+- [Setting the Story Straight: Party Turnout and Voters of Color](https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOGNselBGUUZZNjE1cVByM3BNX2tGV0RGemt1OGtRYUlKaU9xT25zSmhYQUtHRXQ5SWhkSk9icGg3QUllU2ZuOFZHU0ROTzRGZHlvazkwSXB4NldQRnFyR3E2RFJPMTVJdDQxMmlYd0pLbkJV?oc=5) (AAPI Data)
 - [Internet traffic and attacks during the 2026 U.S. midterm elections](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Ukh1aWx3djJ5alRaX2dDR2NYV3JyS1hFczNYNGl4UDdjWXJkMnBZMC1Yb2Ria1dRaGFRV1MweXFHalhBNVZ0aDBaRDNlamVUdVY0OG1DQzJZWEdvMk91eElrWDJPVjdoYzRiWHp1Yw?oc=5) (Cloudflare Blog)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
