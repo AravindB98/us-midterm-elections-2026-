@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-26 09:28 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-26 09:44 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -89,7 +89,7 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 - [Setting the Story Straight: Party Turnout and Voters of Color](https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOGNselBGUUZZNjE1cVByM3BNX2tGV0RGemt1OGtRYUlKaU9xT25zSmhYQUtHRXQ5SWhkSk9icGg3QUllU2ZuOFZHU0ROTzRGZHlvazkwSXB4NldQRnFyR3E2RFJPMTVJdDQxMmlYd0pLbkJV?oc=5) (AAPI Data)
 - [Internet traffic and attacks during the 2026 U.S. midterm elections](https://news.google.com/rss/articles/CBMib0FVX3lxTFB6Ukh1aWx3djJ5alRaX2dDR2NYV3JyS1hFczNYNGl4UDdjWXJkMnBZMC1Yb2Ria1dRaGFRV1MweXFHalhBNVZ0aDBaRDNlamVUdVY0OG1DQzJZWEdvMk91eElrWDJPVjdoYzRiWHp1Yw?oc=5) (Cloudflare Blog)
 - [Democrats have now flipped 48 House seats. Here are all the districts that changed control in the midterms.](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdURNLUYxNXFnZWE2ektfNDRBQ09WcUltaVIxNnNWLXo0bDgxOHFNb0FkdmFXTElESUFKRHFUa2lMX1AtZVFwVGNUa2pNdU1pQTMzXzF1dVhXM2hVdXdjdUF5dllnZ1FZbXl0M3FLNThDaWFaTmx4OXdhUXREUXFHbGVR?oc=5) (CBS News)
-- [2026 U.S. Senate Election Results](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5) (AP News)
+- [Visualized: how Democrats swept downballot races and tipped the balance of power in the US](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2E3WnVrOWkwRmN0LUdiZjB0MFJacnVZYWFJeW1qcjc1LWphWl9OT0JBZ0o2blQxN2FmZ090b0EwUkRKR01PZS00TmV1SzREVjYyNi1USmVYZXlEN3Juc3FYUjlBWGpvN2hXYlRraXQxbzY1cVE4UmxDVjRGOUt5NG8wcU92MnN2RFBtYjhQOUZycWxzc2dFZFhZTTZCUlp4NURzRDktOGtXSEE?oc=5) (The Guardian)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
