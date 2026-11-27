@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-27T18:47:01Z",
+ "updated_utc": "2026-11-27T19:02:02Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -280,20 +280,20 @@
     {
      "name": "Pete Ricketts",
      "party": "Republican Party (United States)",
-     "votes": 382171,
-     "pct": 49.85,
+     "votes": 382401,
+     "pct": 49.84,
      "party_code": "R"
     },
     {
      "name": "Dan Osborn",
      "party": "Independent politician",
-     "votes": 338509,
+     "votes": 338741,
      "pct": 44.15,
      "party_code": "I"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
-   "source_revised": "2026-11-23T17:56:32Z"
+   "source_revised": "2026-11-27T18:48:15Z"
   },
   "Florida|Senate": {
    "state": "Florida",
@@ -430,7 +430,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-27T17:34:47Z"
+   "source_revised": "2026-11-27T18:55:23Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -444,19 +444,19 @@
      "name": "Chris Pappas",
      "party": "Democratic Party (United States)",
      "votes": 356425,
-     "pct": 55.93,
+     "pct": 55.87,
      "party_code": "D"
     },
     {
      "name": "John E. Sununu",
      "party": "Republican Party (United States)",
-     "votes": 268712,
-     "pct": 42.17,
+     "votes": 268682,
+     "pct": 42.11,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
-   "source_revised": "2026-11-26T22:43:51Z"
+   "source_revised": "2026-11-27T18:54:31Z"
   },
   "Louisiana|Senate": {
    "state": "Louisiana",
@@ -1374,20 +1374,20 @@
     {
      "name": "Jim Pillen",
      "party": "Republican",
-     "votes": 384579,
-     "pct": 50.28,
+     "votes": 385502,
+     "pct": 50.18,
      "party_code": "R"
     },
     {
      "name": "Lynne Walz",
      "party": "Democratic",
-     "votes": 326179,
-     "pct": 42.64,
+     "votes": 328306,
+     "pct": 42.73,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
-   "source_revised": "2026-11-22T06:40:36Z"
+   "source_revised": "2026-11-27T18:50:30Z"
   },
   "Oregon|Governor": {
    "state": "Oregon",
@@ -1498,7 +1498,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
-   "source_revised": "2026-11-27T18:42:16Z"
+   "source_revised": "2026-11-27T19:00:50Z"
   },
   "New York|Governor": {
    "state": "New York",
