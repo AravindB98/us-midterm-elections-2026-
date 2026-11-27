@@ -7,7 +7,7 @@ Population ranking: India, China, United States, Indonesia, Pakistan, Nigeria, B
 Largest economies (nominal GDP, IMF): United States, China, Germany, Japan, United Kingdom, India, France, Italy, Brazil, Canada (or Russia, depending on IMF edition) ([source](https://spmiasacademy.com/currentaffairs/which-are-the-top-10-economies-in-the-world-by-gdp/)). IMF editions differ at the margin: some list Russia at #9-10 and Canada at #10-11. Both are included here.
 
 > This file is regenerated automatically from [`data/world_media.json`](../data/world_media.json) and [`data/headlines.json`](../data/headlines.json) on every live update.
-> Latest headlines refreshed: **2026-11-27T09:45:32Z**.
+> Latest headlines refreshed: **2026-11-27T10:00:32Z**.
 
 **Global wire services:** [Reuters](https://www.reuters.com/world/us/), [Associated Press](https://apnews.com/politics), [AFP](https://www.afp.com/en), [Bloomberg](https://www.bloomberg.com/politics), [Al Jazeera English](https://www.aljazeera.com/where/united-states/)
 
@@ -119,9 +119,9 @@ _Note: Coverage typically focuses on trade, tariffs and US policy toward Southea
 **Latest headlines (auto-updated):**
 - [Timteng Pascapemilu Paruh Musim Amerika Serikat](https://news.google.com/rss/articles/CBMib0FVX3lxTE53RmJJVFdDeUFQemxtb21qMWdFQWpqOHM1RDRJNjBRQ2RaYmM1bURDZEdScXBrTTRfYWJ4TWpwUWVJTVlHY3lmejJQOGJRdDFsX250Mmg5enNEOUtzWEVoa2Y5eTg2LUFBcmE3S1dLZw?oc=5) (Kompas.id)
 - [Bagaimana Membaca Kemenangan Partai Demokrat di Amerika](https://news.google.com/rss/articles/CBMif0FVX3lxTFBSNlVObFFZTVVLVnRFRlJwV1M5SXo4VW1FYVZCaHNlSWFYZmJoS2tLZTJ2S2xBa3VZcXFvMmZra1ZJenNJc2VWZDF5QjF2SEgzNVJ0d2hhNnVPNnl4RGdiZ3U2NmZZQlRwWEgtUzRIdnVUMGJlUGkweVFTTUk3RDA?oc=5) (Tempo.co)
-- [APEC: Pertemuan Trump, Putin dan Xi 'sarat simbolisme, tapi minim hasil nyata'](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zYk96ZG9OZll6ZGV6QzZMMUltb2FTdHRoWXNQNVo2ZHJzaDcwaF9NSnRXSmRFYWFPUXNrMHNoTy1LQk1fbjZJYzB5SVlmdE5pUTRTVUl5MWE4Ny1tUXF0NnJ30gFnQVVfeXFMTkVFX0pTaTJ6MmhyRnU1ODl3RzJwSlVZQ1A0UU1rQnh2N01vZVVsZm8zZ1g3VmN0UDZzNzhYTDNkREF3Q1ZRMmxqa2U5d3oySC1XMWVJZEpzNkRtMXR5ajZLMDhJNzJQQQ?oc=5) (BBC)
 - [Partai Republik Kalah, Elon Musk Menyesal Sumbang Rp8 T di Pemilu AS](https://news.google.com/rss/articles/CBMi0wFBVV95cUxONERseDNmWW4tOGZTU1loTERpUHBYWHYtMjBmVnNKcDNzU3BNQmpqcHd3MGlmR1pTWWl3ZjAyVzBVWmNoSllXU1ptS0RXV3Z0bm1ad1RjTF9GQkZhVUNleEdjNmtaYUJ6OHllWjlaTnZSNFlLNzd4Y1RaM1BPRVg2TEpVdEhwdmIzNHJtQ2I2bnFSc1R0Q2o5N0NBSV84QUR0RHQwZEtiU2pUa3d6QnlCTUI3SFo2YUhxeWNWajY1bUE4Y0pkZ2d0WGpvaTgzTXM4OHh3?oc=5) (CNN Indonesia)
-- [Hasil Pemilu Sela AS: Demokrat Dapat 258 Kursi DPR, Terbesar dalam Tiga Dekade - kumparan.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXJFSDJ1ZllTNUY1MGNaMTYxUndFTjY0Ykg2dFhSSnNxdm9tVTRoSlBobFBhMDkxaEs2WXJzeTVEMFNOU3V3Z2dpUzdtY1B3Q2I0VWZGMEpQV01KanpDMTZlRW9tTWNFUUZadlVQaDltREZDT0tMUURhYUxuWHpNVTU4SjhhQnNFRWJzalVvdkxxWTRRQUtHZVIxb2tnVGlOVFZja2U2RUh5MnJVaFhydUFzSnRHUlBhcF9MWXVla9IBxwFBVV95cUxQUTFnc1d0QU1pZkJKNFdqb3YzRWlHZ0pIcDJfM2lSbHZIN2ZRYTRpa2NxQ1JQU0VPTXAxUi1ZZ3U2OEMwaU1oR3Zxa3J5OFZBT00wQmhqT2daSmZuaU01NFgtd3VvR0UwQkpKX3U5UWlwYUs3MHZ0ejZweUJBT1J6dExIVjNMUUhscFFINEpwM3VjTGlUT1dLblpuYVo0QkxGdDJFTnotQlJrU3N3NHVJS095bUFPRGxhaDlKSVJQTXItbElUTkZr?oc=5) (kumparan)
+- [Senat AS Tolak Resolusi Hentikan Perang Iran, Trump Dapat Dukungan](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQzV6akhXbXlTeVFPeFhLOUc3MDdod2tJQjdsb1FZMWp6Yl9lNV81MXBPM3VkMHhLRU1VUVh4bmxQRk5Sczg2V2thTGtwcERFTlg1c1BweWhSaDJBMDFZY3VsTkVtNjRCVG1Pek5WeVhOOW1kcmVrQzRFS1FhUG5CUm1FSF9vVTNySlJZbGJUSEF4cmNkQllSUWRFRHkxWG8zYXB6a29vMHJQMF9OMmc?oc=5) (RanahRiau.com)
+- [Trump Usulkan Tarif Impor Baru untuk Indonesia dan 13 Negara](https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwOFF1MEJRX1NJUFlJM0tzUWNGcm9xMWtBMVF0SDJZbnEtWjNQVWNaTHQwQTFQNEx5bldGWkEzUnIzUWVlVUN4SFNzazhST2M3b3NMX1cyY3R1bjJXV3Q5THVOQ0RaQQ?oc=5) (cwibc.co.id)
 
 
 ## Pakistan
@@ -186,10 +186,10 @@ _Note: Coverage often links US politics to tariffs on Brazil and Brazil-US relat
 
 **Latest headlines (auto-updated):**
 - [Bancada democrata na Câmara dos EUA atinge marca histórica e é a maior em 34 anos](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3ZwRTBZM3JOQmgzS1RCQklLcWZFVkg1c05KalU5NjhvM3A1WHJzNjhfVWYxTkdWSUJfdDNWOFBveml2dU9Uc3I5VjFiQWFwYXFlLWZWQjlxZkc0dUZxM2tobGRiNTBGanY2TVdkUXlCZ0w1X1dfSHlPa3FEZW5jUEQxY0ZfZE5jRWJud09lS1pYZ041QkFTU09jZjVvQ0oyWEJmUm1Qc3NsOEtmLW5j0gG-AUFVX3lxTE54aWFwUS1VNFcyRDNWaUw0S1ROdC11SWdpYmI0d3l1ekxub2gwSktqaVRsd3ZGSml5OWF4ZnFFYVQ1WTRicHl5VllrNUpvcVhPTXJYQ2pHZWZBTTlGblM1ZFNhLXhYVklFcVZ0VDNGWG1KUVZpSFBXaXFsZDBOWkRocEtjVVdaaUhXYmY3ZS16YmU0YVV3SV8wTjdXQjA5VVNLdkN1ZGlkUUQzaXBNSkJlNEYtSG80TkFwTGMxWkE?oc=5) (G1)
+- [Trump exige investigação sobre dados do PIB divulgados antes de eleições de meio de mandato](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYTlnNFlNWk92TDVEdGJhNHJoZkFSZ1haQjJrcGpyaU1wRjNDOXZnQWNGZmdfQTN6QzVJTUo3c3BHaC1TWHhLQUJnZVdWOFNRbHhmTUJTbnU5OGZFTnJveFcwOWpDQ2twSnJGa2g5TG5JbDlIbUJRalJfNGszcHI2U2FWV3hSdlVYc2M3SWRDR3ZfcExRcWNpcVFVd0dYdDJfSnppMEZTVXIzeHpvM1RUcThES3RGSmxCRy1TZTA4bHYtLTg1Rjg0VHZoMkhGNmJLd3puNHJQTTVGd2M?oc=5) (Folha de S.Paulo)
 - [Eleições de meio de mandato nos EUA terminam, mas batalhas políticas se intensificam](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNak5PSVNHYWVvR2txSERBMV9qbGU3a1kzY19mTUN6SUlxT1V5ZWVreGtjTVYwbFNKUkp5NU9Hb3FpRXJRVk1lVzNLUXI0RDBfaHd5cTgtMUdOc0pGVDVBQkhDS3d1cW0xWXBKUzk3Q1RvN0ZOWExUaEpGVlVab0pqMWRXZmdEMW4y?oc=5) (XINHUA Português)
 - [Trump exige investigação sobre dados do PIB dos EUA divulgados antes das eleições de meio de mandato](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZE5ERWVDQkFLRldKd2tiTnl5T0tiTmdqa1dVWXNxc2tWZ1QtNEtTbVdrcDVLUTRTWldCS0dDenFFMXFKNmVpaV9YRlp4RzhkRWtLOGZRRzRjUlFtc2o2eHljLTREeUVMSFdjdkNOQkxYeGxQd0NMTk42UG1ROTBUQ1V5bUo3RHM2WjB3U2dEa2czVDQ2THdkU182LXNfaVByekdwUFByeWJ6X09WTUVvc0xDUnJtY3RzQkZ0cGdsXzZZLWs?oc=5) (Exame)
 - [Democratas dão ‘início’ à corrida presidencial em 2028 nos EUA](https://news.google.com/rss/articles/CBMipAFBVV95cUxPUnJHbEFRQTdGcU5rbzNmeVB6UllKdnVrdzItMWN2MzlBSVFXa0VTOXFzb3pYN2tCSkN2eDhMYUt4T0dUbHNRSmItMTBvRXVGT2U1S0hfeEMzcXBSZmdGOERjam5pa2xMZWZUNGpWTnZkUGMtRjR2Z1Z1cU1CREx2ckJhbnhuRXlOV3V4czdSdlBzSjlPeTNvSXhSSm8tWWpuTmxBRg?oc=5) (CartaCapital)
-- [Republicanos articulam candidatura de Rubio para presidência dos EUA](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcno1RHR1TUxFSEJ2THdlRFFxeWdQSVlRdmptQVlTN2tySnVWRVg1YWVUcmVYZTNqTEIydVNvb19pZXZXV1Fldjc2T3JZWWM0VnFtOXRrLTczWkdVNEV0Vl9pdTNoU1g5bl9XbVpWcVR2QU9LY1UwWVhOUUREQURKQVo5TS1ESV8xWDhaSVdXS2tpVmg2cWVubDRtMEVjaFdwMDBxa0cyV1BhZ3dvSWd2UW1B?oc=5) (CNN Brasil)
 
 
 ## Bangladesh
@@ -298,10 +298,10 @@ _Note: Nikkei Asia frames midterms around tariffs, China policy and markets._
 
 **Latest headlines (auto-updated):**
 - [【米中間選挙2026】 民主党、連邦下院で1992年以来最多の議席確保　ノースカロライナで現職に勝利](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IcHR4WVpBbFFReXRkeXJ0alBnOER1YW5MMy1PajE1bXZSVUxkajVObTRwMlR6VWZYTENqTTJ4R1VTR2I0T0ZfNVFTVWVhQ2t0dkFvZVB6dXp5YzVYanZjQdIBZkFVX3lxTFBlMjk4ajhydW1HYkRheFNyUzNjTTZzd29LSVFiZFNzbVphZWtTME5PT1djdlAxTGRFYVNHcndLeTZOQkdHWnJnVVBFQktxT2habkUzekRYRDRRUi1Zc3pzN0Z3aGdtUQ?oc=5) (BBC)
-- [米民主、「オバマ旋風」超えの258議席確保 下院で34年ぶり大勝 [アメリカ中間選挙]](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdjh1VjNRaWlGNW9UbzF4QldOTUhadnlGMUZKdFAtVkJweFc0SXZidXBVdUg0d2t5cnllVmpWaWlVdFFkMTdTeTkwYmQxUkFSM3ZvTENETE5LbDM1eHE1UEg5eV9IY1k?oc=5) (朝日新聞)
 - [〈社説〉米中間選挙を終えて 「トランプ後」を見据えて](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhMXZRcHBNQ2dhcXRWbGpab0FJZlI2MTh1OVlocTFPSy1IYjRRTFNvWm92eV9HcU4taGFvSGpVMEk4cjJDTnpCOEdfVWppczQ2UzMw?oc=5) (東京新聞)
-- [米民主党が下院で２５９議席獲得、１９９２年を上回る大勝で「今世紀最大の多数派となるだろう」](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiaHJIQmFHVEZ3M1RUbGEwTUpBN05rallGVWJPaUY1MDhrazV6bkEwU2w2dHI3QU9URWxWOXNDeG45b0JqLUdOYld3TGJwd1dfbndIamdDczl4QXBrU2ZhazZR?oc=5) (読売新聞)
-- [米民主党が下院で259議席獲得 1992年上回る大勝、残り3議席](https://news.google.com/rss/articles/CBMibEFVX3lxTE1GRXpEUkxoUFF0Um9ENWtzcHdPSGdKRHJYNjlnSTBKdDhqaHU1dE1uUWFuUVdIM0ZhbjZHc0UxaGRpYjU3ZjRHNWZHaWhpQ1JQNWtEbm1XSDZWUElHemFfRWlGLUlScU9pbE9tbw?oc=5) (日本経済新聞)
+- [米中間選挙で民主が両院制覇、共和地盤でも勝利 トランプ氏「結果受け入れ」（ロイター）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBSVjF1NEFpZ25UMnptV1dqaWprQk9NejhDNC1aRWJ2eDJZTER6cHV5UEZlYmxHLS1DS2hzRjlCdVlTckZsR3R5NlpnWHpzd09ZeXkyQkNsWFNIWG1mWW44R0pOeHplYnZZUlFCZmcxTS1aZGJhTjV1c1NpSFhTaTg?oc=5) (Yahoo!ニュース)
+- [米中間選挙で破った「3割の壁」 トランプ政権最大の「レガシー」は](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Kczd6MFdfSUpNODJBOVo0STVEaHBfQktjdnJlam5sZXY4QlFrWXVSUnRxNVdhVWs0OUdycUhOdVF1eW16LWxmbHdJdHFPRjM0dTE2OXF5Sl82Zzg4UjF1UnQ1WVhFc00?oc=5) (朝日新聞)
+- [米中間選挙、下院選で民主党が２５８議席の獲得確実…党下院トップ「今世紀で最大の議席を確保」](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqQ25fbFV5N3FmRVJ1VkE3SUdyMmoxdFdKN0Zlamg0cU1WbGF5TTVPUEZ2RG5ZcDNSbGU2dXFQQ0lDLUlSc2NXNWtkS3JXN2NrUTlnVXBScmVBWUJkaW5Wb2hn?oc=5) (読売新聞)
 
 
 ## United Kingdom
@@ -387,7 +387,7 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [A blue wave: Were the US midterm elections a setback for Trumpism and what comes next?](https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0FteEplbG5jNUE2WFdyWDA2SlpicUVtM19qSUFXaDhfWjd4VjczQXFlUHNEZG1MTEx2eWdja3lXSi1ickNqUkRXR1NzZjFrazJyTmFFMjVZc2ticktIWlJLaTBMSnprLWxVNUxJclUxWUVEM25hV1g1bVd4dU5FVzdFVFBEaUo2Vk1vYWNka3hFaU0?oc=5) (City St George's, University of London)
 - [Visualized: how Democrats swept downballot races and tipped the balance of power in the US](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2E3WnVrOWkwRmN0LUdiZjB0MFJacnVZYWFJeW1qcjc1LWphWl9OT0JBZ0o2blQxN2FmZ090b0EwUkRKR01PZS00TmV1SzREVjYyNi1USmVYZXlEN3Juc3FYUjlBWGpvN2hXYlRraXQxbzY1cVE4UmxDVjRGOUt5NG8wcU92MnN2RFBtYjhQOUZycWxzc2dFZFhZTTZCUlp4NURzRDktOGtXSEE?oc=5) (The Guardian)
 - [A Huge Vote Against Trump: The 2026 United States Midterm Elections](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGRlcUNRVjRDcVFBMEw1MWVzbmF1ZDY4R1lGMmhRVHgycWt0Nk5uT0NqRVF5R250RW9VNkFWQ3VSX08xMUx2T2c4QzRJOFRMeUpFaFo1aGhHMXV2TEFPTEhEQkFROWZraldta2lZVWRHd3p4bVZSa1BzRkxhZk5aaWMtQzE0SnJwWmlwblBiQUkwZXct?oc=5) (Open Canada)
-- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
+- [OPINION: U.S. Midterm Results May – or May Not – Help Improve Canada-U.S. Relations](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHlPWC13UHJyRmU2R0JfUEgxX1h3bUJ2a3E2VE5DeEY0WUJwWHZrX1Vvc3ZsVmRjM05TNi1KQWFLb1BEbFMwSXJDUl9jOTUxMmEtSUl5LURjbG10T05ldWRhbFliZmFQS1ZscEdOclVtX04zYWVUQVVhOGY3T0FxS2dsb0c3aVNpUnRySVpITDN2QV9SQ3JmY043RFpNWnVudjlwM1hOMUk2Zw?oc=5) (EnergyNow)
 
 
 ## Live topic feeds
@@ -399,24 +399,24 @@ _Note: Coverage focuses on trade, tariffs and cross-border issues._
 - [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
 - [Setting the Story Straight: Party Turnout and Voters of Color](https://news.google.com/rss/articles/CBMidEFVX3lxTE9VOGNselBGUUZZNjE1cVByM3BNX2tGV0RGemt1OGtRYUlKaU9xT25zSmhYQUtHRXQ5SWhkSk9icGg3QUllU2ZuOFZHU0ROTzRGZHlvazkwSXB4NldQRnFyR3E2RFJPMTVJdDQxMmlYd0pLbkJV?oc=5) (AAPI Data)
 - [Visualized: how Democrats swept downballot races and tipped the balance of power in the US](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2E3WnVrOWkwRmN0LUdiZjB0MFJacnVZYWFJeW1qcjc1LWphWl9OT0JBZ0o2blQxN2FmZ090b0EwUkRKR01PZS00TmV1SzREVjYyNi1USmVYZXlEN3Juc3FYUjlBWGpvN2hXYlRraXQxbzY1cVE4UmxDVjRGOUt5NG8wcU92MnN2RFBtYjhQOUZycWxzc2dFZFhZTTZCUlp4NURzRDktOGtXSEE?oc=5) (The Guardian)
-- [How Americans Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
+- [How Americans Voted in 2026](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
 
 ### Polls and forecasts
 
 - [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
 - [2026 U.S. Senate Election Results](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5) (AP News)
 - [Women Voters Critical to Democrats’ Success in the 2026 Election](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3V1cFQwV3NyVEl3MjRUTWNrdnc3U1ZNMWo1RjZNbmh2WlZ3WWY4NWdaUHFNUnFnSTdKUnFTVWJvb0E1eDNNSmRKNTJYd0xUSXBEZnVUUGNmczFJcHBmcW5tWllXallCN2xoSkU4dkFfZGdNSk9KMEFodXI0MjBLU0RpQldIcW9RTWRF?oc=5) (CAWP)
+- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
 - [2026 Midterm Election Results: Senate, House and Governor Races](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5) (AP News)
-- [How Americans Voted in the 2026 Election by Race, Gender, Age and Education](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
-- [2026 North Carolina Midterm Election Results](https://news.google.com/rss/articles/CBMidEFVX3lxTE5jeHFRMnRycEp2NnpoR0c2d3JVTE1LRlVGVk5MX3BWaXBSbmE5MjZLYVllYjJ6dHVKOTZ6Y3FuYm9RN3c2YnB5MkdRdkpMU2dHdkc3Z0pfSnlZZEkyX21Ic1ZOQTItY0dtemRKeUNsUFhBWlFE?oc=5) (AP News)
+- [How Americans Voted in 2026](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1Jxc0lSUzI0NVB6SGd3d0tlX2R1akVfdmR6ejBVcndPNTFkNS1EQ1ZkNmJsRGh1bHZjZmlzeW0ySjRxcnpuY1FNY0RncVBwX2J3SmRzaGZGUFRUaG5ndEdhLWo0VVdTQmI1SHFqLTJxUkhSZUhIekNpN3FqOHhYV09fRQ?oc=5) (The New York Times)
 
 ### International students and visa workers
 
-- [Why the Blue Tsunami may help Microsoft](https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWFUbDUySXc0aXZCSlJ1ZUNMaTdzNHVUV3Q0ODhYVVhfUW5IVkFueHZGSkd0LXRRcUxLTXFtNDlETE8yZDBHZ2NpRm8tMU9XMmJYdjM0YWptTTdUNkxuRzEwclAwM1hndm8xaG5YdFFDdnJSVWp0X2ZfQTlsUE15SVg1MFJhZmdMYU1XMFFrVVpER1ox?oc=5) (Computerworld)
-- [2026 Midterm Election Results](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DQjlqSmk1ajF4Mm9GVzFIRDNwbXlYcDFwa0JGOHA5SWJCaTNRZzR0Y0JrUGxqUm5GdDZzZEt2dTBQZl9qOTdqR0ZmMUxxZ1IzSkFxa3JOa2tfSVBSVGh4Q09HdTMxQQ?oc=5) (KUNC)
 - [Midterm Elections 2026: Congress Polls, Charts and More](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5) (NBC News)
+- [2026 Midterm Election Results](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DQjlqSmk1ajF4Mm9GVzFIRDNwbXlYcDFwa0JGOHA5SWJCaTNRZzR0Y0JrUGxqUm5GdDZzZEt2dTBQZl9qOTdqR0ZmMUxxZ1IzSkFxa3JOa2tfSVBSVGh4Q09HdTMxQQ?oc=5) (KUNC)
 - [Democrats cracked the GOP’s southern ‘red wall’ this year. Now they’re plotting how to tear it down](https://news.google.com/rss/articles/CBMiekFVX3lxTE9RVnZRczIzSjN2TDJqYVpVUFkxUEE2VFJjdG5jT1pEb0ZNVHdoR2pNWU1ZZF84SVBWQUpRdFBTODF6c2x0VDZRbWV4WUtvOHVuUERmNGFYc0VHNmEyYV9UR3lzZlZOeFR2YzV2R3U5SldBeG9EakpGUHJn?oc=5) (CNN)
 - [Trump’s showdown with Congress is catching fire, weeks before Democrats take power](https://news.google.com/rss/articles/CBMihgFBVV95cUxQSnA5eFd6U1N4QjNuQjE0Q2d1bUFSWUhKMTMwU3BXYUUtUG5BYVUwdmg2ckQxN0FSVW4tM1lPb2VYWmVLV3QtYTN3SWtuclBuV2dveWVPMWZ2SlFHUzJZY2NVUmdLWm95TU56WDR6LTZPTHBsejZ6MEdFdmttOENTcW92dE0yQQ?oc=5) (CNN)
+- [Why the Blue Tsunami may help Microsoft](https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWFUbDUySXc0aXZCSlJ1ZUNMaTdzNHVUV3Q0ODhYVVhfUW5IVkFueHZGSkd0LXRRcUxLTXFtNDlETE8yZDBHZ2NpRm8tMU9XMmJYdjM0YWptTTdUNkxuRzEwclAwM1hndm8xaG5YdFFDdnJSVWp0X2ZfQTlsUE15SVg1MFJhZmdMYU1XMFFrVVpER1ox?oc=5) (Computerworld)
 
 ### Census and election data
 
