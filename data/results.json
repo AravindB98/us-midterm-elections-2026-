@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-27T19:02:02Z",
+ "updated_utc": "2026-11-27T19:17:02Z",
  "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
  "races_found": 71,
  "tally": {
@@ -417,20 +417,20 @@
     {
      "name": "Roy Cooper",
      "party": "Democratic Party (United States)",
-     "votes": 2480645,
+     "votes": 2480649,
      "pct": 58.75,
      "party_code": "D"
     },
     {
      "name": "Michael Whatley",
      "party": "Republican Party (United States)",
-     "votes": 1648860,
+     "votes": 1648867,
      "pct": 39.05,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
-   "source_revised": "2026-11-27T18:55:23Z"
+   "source_revised": "2026-11-27T19:15:23Z"
   },
   "New Hampshire|Senate": {
    "state": "New Hampshire",
@@ -1022,20 +1022,20 @@
     {
      "name": "Aaron Ford",
      "party": "Democratic Party (United States)",
-     "votes": 563151,
-     "pct": 51.59,
+     "votes": 568433,
+     "pct": 51.72,
      "party_code": "D"
     },
     {
      "name": "Joe Lombardo",
      "party": "Republican Party (United States)",
-     "votes": 480595,
-     "pct": 44.03,
+     "votes": 482325,
+     "pct": 43.89,
      "party_code": "R"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
-   "source_revised": "2026-11-27T04:00:41Z"
+   "source_revised": "2026-11-27T19:08:08Z"
   },
   "Ohio|Governor": {
    "state": "Ohio",
@@ -1244,20 +1244,20 @@
     {
      "name": "Kelly Ayotte",
      "party": "Republican Party (United States)",
-     "votes": 324934,
-     "pct": 51.38,
+     "votes": 324734,
+     "pct": 51.39,
      "party_code": "R"
     },
     {
      "name": "Cinde Warmington",
      "party": "Democratic Party (United States)",
-     "votes": 297834,
-     "pct": 47.1,
+     "votes": 296834,
+     "pct": 46.97,
      "party_code": "D"
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
-   "source_revised": "2026-11-26T04:43:53Z"
+   "source_revised": "2026-11-27T19:02:40Z"
   },
   "Wisconsin|Governor": {
    "state": "Wisconsin",
@@ -1472,7 +1472,7 @@
     }
    ],
    "source": "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
-   "source_revised": "2026-11-25T21:22:34Z"
+   "source_revised": "2026-11-27T19:11:49Z"
   },
   "Minnesota|Governor": {
    "state": "Minnesota",
