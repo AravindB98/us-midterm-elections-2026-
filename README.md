@@ -43,7 +43,7 @@
 Every minute a GitHub Action re-reads the public forecasters below, extracts the latest win probabilities, recomputes the averages, redraws every chart, and rewrites this section. If a source can't be read, its last good value is kept and marked **stale**, so numbers never silently disappear. Every figure links to its source.
 
 <!-- LIVE:START -->
-_Last automatic update: **2026-11-27 02:30 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
+_Last automatic update: **2026-11-27 02:45 UTC**. Markets refresh every minute, headlines every 5 minutes, everything else every 15 minutes (GitHub Actions)._
 
 ### 🧾 Conclusion (auto-generated from all sources)
 
@@ -87,9 +87,9 @@ All 179 sources, grouped by type (models, markets, raters, pollsters, news, TV, 
 
 - [How Americans Followed the 2026 Midterm Results](https://news.google.com/rss/articles/CBMinwFBVV95cUxOY19ieU9PS0F6dXRkNm1yZEFFLXpJWkVPMUw3bjNXdGRVdy1MYzNtcE5XU2VJSUdQVmRURU4wTVRSUWNxX3NTZlhURy1ubkxhNkxnRkdPdU9TNFJ0N0NXTW9LMWoxMzlJRy1jd0c3NnhuLVpJVV9sS1pVckRqX01sQmFGcmVLR3huTFozbUZMWk5oVWo4RWg5M2ZfUm9jS3c?oc=5) (Pew Research Center)
 - [State Legislatures | 2026 State Election Results](https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFR0TkJmT0h6dHNtWDlIVDhxcHV4c1QtdWNJa1dWVHBxUXd4blRpbm9KQ3h2N0xKNEZGU0o3Y0VJZ2Y0NERkYTRvZnJNQWV4RnE3UjQtLVloQ1lXMGZ2ZGt0aGVPSlRXWldRNnBCTXJfZE1VWThPbWJ2bEswSmltNThWM2t4c05mRXc?oc=5) (MultiState)
-- [Democrats capture at least 258 House seats in largest sweep since 1992](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc25YTnV4Nml0WXBrdWVvc2laNDdtWmh6NjFRVGhub0NHSF9tRDFpQi0xZ1NjbU5MYjgwSTQ2VWdzaGlEcW9pdHhxRTNZQUFpUXpGV3hiYzYzYkh3NVNGTU9sYWVpNU5YcjV3aVhER3ljTkVpR2JfdmNpX3l1T05hVldyYXE?oc=5) (The Guardian)
 - [2026 U.S. Senate Election Results](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5) (AP News)
-- [Trust in Elections Surges for Majority of Americans After 2026 Midterms](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkZrM2FfdGtIeXRSYUFzbTQ3ZzYwUFZpSGc1NjZ4MkR5VXBvcHZPV2tWdWt6SG16OExmUlFWbjFXZWxvMG80RzMtQXZxMUQ5Sk1JYVlsRGhocTBtQmpVU1VGZmxrN2U4WnNGOWpsdFZQNXVKMXlWWF9STng5QnlmRDUtSzdoeDZKUTRZWUtoakJBa3dfQmc3Xy1ubDJrbTNQN0E?oc=5) (UC San Diego Today)
+- [Visualized: how Democrats swept downballot races and tipped the balance of power in the US](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2E3WnVrOWkwRmN0LUdiZjB0MFJacnVZYWFJeW1qcjc1LWphWl9OT0JBZ0o2blQxN2FmZ090b0EwUkRKR01PZS00TmV1SzREVjYyNi1USmVYZXlEN3Juc3FYUjlBWGpvN2hXYlRraXQxbzY1cVE4UmxDVjRGOUt5NG8wcU92MnN2RFBtYjhQOUZycWxzc2dFZFhZTTZCUlp4NURzRDktOGtXSEE?oc=5) (The Guardian)
+- [US midterms 2026: live results](https://news.google.com/rss/articles/CBMiekFVX3lxTE5veVBJOU1BQW5yR0p6MVlhaEMxZkZCQnVqNjZQemw4M0VJMEpsdmZnWWdmLW9EbWtyUUhFNjJrNnlWU3R4NGZOLWR6blp6RGlfby1QRzQ3UFlfNGNXNG9raWw2Rm95UXctMkN0UGM1c2FLQnZ3bVJhNnNR?oc=5) (The Economist)
 
 Headlines from all 16 countries: [docs/08](docs/08-global-media-and-research-sources.md) and the dashboard's World media tab.
 
