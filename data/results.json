@@ -1,0 +1,2007 @@
+{
+ "updated_utc": "2026-11-28T17:21:47Z",
+ "source_note": "Unofficial. A winner appears only after Wikipedia editors record it on the race page (winner field, or the winner bolded per Wikipedia convention once AP or major networks call the race) and two consecutive checks agree. Official results come from state certification.",
+ "races_found": 71,
+ "tally": {
+  "Senate": {
+   "D": 22,
+   "R": 13,
+   "I": 0,
+   "uncalled": 0
+  },
+  "Governor": {
+   "D": 24,
+   "R": 12,
+   "I": 0,
+   "uncalled": 0
+  }
+ },
+ "chambers": {
+  "Senate": {
+   "parties": {
+    "D": {
+     "after": 54,
+     "before": 45
+    },
+    "R": {
+     "after": 44,
+     "before": 53
+    },
+    "I": {
+     "after": 2,
+     "before": 2
+    }
+   },
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "source_revised": "2026-11-28T13:16:49Z"
+  },
+  "House": {
+   "parties": {
+    "D": {
+     "after": null,
+     "before": 214
+    },
+    "R": {
+     "after": null,
+     "before": 218
+    }
+   },
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "source_revised": "2026-11-28T09:30:30Z"
+  }
+ },
+ "control": {
+  "Senate": {
+   "party": "D",
+   "called_by": "AP, CBS, NBC, CNN",
+   "detail": "Democrats projected to win the Senate majority. Alaska and Mississippi still too close to call.",
+   "sources": [
+    [
+     "AP via Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    ]
+   ]
+  },
+  "House": {
+   "party": "D",
+   "called_by": "AP, CBS, NBC, CNN",
+   "detail": "Democrats projected to win the House majority (218 needed). NBC News projects about 258 Democratic seats; counting continues.",
+   "sources": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+    ]
+   ]
+  }
+ },
+ "senate_not_up": {
+  "D": 34,
+  "R": 31
+ },
+ "races": {
+  "Kansas|Senate": {
+   "state": "Kansas",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Adam Hamilton",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Adam Hamilton",
+     "party": "Democratic Party (United States)",
+     "votes": 571573,
+     "pct": 51.18,
+     "party_code": "D"
+    },
+    {
+     "name": "Roger Marshall",
+     "party": "Republican Party (United States)",
+     "votes": 511360,
+     "pct": 45.79,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+   "source_revised": "2026-11-28T15:26:56Z"
+  },
+  "Iowa|Senate": {
+   "state": "Iowa",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Josh Turek",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Josh Turek",
+     "party": "Democratic",
+     "votes": 688613,
+     "pct": 50.51,
+     "party_code": "D"
+    },
+    {
+     "name": "Ashley Hinson",
+     "party": "Republican Party (United States)",
+     "votes": 631276,
+     "pct": 46.3,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
+   "source_revised": "2026-11-28T03:59:36Z"
+  },
+  "Ohio|Senate": {
+   "state": "Ohio",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Sherrod Brown",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Sherrod Brown",
+     "party": "Democratic Party (United States)",
+     "votes": 2334442,
+     "pct": 50.16,
+     "party_code": "D"
+    },
+    {
+     "name": "Jon Husted",
+     "party": "Republican Party (United States)",
+     "votes": 2094366,
+     "pct": 45.0,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
+   "source_revised": "2026-11-28T15:46:05Z"
+  },
+  "Alaska|Senate": {
+   "state": "Alaska",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Mary Peltola",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Mary Peltola",
+     "party": "Democratic Party (United States)",
+     "votes": 144583,
+     "pct": 50.14,
+     "party_code": "D"
+    },
+    {
+     "name": "Dan S. Sullivan",
+     "party": "Republican Party (United States)",
+     "votes": 132022,
+     "pct": null,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
+   "source_revised": "2026-11-26T07:59:22Z"
+  },
+  "Texas|Senate": {
+   "state": "Texas",
+   "office": "Senate",
+   "status": "called",
+   "winner": "James Talarico",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "James Talarico",
+     "party": "Democratic Party (United States)",
+     "votes": 5447080,
+     "pct": 55.09,
+     "party_code": "D"
+    },
+    {
+     "name": "Ken Paxton",
+     "party": "Republican Party (United States)",
+     "votes": 4250704,
+     "pct": 42.99,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+   "source_revised": "2026-11-25T15:19:27Z"
+  },
+  "South Carolina|Senate": {
+   "state": "South Carolina",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Annie Andrews",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Annie Andrews",
+     "party": "Democratic Party (United States)",
+     "votes": 1044001,
+     "pct": 51.14,
+     "party_code": "D"
+    },
+    {
+     "name": "Darline Graham (replaced Lindsey Graham\u2020)",
+     "party": "Republican Party (United States)",
+     "votes": 952191,
+     "pct": 46.64,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+   "source_revised": "2026-11-28T01:44:19Z"
+  },
+  "Maine|Senate": {
+   "state": "Maine",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Troy Jackson",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Troy Jackson (replaced Graham Platner)",
+     "party": "Democratic Party (United States)",
+     "votes": 379629,
+     "pct": 52.82,
+     "party_code": "D"
+    },
+    {
+     "name": "Susan Collins",
+     "party": "Republican Party (United States)",
+     "votes": 338596,
+     "pct": 47.11,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
+   "source_revised": "2026-11-25T16:19:45Z"
+  },
+  "Nebraska|Senate": {
+   "state": "Nebraska",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Pete Ricketts",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Pete Ricketts",
+     "party": "Republican Party (United States)",
+     "votes": 382401,
+     "pct": 49.84,
+     "party_code": "R"
+    },
+    {
+     "name": "Dan Osborn",
+     "party": "Independent politician",
+     "votes": 338741,
+     "pct": 44.15,
+     "party_code": "I"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
+   "source_revised": "2026-11-27T18:48:15Z"
+  },
+  "Florida|Senate": {
+   "state": "Florida",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Ashley Moody",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Ashley Moody",
+     "party": "Republican Party (United States)",
+     "votes": 4211733,
+     "pct": 50.86,
+     "party_code": "R"
+    },
+    {
+     "name": "Angie Nixon",
+     "party": "Democratic Party (United States)",
+     "votes": 3975375,
+     "pct": 48.0,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
+   "source_revised": "2026-11-27T18:05:15Z"
+  },
+  "Michigan|Senate": {
+   "state": "Michigan",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Abdul El-Sayed",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Abdul El-Sayed",
+     "party": "Democratic Party (United States)",
+     "votes": 2521908,
+     "pct": 52.56,
+     "party_code": "D"
+    },
+    {
+     "name": "Mike Rogers",
+     "party": "Republican Party (United States)",
+     "votes": 2180444,
+     "pct": 45.44,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
+   "source_revised": "2026-11-28T02:28:55Z"
+  },
+  "Montana|Senate": {
+   "state": "Montana",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Kurt Alme",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Kurt Alme",
+     "party": "Republican Party (United States)",
+     "votes": 235693,
+     "pct": 48.17,
+     "party_code": "R"
+    },
+    {
+     "name": "Seth Bodnar",
+     "party": "Independent politician",
+     "votes": 184574,
+     "pct": 37.72,
+     "party_code": "I"
+    },
+    {
+     "name": "Alani Bankhead",
+     "party": "Democratic Party (United States)",
+     "votes": 59984,
+     "pct": 12.26,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
+   "source_revised": "2026-11-23T17:25:33Z"
+  },
+  "Minnesota|Senate": {
+   "state": "Minnesota",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Peggy Flanagan",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Peggy Flanagan",
+     "party": "Minnesota Democratic\u2013Farmer\u2013Labor Party",
+     "votes": 1521835,
+     "pct": 53.72,
+     "party_code": "D"
+    },
+    {
+     "name": "Michele Tafoya",
+     "party": "Republican Party (United States)",
+     "votes": 1233592,
+     "pct": 43.55,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+   "source_revised": "2026-11-27T18:40:02Z"
+  },
+  "North Carolina|Senate": {
+   "state": "North Carolina",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Roy Cooper",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Roy Cooper",
+     "party": "Democratic Party (United States)",
+     "votes": 2480649,
+     "pct": 58.75,
+     "party_code": "D"
+    },
+    {
+     "name": "Michael Whatley",
+     "party": "Republican Party (United States)",
+     "votes": 1648867,
+     "pct": 39.05,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
+   "source_revised": "2026-11-27T19:15:23Z"
+  },
+  "New Hampshire|Senate": {
+   "state": "New Hampshire",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Chris Pappas",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Chris Pappas",
+     "party": "Democratic Party (United States)",
+     "votes": 356425,
+     "pct": 55.87,
+     "party_code": "D"
+    },
+    {
+     "name": "John E. Sununu",
+     "party": "Republican Party (United States)",
+     "votes": 268682,
+     "pct": 42.11,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
+   "source_revised": "2026-11-27T20:31:00Z"
+  },
+  "Louisiana|Senate": {
+   "state": "Louisiana",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Julia Letlow",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Julia Letlow",
+     "party": "Republican Party (United States)",
+     "votes": 746466,
+     "pct": 50.88,
+     "party_code": "R"
+    },
+    {
+     "name": "Jamie Davis",
+     "party": "Democratic Party (United States)",
+     "votes": 720516,
+     "pct": 49.12,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
+   "source_revised": "2026-11-28T15:32:30Z"
+  },
+  "Georgia|Senate": {
+   "state": "Georgia",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Jon Ossoff",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Jon Ossoff",
+     "party": "Democratic Party (United States)",
+     "votes": 2469059,
+     "pct": 59.02,
+     "party_code": "D"
+    },
+    {
+     "name": "Mike Collins",
+     "party": "Republican Party (United States)",
+     "votes": 1713673,
+     "pct": 40.96,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
+   "source_revised": "2026-11-28T08:00:45Z"
+  },
+  "Mississippi|Senate": {
+   "state": "Mississippi",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Scott Colom",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Scott Colom",
+     "party": "Democratic Party (United States)",
+     "votes": 480153,
+     "pct": 49.36,
+     "party_code": "D"
+    },
+    {
+     "name": "Cindy Hyde-Smith",
+     "party": "Republican Party (United States)",
+     "votes": 472122,
+     "pct": 48.54,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
+   "source_revised": "2026-11-28T13:50:05Z"
+  },
+  "Alabama|Senate": {
+   "state": "Alabama",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Barry Moore",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Barry Moore",
+     "party": "Republican Party (United States)",
+     "votes": 918207,
+     "pct": 54.68,
+     "party_code": "R"
+    },
+    {
+     "name": "Everett Wess",
+     "party": "Democratic Party (United States)",
+     "votes": 759018,
+     "pct": 45.2,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
+   "source_revised": "2026-11-25T00:13:42Z"
+  },
+  "Kentucky|Senate": {
+   "state": "Kentucky",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Andy Barr",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Andy Barr",
+     "party": "Republican Party (United States)",
+     "votes": 784869,
+     "pct": 54.99,
+     "party_code": "R"
+    },
+    {
+     "name": "Charles Booker",
+     "party": "Democratic Party (United States)",
+     "votes": 612357,
+     "pct": 42.9,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
+   "source_revised": "2026-11-20T15:11:46Z"
+  },
+  "South Dakota|Senate": {
+   "state": "South Dakota",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Mike Rounds",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Mike Rounds",
+     "party": "Republican Party (United States)",
+     "votes": 184590,
+     "pct": 60.5,
+     "party_code": "R"
+    },
+    {
+     "name": "Brian Bengs",
+     "party": "Independent politician",
+     "votes": 120513,
+     "pct": 39.5,
+     "party_code": "I"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
+   "source_revised": "2026-11-26T04:48:20Z"
+  },
+  "Arkansas|Senate": {
+   "state": "Arkansas",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Tom Cotton",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Tom Cotton",
+     "party": "Republican Party (United States)",
+     "votes": 481495,
+     "pct": 54.21,
+     "party_code": "R"
+    },
+    {
+     "name": "Hallie Shoffner",
+     "party": "Democratic Party (United States)",
+     "votes": 377108,
+     "pct": 42.46,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
+   "source_revised": "2026-11-26T20:07:09Z"
+  },
+  "Illinois|Senate": {
+   "state": "Illinois",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Juliana Stratton",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Juliana Stratton",
+     "party": "Democratic Party (United States)",
+     "votes": 2620386,
+     "pct": 62.07,
+     "party_code": "D"
+    },
+    {
+     "name": "Don Tracy",
+     "party": "Republican Party (United States)",
+     "votes": 1534193,
+     "pct": 36.34,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
+   "source_revised": "2026-11-26T07:37:00Z"
+  },
+  "New Jersey|Senate": {
+   "state": "New Jersey",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Cory Booker",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Cory Booker",
+     "party": "Democratic Party (United States)",
+     "votes": 1873468,
+     "pct": 62.64,
+     "party_code": "D"
+    },
+    {
+     "name": "Justin Murphy",
+     "party": "Republican Party (United States)",
+     "votes": 1038585,
+     "pct": 34.73,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
+   "source_revised": "2026-11-26T08:07:34Z"
+  },
+  "New Mexico|Senate": {
+   "state": "New Mexico",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Ben Ray Luj\u00e1n",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Ben Ray Luj\u00e1n",
+     "party": "Democratic Party (United States)",
+     "votes": 459052,
+     "pct": 63.27,
+     "party_code": "D"
+    },
+    {
+     "name": "Larry Marker",
+     "party": "Republican Party (United States)",
+     "votes": 266524,
+     "pct": 36.73,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
+   "source_revised": "2026-11-25T05:52:36Z"
+  },
+  "Virginia|Senate": {
+   "state": "Virginia",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Mark Warner",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Mark Warner",
+     "party": "Democratic Party (United States)",
+     "votes": 2251718,
+     "pct": 61.6,
+     "party_code": "D"
+    },
+    {
+     "name": "Bert Mizusawa",
+     "party": "Republican Party (United States)",
+     "votes": 1393864,
+     "pct": 38.13,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
+   "source_revised": "2026-11-27T19:52:28Z"
+  },
+  "Colorado|Senate": {
+   "state": "Colorado",
+   "office": "Senate",
+   "status": "called",
+   "winner": "John Hickenlooper",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "John Hickenlooper",
+     "party": "Democratic Party (United States)",
+     "votes": 1629604,
+     "pct": 60.5,
+     "party_code": "D"
+    },
+    {
+     "name": "Mark Baisley",
+     "party": "Republican Party (United States)",
+     "votes": 942159,
+     "pct": 34.98,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
+   "source_revised": "2026-11-27T18:02:48Z"
+  },
+  "Tennessee|Senate": {
+   "state": "Tennessee",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Bill Hagerty",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Bill Hagerty",
+     "party": "Republican Party (United States)",
+     "votes": 1138436,
+     "pct": 55.08,
+     "party_code": "R"
+    },
+    {
+     "name": "Marquita Bradshaw",
+     "party": "Democratic Party (United States)",
+     "votes": 886974,
+     "pct": 42.91,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
+   "source_revised": "2026-11-27T19:39:28Z"
+  },
+  "Idaho|Senate": {
+   "state": "Idaho",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Jim Risch",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Jim Risch",
+     "party": "Republican Party (United States)",
+     "votes": 402983,
+     "pct": 56.5,
+     "party_code": "R"
+    },
+    {
+     "name": "Todd Achilles",
+     "party": "Independent politician",
+     "votes": 239422,
+     "pct": 33.56,
+     "party_code": "I"
+    },
+    {
+     "name": "Natalie Fleming",
+     "party": "Independent politician",
+     "votes": 50134,
+     "pct": 7.03,
+     "party_code": "I"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
+   "source_revised": "2026-11-22T06:49:14Z"
+  },
+  "Delaware|Senate": {
+   "state": "Delaware",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Chris Coons",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Chris Coons",
+     "party": "Democratic Party (United States)",
+     "votes": 240587,
+     "pct": 63.35,
+     "party_code": "D"
+    },
+    {
+     "name": "Michael Katz",
+     "party": "Republican Party (United States)",
+     "votes": 137837,
+     "pct": 36.3,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
+   "source_revised": "2026-11-27T21:54:47Z"
+  },
+  "Massachusetts|Senate": {
+   "state": "Massachusetts",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Ed Markey",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Ed Markey",
+     "party": "Democratic Party (United States)",
+     "votes": 1718276,
+     "pct": 63.68,
+     "party_code": "D"
+    },
+    {
+     "name": "John Deaton",
+     "party": "Republican Party (United States)",
+     "votes": 855969,
+     "pct": 31.72,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
+   "source_revised": "2026-11-26T23:25:43Z"
+  },
+  "Oklahoma|Senate": {
+   "state": "Oklahoma",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Kevin Hern",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Kevin Hern",
+     "party": "Republican Party (United States)",
+     "votes": 639860,
+     "pct": 57.2,
+     "party_code": "R"
+    },
+    {
+     "name": "N'Kiyla Jasmine Thomas",
+     "party": "Democratic Party (United States)",
+     "votes": 439522,
+     "pct": 39.29,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
+   "source_revised": "2026-11-28T14:37:35Z"
+  },
+  "Oregon|Senate": {
+   "state": "Oregon",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Jeff Merkley",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Jeff Merkley",
+     "party": "Democratic Party (United States)",
+     "votes": 1150323,
+     "pct": 58.15,
+     "party_code": "D"
+    },
+    {
+     "name": "David Brock Smith",
+     "party": "Republican Party (United States)",
+     "votes": 761536,
+     "pct": 38.49,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
+   "source_revised": "2026-11-27T19:29:09Z"
+  },
+  "Rhode Island|Senate": {
+   "state": "Rhode Island",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Jack Reed",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Jack Reed",
+     "party": "Democratic Party (United States)",
+     "votes": 240707,
+     "pct": 66.78,
+     "party_code": "D"
+    },
+    {
+     "name": "Raymond McKay",
+     "party": "Republican Party (United States)",
+     "votes": 105459,
+     "pct": 29.26,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
+   "source_revised": "2026-11-27T22:01:25Z"
+  },
+  "West Virginia|Senate": {
+   "state": "West Virginia",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Shelley Moore Capito",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Shelley Moore Capito",
+     "party": "Republican Party (United States)",
+     "votes": 266772,
+     "pct": 58.3,
+     "party_code": "R"
+    },
+    {
+     "name": "Rachel Fetty Anderson",
+     "party": "Democratic Party (United States)",
+     "votes": 173656,
+     "pct": 37.95,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia",
+   "source_revised": "2026-11-27T19:59:05Z"
+  },
+  "Wyoming|Senate": {
+   "state": "Wyoming",
+   "office": "Senate",
+   "status": "called",
+   "winner": "Harriet Hageman",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Harriet Hageman",
+     "party": "Republican Party (United States)",
+     "votes": 122174,
+     "pct": 64.88,
+     "party_code": "R"
+    },
+    {
+     "name": "James W. Byrd",
+     "party": "Democratic Party (United States)",
+     "votes": 65105,
+     "pct": 34.57,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
+   "source_revised": "2026-11-20T20:50:13Z"
+  },
+  "Nevada|Governor": {
+   "state": "Nevada",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Aaron Ford",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Aaron Ford",
+     "party": "Democratic Party (United States)",
+     "votes": 568433,
+     "pct": 51.72,
+     "party_code": "D"
+    },
+    {
+     "name": "Joe Lombardo",
+     "party": "Republican Party (United States)",
+     "votes": 482325,
+     "pct": 43.89,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
+   "source_revised": "2026-11-27T19:08:08Z"
+  },
+  "Ohio|Governor": {
+   "state": "Ohio",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Amy Acton",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Amy Acton",
+     "party": "Ohio Democratic Party",
+     "votes": 2439487,
+     "pct": 52.48,
+     "party_code": "D"
+    },
+    {
+     "name": "Vivek Ramaswamy",
+     "party": "Ohio Republican Party",
+     "votes": 2055514,
+     "pct": 44.22,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
+   "source_revised": "2026-11-28T14:36:56Z"
+  },
+  "Georgia|Governor": {
+   "state": "Georgia",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Keisha Lance Bottoms",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Keisha Lance Bottoms",
+     "party": "Democratic Party of Georgia",
+     "votes": 2273918,
+     "pct": 54.33,
+     "party_code": "D"
+    },
+    {
+     "name": "Rick Jackson",
+     "party": "Georgia Republican Party",
+     "votes": 1910926,
+     "pct": 45.65,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
+   "source_revised": "2026-11-28T08:59:10Z"
+  },
+  "Florida|Governor": {
+   "state": "Florida",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Byron Donalds",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Byron Donalds",
+     "party": "Republican Party (United States)",
+     "votes": 4135955,
+     "pct": 50.0,
+     "party_code": "R"
+    },
+    {
+     "name": "David Jolly",
+     "party": "Democratic Party (United States)",
+     "votes": 4030579,
+     "pct": 48.73,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
+   "source_revised": "2026-11-23T05:06:24Z"
+  },
+  "Kansas|Governor": {
+   "state": "Kansas",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Cindy Holscher",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Cindy Holscher",
+     "party": "Democratic Party (United States)",
+     "votes": 562012,
+     "pct": 50.51,
+     "party_code": "D"
+    },
+    {
+     "name": "Ty Masterson",
+     "party": "Republican Party (United States)",
+     "votes": 550643,
+     "pct": 49.49,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
+   "source_revised": "2026-11-27T18:15:18Z"
+  },
+  "Alaska|Governor": {
+   "state": "Alaska",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Jonathan Kreiss-Tomkins",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Jonathan Kreiss-Tomkins",
+     "party": "Alaska Democratic Party",
+     "votes": 145546,
+     "pct": 51.09,
+     "party_code": "D"
+    },
+    {
+     "name": "Bernadette Wilson",
+     "party": "Alaska Republican Party",
+     "votes": 79363,
+     "pct": 27.86,
+     "party_code": "R"
+    },
+    {
+     "name": "Dave Bronson",
+     "party": "Alaska Republican Party",
+     "votes": 38785,
+     "pct": 13.61,
+     "party_code": "R"
+    },
+    {
+     "name": "Treg Taylor",
+     "party": "Alaska Republican Party",
+     "votes": 20383,
+     "pct": 7.15,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
+   "source_revised": "2026-11-27T05:51:39Z"
+  },
+  "Iowa|Governor": {
+   "state": "Iowa",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Rob Sand",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Rob Sand",
+     "party": "Democratic Party (United States)",
+     "votes": 759570,
+     "pct": 55.47,
+     "party_code": "D"
+    },
+    {
+     "name": "Zach Lahn",
+     "party": "Republican Party (United States)",
+     "votes": 608025,
+     "pct": 44.4,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
+   "source_revised": "2026-11-27T18:11:38Z"
+  },
+  "Texas|Governor": {
+   "state": "Texas",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Gina Hinojosa",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Gina Hinojosa",
+     "party": "Texas Democratic Party",
+     "votes": 5232690,
+     "pct": 52.82,
+     "party_code": "D"
+    },
+    {
+     "name": "Greg Abbott",
+     "party": "Republican Party of Texas",
+     "votes": 4525990,
+     "pct": 45.69,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
+   "source_revised": "2026-11-25T14:38:27Z"
+  },
+  "New Hampshire|Governor": {
+   "state": "New Hampshire",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Kelly Ayotte",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Kelly Ayotte",
+     "party": "Republican Party (United States)",
+     "votes": 324734,
+     "pct": 51.39,
+     "party_code": "R"
+    },
+    {
+     "name": "Cinde Warmington",
+     "party": "Democratic Party (United States)",
+     "votes": 296834,
+     "pct": 46.97,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
+   "source_revised": "2026-11-27T19:02:40Z"
+  },
+  "Wisconsin|Governor": {
+   "state": "Wisconsin",
+   "office": "Governor",
+   "status": "called",
+   "winner": "David Crowley",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "David Crowley",
+     "party": "Democratic Party (United States)",
+     "votes": 1440993,
+     "pct": 54.0,
+     "party_code": "D"
+    },
+    {
+     "name": "Tom Tiffany",
+     "party": "Republican Party (United States)",
+     "votes": 1227676,
+     "pct": 46.0,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
+   "source_revised": "2026-11-27T07:04:49Z"
+  },
+  "South Carolina|Governor": {
+   "state": "South Carolina",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Alan Wilson",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Alan Wilson",
+     "party": "Republican Party (United States)",
+     "votes": 1051334,
+     "pct": 51.58,
+     "party_code": "R"
+    },
+    {
+     "name": "Jermaine Johnson",
+     "party": "Democratic Party (United States)",
+     "votes": 960534,
+     "pct": 47.13,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
+   "source_revised": "2026-11-28T03:38:12Z"
+  },
+  "Arizona|Governor": {
+   "state": "Arizona",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Katie Hobbs",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Katie Hobbs",
+     "party": "Democratic Party (United States)",
+     "votes": 1434824,
+     "pct": 55.63,
+     "party_code": "D"
+    },
+    {
+     "name": "Andy Biggs",
+     "party": "Republican Party (United States)",
+     "votes": 1094393,
+     "pct": 42.43,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Arizona_gubernatorial_election",
+   "source_revised": "2026-11-26T18:21:28Z"
+  },
+  "Michigan|Governor": {
+   "state": "Michigan",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Jocelyn Benson",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Jocelyn Benson",
+     "party": "Democratic Party (United States)",
+     "votes": 2615251,
+     "pct": 54.57,
+     "party_code": "D"
+    },
+    {
+     "name": "John James",
+     "party": "Republican Party (United States)",
+     "votes": 2094566,
+     "pct": 43.71,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election",
+   "source_revised": "2026-11-27T18:37:32Z"
+  },
+  "Nebraska|Governor": {
+   "state": "Nebraska",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Jim Pillen",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Jim Pillen",
+     "party": "Republican",
+     "votes": 385502,
+     "pct": 50.18,
+     "party_code": "R"
+    },
+    {
+     "name": "Lynne Walz",
+     "party": "Democratic",
+     "votes": 328306,
+     "pct": 42.73,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
+   "source_revised": "2026-11-28T15:12:07Z"
+  },
+  "Oregon|Governor": {
+   "state": "Oregon",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Tina Kotek",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Tina Kotek",
+     "party": "Democratic Party of Oregon",
+     "votes": 1061263,
+     "pct": 53.33,
+     "party_code": "D"
+    },
+    {
+     "name": "Christine Drazan",
+     "party": "Oregon Republican Party",
+     "votes": 868211,
+     "pct": 43.63,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
+   "source_revised": "2026-11-27T19:27:48Z"
+  },
+  "Maine|Governor": {
+   "state": "Maine",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Hannah Pingree",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Hannah Pingree",
+     "party": "Democratic Party (United States)",
+     "votes": 391364,
+     "pct": 54.17,
+     "party_code": "D"
+    },
+    {
+     "name": "Bobby Charles",
+     "party": "Republican Party (United States)",
+     "votes": 272710,
+     "pct": 37.75,
+     "party_code": "R"
+    },
+    {
+     "name": "Rick Bennett",
+     "party": "Independent",
+     "votes": 58241,
+     "pct": 8.06,
+     "party_code": "I"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
+   "source_revised": "2026-11-27T18:24:23Z"
+  },
+  "New Mexico|Governor": {
+   "state": "New Mexico",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Deb Haaland",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Deb Haaland",
+     "party": "Democratic Party (United States)",
+     "votes": 416455,
+     "pct": 57.36,
+     "party_code": "D"
+    },
+    {
+     "name": "Gregg Hull",
+     "party": "Republican Party (United States)",
+     "votes": 309547,
+     "pct": 42.64,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
+   "source_revised": "2026-11-28T15:19:31Z"
+  },
+  "Minnesota|Governor": {
+   "state": "Minnesota",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Amy Klobuchar",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Amy Klobuchar",
+     "party": "Minnesota Democratic\u2013Farmer\u2013Labor Party",
+     "votes": 1570672,
+     "pct": 55.48,
+     "party_code": "D"
+    },
+    {
+     "name": "Lisa Demuth",
+     "party": "Republican Party of Minnesota",
+     "votes": 1206705,
+     "pct": 42.62,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
+   "source_revised": "2026-11-27T19:21:37Z"
+  },
+  "New York|Governor": {
+   "state": "New York",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Kathy Hochul",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Kathy Hochul",
+     "party": "Democratic Party (United States)",
+     "votes": 3670764,
+     "pct": 59.77,
+     "party_code": "D"
+    },
+    {
+     "name": "Bruce Blakeman",
+     "party": "Republican",
+     "votes": null,
+     "pct": null,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
+   "source_revised": "2026-11-28T04:01:01Z"
+  },
+  "Alabama|Governor": {
+   "state": "Alabama",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Tommy Tuberville",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Tommy Tuberville",
+     "party": "Republican Party (United States)",
+     "votes": 872910,
+     "pct": 51.78,
+     "party_code": "R"
+    },
+    {
+     "name": "Doug Jones",
+     "party": "Democratic Party (United States)",
+     "votes": 806868,
+     "pct": 47.87,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
+   "source_revised": "2026-11-27T02:07:40Z"
+  },
+  "Colorado|Governor": {
+   "state": "Colorado",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Phil Weiser",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Phil Weiser",
+     "party": "Democratic Party (United States)",
+     "votes": 1639208,
+     "pct": 61.13,
+     "party_code": "D"
+    },
+    {
+     "name": "Victor Marx",
+     "party": "Republican Party (United States)",
+     "votes": 890538,
+     "pct": 33.21,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
+   "source_revised": "2026-11-26T19:28:38Z"
+  },
+  "Connecticut|Governor": {
+   "state": "Connecticut",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Ned Lamont",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Ned Lamont",
+     "party": "Democratic Party (United States)",
+     "votes": 772249,
+     "pct": 59.56,
+     "party_code": "D"
+    },
+    {
+     "name": "Ryan Fazio",
+     "party": "Republican Party (United States)",
+     "votes": 524233,
+     "pct": 40.43,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Connecticut_gubernatorial_election",
+   "source_revised": "2026-11-26T20:58:54Z"
+  },
+  "Tennessee|Governor": {
+   "state": "Tennessee",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Marsha Blackburn",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Marsha Blackburn",
+     "party": "Republican Party (United States)",
+     "votes": 957136,
+     "pct": 45.52,
+     "party_code": "R"
+    },
+    {
+     "name": "Jerri Green",
+     "party": "Democratic Party (United States)",
+     "votes": 902953,
+     "pct": 42.95,
+     "party_code": "D"
+    },
+    {
+     "name": "David Hatley",
+     "party": "Independent politician",
+     "votes": 195564,
+     "pct": 9.3,
+     "party_code": "I"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
+   "source_revised": "2026-11-27T21:41:10Z"
+  },
+  "Vermont|Governor": {
+   "state": "Vermont",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Phil Scott",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Phil Scott",
+     "party": "Republican Party (United States)",
+     "votes": 162048,
+     "pct": 52.43,
+     "party_code": "R"
+    },
+    {
+     "name": "Amanda Janoo",
+     "party": "Democratic Party (United States)",
+     "votes": 141631,
+     "pct": 45.83,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election",
+   "source_revised": "2026-11-27T19:49:56Z"
+  },
+  "Illinois|Governor": {
+   "state": "Illinois",
+   "office": "Governor",
+   "status": "called",
+   "winner": "JB Pritzker",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "JB Pritzker",
+     "party": "Democratic Party (United States)",
+     "votes": 2575452,
+     "pct": 60.82,
+     "party_code": "D"
+    },
+    {
+     "name": "Darren Bailey",
+     "party": "Republican Party (United States)",
+     "votes": 1516799,
+     "pct": 35.82,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
+   "source_revised": "2026-11-27T04:52:24Z"
+  },
+  "Oklahoma|Governor": {
+   "state": "Oklahoma",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Mike Mazzei",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Mike Mazzei",
+     "party": "Republican Party (United States)",
+     "votes": 582039,
+     "pct": 51.92,
+     "party_code": "R"
+    },
+    {
+     "name": "Cyndi Munson",
+     "party": "Democratic Party (United States)",
+     "votes": 514776,
+     "pct": 45.92,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
+   "source_revised": "2026-11-28T14:35:09Z"
+  },
+  "Rhode Island|Governor": {
+   "state": "Rhode Island",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Helena Foulkes",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Helena Foulkes",
+     "party": "Democratic Party (United States)",
+     "votes": 207600,
+     "pct": 57.71,
+     "party_code": "D"
+    },
+    {
+     "name": "Ken Block",
+     "party": "Independent politician",
+     "votes": 99835,
+     "pct": 27.75,
+     "party_code": "I"
+    },
+    {
+     "name": "Aaron Guckian",
+     "party": "Republican Party (United States)",
+     "votes": 47402,
+     "pct": 13.18,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
+   "source_revised": "2026-11-28T11:16:19Z"
+  },
+  "Pennsylvania|Governor": {
+   "state": "Pennsylvania",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Josh Shapiro",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Josh Shapiro",
+     "party": "Democratic Party (United States)",
+     "votes": 3040772,
+     "pct": 60.57,
+     "party_code": "D"
+    },
+    {
+     "name": "Stacy Garrity",
+     "party": "Republican Party (United States)",
+     "votes": 1914618,
+     "pct": 38.14,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
+   "source_revised": "2026-11-27T22:21:53Z"
+  },
+  "South Dakota|Governor": {
+   "state": "South Dakota",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Larry Rhoden",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Larry Rhoden",
+     "party": "Republican Party (United States)",
+     "votes": 193335,
+     "pct": 63.49,
+     "party_code": "R"
+    },
+    {
+     "name": "Dan Ahlers",
+     "party": "Democratic Party (United States)",
+     "votes": 111161,
+     "pct": 36.51,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_South_Dakota_gubernatorial_election",
+   "source_revised": "2026-11-22T06:46:59Z"
+  },
+  "California|Governor": {
+   "state": "California",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Xavier Becerra",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Xavier Becerra",
+     "party": "Democratic Party (United States)",
+     "votes": 8740676,
+     "pct": 65.66,
+     "party_code": "D"
+    },
+    {
+     "name": "Steve Hilton",
+     "party": "Republican",
+     "votes": 4571042,
+     "pct": 34.34,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
+   "source_revised": "2026-11-27T03:51:37Z"
+  },
+  "Massachusetts|Governor": {
+   "state": "Massachusetts",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Maura Healey",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Maura Healey",
+     "party": "Democratic Party (United States)",
+     "votes": 1691156,
+     "pct": 62.31,
+     "party_code": "D"
+    },
+    {
+     "name": "Mike Minogue",
+     "party": "Republican Party (United States)",
+     "votes": 930508,
+     "pct": 34.28,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
+   "source_revised": "2026-11-27T18:29:29Z"
+  },
+  "Maryland|Governor": {
+   "state": "Maryland",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Wes Moore",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Wes Moore",
+     "party": "Democratic Party (United States)",
+     "votes": 1475470,
+     "pct": 65.35,
+     "party_code": "D"
+    },
+    {
+     "name": "Dan Cox",
+     "party": "Republican Party (United States)",
+     "votes": 683927,
+     "pct": 30.29,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
+   "source_revised": "2026-11-27T18:36:23Z"
+  },
+  "Hawaii|Governor": {
+   "state": "Hawaii",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Josh Green",
+   "winner_party": "D",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Josh Green",
+     "party": "Democratic Party (United States)",
+     "votes": 279445,
+     "pct": 72.64,
+     "party_code": "D"
+    },
+    {
+     "name": "Gary Cordery",
+     "party": "Republican Party (United States)",
+     "votes": 105258,
+     "pct": 27.36,
+     "party_code": "R"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election",
+   "source_revised": "2026-11-25T18:09:00Z"
+  },
+  "Arkansas|Governor": {
+   "state": "Arkansas",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Sarah Huckabee Sanders",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Sarah Huckabee Sanders",
+     "party": "Republican Party (United States)",
+     "votes": 477996,
+     "pct": 53.82,
+     "party_code": "R"
+    },
+    {
+     "name": "Fredrick Love",
+     "party": "Democratic Party (Arkansas)",
+     "votes": 343057,
+     "pct": 38.63,
+     "party_code": "D"
+    },
+    {
+     "name": "Colt Shelby",
+     "party": "Libertarian Party (United States)",
+     "votes": 67025,
+     "pct": 7.55,
+     "party_code": "O"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Arkansas_gubernatorial_election",
+   "source_revised": "2026-11-25T03:05:18Z"
+  },
+  "Idaho|Governor": {
+   "state": "Idaho",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Brad Little",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Brad Little",
+     "party": "Republican Party (United States)",
+     "votes": 408547,
+     "pct": 56.92,
+     "party_code": "R"
+    },
+    {
+     "name": "Terri Pickens",
+     "party": "Democratic Party (United States)",
+     "votes": 231485,
+     "pct": 32.25,
+     "party_code": "D"
+    },
+    {
+     "name": "John Stegner",
+     "party": "Independent",
+     "votes": 54860,
+     "pct": 7.64,
+     "party_code": "I"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election",
+   "source_revised": "2026-11-26T21:39:16Z"
+  },
+  "Wyoming|Governor": {
+   "state": "Wyoming",
+   "office": "Governor",
+   "status": "called",
+   "winner": "Eric Barlow",
+   "winner_party": "R",
+   "pending_winner": null,
+   "candidates": [
+    {
+     "name": "Eric Barlow",
+     "party": "Republican Party (United States)",
+     "votes": 128496,
+     "pct": 68.12,
+     "party_code": "R"
+    },
+    {
+     "name": "Rebecca Bextel",
+     "party": "Constitution Party (United States)",
+     "votes": 31444,
+     "pct": 16.67,
+     "party_code": "O"
+    },
+    {
+     "name": "Kenneth Casner",
+     "party": "Democratic Party (United States)",
+     "votes": 27472,
+     "pct": 14.56,
+     "party_code": "D"
+    }
+   ],
+   "source": "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
+   "source_revised": "2026-11-28T04:13:10Z"
+  }
+ }
+}

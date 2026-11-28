@@ -1,0 +1,197 @@
+{
+ "_about": "Campaign trail: star campaigners (pinned, both parties), party organizations, and live campaign news. Links only; no photos. Inclusion is not endorsement.",
+ "star_campaigners": [
+  {
+   "name": "Donald Trump",
+   "party": "R",
+   "role": "President; Republican lead campaigner",
+   "note": "Near-daily rallies in the closing stretch (NC, SC, IA, FL, GA, MI, TX, OH).",
+   "links": [
+    {
+     "name": "Truth Social",
+     "url": "https://truthsocial.com/@realDonaldTrump"
+    },
+    {
+     "name": "X",
+     "url": "https://x.com/realDonaldTrump"
+    },
+    {
+     "name": "Instagram",
+     "url": "https://www.instagram.com/realdonaldtrump/"
+    },
+    {
+     "name": "YouTube: rallies",
+     "url": "https://www.youtube.com/results?search_query=Trump+rally+midterms+2026"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+     "name": "Google News",
+     "url": "https://news.google.com/search?q=Trump+rally+midterms"
+    }
+   ],
+   "feed": {
+    "q": "Trump rally midterms"
+   }
+  },
+  {
+   "name": "Barack Obama",
+   "party": "D",
+   "role": "Former President; Democratic lead campaigner",
+   "note": "Rallies in Cleveland, Detroit (Oct 24) and Atlanta (Oct 28); endorsement videos in key races.",
+   "links": [
+    {
+     "name": "X",
+     "url": "https://x.com/BarackObama"
+    },
+    {
+     "name": "Instagram",
+     "url": "https://www.instagram.com/barackobama/"
+    },
+    {
+     "name": "YouTube: rallies",
+     "url": "https://www.youtube.com/results?search_query=Obama+rally+midterms+2026"
+    },
+    {
+     "name": "Obama Foundation",
+     "url": "https://www.obama.org/"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Barack_Obama"
+    },
+    {
+     "name": "Google News",
+     "url": "https://news.google.com/search?q=Obama+rally+midterms"
+    }
+   ],
+   "feed": {
+    "q": "Obama rally midterms"
+   }
+  },
+  {
+   "name": "JD Vance",
+   "party": "R",
+   "role": "Vice President; Republican surrogate",
+   "note": "Battleground House and Senate stops (FL, TX, IA, ME).",
+   "links": [
+    {
+     "name": "X",
+     "url": "https://x.com/JDVance"
+    },
+    {
+     "name": "YouTube: rallies",
+     "url": "https://www.youtube.com/results?search_query=JD+Vance+rally+midterms+2026"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/JD_Vance"
+    },
+    {
+     "name": "Google News",
+     "url": "https://news.google.com/search?q=JD+Vance+campaign+midterms"
+    }
+   ],
+   "feed": {
+    "q": "JD Vance campaign rally midterms"
+   }
+  },
+  {
+   "name": "Kamala Harris",
+   "party": "D",
+   "role": "Former Vice President; Democratic surrogate",
+   "note": "Rally for Chris Pappas in New Hampshire; Georgia fundraiser with Jon Ossoff.",
+   "links": [
+    {
+     "name": "X",
+     "url": "https://x.com/KamalaHarris"
+    },
+    {
+     "name": "Instagram",
+     "url": "https://www.instagram.com/kamalaharris/"
+    },
+    {
+     "name": "YouTube: campaign",
+     "url": "https://www.youtube.com/results?search_query=Kamala+Harris+midterms+2026+rally"
+    },
+    {
+     "name": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Kamala_Harris"
+    },
+    {
+     "name": "Google News",
+     "url": "https://news.google.com/search?q=Kamala+Harris+campaign+midterms"
+    }
+   ],
+   "feed": {
+    "q": "Kamala Harris campaign midterms"
+   }
+  }
+ ],
+ "party_orgs": {
+  "D": [
+   {
+    "name": "DNC \u00b7 democrats.org",
+    "url": "https://democrats.org/"
+   },
+   {
+    "name": "DNC on X",
+    "url": "https://x.com/DNC"
+   },
+   {
+    "name": "DSCC (Senate)",
+    "url": "https://www.dscc.org/"
+   },
+   {
+    "name": "DCCC (House)",
+    "url": "https://dccc.org/"
+   },
+   {
+    "name": "DGA (Governors)",
+    "url": "https://democraticgovernors.org/"
+   },
+   {
+    "name": "YouTube: Democratic campaign ads",
+    "url": "https://www.youtube.com/results?search_query=Democratic+campaign+ad+2026+Senate"
+   }
+  ],
+  "R": [
+   {
+    "name": "RNC \u00b7 gop.com",
+    "url": "https://gop.com/"
+   },
+   {
+    "name": "GOP on X",
+    "url": "https://x.com/GOP"
+   },
+   {
+    "name": "NRSC (Senate)",
+    "url": "https://www.nrsc.org/"
+   },
+   {
+    "name": "NRCC (House)",
+    "url": "https://www.nrcc.org/"
+   },
+   {
+    "name": "RGA (Governors)",
+    "url": "https://www.rga.org/"
+   },
+   {
+    "name": "YouTube: Republican campaign ads",
+    "url": "https://www.youtube.com/results?search_query=Republican+campaign+ad+2026+Senate"
+   }
+  ]
+ },
+ "party_feeds": {
+  "D": {
+   "label": "Democratic campaign news",
+   "q": "Democrats campaign Senate midterms ad"
+  },
+  "R": {
+   "label": "Republican campaign news",
+   "q": "Republicans campaign Senate midterms ad"
+  }
+ }
+}
